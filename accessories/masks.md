@@ -56,7 +56,9 @@ channeling a perpetual hibernation theme through bear emojis and sleep motifs.
 
 **Name:** Nose Ring with Chain
 
-**Image Files:** SS3_milady_Nose Ring With Chain.png
+**Image Files:**
+
+![Nose Ring with Chain](../images/Masks/SS3_milady_Nose Ring With Chain.png)
 
 **Brief Visual Description:** Two golden slim chains connected to a ring on one end..
 
@@ -94,7 +96,9 @@ ancestors and archetypes.
 
 **Name:** Black Mask
 
-**Image Files:** SS2_freetekno_Black Mask.PNG
+**Image Files:**
+
+![Black Mask](../images/Masks/SS2_freetekno_Black Mask.PNG)
 
 **Brief Visual Description:** Black mask covering just the mouth and nose part..
 
@@ -130,7 +134,9 @@ ancestors and archetypes.
 
 **Name:** Cypherpunk 3
 
-**Image Files:** SS3_Cypherpunk 3.png
+**Image Files:**
+
+![Cypherpunk 3](../images/Masks/SS3_Cypherpunk 3.png)
 
 **Brief Visual Description:** White mask with ‘10D7C7’ written on the forehead.
 
@@ -186,7 +192,9 @@ through coding over policy debates.
 
 **Name:** Velvet
 
-**Image Files:** SS3_Velvet.PNG
+**Image Files:**
+
+![Velvet](../images/Masks/SS3_Velvet.PNG)
 
 **Brief Visual Description:** Black full-face mask with velvet-y texture / complexion.
 
@@ -216,7 +224,9 @@ through coding over policy debates.
 
 **Name:** Golden Anonymous
 
-**Image Files:** SS4_chicagodetroit_Golden Anonymous.png
+**Image Files:**
+
+![Golden Anonymous](../images/Masks/SS4_chicagodetroit_Golden Anonymous.png)
 
 **Brief Visual Description:** Golden ‘anonymous’ mask, with 2 eyeholes, defined nose, thin
 
@@ -258,7 +268,9 @@ e
 
 **Name:** Venetian Black
 
-**Image Files:** SS4_Venetian Black.PNG
+**Image Files:**
+
+![Venetian Black](../images/Masks/SS4_Venetian Black.PNG)
 
 **Brief Visual Description:** Rounded black mask with much bigger eyeholes compared to usual
 
@@ -304,7 +316,9 @@ enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché
 
 **Name:** Green Mask
 
-**Image Files:** SS4_chicagodetroit_Green Mask.png
+**Image Files:**
+
+![Green Mask](../images/Masks/SS4_chicagodetroit_Green Mask.png)
 
 **Brief Visual Description:** Full-face green mask with a shape of a face and deep eye-sockets..
 
@@ -352,7 +366,9 @@ be
 
 **Name:** Homemade Bee Mask
 
-**Image Files:** SS3_milady_Homemade Bee Mask.png
+**Image Files:**
+
+![Homemade Bee Mask](../images/Masks/SS3_milady_Homemade Bee Mask.png)
 
 **Brief Visual Description:** Bee mask, portrayed by thick net in brown and transparent milky
 
@@ -384,7 +400,9 @@ white cover over it.
 
 **Name:** Plastic Bag Mask
 
-**Image Files:** SS4_chicagodetroit_modern_irish_Plastic Bag Mask.png
+**Image Files:**
+
+![Plastic Bag Mask](../images/Masks/SS4_chicagodetroit_modern_irish_Plastic Bag Mask.png)
 
 **Brief Visual Description:** Plain white semi-transparent plastic bag mask.
 
@@ -566,7 +584,9 @@ the eyes-part.
 
 **Name:** White Anonymous
 
-**Image Files:** SS4_chicagodetroit_White Anonymous.png
+**Image Files:**
+
+![White Anonymous](../images/Masks/SS4_chicagodetroit_White Anonymous.png)
 
 **Brief Visual Description:** Classic white ‘Anonymous’ mask, with a smiling face with blushing
 
@@ -654,7 +674,9 @@ lNewsletter-23.10.07
 
 **Name:** Silver Mask
 
-**Image Files:** SS1_freetekno_Silver Mask.png
+**Image Files:**
+
+![Silver Mask](../images/Masks/SS1_freetekno_Silver Mask.png)
 
 **Brief Visual Description:** Rounded-shaped full-face silver mask with a shape of a face and
 
@@ -694,7 +716,9 @@ metallic complexion.
 
 **Name:** Surgical Mask
 
-**Image Files:** SS1_acidhouse_Surgical Mask.png
+**Image Files:**
+
+![Surgical Mask](../images/Masks/SS1_acidhouse_Surgical Mask.png)
 
 **Brief Visual Description:** Stereotypical green surgical mask, with lighter colored lining.
 
@@ -774,7 +798,9 @@ often with personal stories and absurdist commentary. It has since then gained a
 
 **Name:** Cyberphunk 1
 
-**Image Files:** SS4_Cypherpunk 1.png
+**Image Files:**
+
+![Cypherpunk 1](../images/Masks/SS4_Cypherpunk 1.png)
 
 **Brief Visual Description:** White mask with ‘197’ on one eye, and ‘FB5’ on the other eye.
 
@@ -832,7 +858,9 @@ through coding over policy debates.
 
 **Name:** Cyberphunk 2
 
-**Image Files:** SS1_Cypherpunk 2.png
+**Image Files:**
+
+![Cypherpunk 2](../images/Masks/SS1_Cypherpunk 2.png)
 
 **Brief Visual Description:** White mask with a few short lines that look like a barcode on the
 
@@ -892,7 +920,9 @@ through coding over policy debates.
 
 **Name:** MF Doom
 
-**Image Files:** SS4_freetekno_MF doom.png
+**Image Files:**
+
+![MF Doom](../images/Masks/SS4_freetekno_MF doom.png)
 
 **Brief Visual Description:** Silver mask with a lot of defined edges, depths, and unique shape.
 
@@ -934,7 +964,9 @@ identity.
 
 **Name:** venetian gold
 
-**Image Files:** SS5_Venetian Gold.PNG
+**Image Files:**
+
+![Venetian Gold](../images/Masks/SS5_Venetian Gold.PNG)
 
 **Brief Visual Description:** Rounded golden mask with much bigger eyeholes compared to usual
 
@@ -1006,7 +1038,9 @@ enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché
 
 **Name:** CFang Face (mask)
 
-**Image Files:** SS1_milady_Cfang Face.png
+**Image Files:**
+
+![CFang Face](../images/Masks/SS1_milady_Cfang Face.png)
 
 **Brief Visual Description:** Circular milky white mist, solid in color.
 
@@ -1080,7 +1114,9 @@ four rings on one of the ears.
 
 **Name:** White Mask
 
-**Image Files:** SS2_chicagodetroit_White Mask.png
+**Image Files:**
+
+![White Mask](../images/Masks/SS2_chicagodetroit_White Mask.png)
 
 **Brief Visual Description:** Round white mask with 2 eye-holes and stripy holes on the mouth
 
@@ -1116,7 +1152,9 @@ side.
 
 **Name:** Chulym Beekeeper Hat
 
-**Image Files:** SS3_Chulym Beekeeper Hat.png
+**Image Files:**
+
+![Chulym Beekeeper Hat](../images/Masks/SS3_Chulym Beekeeper Hat.png)
 
 **Brief Visual Description:** Big pale army green hood with black transparent draping down the
 
@@ -1190,7 +1228,9 @@ shapes, going outwards from the center, in the color of black.
 
 **Name:** Faceless Galaxy
 
-**Image Files:** SS5_acidhouse_Faceless Galaxy.png
+**Image Files:**
+
+![Faceless Galaxy](../images/Masks/SS5_acidhouse_Faceless Galaxy.png)
 
 **Brief Visual Description:** Glimpse of a galaxy with stars portrayed by the color of dark blue and
 

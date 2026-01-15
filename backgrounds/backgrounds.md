@@ -1328,7 +1328,7 @@ locations, it has over 80,000 stores worldwide.
 
 **Image Files:**
 
-![Simple Background - TV Glitch](../images/simple/simple background/57_simple background(4).png)
+![Simple Background - TV Glitch](../images/simple/simple%20background/57_simple%20background(4).png)
 
 **Brief Visual Description:** a stereotypical TV glitch in vibrant colors.
 
@@ -1338,7 +1338,7 @@ locations, it has over 80,000 stores worldwide.
 
 **Image Files:**
 
-![Simple Background - Dark Grey](../images/simple/simple background/57_simple background(3).png)
+![Simple Background - Dark Grey](../images/simple/simple%20background/57_simple%20background(3).png)
 
 **Brief Visual Description:** a textured plain black / dark grey background with central light
 
@@ -1350,7 +1350,7 @@ positioning.
 
 **Image Files:**
 
-![Simple Background - Misty Grey](../images/simple/simple background/57_simple background(5).png)
+![Simple Background - Misty Grey](../images/simple/simple%20background/57_simple%20background(5).png)
 
 **Brief Visual Description:** light gray misty upper half and gradually turns to black towards the
 
@@ -1362,7 +1362,7 @@ bottom, with textured, weathered surface and central light positioning.
 
 **Image Files:**
 
-![Simple Background - Grey Fade](../images/simple/simple background/57_simple background(6).png)
+![Simple Background - Grey Fade](../images/simple/simple%20background/57_simple%20background(6).png)
 
 **Brief Visual Description:** dark grey fading to light grey downwards with textured weathered
 
@@ -1374,7 +1374,7 @@ surface and subtle speckles.
 
 **Image Files:**
 
-![Simple Background - Teal](../images/simple/simple background/57_simple background(1).png)
+![Simple Background - Teal](../images/simple/simple%20background/57_simple%20background(1).png)
 
 **Brief Visual Description:** vibrant teal textured background with strong vignette effect framing it.
 
@@ -1384,7 +1384,7 @@ surface and subtle speckles.
 
 **Image Files:**
 
-![Simple Background - Rainbow](../images/simple/simple background/57_simple background(2).png)
+![Simple Background - Rainbow](../images/simple/simple%20background/57_simple%20background(2).png)
 
 **Brief Visual Description:** vibrant rainbow color from top to bottom.
 
@@ -1394,7 +1394,7 @@ surface and subtle speckles.
 
 **Image Files:**
 
-![Simple Background - Golden](../images/simple/simple background/57_simple background(7).png)
+![Simple Background - Golden](../images/simple/simple%20background/57_simple%20background(7).png)
 
 **Brief Visual Description:** golden background that grows gradually brighter towards the middle
 
@@ -1408,7 +1408,7 @@ direction.
 
 **Image Files:**
 
-![Simple Background - Pink](../images/simple/simple background/57_simple background.png)
+![Simple Background - Pink](../images/simple/simple%20background/57_simple%20background.png)
 
 **Brief Visual Description:** vibrant warm pink textured background with strong vignette effect
 

@@ -8,7 +8,7 @@
 
 **Image Files:**
 
-![Simple White](../images/simple/simples for shadows/151_simple white.png)
+![Simple White](../images/simple/simples%20for%20shadows/151_simple%20white.png)
 
 **Brief Visual Description:** A basic solid white t-shirt.
 
@@ -20,7 +20,7 @@
 
 **Image Files:**
 
-![Simple Yellow](../images/simple/simples for shadows/152_simple yellow.png)
+![Simple Yellow](../images/simple/simples%20for%20shadows/152_simple%20yellow.png)
 
 **Brief Visual Description:** A basic solid yellow t-shirt.
 
@@ -32,7 +32,7 @@
 
 **Image Files:**
 
-![Simple Black](../images/simple/simples for shadows/145_simple black.png)
+![Simple Black](../images/simple/simples%20for%20shadows/145_simple%20black.png)
 
 **Brief Visual Description:** A basic solid black t-shirt.
 
@@ -44,7 +44,7 @@
 
 **Image Files:**
 
-![Simple Purple](../images/simple/simples for shadows/149_simple purple.png)
+![Simple Purple](../images/simple/simples%20for%20shadows/149_simple%20purple.png)
 
 **Brief Visual Description:** A basic solid purple t-shirt.
 
@@ -56,7 +56,7 @@
 
 **Image Files:**
 
-![Simple Brown](../images/simple/simples for shadows/147_simple brown.png)
+![Simple Brown](../images/simple/simples%20for%20shadows/147_simple%20brown.png)
 
 **Brief Visual Description:** A basic solid brown t-shirt.
 
@@ -68,7 +68,7 @@
 
 **Image Files:**
 
-![Simple Green](../images/simple/simples for shadows/148_simple green.png)
+![Simple Green](../images/simple/simples%20for%20shadows/148_simple%20green.png)
 
 **Brief Visual Description:** A basic solid green t-shirt.
 
@@ -80,7 +80,7 @@
 
 **Image Files:**
 
-![Simple Blue](../images/simple/simples for shadows/146_simple blue.png)
+![Simple Blue](../images/simple/simples%20for%20shadows/146_simple%20blue.png)
 
 **Brief Visual Description:** A basic solid blue t-shirt.
 
@@ -92,7 +92,7 @@
 
 **Image Files:**
 
-![Simple Red](../images/simple/simples for shadows/150_simple red.png)
+![Simple Red](../images/simple/simples%20for%20shadows/150_simple%20red.png)
 
 **Brief Visual Description:** A basic solid red t-shirt.
 

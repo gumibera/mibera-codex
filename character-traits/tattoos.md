@@ -8,7 +8,7 @@
 
 **Name:** Reindeer
 
-**Image Files:** ancient_sami_Reindeer.png
+![Reindeer](../images/tattoos__z125/ancient_sami_Reindeer.webp)
 
 **Brief Visual Description:** Line doodle of a reindeer, small in size.
 
@@ -60,7 +60,7 @@ Inari, offering experiences like dog-sledding and meeting herders.
 
 **Name:** Sharaku
 
-**Image Files:** ancient_japanese_Sharaku.png
+![Sharaku](../images/tattoos__z125/ancient_japanese_Sharaku.webp)
 
 **Brief Visual Description:** Outline of a figure of a Japanese man, specifically Sharaku.
 
@@ -112,7 +112,7 @@ appeared, leaving a lasting legacy in ukiyo-e.
 
 **Name:** Oracle
 
-**Image Files:** modern_pythia_Oracle.png
+![Oracle](../images/tattoos__z125/modern_pythia_Oracle.webp)
 
 **Brief Visual Description:** Magic-8-ball drawn in blue, with 3 small sparks on it and short lines
 
@@ -168,7 +168,7 @@ century CE.
 
 **Name:** Rilakkuma
 
-**Image Files:** modern_japanese_Rilakkuma.png
+![Rilakkuma](../images/tattoos__z125/modern_japanese_Rilakkuma.webp)
 
 **Brief Visual Description:** Line drawing of a bear with a big head lying on its side with the hand
 
@@ -224,7 +224,7 @@ make it beloved across ages and cultures, particularly in the kawaii (cute) aest
 
 **Name:** Nepalese Flag
 
-**Image Files:** modern_nepal_Nepalese Flag.png
+![Nepalese Flag](../images/tattoos__z125/modern_nepal_Nepalese%20Flag.webp)
 
 **Brief Visual Description:** Nepalese flag, shaped in 2 connected triangles with red as the base
 
@@ -280,7 +280,7 @@ versions.
 
 **Name:** Star and Crescent Hand
 
-**Image Files:** modern_turkey_Star and Crescent Hand.png
+![Star and Crescent Hand](../images/tattoos__z125/modern_turkey_Star%20and%20Crescent%20Hand.webp)
 
 **Brief Visual Description:** The star and crescent of Turkey’s flag, directly on top of Mibera’s
 
@@ -318,7 +318,7 @@ hand. It is entirely red.
 
 **Name:** Caria Tyche
 
-**Image Files:** ancient_greek_Caria Tyche.png
+![Caria Tyche](../images/tattoos__z125/ancient_greek_Caria%20Tyche.webp)
 
 **Brief Visual Description:** an intricate line drawing of Tyche, Greek Goddess of Fame and
 
@@ -372,7 +372,7 @@ in statues to invoke prosperity and protection.
 
 **Name:** Uwu Baphomet
 
-**Image Files:** modern_satanist_uwu baphomet.png
+![uwu baphomet](../images/tattoos__z125/modern_satanist_uwu%20baphomet.webp)
 
 **Brief Visual Description:** Linework of a goat with long horns in a very cute style.
 
@@ -438,7 +438,7 @@ to modern occultism, Satanism, and mysticism, symbolizing duality and hidden kno
 
 **Name:** Milady Eyes Hand
 
-**Image Files:** Milady Eyes Hand.png
+![Milady Eyes Hand](../images/tattoos__z125/Milady%20Eyes%20Hand.webp)
 
 **Brief Visual Description:** Pair of big (milady) eyes with 2 eyebrows tilting upwards from the
 
@@ -494,7 +494,7 @@ like raves, VRtube avatars, and a Minecraft metaverse.
 
 **Name:** Inverted Pentagram
 
-**Image Files:** ancient_Satanist_Inverted Pentagram.png
+![Inverted Pentagram](../images/tattoos__z125/ancient_Satanist_Inverted%20Pentagram.webp)
 
 **Brief Visual Description:** Line work of an upside down star inside of a circle.
 
@@ -554,7 +554,7 @@ into the density of matter, in fear, ego or the will to power.
 
 **Name:** Cursed Milady
 
-**Image Files:** Cursed Milady.png
+![Cursed Milady](../images/tattoos__z125/Cursed%20Milady.webp)
 
 **Brief Visual Description:** Rough linework in red of a short-haired woman wearing a French
 
@@ -596,7 +596,7 @@ things.
 
 **Name:** Beloved
 
-**Image Files:** modern_greek_Beloved.png
+![Beloved](../images/tattoos__z125/modern_greek_Beloved.webp)
 
 **Brief Visual Description:** Simple straight writing of ‘beloved’ in Greek language and alphabet
 
@@ -630,7 +630,7 @@ things.
 
 **Name:** Stupa
 
-**Image Files:** ancient_nepal_Stupa.png
+![Stupa](../images/tattoos__z125/ancient_nepal_Stupa.webp)
 
 **Brief Visual Description:** Black and white drawing of a shrine with shading.
 
@@ -676,7 +676,7 @@ as spiritual focal points for devotees.
 
 **Name:** Filipino Tribal
 
-**Image Files:** Filipino Tribal.png
+![Filipino Tribal](../images/tattoos__z125/Filipino%20Tribal.webp)
 
 **Brief Visual Description:** Filipino tribal line-work.
 
@@ -712,7 +712,7 @@ ancestral / tribal tattoos it seems.
 
 **Name:** Enso
 
-**Image Files:** ancient_buddhist_Enso.png
+![Enso](../images/tattoos__z125/ancient_buddhist_Enso.webp)
 
 **Brief Visual Description:** Thick brush stroke that goes in nearly full circle.
 
@@ -776,7 +776,7 @@ environment.
 
 **Name:** Straight Edge
 
-**Image Files:** Straight Edge.png
+![Straight Edge](../images/tattoos__z125/Straight%20Edge.webp)
 
 **Brief Visual Description:** Two thick rectangular lines with clean edges crossing one another.
 
@@ -842,7 +842,7 @@ relevance, balancing personal empowerment with evolving social acceptance.
 
 **Name:** Whirling Dervish
 
-**Image Files:** ancient_sufi_Whirling Dervish.png
+![Whirling Dervish](../images/tattoos__z125/ancient_sufi_Whirling%20Dervish.webp)
 
 **Brief Visual Description:** Simple line-work of a dancing woman in a long dress.
 
@@ -904,7 +904,7 @@ emphasizing unity, love, and transcendence.
 
 **Name:** Sugar Skull
 
-**Image Files:** Sugar Skull.png
+![Sugar Skull](../images/tattoos__z125/Sugar%20Skull.webp)
 
 **Brief Visual Description:** Intricate line art of a skull with insane amounts of details and flowers
 
@@ -956,7 +956,7 @@ tattoos, art, and decor, embraced globally for their vibrant, intricate designs.
 
 **Name:** Lineart Lotus
 
-**Image Files:** modern_hindu_Lineart Lotus.png
+![Lineart Lotus](../images/tattoos__z125/modern_hindu_Lineart%20Lotus.webp)
 
 **Brief Visual Description:** Simple line-art connecting a few curves, a lotus, and a few dots.
 
@@ -1002,7 +1002,7 @@ highlighting the flower's delicate beauty and universal significance across spir
 
 **Name:** Ottoman Tughra
 
-**Image Files:** ancient_turkey_Ottoman Tughra.png
+![Ottoman Tughra](../images/tattoos__z125/ancient_turkey_Ottoman%20Tughra.webp)
 
 **Brief Visual Description:** Lines forming a monograph.
 
@@ -1050,7 +1050,7 @@ sovereignty in the Ottoman Empire until its dissolution in 1922.
 
 **Name:** Heart with Wings
 
-**Image Files:** modern_sufi_Heart with Wings.png
+![Heart with Wings](../images/tattoos__z125/modern_sufi_Heart%20with%20Wings.webp)
 
 **Brief Visual Description:** Heart with a crescent moon facing upwards and a star on top of it,
 
@@ -1106,7 +1106,7 @@ emphasize spiritual elevation and divine connection.
 
 **Name:** Ber Tsetseg
 
-**Image Files:** modern_mongolian_Ber Tsetseg.png
+![Ber Tsetseg](../images/tattoos__z125/modern_mongolian_Ber%20Tsetseg.webp)
 
 **Brief Visual Description:** Line work of 3 flowers with leaves, portraying Mongolia’s national
 
@@ -1152,7 +1152,7 @@ decorations, and plays an ecological role by attracting pollinators.
 
 **Name:** Sicanje
 
-**Image Files:** modern_sicanje_Sicanje.png
+![Sicanje](../images/tattoos__z125/modern_sicanje_Sicanje.webp)
 
 **Brief Visual Description:** Line work that’s a combination of circular shapes, lines, and dots.
 
@@ -1200,7 +1200,7 @@ against forced marriages, abductions, or conversions to Islam. Performed mainly 
 
 **Name:** Stylized Dragon
 
-**Image Files:** modern_chinese_Stylized Dragon.png
+![Stylized Dragon](../images/tattoos__z125/modern_chinese_Stylized%20Dragon.webp)
 
 **Brief Visual Description:** Line work of a dragon’s face, front-view.
 
@@ -1256,7 +1256,7 @@ markings may symbolize rebellion or cultural heritage, though no official meanin
 
 **Name:** Indus Valley Civilization Oxen
 
-**Image Files:** ancient_punjabi_Indus Valley Civilization Oxen.png
+![Indus Valley Civilization Oxen](../images/tattoos__z125/ancient_punjabi_Indus%20Valley%20Civilization%20Oxen.webp)
 
 **Brief Visual Description:** Simple shape made of lines, irregular outline resembling an Ox, with
 
@@ -1310,7 +1310,7 @@ food supply, reflecting a diverse agricultural economy.
 
 **Name:** Stylized Quetzalcoatl
 
-**Image Files:** modern_mayan_Stylized Quetzalcoatl.png
+![Stylized Quetzalcoatl](../images/tattoos__z125/modern_mayan_Stylized%20Quetzalcoatl.webp)
 
 **Brief Visual Description:** Line work of a flying entity Quetzalcōātl/Kukulkan’s face, front-view,
 
@@ -1352,7 +1352,7 @@ priesthood. Also known as Kukulkan.
 
 **Name:** Om
 
-**Image Files:** ancient_hindu_Om.png
+![Om](../images/tattoos__z125/ancient_hindu_Om.webp)
 
 **Brief Visual Description:** An ‘om’ symbol in black.
 
@@ -1394,7 +1394,7 @@ divine, often depicted in art and tattoos for its spiritual depth.
 
 **Name:** Pythia Bust
 
-**Image Files:** ancient_pythia_Pythia Bust.png
+![Pythia Bust](../images/tattoos__z125/ancient_pythia_Pythia%20Bust.webp)
 
 **Brief Visual Description:** A vague drawing mainly consisting of shading in the shape of a
 
@@ -1444,7 +1444,7 @@ BCE until the decline of pagan practices in the 4th century CE.
 
 **Name:** Jaguar
 
-**Image Files:** ancient_mayan_Jaguar.png
+![Jaguar](../images/tattoos__z125/ancient_mayan_Jaguar.webp)
 
 **Brief Visual Description:** Line drawing of what looks like an upside down cat-like animal in a
 
@@ -1492,7 +1492,7 @@ rebirth, it was often linked to warriors and nobles who wore jaguar skins for ba
 
 **Name:** Dragon
 
-**Image Files:** ancient_chinese_Dragon.png
+![Dragon](../images/tattoos__z125/ancient_chinese_Dragon.webp)
 
 **Brief Visual Description:** The traditional hanzi alphabet of the word ‘lóng’ in red.(龍)
 
@@ -1524,7 +1524,7 @@ rebirth, it was often linked to warriors and nobles who wore jaguar skins for ba
 
 **Name:** Barbed Wire
 
-**Image Files:** Barbed Wire.png
+![Barbed Wire](../images/tattoos__z125/Barbed%20Wire.webp)
 
 **Brief Visual Description:** A barbed wire
 
@@ -1560,7 +1560,7 @@ rebirth, it was often linked to warriors and nobles who wore jaguar skins for ba
 
 **Name:** From the Full Moon Fell Nokomis
 
-**Image Files:** modern_native american_From the Full Moon fell Nokomis.png
+![modern_native american_From the Full Moon fell Nokomis](../images/tattoos__z125/modern_native%20american_From%20the%20Full%20Moon%20fell%20Nokomis.webp)
 
 **Brief Visual Description:** Line work of a woman looking up with her hair floating and vines.
 
@@ -1606,7 +1606,7 @@ and matriarchal influence.
 
 **Name:** Picture Cave
 
-**Image Files:** ancient_native american_Picture Cave.png
+![ancient_native american_Picture Cave](../images/tattoos__z125/ancient_native%20american_Picture%20Cave.webp)
 
 **Brief Visual Description:** Line work of a naked prehistoric man with what looks like arrows.
 
@@ -1652,7 +1652,7 @@ Nation, the cave’s glyphs offer valuable insights into ancient cultural and sp
 
 **Name:** Time
 
-**Image Files:** ancient_mongolian_Time.png
+![Time](../images/tattoos__z125/ancient_mongolian_Time.webp)
 
 **Brief Visual Description:** (would like to take a bit more time thinking of a desc for this one).
 
@@ -1686,7 +1686,7 @@ Nation, the cave’s glyphs offer valuable insights into ancient cultural and sp
 
 **Name:** Ge Ez Love
 
-**Image Files:** ancient_ethiopian_ge_ez love.png
+![ez love](../images/tattoos__z125/ancient_ethiopian_ge_ez%20love.webp)
 
 **Brief Visual Description:** What looks like a script; It is read: “ge’ez” meaning ‘love’ in ancient
 
@@ -1720,7 +1720,7 @@ Semitic language of Ethiopia and Eritrea.
 
 **Name:** Grateful Dead Mushroom
 
-**Image Files:** Grateful Dead Mushroom.png
+![Grateful Dead Mushroom](../images/tattoos__z125/Grateful%20Dead%20Mushroom.webp)
 
 **Brief Visual Description:** Pink bear posing in front of stereotypical cartoon-ish mushrooms in
 
@@ -1760,7 +1760,7 @@ jazz, and a devoted fanbase ("Deadheads"), they released 13 studio albums, with 
 
 **Name:** Semilunar
 
-**Image Files:** modern_arabic_Semilunar.png
+![Semilunar](../images/tattoos__z125/modern_arabic_Semilunar.webp)
 
 **Brief Visual Description:** Semilunar moon made of flowy lines and circular shapes.
 
@@ -1808,7 +1808,7 @@ individual interpretation.
 
 **Name:** Triskele Hand
 
-**Image Files:** ancient_irish druids_Triskele Hand.png
+![ancient_irish druids_Triskele Hand](../images/tattoos__z125/ancient_irish%20druids_Triskele%20Hand.webp)
 
 **Brief Visual Description:** Motif consisting of 3 lines of spirals connected in the center, forming
 
@@ -1872,7 +1872,7 @@ evolving into a enduring symbol of continuity and energy.
 
 **SName:** Stylized Dharma Wheel
 
-**Image Files:** modern_buddhist_Stylized Dharma Wheel.png
+![Stylized Dharma Wheel](../images/tattoos__z125/modern_buddhist_Stylized%20Dharma%20Wheel.webp)
 
 **Brief Visual Description:** Dharmachakra; looks like a sailing wheel, in light brown.
 
@@ -1918,7 +1918,7 @@ mindfulness, and concentration), it signifies the "Wheel of Law" turning to spre
 
 **Name:** Sami Flag
 
-**Image Files:** modern_sami_Sami Flag.png
+![Sami Flag](../images/tattoos__z125/modern_sami_Sami%20Flag.webp)
 
 **Brief Visual Description:** Sami flag with airbrush texture. Red on the left, blue on the right, 2
 
@@ -1972,7 +1972,7 @@ use in Norway since 2003.
 
 **Name:** Without Fear Without Hate
 
-**Image Files:** modern_punjabi_Without Fear Without Hate.png
+![Without Fear Without Hate](../images/tattoos__z125/modern_punjabi_Without%20Fear%20Without%20Hate.webp)
 
 **Brief Visual Description:** Script written in Gurmukhi, “Nirbhau-Nirvair” ( ) meaning
 
@@ -2026,7 +2026,7 @@ and authenticity, aligning with its message of overcoming fear and hate in daily
 
 **Name:** Minimal Temple of Obodas
 
-**Image Files:** ancient_arabic_Minimal Temple of Obodas.png
+![Minimal Temple of Obodas](../images/tattoos__z125/ancient_arabic_Minimal%20Temple%20of%20Obodas.webp)
 
 **Brief Visual Description:** Simple line art of buildings, resembling a city.
 
@@ -2069,6 +2069,20 @@ structures like the Temple of Oboda, dedicated to the deified King Obodas I, and
 Byzantine-era basilicas, including the Northern Basilica with inscriptions from the 6th–7th
 
 centuries CE.
+
+---
+
+## No Tattoos
+
+**Name:** No Tattoos
+
+![No Tattoos](../images/tattoos__z125/No%20tattoos.webp)
+
+**Brief Visual Description:** Represents the absence of tattoos on a Mibera character.
+
+**Dominant Colors:** N/A
+
+**Reasoning for Inclusion within Mibera:** Default option for characters without body art.
 
 ---
 

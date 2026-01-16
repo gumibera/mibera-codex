@@ -8,7 +8,9 @@
 
 **Name:** Bera Headband
 
-**Image Files:** SS3_milady_Bera Headband.png
+**Image Files:**
+
+![Bera Headband](../images/hats__z160/SS3_milady_Bera%20Headband.webp)
 
 **Brief Visual Description:** Brown headband of bear ears; curved ears with smaller half circle
 
@@ -46,7 +48,9 @@ shapes inside in lighter color.
 
 **Name:** Catboy Ears
 
-**Image Files:** SS3_milady_Catboy Ears.png
+**Image Files:**
+
+![Catboy Ears](../images/hats__z160/SS3_milady_Catboy%20Ears.webp)
 
 **Brief Visual Description:** Black headband of cat ears; pointed triangular shape with soft edges,
 
@@ -84,7 +88,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** Trucker Mibera
 
-**Image Files:** SS3_milady_Trucker Mibera.png
+**Image Files:**
+
+![Trucker Mibera](../images/hats__z160/SS3_milady_Trucker%20Mibera.webp)
 
 **Brief Visual Description:** White and yellow cap with Mibera logo in the middle; a yellow smiley
 
@@ -118,7 +124,9 @@ face with bear ears.
 
 **Name:** Got Autism
 
-**Image Files:** SS3_Got Autism.png
+**Image Files:**
+
+![SS3 Got Autism](../images/hats__z160/SS3_Got%20Autism.webp)
 
 **Brief Visual Description:** Navy blue cap with white text on it saying “mibera got autism”.
 
@@ -148,7 +156,9 @@ face with bear ears.
 
 **Name:** Jake
 
-**Image Files:** SS3_acidhouse_Jake.png
+**Image Files:**
+
+![Jake](../images/hats__z160/SS3_acidhouse_Jake.webp)
 
 **Brief Visual Description:** Yellow hat with earflaps in the shape of Jake the dog from Adventure
 
@@ -228,7 +238,9 @@ figure while enjoying life’s simple pleasures like food and music.
 
 **Name:** Green Turban
 
-**Image Files:** SS3_milady_Green Turban.png
+**Image Files:**
+
+![Green Turban](../images/hats__z160/SS3_milady_Green%20Turban.webp)
 
 **Brief Visual Description:** Plain green turban (a piece of garment / clothing), tied at the back.
 
@@ -258,7 +270,9 @@ figure while enjoying life’s simple pleasures like food and music.
 
 **Name:** Resilient
 
-**Image Files:** SS3_freetekno_Resilient.png
+**Image Files:**
+
+![Resilient](../images/hats__z160/SS3_freetekno_Resilient.webp)
 
 **Brief Visual Description:** Black cap with red rectangular shape in the middle and the text
 
@@ -306,7 +320,9 @@ fostering connection and understanding
 
 **Name:** Alien Head Band
 
-**Image Files:** SS3_milady_Alien Head Band.png
+**Image Files:**
+
+![Alien Head Band](../images/hats__z160/SS3_milady_Alien%20Head%20Band.webp)
 
 **Brief Visual Description:** Light green alien headband with 3 eye balls, an antenna, and 2
 
@@ -344,7 +360,9 @@ twitter.com/CharlotteFang77/status/1694126068738003340?t=dxMlObkirSKGBKENFPCn7A&
 
 **Name:** WAGMI
 
-**Image Files:** SS3_milady_WAGMI.png
+**Image Files:**
+
+![WAGMI](../images/hats__z160/SS3_milady_WAGMI.webp)
 
 **Brief Visual Description:** Dark green cap with white text on it saying “WAGMI” crossed with a
 
@@ -388,7 +406,9 @@ used to boost morale during volatile times.
 
 **Name:** I Have Mibera
 
-**Image Files:** SS3_I Have Mibera.png
+**Image Files:**
+
+![SS3 I Have Mibera](../images/hats__z160/SS3_I%20Have%20Mibera.webp)
 
 **Brief Visual Description:** Navy blue cap with white text on it saying “Please be patient I have
 
@@ -430,7 +450,9 @@ of Mibera’s archetypes.
 
 **Name:** Spiral Tribe
 
-**Image Files:** SS3_milady_Spiral Tribe.png
+**Image Files:**
+
+![Spiral Tribe](../images/hats__z160/SS3_milady_Spiral%20Tribe.webp)
 
 **Brief Visual Description:** Black cap with a tribal Mibera logo in the middle, in white. The logo is
 
@@ -466,7 +488,9 @@ in the shape of a bear head with tribal-style design on the inside.
 
 **Name:** Cozy Sonic
 
-**Image Files:** SS3_acidhouse_Cozy Sonic.PNG
+**Image Files:**
+
+![Cozy Sonic](../images/hats__z160/SS3_acidhouse_Cozy%20Sonic.webp)
 
 **Brief Visual Description:** Hat in the shape of Sonic the Hedgehog with the main color being
 
@@ -500,7 +524,9 @@ blue and light-beige, two eyes, a little nose, and pointy ears.
 
 **Name:** beret
 
-**Image Files:** SS3_milady_Beret.png
+**Image Files:**
+
+![Beret](../images/hats__z160/SS3_milady_Beret.webp)
 
 **Brief Visual Description:** Small beret in dark army green / dark grey.
 
@@ -534,7 +560,9 @@ blue and light-beige, two eyes, a little nose, and pointy ears.
 
 **Name:** Midsommar
 
-**Image Files:** SS3_milady_ancient_irishDruid_Midsommar.png
+**Image Files:**
+
+![ancient irishDruid Midsommar](../images/hats__z160/SS3_milady_ancient_irishDruid_Midsommar.webp)
 
 **Brief Visual Description:** Flower crown with soft red, yellow, and white flowers, and a bunch of
 
@@ -578,7 +606,9 @@ trauma, and toxic relationships, culminating in the main character’s unsettlin
 
 **Name:** Remiliaco
 
-**Image Files:** SS3_acidhouse_Remiliaco.png
+**Image Files:**
+
+![Remiliaco](../images/hats__z160/SS3_acidhouse_Remiliaco.webp)
 
 **Brief Visual Description:** White and black cap with “REMILIA CORPORATION” text in black,
 
@@ -614,7 +644,9 @@ surrounded by a lot of little stars in full-black and thin outline.
 
 **Name:** Tweed Peak Cap
 
-**Image Files:** SS3_milady_Tweed Peak Cap.png
+**Image Files:**
+
+![Tweed Peak Cap](../images/hats__z160/SS3_milady_Tweed%20Peak%20Cap.webp)
 
 **Brief Visual Description:** Plain tweed cap in dull green.
 
@@ -652,7 +684,9 @@ surrounded by a lot of little stars in full-black and thin outline.
 
 **Name:** Remcon
 
-**Image Files:** SS3_acidhouse_Remcon.png
+**Image Files:**
+
+![Remcon](../images/hats__z160/SS3_acidhouse_Remcon.webp)
 
 **Brief Visual Description:** White and soft bright pink cap with “REMILIA-CON TOKYO 2023”
 
@@ -696,7 +730,9 @@ Tokyo in 2023.
 
 **Name:** Russian
 
-**Image Files:** SS3_milady_Russian.PNG
+**Image Files:**
+
+![Russian](../images/hats__z160/SS3_milady_Russian.webp)
 
 **Brief Visual Description:** Dark grey ushanka / Russian winter hat with ear flaps and fluffy front
 
@@ -754,7 +790,9 @@ commercialism, and their contributions to spiral tekno, a genre named after them
 
 **Name:** Baddies Blue
 
-**Image Files:** SS3_Baddies Blue.png
+**Image Files:**
+
+![SS3 Baddies Blue](../images/hats__z160/SS3_Baddies%20Blue.webp)
 
 **Brief Visual Description:** Blue cap with a graphic of a brown bear with red ribbon on one ear
 
@@ -788,7 +826,9 @@ holding a white flower.
 
 **Name:** No World As Fucked As Mine
 
-**Image Files:** SS3_acidhouse_modern_traveller_No World As Fucked As Mine.png
+**Image Files:**
+
+![modern traveller No World As Fucked As Mine](../images/hats__z160/SS3_acidhouse_modern_traveller_No%20World%20As%20Fucked%20As%20Mine.webp)
 
 **Brief Visual Description:** White cap with black text in thin font that reads “no world as fucked
 
@@ -836,7 +876,9 @@ folkloric traditions inspiring modern “rave mysticism” in electronic music.
 
 **Name:** Camo
 
-**Image Files:** SS3_milady_Camo.png
+**Image Files:**
+
+![Camo](../images/hats__z160/SS3_milady_Camo.webp)
 
 **Brief Visual Description:** Mushroom shaped beret with camo patterns with army green color.
 
@@ -874,7 +916,9 @@ folkloric traditions inspiring modern “rave mysticism” in electronic music.
 
 **Name:** Ethiopian Headdress
 
-**Image Files:** SS3_milady_Ethiopian Headdress.png
+**Image Files:**
+
+![Ethiopian Headdress](../images/hats__z160/SS3_milady_Ethiopian%20Headdress.webp)
 
 **Brief Visual Description:** Headdress made of different varieties of leaves, white flowers, and
 
@@ -922,7 +966,9 @@ connection to nature amid challenges like regional violence and cattle raiding.
 
 **Name:** McDonalds 2
 
-**Image Files:** SS3_milady_Mcdonalds 2.png
+**Image Files:**
+
+![Mcdonalds 2](../images/hats__z160/SS3_milady_Mcdonalds%202.webp)
 
 **Brief Visual Description:** Cap with stripy colours of a burger, light brown, dark brown, and
 
@@ -958,7 +1004,9 @@ green. In the middle is a big ‘M’ logo with a small text that reads ‘miber
 
 **Name:** American Union
 
-**Image Files:** SS3_milady_American Union.png
+**Image Files:**
+
+![American Union](../images/hats__z160/SS3_milady_American%20Union.webp)
 
 **Brief Visual Description:** Fisherman hat in blue with a red star in the middle and white dots.
 
@@ -1004,7 +1052,9 @@ amenities like a fruit bar, helped define Chicago's house music scene.
 
 **Name:** Straw farmer
 
-**Image Files:** SS3_acidhouse_Straw Farmers.png
+**Image Files:**
+
+![Straw Farmers](../images/hats__z160/SS3_acidhouse_Straw%20Farmers.webp)
 
 **Brief Visual Description:** Straw hat with thick red stripe around it.
 
@@ -1040,7 +1090,9 @@ amenities like a fruit bar, helped define Chicago's house music scene.
 
 **Name:** Amanita
 
-**Image Files:** SS3_milady_amanita.PNG
+**Image Files:**
+
+![amanita](../images/hats__z160/SS3_milady_amanita.webp)
 
 **Brief Visual Description:** Big hat in the shape of a mushroom head in red with white spots.
 
@@ -1088,7 +1140,9 @@ relationships with trees.
 
 **Name:** Sudan Sufi
 
-**Image Files:** SS3_milady_Sudan Sufi.png
+**Image Files:**
+
+![Sudan Sufi](../images/hats__z160/SS3_milady_Sudan%20Sufi.webp)
 
 **Brief Visual Description:** Taqiyah cap in patterns of circular shapes and lines. A small rounded
 
@@ -1138,7 +1192,9 @@ drawing large crowds in a celebration of faith.
 
 **Name:** THJ Globe
 
-**Image Files:** SS3_THJ Globe.png
+**Image Files:**
+
+![SS3 THJ Globe](../images/hats__z160/SS3_THJ%20Globe.webp)
 
 **Brief Visual Description:** Bone-white fisherman hat with strings. On it is a graphic of two bears
 
@@ -1192,7 +1248,9 @@ creativity, and liquidity through partnerships and public goods.
 
 **Name:** Orange
 
-**Image Files:** SS3_milady_Orange.png
+**Image Files:**
+
+![Orange](../images/hats__z160/SS3_milady_Orange.webp)
 
 **Brief Visual Description:** Small orange-shaped and coloured beret with 2 small green leaves
 
@@ -1230,7 +1288,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** I Eat Ass
 
-**Image Files:** SS3_chicagodetroit_I Eat Ass.png
+**Image Files:**
+
+![I Eat Ass](../images/hats__z160/SS3_chicagodetroit_I%20Eat%20Ass.webp)
 
 **Brief Visual Description:** Red cap with bold white text that reads “I EAT ASS”.
 
@@ -1260,7 +1320,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** Baddies Pink
 
-**Image Files:** SS3_Baddies Pink.png
+**Image Files:**
+
+![SS3 Baddies Pink](../images/hats__z160/SS3_Baddies%20Pink.webp)
 
 **Brief Visual Description:** Soft bright pink cap with a graphic of a brown bear with red ribbon on
 
@@ -1300,7 +1362,9 @@ one ear holding a white flower.
 
 **Name:** McDonalds 1
 
-**Image Files:** SS3_chicagodetroit_Mcdonalds 1.png
+**Image Files:**
+
+![Mcdonalds 1](../images/hats__z160/SS3_chicagodetroit_Mcdonalds%201.webp)
 
 **Brief Visual Description:** Bright red and yellow newsboy cap with Mcdonalds’ logo on it, a
 
@@ -1334,7 +1398,9 @@ vintage McDonald’s hat.
 
 **Name:** Remillia Embroidered
 
-**Image Files:** SS3_acidhouse_Remilia Embroidered.png
+**Image Files:**
+
+![Remilia Embroidered](../images/hats__z160/SS3_acidhouse_Remilia%20Embroidered.webp)
 
 **Brief Visual Description:** Light orange with blue embroidery that reads “REMILIA” inside of an
 
@@ -1384,7 +1450,9 @@ Y2K Japanese street-style aesthetics.
 
 **Name:** Hat With Feathers
 
-**Image Files:** SS4_acidhouse_ancient_mongolian_Hat With Feathers.png
+**Image Files:**
+
+![ancient mongolian Hat With Feathers](../images/hats__z160/SS4_acidhouse_ancient_mongolian_Hat%20With%20Feathers.webp)
 
 **Brief Visual Description:** Big headpiece consisting of a brown base with thin flowy strings on
 
@@ -1434,7 +1502,9 @@ summer solstice ritual near Ulaanbaatar.
 
 **Name:** Orthodox Fur Small
 
-**Image Files:** SS3_chicagodetroit_modern_orthodoxjew_Orthodox Fur Small.png
+**Image Files:**
+
+![modern orthodoxjew Orthodox Fur Small](../images/hats__z160/SS3_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Small.webp)
 
 **Brief Visual Description:** Round furry hat in black.
 
@@ -1486,7 +1556,9 @@ existence as a violation of Jewish law and anticipate its divine dissolution.
 
 **Name:** Wide Brim
 
-**Image Files:** SS3_chicagodetroit_Wide Brim.png
+**Image Files:**
+
+![Wide Brim](../images/hats__z160/SS3_chicagodetroit_Wide%20Brim.webp)
 
 **Brief Visual Description:** All-black hat with wide brim.
 
@@ -1522,7 +1594,9 @@ existence as a violation of Jewish law and anticipate its divine dissolution.
 
 **Name:** Bitcoin 2
 
-**Image Files:** SS4_acidhouse_Bitcoin 2.PNG
+**Image Files:**
+
+![Bitcoin 2](../images/hats__z160/SS4_acidhouse_Bitcoin%202.webp)
 
 **Brief Visual Description:** Black cap with colourful graphics lined up in order of: sonic, bitcoin,
 
@@ -1570,7 +1644,9 @@ trades.
 
 **Name:** Cincinnati Reds
 
-**Image Files:** SS3_freetekno_C.png
+**Image Files:**
+
+![C](../images/hats__z160/SS3_freetekno_C.webp)
 
 **Brief Visual Description:** Red cap with big yellow letter ‘C’ in the middle.
 
@@ -1628,7 +1704,9 @@ underground dance scene. The events ran for five years, ending in summer 1993.
 
 **Name:** Head Tube
 
-**Image Files:** SS3_chicagodetroit_Head Tube.png
+**Image Files:**
+
+![Head Tube](../images/hats__z160/SS3_chicagodetroit_Head%20Tube.webp)
 
 **Brief Visual Description:** Plain black turban.
 
@@ -1658,7 +1736,9 @@ underground dance scene. The events ran for five years, ending in summer 1993.
 
 **Name:** Sailor
 
-**Image Files:** SS3_milady_Sailor.png
+**Image Files:**
+
+![Sailor](../images/hats__z160/SS3_milady_Sailor.webp)
 
 **Brief Visual Description:** White sailor hat with a graphic of an anchor and a stripe on top of it in
 
@@ -1696,7 +1776,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** Modern Irish
 
-**Image Files:** SS2_acidhouse_Modern Irish.png
+**Image Files:**
+
+![Modern Irish](../images/hats__z160/SS2_acidhouse_Modern%20Irish.webp)
 
 **Brief Visual Description:** Green bucket hat / walking hat with patches of different garments
 
@@ -1736,7 +1818,9 @@ with different colors and patterns on it and a small yellow feather.
 
 **Name:** Aum Headwear
 
-**Image Files:** SS3_acidhouse_modern_japanese_Aum Headwear.png
+**Image Files:**
+
+![modern japanese Aum Headwear](../images/hats__z160/SS3_acidhouse_modern_japanese_Aum%20Headwear.webp)
 
 **Brief Visual Description:** What looks like white bandages going around the head and tiny wires
 
@@ -1790,7 +1874,9 @@ ay-gas-attack/article23299723.ece
 
 **Name:** Working Like a Dog
 
-**Image Files:** SS2_acidhouse_Workin Like A Dog.png
+**Image Files:**
+
+![Workin Like A Dog](../images/hats__z160/SS2_acidhouse_Workin%20Like%20A%20Dog.webp)
 
 **Brief Visual Description:** Brown cap with white text that reads “WORKIN’ LIKE A DOG ALL
 
@@ -1830,7 +1916,9 @@ DAY ON” followed by a word in bright blue that says “MILADY”.
 
 **Name:** Cute Bera
 
-**Image Files:** SS3_Cute Bera.png
+**Image Files:**
+
+![SS3 Cute Bera](../images/hats__z160/SS3_Cute%20Bera.webp)
 
 **Brief Visual Description:** Brown hat in the shape of a bear face; a tiny face in the middle, big
 
@@ -1862,7 +1950,9 @@ curved ears, and two paws extending out of the front part resting on the front s
 
 **Name:** Flower Hat
 
-**Image Files:** SS2_Flower Hat.png
+**Image Files:**
+
+![SS2 Flower Hat](../images/hats__z160/SS2_Flower%20Hat.webp)
 
 **Brief Visual Description:** Wide round hat with pink ribbon wrapped around it and a few small
 
@@ -1894,7 +1984,9 @@ tulips on the other side. The hat is in the colour of beige / the sand.
 
 **Name:** Maid Head
 
-**Image Files:** SS2_milady_Maid Head.png
+**Image Files:**
+
+![Maid Head](../images/hats__z160/SS2_milady_Maid%20Head.webp)
 
 **Brief Visual Description:** White mob cap / maid headband, ruffly in shape.
 
@@ -1930,7 +2022,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** Peyote Hat
 
-**Image Files:** SS4_freetekno_Peyote Hat.png
+**Image Files:**
+
+![Peyote Hat](../images/hats__z160/SS4_freetekno_Peyote%20Hat.webp)
 
 **Brief Visual Description:** Wide round hat, flat in shape, with a bunch of grey feathers on top
 
@@ -1982,7 +2076,9 @@ emotional and spiritual healing.
 
 **Name:** Bera Bucket
 
-**Image Files:** SS3_milady_Bera Bucket.png
+**Image Files:**
+
+![Bera Bucket](../images/hats__z160/SS3_milady_Bera%20Bucket.webp)
 
 **Brief Visual Description:** Brown bucket hat with bear face with sparkly eyes and bear ears.
 
@@ -2012,7 +2108,9 @@ emotional and spiritual healing.
 
 **Name:** Sami Hat
 
-**Image Files:** SS3_acidhouse_ancient_Sami Hat.png
+**Image Files:**
+
+![ancient Sami Hat](../images/hats__z160/SS3_acidhouse_ancient_Sami%20Hat.webp)
 
 **Brief Visual Description:** Red tall, sturdy, hat in almost rectangular shape with green linings on
 
@@ -2064,7 +2162,9 @@ cultural protections and political representation like the Sámi Parliaments.
 
 **Name:** Stylized Fashion
 
-**Image Files:** SS3_chicagodetroit_Stylized Fashion.png
+**Image Files:**
+
+![Stylized Fashion](../images/hats__z160/SS3_chicagodetroit_Stylized%20Fashion.webp)
 
 **Brief Visual Description:** Flat, asymmetrical hat in red maroon.
 
@@ -2100,7 +2200,9 @@ cultural protections and political representation like the Sámi Parliaments.
 
 **Name:** CPAP
 
-**Image Files:** SS4_freetekno_CPAP.png
+**Image Files:**
+
+![CPAP](../images/hats__z160/SS4_freetekno_CPAP.webp)
 
 **Brief Visual Description:** Head of the CPAP machine with a grey thick tube that goes back.
 
@@ -2142,7 +2244,9 @@ and improve oxygen flow.
 
 **Name:** Undiagnosed
 
-**Image Files:** SS2_Undiagnosed.png
+**Image Files:**
+
+![SS2 Undiagnosed](../images/hats__z160/SS2_Undiagnosed.webp)
 
 **Brief Visual Description:** Black cap with light yellow text that reads “Undiagnosed but I’m pretty
 
@@ -2174,7 +2278,9 @@ sure…”
 
 **Name:** THJ Bees
 
-**Image Files:** SS4_THJ Bees.png
+**Image Files:**
+
+![SS4 THJ Bees](../images/hats__z160/SS4_THJ%20Bees.webp)
 
 **Brief Visual Description:** Light grey bucket hat with a graphic of a white bear wearing a purple
 
@@ -2214,7 +2320,9 @@ hat eating honey out of a big jar surrounded by bees.
 
 **Name:** Forehead Kiss
 
-**Image Files:** SS2_milady_Forehead Kiss.png
+**Image Files:**
+
+![Forehead Kiss](../images/hats__z160/SS2_milady_Forehead%20Kiss.webp)
 
 **Brief Visual Description:** Kiss stamp in red.
 
@@ -2244,7 +2352,9 @@ hat eating honey out of a big jar surrounded by bees.
 
 **Name:** Shoulder Orange
 
-**Image Files:** SS2_milady_Shoulder Orange.png
+**Image Files:**
+
+![Shoulder Orange](../images/hats__z160/SS2_milady_Shoulder%20Orange.webp)
 
 **Brief Visual Description:** Orange fruit with a tiny stem and one leaf.
 
@@ -2274,7 +2384,9 @@ hat eating honey out of a big jar surrounded by bees.
 
 **Name:** BM2C
 
-**Image Files:** SS2_BM2C.PNG
+**Image Files:**
+
+![SS2 BM2C](../images/hats__z160/SS2_BM2C.webp)
 
 **Brief Visual Description:** Soft pink cap with bm2c logo and text in white; a silhouette stickman
 
@@ -2318,7 +2430,9 @@ minting on February 11th.
 
 **Name:** Peyote Feather
 
-**Image Files:** SS4_freetekno_Peyote Feather.png
+**Image Files:**
+
+![Peyote Feather](../images/hats__z160/SS4_freetekno_Peyote%20Feather.webp)
 
 **Brief Visual Description:** Headband in bone-white and black with sharp consistent patterns,
 
@@ -2350,7 +2464,9 @@ and a big feather standing in the middle of the headband.
 
 **Name:** No Cap
 
-**Image Files:** SS2_No Cap.png
+**Image Files:**
+
+![SS2 No Cap](../images/hats__z160/SS2_No%20Cap.webp)
 
 **Brief Visual Description:** Black cap with small text in white that reads “no cap”.
 
@@ -2380,7 +2496,9 @@ and a big feather standing in the middle of the headband.
 
 **Name:** Egg on Head
 
-**Image Files:** SS2_Egg on Head.png
+**Image Files:**
+
+![SS2 Egg on Head](../images/hats__z160/SS2_Egg%20on%20Head.webp)
 
 **Brief Visual Description:** The inside of an egg, intact, drooping down.
 
@@ -2410,7 +2528,9 @@ and a big feather standing in the middle of the headband.
 
 **Name:** Ethiopian Flat
 
-**Image Files:** SS2_milady_Ethiopian Flat.png
+**Image Files:**
+
+![Ethiopian Flat](../images/hats__z160/SS2_milady_Ethiopian%20Flat.webp)
 
 **Brief Visual Description:** Tall sturdy hat in black and grey that’s flat in shape.
 
@@ -2440,7 +2560,9 @@ and a big feather standing in the middle of the headband.
 
 **Name:** Aboriginal Flag
 
-**Image Files:** SS2_freetekno_Aboriginal Flag.png
+**Image Files:**
+
+![Aboriginal Flag](../images/hats__z160/SS2_freetekno_Aboriginal%20Flag.webp)
 
 **Brief Visual Description:** Dark navy cap with an Aboriginal flag on it; top half being black and
 
@@ -2490,7 +2612,9 @@ by family artistry and global Indigenous cultures
 
 **Name:** Rice Paddy
 
-**Image Files:** SS4_acidhouse_Rice Paddy.png
+**Image Files:**
+
+![Rice Paddy](../images/hats__z160/SS4_acidhouse_Rice%20Paddy.webp)
 
 **Brief Visual Description:** Asian farmer’s hat, large in size shaping a wide cone facing
 
@@ -2522,7 +2646,9 @@ downwards with strings dangling down the hat.
 
 **Name:** Raiders
 
-**Image Files:** SS4_chicagodetroit_Raiders.png
+**Image Files:**
+
+![Raiders](../images/hats__z160/SS4_chicagodetroit_Raiders.webp)
 
 **Brief Visual Description:** Cap in grey gradient with white graphic of a face of a man with an
 
@@ -2558,7 +2684,9 @@ Paradise, Nevada.
 
 **Name:** Fez
 
-**Image Files:** SS2_milady_Fez.png
+**Image Files:**
+
+![Fez](../images/hats__z160/SS2_milady_Fez.webp)
 
 **Brief Visual Description:** Small fez hat in deep red; a tube-shaped hat with yellow string
 
@@ -2600,7 +2728,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** Den Hopium
 
-**Image Files:** SS2_Den Hopium.PNG
+**Image Files:**
+
+![SS2 Den Hopium](../images/hats__z160/SS2_Den%20Hopium.webp)
 
 **Brief Visual Description:** Vibrant green cap with the letter “L” inside of a white circle in the
 
@@ -2632,7 +2762,9 @@ middle.
 
 **Name:** Bera
 
-**Image Files:** SS4_milady_Bera.png
+**Image Files:**
+
+![Bera](../images/hats__z160/SS4_milady_Bera.webp)
 
 **Brief Visual Description:** Brown cap with bear face, sparkly eyes, and bear ears
 
@@ -2662,7 +2794,9 @@ middle.
 
 **Name:** Cowboy
 
-**Image Files:** SS4_milady_Cowboy.png
+**Image Files:**
+
+![Cowboy](../images/hats__z160/SS4_milady_Cowboy.webp)
 
 **Brief Visual Description:** Black cowboy hat with red tie / rope around it.
 
@@ -2698,7 +2832,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Hat%22,%22value
 
 **Name:** Lee Scratch 2
 
-**Image Files:** SS2_chicagodetroit_Lee Scratch 2.png
+**Image Files:**
+
+![Lee Scratch 2](../images/hats__z160/SS2_chicagodetroit_Lee%20Scratch%202.webp)
 
 **Brief Visual Description:** Bright cap with white / silver base and dark purple cap. Purple gems
 
@@ -2740,7 +2876,9 @@ persona, Perry won a Grammy in 2003 and continued creating until his death in Ja
 
 **Name:** Tight Turban
 
-**Image Files:** SS2_chicagodetroit_modern_sufi_Tight Turban.png
+**Image Files:**
+
+![modern sufi Tight Turban](../images/hats__z160/SS2_chicagodetroit_modern_sufi_Tight%20Turban.webp)
 
 **Brief Visual Description:** Plain black turban that looks tightly wrapped.
 
@@ -2786,7 +2924,9 @@ like Glastonbury and Boiler Room, fuse dance music with South Asian influences.
 
 **Name:** Fruits Remilia Hat
 
-**Image Files:** SS2_milady_Fruits Remilia Hat.png
+**Image Files:**
+
+![Fruits Remilia Hat](../images/hats__z160/SS2_milady_Fruits%20Remilia%20Hat.webp)
 
 **Brief Visual Description:** Two-toned pink cap with cute graphic of a pair of eyebrows, huge
 
@@ -2822,7 +2962,9 @@ sparkly eyes, and a curved cat-like mouth.
 
 **Name:** Face Hat with Feathers
 
-**Image Files:** SS4_acidhouse_ancient_mongolian_Face Hat With Feathers.png
+**Image Files:**
+
+![ancient mongolian Face Hat With Feathers](../images/hats__z160/SS4_acidhouse_ancient_mongolian_Face%20Hat%20With%20Feathers.webp)
 
 **Brief Visual Description:** Dark green hat with tall and sturdy base with a white doodle of a face
 
@@ -2864,7 +3006,9 @@ on it; coming out of it stands multiple big feathers in dark colour (black / ver
 
 **Name:** Wire Cat Ears
 
-**Image Files:** SS2_Wire Cat Ears.png
+**Image Files:**
+
+![SS2 Wire Cat Ears](../images/hats__z160/SS2_Wire%20Cat%20Ears.webp)
 
 **Brief Visual Description:** Headband made of blinking LED wires shaped in cat ears; in purple /
 
@@ -2898,7 +3042,9 @@ festivals, complementing the vibrant, expressive fashion of the scene.
 
 **Name:** Marsha’s Flowers
 
-**Image Files:** SS4_chicagodetroit_Marshas Flowers.png
+**Image Files:**
+
+![Marshas Flowers](../images/hats__z160/SS4_chicagodetroit_Marshas%20Flowers.webp)
 
 **Brief Visual Description:** Flower crowns made of different varieties of flowers in white, purple,
 
@@ -2946,7 +3092,9 @@ transgender rights.
 
 **Name:** Yayo
 
-**Image Files:** SS2_Yayo.png
+**Image Files:**
+
+![SS2 Yayo](../images/hats__z160/SS2_Yayo.webp)
 
 **Brief Visual Description:** Black and white cap with graphic of a shooting star and the text
 
@@ -2992,7 +3140,9 @@ nft-project-yayo-nft-301751189.html
 
 **Name:** Tez Watermelon
 
-**Image Files:** SS4_tez watermelon.PNG
+**Image Files:**
+
+![SS4 tez watermelon](../images/hats__z160/SS4_tez%20watermelon.webp)
 
 **Brief Visual Description:** Neatly cut watermelon as a hat.
 
@@ -3022,7 +3172,9 @@ nft-project-yayo-nft-301751189.html
 
 **Name:** Make Milady Fun Again
 
-**Image Files:** SS2_Make Milady Fun Again.png
+**Image Files:**
+
+![SS2 Make Milady Fun Again](../images/hats__z160/SS2_Make%20Milady%20Fun%20Again.webp)
 
 **Brief Visual Description:** Two-toned cap in navy blue and white and black text that reads
 
@@ -3054,7 +3206,9 @@ nft-project-yayo-nft-301751189.html
 
 **Name:** OBB Lid
 
-**Image Files:** SS2_OBB Lid.png
+**Image Files:**
+
+![SS2 OBB Lid](../images/hats__z160/SS2_OBB%20Lid.webp)
 
 **Brief Visual Description:** What looks like a jar lid, in light yellow.
 
@@ -3088,7 +3242,9 @@ nft-project-yayo-nft-301751189.html
 
 **Name:** Crowley
 
-**Image Files:** SS4_freetekno_modern_satanist_Crawley.png
+**Image Files:**
+
+![modern satanist Crawley](../images/hats__z160/SS4_freetekno_modern_satanist_Crawley.webp)
 
 **Brief Visual Description:** Triangle-shaped hat in black with white graphic of a triangle radiating
 
@@ -3140,7 +3296,9 @@ lifestyle, blending mysticism, hedonism, and rebellion against societal norms.
 
 **Name:** Butterfly Beanie
 
-**Image Files:** SS4_Butterfly Beanie.png
+**Image Files:**
+
+![SS4 Butterfly Beanie](../images/hats__z160/SS4_Butterfly%20Beanie.webp)
 
 **Brief Visual Description:** Black beanie with a black butterfly on a silver rectangular.
 
@@ -3170,7 +3328,9 @@ lifestyle, blending mysticism, hedonism, and rebellion against societal norms.
 
 **Name:** Orthodox Fur Large
 
-**Image Files:** SS4_chicagodetroit_modern_orthodoxjew_Orthodox Fur Large.png
+**Image Files:**
+
+![modern orthodoxjew Orthodox Fur Large](../images/hats__z160/SS4_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Large.webp)
 
 **Brief Visual Description:** Round furry hat in black, large in size.
 
@@ -3222,7 +3382,9 @@ existence as a violation of Jewish law and anticipate its divine dissolution.
 
 **Name:** Pythia Robe
 
-**Image Files:** SS4_chicagodetroit_ancient_pythia_Pythia Robe.png
+**Image Files:**
+
+![ancient pythia Pythia Robe](../images/hats__z160/SS4_chicagodetroit_ancient_pythia_Pythia%20Robe.webp)
 
 **Brief Visual Description:** Red scarf draping down and folded around the bottom part.
 
@@ -3274,7 +3436,9 @@ intermediary, guiding decisions for individuals and city-states from the 8th cen
 
 **Name:** Bitcoin 1
 
-**Image Files:** SS3_acidhouse_Bitcoin 1.PNG
+**Image Files:**
+
+![Bitcoin 1](../images/hats__z160/SS3_acidhouse_Bitcoin%201.webp)
 
 **Brief Visual Description:** Black cap with colourful graphics of a Sonic the Hedgehog with a
 
@@ -3320,7 +3484,9 @@ trades.
 
 **Name:** Bear Down
 
-**Image Files:** SS2_acidhouse_Bear Down.png
+**Image Files:**
+
+![Bear Down](../images/hats__z160/SS2_acidhouse_Bear%20Down.webp)
 
 **Brief Visual Description:** Two-toned orange creamy white cap with big black text that reads
 
@@ -3352,7 +3518,9 @@ trades.
 
 **Name:** Duct Tape
 
-**Image Files:** SS1_chicagodetroit_duct tape.png
+**Image Files:**
+
+![duct tape](../images/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
 
 **Brief Visual Description:** Silver duct tape
 
@@ -3382,7 +3550,9 @@ trades.
 
 **Name:** Mibera Pacifier
 
-**Image Files:** SS2_chicagodetroit_Mibera Pacifier.png
+**Image Files:**
+
+![Mibera Pacifier](../images/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
 
 **Brief Visual Description:** White pacifier with Mibera logo on it; a yellow smiley with bear ears.
 
@@ -3412,7 +3582,9 @@ trades.
 
 **Name:** Vaneck Intern
 
-**Image Files:** SS2_freetekno_vaneck intern.PNG
+**Image Files:**
+
+![vaneck intern](../images/hats__z160/SS2_freetekno_vaneck%20intern.webp)
 
 **Brief Visual Description:** Black cap with white text that reads “vaneck intern”.
 
@@ -3442,7 +3614,9 @@ trades.
 
 **Name:** Aitoshi
 
-**Image Files:** SS2_acidhouse_Aitoshi.png
+**Image Files:**
+
+![Aitoshi](../images/hats__z160/SS2_acidhouse_Aitoshi.webp)
 
 **Brief Visual Description:** Beanie in pastel teal with rounded ears and black graphic of a bear
 
@@ -3480,7 +3654,9 @@ and chains.
 
 **Name:** Blue Bow Hat
 
-**Image Files:** SS2_Blue Bow Hat.png
+**Image Files:**
+
+![SS2 Blue Bow Hat](../images/hats__z160/SS2_Blue%20Bow%20Hat.webp)
 
 **Brief Visual Description:** Round hat in soft blue, pretty flat in shape, with light blue tie around it
 
@@ -3512,7 +3688,9 @@ and a bow.
 
 **Name:** McDonalds 3
 
-**Image Files:** mcdonalds 3.png
+**Image Files:**
+
+![mcdonalds 3](../images/hats__z160/mcdonalds%203.webp)
 
 **Brief Visual Description:** Visor hat in red with Mcdonalds logo in the center; a yellow ‘M’.
 
@@ -3542,7 +3720,9 @@ and a bow.
 
 **Name:** Party Hat Red
 
-**Image Files:** SS4_Party Hat Red.png
+**Image Files:**
+
+![SS4 Party Hat Red](../images/hats__z160/SS4_Party%20Hat%20Red.webp)
 
 **Brief Visual Description:** Crown-shaped hat in deep red.
 
@@ -3572,7 +3752,9 @@ and a bow.
 
 **Name:** Party Hat Blue
 
-**Image Files:** SS5_Party Hat Blue.png
+**Image Files:**
+
+![SS5 Party Hat Blue](../images/hats__z160/SS5_Party%20Hat%20Blue.webp)
 
 **Brief Visual Description:** Crown-shaped hat in vibrant blue.
 
@@ -3602,7 +3784,9 @@ and a bow.
 
 **Name:** backwards
 
-**Image Files:** SS2_milady_Backwards.png
+**Image Files:**
+
+![Backwards](../images/hats__z160/SS2_milady_Backwards.webp)
 
 **Brief Visual Description:** Back view of a cap light grey / beige, with the clippers and a
 
@@ -3644,7 +3828,9 @@ ce-for-diasporic-south-asians
 
 **Name:** Spiky Lee Scratch
 
-**Image Files:** SS5_chicagodetroit_Lee Scratch.png
+**Image Files:**
+
+![Lee Scratch](../images/hats__z160/SS5_chicagodetroit_Lee%20Scratch.webp)
 
 **Brief Visual Description:** Red cap with black spikes coming out of it all around the body and
 
@@ -3686,7 +3872,9 @@ persona, Perry won a Grammy in 2003 and continued creating until his death in Ja
 
 **Name:** FBI Hat
 
-**Image Files:** SS5_milady_FBI Hat.png
+**Image Files:**
+
+![FBI Hat](../images/hats__z160/SS5_milady_FBI%20Hat.webp)
 
 **Brief Visual Description:** Black and white cap with blood (red) splatters from one side towards
 
@@ -3718,7 +3906,9 @@ the middle, and the word “FBI” in yellow inside of a navy blue rectangle in 
 
 **Name:** Kingdomly
 
-**Image Files:** SS3_Kingdomly.PNG
+**Image Files:**
+
+![SS3 Kingdomly](../images/hats__z160/SS3_Kingdomly.webp)
 
 **Brief Visual Description:** Knight helmet with brown bear ears and red fur at the back, the
 
@@ -3760,7 +3950,9 @@ multi-chain.
 
 **Name:** Abusive
 
-**Image Files:** SS1_Abusive.png
+**Image Files:**
+
+![SS1 Abusive](../images/hats__z160/SS1_Abusive.webp)
 
 **Brief Visual Description:** Black and white cap with black text that reads “I could be abusive”.
 
@@ -3794,7 +3986,9 @@ multi-chain.
 
 **Name:** THJ Dark Gray
 
-**Image Files:** SS5_THJ Dark Gray.png
+**Image Files:**
+
+![SS5 THJ Dark Gray](../images/hats__z160/SS5_THJ%20Dark%20Gray.webp)
 
 **Brief Visual Description:** Dark grey wide bucket hat with strings and a graphic of a bear in a
 
@@ -3834,7 +4028,9 @@ relaxed pose on top / behind the text “THJ” in yellow graffiti font.
 
 **Name:** Pink Panels
 
-**Image Files:** SS1_milady_Pink Panels.png
+**Image Files:**
+
+![Pink Panels](../images/hats__z160/SS1_milady_Pink%20Panels.webp)
 
 **Brief Visual Description:** Cap in black and hot pink color divided per section.
 
@@ -3864,7 +4060,9 @@ relaxed pose on top / behind the text “THJ” in yellow graffiti font.
 
 **Name:** FTX Risk Management
 
-**Image Files:** SS1_acidhouse_FTX Risk Management.png
+**Image Files:**
+
+![FTX Risk Management](../images/hats__z160/SS1_acidhouse_FTX%20Risk%20Management.webp)
 
 **Brief Visual Description:** Soft warm rose-pink cap with blue and white graphic of the logo FTX
 
@@ -3910,7 +4108,9 @@ massive fraud and bankruptcy.
 
 **Name:** wolf head
 
-**Image Files:** SS5_milady_ancient_mongolian_Wolf Head.png
+**Image Files:**
+
+![ancient mongolian Wolf Head](../images/hats__z160/SS5_milady_ancient_mongolian_Wolf%20Head.webp)
 
 **Brief Visual Description:** a white-grey furry hat with visible snout and mouth that looks like it’s
 
@@ -3958,7 +4158,9 @@ made of a wolf’s head.
 
 **Name:** mbga
 
-**Image Files:** SS1_MBGA.png
+**Image Files:**
+
+![SS1 MBGA](../images/hats__z160/SS1_MBGA.webp)
 
 **Brief Visual Description:** a deep red cap with white text that reads “MAKE BITCOIN GREAT
 
@@ -3998,7 +4200,9 @@ AGAIN”.
 
 **Name:** obb dripping honey
 
-**Image Files:** SS5_OBB Dripping Honey.png
+**Image Files:**
+
+![SS5 OBB Dripping Honey](../images/hats__z160/SS5_OBB%20Dripping%20Honey.webp)
 
 **Brief Visual Description:** a lid of a clear jar with a dripping yellow liquid that seems to be
 
@@ -4038,7 +4242,9 @@ honey.
 
 **Name:** regal crown
 
-**Image Files:** SS5_Regal Crown.png
+**Image Files:**
+
+![SS5 Regal Crown](../images/hats__z160/SS5_Regal%20Crown.webp)
 
 **Brief Visual Description:** a regal crown; red on the inside with gold plating and framing on the
 
@@ -4078,7 +4284,9 @@ outside, adorned with white sparkly gems.
 
 **Name:** darkfi
 
-**Image Files:** SS3_Darkfi.png
+**Image Files:**
+
+![SS3 Darkfi](../images/hats__z160/SS3_Darkfi.webp)
 
 **Brief Visual Description:** a black cap with white graphic of an upside down triangle with an eye
 
@@ -4156,7 +4364,9 @@ in the middle of it, and a text in old-school gothic font on the side that reads
 
 **Name:** aori
 
-**Image Files:** SS3_Aori.PNG
+**Image Files:**
+
+![SS3 Aori](../images/hats__z160/SS3_Aori.webp)
 
 **Brief Visual Description:** a black cap with white graphic in the middle that looks like an ‘S’ and
 
@@ -4196,7 +4406,9 @@ an ‘O’ connected with an ‘I’ inside of it.
 
 **Name:** ramen finance bowl
 
-**Image Files:** SS3_Ramen Finance Bowl.PNG
+**Image Files:**
+
+![SS3 Ramen Finance Bowl](../images/hats__z160/SS3_Ramen%20Finance%20Bowl.webp)
 
 **Brief Visual Description:** an upside down white bowl with red logo on it that looks like a bowl in
 
@@ -4236,7 +4448,9 @@ front of a flower. A yellow line runs across the edge of the bowl.
 
 **Name:** bozito cave off
 
-**Image Files:** SS4_bozito cave off.PNG
+**Image Files:**
+
+![SS4 bozito cave off](../images/hats__z160/SS4_bozito%20cave%20off.webp)
 
 **Brief Visual Description:** a big hood in the shape of a dead bear head, seen through the ‘dead
 
@@ -4276,7 +4490,9 @@ eyes’ and patched part in the middle. White bangs poke out of the hood on the 
 
 **Name:** satan
 
-**Image Files:** SS4_freetekno_modern_satanist_Satan.png
+**Image Files:**
+
+![modern satanist Satan](../images/hats__z160/SS4_freetekno_modern_satanist_Satan.webp)
 
 **Brief Visual Description:** a deep red hood with white horn poking out on each side..
 
@@ -4320,7 +4536,9 @@ eyes’ and patched part in the middle. White bangs poke out of the hood on the 
 
 **Name:** los bullas
 
-**Image Files:** SS4_los bullas.PNG
+**Image Files:**
+
+![SS4 los bullas](../images/hats__z160/SS4_los%20bullas.webp)
 
 **Brief Visual Description:** a black cap with white text in fancy font that reads “Los Bullas”.
 
@@ -4358,7 +4576,9 @@ eyes’ and patched part in the middle. White bangs poke out of the hood on the 
 
 **Name:** devon head
 
-**Image Files:** SS4_freetekno_Devon Head.png
+**Image Files:**
+
+![Devon Head](../images/hats__z160/SS4_freetekno_Devon%20Head.webp)
 
 **Brief Visual Description:** an oversized bear head in the colour of bright beige / light shade of
 
@@ -4398,7 +4618,9 @@ brown.
 
 **Name:** berahorses bucket
 
-**Image Files:** SS3_Berahorses Bucket.PNG
+**Image Files:**
+
+![SS3 Berahorses Bucket](../images/hats__z160/SS3_Berahorses%20Bucket.webp)
 
 **Brief Visual Description:** an orange bucket hat with lighter orange text with black outline that
 
@@ -4438,7 +4660,9 @@ reads “Neigh”
 
 **Name:** yeet bucket
 
-**Image Files:** SS3_Yeet Bucket.png
+**Image Files:**
+
+![SS3 Yeet Bucket](../images/hats__z160/SS3_Yeet%20Bucket.webp)
 
 **Brief Visual Description:** a pale yellow bucket hat with the Yeet logo and text in the middle. A
 
@@ -4478,7 +4702,9 @@ graphic of a yellow creature’s head with uneven crossed eyes, ears, and a droo
 
 **Name:** reimu syndicate
 
-**Image Files:** SS2_Reimu Syndicate.PNG
+**Image Files:**
+
+![SS2 Reimu Syndicate](../images/hats__z160/SS2_Reimu%20Syndicate.webp)
 
 **Brief Visual Description:** greyish white cap with blue graphic of hearts and the text “REiMU
 
@@ -4518,7 +4744,9 @@ syndicate” on it.
 
 **Name:** dread pirates bandana
 
-**Image Files:** SS4_chicagodetroit_Dread Pirates Bandana.png
+**Image Files:**
+
+![Dread Pirates Bandana](../images/hats__z160/SS4_chicagodetroit_Dread%20Pirates%20Bandana.webp)
 
 **Brief Visual Description:** plain black durag that connects to a black eye mask with big holes
 
@@ -4558,7 +4786,9 @@ around the eyes area.
 
 **Name:** ketamine kneecap up the ra balaclava
 
-**Image Files:** SS4_ ketamine kneecap up the ra balaclava .PNG
+**Image Files:**
+
+![SS4  ketamine kneecap up the ra balaclava ](../images/hats__z160/SS4_%20ketamine%20kneecap%20up%20the%20ra%20balaclava%20.webp)
 
 **Brief Visual Description:** a balaclava in the Irish flag colour and pattern; green, white, orange.
 
@@ -4596,7 +4826,9 @@ around the eyes area.
 
 **Name:** indian
 
-**Image Files:** SS4_chicagodetroit_Indian.png
+**Image Files:**
+
+![Indian](../images/hats__z160/SS4_chicagodetroit_Indian.webp)
 
 **Brief Visual Description:** a plain orange turban / dastar. Garment wrapped around the head.
 
@@ -4634,7 +4866,9 @@ around the eyes area.
 
 **Name:** strawberry
 
-**Image Files:** SS2_milady_Strawberry.png
+**Image Files:**
+
+![Strawberry](../images/hats__z160/SS2_milady_Strawberry.webp)
 
 **Brief Visual Description:** a strawberry-shaped hat that covers the entire head but the face.
 
@@ -4672,7 +4906,9 @@ around the eyes area.
 
 **Name:** smokey durag
 
-**Image Files:** SS5_Smokey Durag.PNG
+**Image Files:**
+
+![SS5 Smokey Durag](../images/hats__z160/SS5_Smokey%20Durag.webp)
 
 **Brief Visual Description:** a tight black durag with small white text that reads “OOGA BOOGA”
 
@@ -4712,7 +4948,9 @@ with funky font on it.
 
 **Name:** baby bera
 
-**Image Files:** SS3_chicagodetroit_Baby Bera.png
+**Image Files:**
+
+![Baby Bera](../images/hats__z160/SS3_chicagodetroit_Baby%20Bera.webp)
 
 **Brief Visual Description:** a black cap with babybera graphic in the middle; a dark grey bear in
 
@@ -4752,7 +4990,9 @@ relaxed pose and smiley expression
 
 **Name:** sunra
 
-**Image Files:** SS5_chicagodetroit_Sunra.png
+**Image Files:**
+
+![Sunra](../images/hats__z160/SS5_chicagodetroit_Sunra.webp)
 
 **Brief Visual Description:** a sun ra headdress; a headdress mainly in gold with cover / flap on
 
@@ -4796,7 +5036,9 @@ circular shape charm.
 
 **Name:** hamas
 
-**Image Files:** SS5_Hamas.png
+**Image Files:**
+
+![SS5 Hamas](../images/hats__z160/SS5_Hamas.webp)
 
 **Brief Visual Description:** a face cover made of red and white scarf showing only the eyes part,
 

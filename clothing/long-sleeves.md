@@ -1388,7 +1388,7 @@ the past. His art ranges from music to physical objects.
 
 **Image Files:**
 
-![Sun Kigu](../images/shirts__z50%20(LONG)/SS5_milady_Sun%20Kigu.webp)
+![Sun Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Sun%20Kigu.webp)
 
 **Brief Visual Description:** Bear onesie in dark brown with the hood up and sparkly eyes.
 
@@ -1420,7 +1420,7 @@ the past. His art ranges from music to physical objects.
 
 **Image Files:**
 
-![Polar Kigu](../images/shirts__z50%20(LONG)/SS5_milady_Polar%20Kigu.webp)
+![Polar Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Polar%20Kigu.webp)
 
 **Brief Visual Description:** Polar bear onesie in white with the hood up and sparkly eyes.
 
@@ -1452,7 +1452,7 @@ the past. His art ranges from music to physical objects.
 
 **Image Files:**
 
-![Brown Kigu](../images/shirts__z50%20(LONG)/SS5_milady_Brown%20Kigu.webp)
+![Brown Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Brown%20Kigu.webp)
 
 **Brief Visual Description:** Bear onesie in darker brown with the hood up.
 
@@ -1484,7 +1484,7 @@ the past. His art ranges from music to physical objects.
 
 **Image Files:**
 
-![Panda Kigu](../images/shirts__z50%20(LONG)/SS5_milady_Panda%20Kigu.webp)
+![Panda Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Panda%20Kigu.webp)
 
 **Brief Visual Description:** Panda onesie in black and white with the hood up.
 
@@ -1516,7 +1516,7 @@ the past. His art ranges from music to physical objects.
 
 **Image Files:**
 
-![cute kigu](../images/shirts__z50%20(LONG)/SS4_milady_cute%20kigu.webp)
+![cute kigu](../images/shirts__z50%20(KIGU)/SS4_milady_cute%20kigu.webp)
 
 **Brief Visual Description:** Bear onesie with the hood up in light beige.
 
@@ -1550,7 +1550,7 @@ the past. His art ranges from music to physical objects.
 
 **Image Files:**
 
-![Fable](../images/shirts__z50%20(LONG)/SS5_Fable.webp)
+![Fable](../images/shirts__z50%20(KIGU)/SS5_Fable.webp)
 
 **Brief Visual Description:** Purple onesie with the hood up and brown bear ears and thick brown
 
@@ -1718,7 +1718,7 @@ million, they speak the Mongolian language and have a rich history as nomadic pa
 
 **Image Files:**
 
-![Orthodox Robe](../images/shirts__z50%20(LONG)/SS5_Orthodox%20Robe.webp)
+![Orthodox Robe](../images/shirts__z50%20(ROBES)/SS5_Orthodox%20Robe.webp)
 
 **Brief Visual Description:** Black long robe with white accents and lining, mainly of symbolism /
 
@@ -1864,7 +1864,7 @@ cultural movement that emerged in Jamaica in the 1930s among African descendants
 
 **Image Files:**
 
-![Black Niqab](../images/shirts__z50%20(LONG)/SS5_milady_Black%20Niqab.webp)
+![Black Niqab](../images/shirts__z50%20(ROBES)/SS5_milady_Black%20Niqab.webp)
 
 **Brief Visual Description:** Plain black niqab. Head and face cover that drapes down the head.
 

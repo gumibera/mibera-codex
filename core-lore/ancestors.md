@@ -1086,21 +1086,23 @@ Drugs Representations / Associated
 
 **Time Period:**
 
-**- Modern:** 2020 - 2024
+**- Modern:** 2021 - 2024
 
-**Locations Associated:** The Mibera Universe, digital realm
+**Locations Associated:** Ethereum blockchain, Berachain L1, digital realm
 
 **Figures Associated:**
 
-- The Bong Bear collective; a cast of over 100 unique bear characters within the Mibera universe, each representing different aspects of stoner culture, music scenes, and countercultural aesthetics.
+- Smokey The Bera & Papa Bear; two pseudonymous OlympusDAO community members who created the original Bong Bears collection in 2021. What began as 107 NFTs of bears smoking bongs (priced at 0.069420 ETH) evolved into Berachain — a novel L1 blockchain that raised $142 million from investors including Polychain Capital and Framework Ventures.
 
 **Events Associated / Significant Cultural Impact:**
 
-1. The Bong Bear phenomenon represents the intersection of cannabis culture, NFT art, and character-based collectibles. Each bear embodies elements of rave culture, psychedelia, and chill vibes — serving as mascots for the Mibera ethos.
+1. The Bong Bears origin story; launched in 2021 as a playful NFT collection by OlympusDAO degens, Bong Bears unexpectedly became the foundation for Berachain — proving how meme culture and genuine innovation can coexist in crypto. The collection's irreverent humor attracted a dedicated builder community.
 
-2. The bears serve as accessible entry points into the Mibera world, blending cute aesthetics with counterculture references — from tie-dye patterns to peace symbols to the iconic marijuana leaf motif.
+2. The Rebase mechanism; Bong Bear holders received airdrops of subsequent collections — Bond Bears, Boo Bears, Baby Bears, Band Bears, and Bit Bears — creating a unique loyalty system. With only 4,713 NFTs across all collections, these function as "founder passes" within the Berachain ecosystem.
 
-**Fashion Icons / Symbolism:** Peace sign jewelry, tie-dye patterns, marijuana leaf motifs, bucket hats, colorful unbuttoned shirts, bongs, joints, crowns
+3. The BERA airdrop; 6.9% of Berachain's total token supply (34.5 million BERA) was allocated to Bong Bear and rebase collection holders — rewarding early believers and cementing the NFTs' status as blue-chip crypto assets.
+
+**Fashion Icons / Symbolism:** Bear imagery, bong motifs, honey/honeycomb patterns, 420/69 number references, Berachain logo, stoner bear aesthetic
 
 Drugs Representations / Associated
 
@@ -1110,7 +1112,8 @@ Drugs Representations / Associated
 
 **Sources:**
 
-- Internal Mibera lore
+- https://docs.berachain.com/learn/berachain-nfts
+- https://www.dwf-labs.com/research/451-berachain-blockchain-nft-collections-overview
 
 ---
 

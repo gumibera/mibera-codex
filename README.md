@@ -1,47 +1,37 @@
 # The Mibera Codex
 
-> *A comprehensive guide to the world of Mibera Maker*
+Documentation for Mibera Maker, an NFT project with 1,337+ traits.
 
-[![GitBook](https://img.shields.io/badge/GitBook-Docs-blue)](https://gitbook.com)
+## Categories
 
----
+**Core Lore** — Archetypes, Ancestors, Tarot Cards
 
-## About
+**Overlays** — Elements, Astrology, Ranking System
 
-Mibera Maker is an esoteric NFT project featuring over 1,337 unique traits woven together through a rich tapestry of cultural, historical, and subcultural lore. The project draws from diverse influences including rave culture, ancient civilizations, psychedelic history, and contemporary digital art movements.
+**Character Traits** — Body, Eyes, Eyebrows, Mouth, Hair, Tattoos
 
-This Codex serves as the definitive reference guide to all things Mibera, documenting every trait, ancestor, archetype, and the stories behind them.
+**Accessories** — Hats, Glasses, Masks, Earrings, Face Accessories
 
-## Structure
+**Clothing** — Long Sleeves, Short Sleeves, Simple Shirts
 
-```
-├── core-lore/           # Archetypes, Ancestors, Tarot Cards
-├── overlays/            # Elements, Astrology, Ranking System
-├── character-traits/    # Body, Eyes, Eyebrows, Mouth, Hair, Tattoos
-├── accessories/         # Hats, Glasses, Masks, Earrings, Face Accessories
-├── clothing/            # Long Sleeves, Short Sleeves, Simple Shirts
-├── items/               # General Items, Bong Bears
-├── backgrounds/         # Environmental backdrops
-├── drugs/               # Modern Drugs, Drug Pairings
-├── special-collections/ # Featured Projects & Partners
-└── visual-elements/     # Fonts
-```
+**Items** — General Items, Bong Bears
 
-## Stats
+**Backgrounds** — Environmental backdrops
 
-- **1,552 entries** across 35 source documents
-- **4 Archetypes**: Freetekno, Acid House, Chicago Detroit, Milady
-- **37 Ancestors**: Cultural lineages from Hindu to Sami
-- **214+ Bong Bears**: Unique character variants
+**Drugs** — Modern Drugs, Drug Pairings
+
+**Special Collections** — Featured Projects & Partners
+
+**Visual Elements** — Fonts
+
+## Drug-Tarot System
+
+78 tarot cards mapped to 78 drugs. Each card includes drug name, molecule, suit, element, and meaning. Drugs classified as Ancient (38), Modern (35), or Both (5).
 
 ## Contributing
 
-Contributions are welcome! Please read the existing entries to understand the format, then submit a Pull Request.
+Submit a Pull Request.
 
 ## License
 
 © Mibera Maker. All rights reserved.
-
----
-
-*Version 1.0 - January 2025*

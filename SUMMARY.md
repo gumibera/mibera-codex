@@ -2,6 +2,9 @@
 
 * [The Mibera Codex](README.md)
 
+## Miberas
+* [All Miberas](miberas/index.md)
+
 ## Core Lore & Framework
 * [Archetypes](core-lore/archetypes.md)
 * [Ancestors](core-lore/ancestors.md)

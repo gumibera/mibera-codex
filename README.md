@@ -1,6 +1,14 @@
 # The Mibera Codex
 
-Documentation for Mibera Maker, an NFT project with 1,337+ traits.
+Documentation for Mibera Maker, an NFT project with 1,337+ traits and 10,000 unique Miberas.
+
+## Miberas
+
+Individual entries for all 10,000 Mibera NFTs, each featuring:
+- **Reveal Gallery** — Visual timeline showing each reveal stage side by side
+- **Traits** — Complete metadata including archetype, ancestor, astrology, swag rank, and all visual attributes
+
+[Browse all Miberas →](miberas/index.md)
 
 ## Categories
 

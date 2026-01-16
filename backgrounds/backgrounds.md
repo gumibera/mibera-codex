@@ -8,7 +8,9 @@
 
 **Name:** Starry
 
-**Image Files:** Starry.png
+**Image Files:**
+
+![Starry](../images/background__z10/Starry.webp)
 
 **Brief Visual Description:** Solid black background with four shiny 4-points stars, and 9 glowing
 
@@ -56,7 +58,9 @@ participants.
 
 **Name:** Clouds
 
-**Image Files:** Clouds.png
+**Image Files:**
+
+![Clouds](../images/background__z10/Clouds.webp)
 
 **Brief Visual Description:** Grassfield and cloudy sky.
 
@@ -80,7 +84,9 @@ participants.
 
 **Name:** Apdao
 
-**Image Files:** apdao.PNG
+**Image Files:**
+
+![Apdao](../images/background__z10/apdao.webp)
 
 **Brief Visual Description:** Plain gradient of dark orange, black, and dark teal (colour in order
 
@@ -126,7 +132,9 @@ through a community-driven governance model.
 
 **Name:** Kaieteur
 
-**Image Files:** kaieteur.PNG
+**Image Files:**
+
+![Kaieteur](../images/background__z10/kaieteur.webp)
 
 **Brief Visual Description:** Painting-like scenery of a waterfall seen from behind some bushes.
 
@@ -156,7 +164,9 @@ it’s a major tourist attraction, accessible by plane or trek.
 
 **Name:** No More Walls
 
-**Image Files:** no more walls.png
+**Image Files:**
+
+![No More Walls](../images/background__z10/no%20more%20walls.webp)
 
 **Brief Visual Description:** Glimpse of a starry night sky in dark navy blue with a hue of white.
 
@@ -186,7 +196,9 @@ culture.
 
 **Name:** Fyre Festival
 
-**Image Files:** fyre festival.PNG
+**Image Files:**
+
+![Fyre Festival](../images/background__z10/fyre%20festival.webp)
 
 **Brief Visual Description:** Top point-of-view of the ocean and a huge pool going across the
 
@@ -224,7 +236,9 @@ imprisonment.
 
 **Name:** Ford
 
-**Image Files:** ford.png
+**Image Files:**
+
+![Ford](../images/background__z10/ford.webp)
 
 **Brief Visual Description:** View of what looks like the front side of a building with a metallic
 
@@ -254,7 +268,9 @@ gate, and a huge ‘FORD’ sign standing tall.
 
 **Name:** El Dorado
 
-**Image Files:** el dorado.PNG
+**Image Files:**
+
+![El Dorado](../images/background__z10/el%20dorado.webp)
 
 **Brief Visual Description:** Golden pyramid-like site in the background, red-brown stone
 
@@ -290,7 +306,9 @@ a hidden city.
 
 **Name:** Stonehenge
 
-**Image Files:** Stonehenge.png
+**Image Files:**
+
+![Stonehenge](../images/background__z10/Stonehenge.webp)
 
 **Brief Visual Description:** Painting-like view of the Stonehenge (basically stacked gigantic
 
@@ -328,7 +346,9 @@ aligning with the solstices.
 
 **Name:** Factory
 
-**Image Files:** factory.png
+**Image Files:**
+
+![Factory](../images/background__z10/factory.webp)
 
 **Brief Visual Description:** Front-view from the street, of a building with windows and orange
 
@@ -358,7 +378,9 @@ walls.
 
 **Name:** Sunrise
 
-**Image Files:** Sunrise.png
+**Image Files:**
+
+![Sunrise](../images/background__z10/Sunrise.webp)
 
 **Brief Visual Description:** Blurry view of what appears to be a huge field of grass meeting a
 
@@ -388,7 +410,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Background%22,%
 
 **Name:** Rave 3
 
-**Image Files:** rave 3.png
+**Image Files:**
+
+![Rave 3](../images/background__z10/rave%203.webp)
 
 **Brief Visual Description:** Abstract combination of vibrant color that looks like stroking lights in
 
@@ -418,7 +442,9 @@ red, blue, pink, green, and yellow, with black at the bottom that looks like the
 
 **Name:** Rave 2
 
-**Image Files:** rave 2.png
+**Image Files:**
+
+![Rave 2](../images/background__z10/rave%202.webp)
 
 **Brief Visual Description:** Bright white light in the center with a vibrant turquoise background,
 
@@ -446,7 +472,9 @@ and black shadowy figures filling half the frame.
 
 **Name:** Rave 1
 
-**Image Files:** rave 1.png
+**Image Files:**
+
+![Rave 1](../images/background__z10/rave%201.webp)
 
 **Brief Visual Description:** Abstract painterly style with solid black background and large bright
 
@@ -478,7 +506,9 @@ right corner.
 
 **Name:** Rock Walls
 
-**Image Files:** Rock Walls.png
+**Image Files:**
+
+![Rock Walls](../images/background__z10/Rock%20Walls.webp)
 
 **Brief Visual Description:** Dark tunnel with yellow-ish rock walls with carvings on them.
 
@@ -514,7 +544,9 @@ clear rocky fields for farming and to create boundaries for livestock and crops.
 
 **Name:** Sunset
 
-**Image Files:** Sunset.png
+**Image Files:**
+
+![Sunset](../images/background__z10/Sunset.webp)
 
 **Brief Visual Description:** Blurry view of greenery in deep green on the half bottom, and a sky
 
@@ -544,7 +576,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Background%22,%
 
 **Name:** Undersea Cable
 
-**Image Files:** undersea cable.PNG
+**Image Files:**
+
+![Undersea Cable](../images/background__z10/undersea%20cable.webp)
 
 **Brief Visual Description:** Very thick blue cable with thin yellow stripes on it cut / snapped into
 
@@ -568,7 +602,9 @@ two, showing smaller wires poking out of them. The background setting is soft oc
 
 **Name:** Uluru
 
-**Image Files:** Uluru.png
+**Image Files:**
+
+![Uluru](../images/background__z10/Uluru.webp)
 
 **Brief Visual Description:** Big red mountain of rock / sandstone in a smooth rounded shape,
 
@@ -600,7 +636,9 @@ reddish-brown surface changes color with the sunlight, especially at sunrise and
 
 **Name:** Roadside
 
-**Image Files:** Roadside.png
+**Image Files:**
+
+![Roadside](../images/background__z10/Roadside.webp)
 
 **Brief Visual Description:** Painterly style of a roadside. Grey road with greeneries on each side
 
@@ -630,7 +668,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Background%22,%
 
 **Name:** Twelve Apostles
 
-**Image Files:** twelve apostles.PNG
+**Image Files:**
+
+![Twelve Apostles](../images/background__z10/twelve%20apostles.webp)
 
 **Brief Visual Description:** Abstract, painterly style of a coastal scene with tall brown rock
 
@@ -664,7 +704,9 @@ collapses in 2005 and 2009.
 
 **Name:** Techno City
 
-**Image Files:** techno city.png
+**Image Files:**
+
+![Techno City](../images/background__z10/techno%20city.webp)
 
 **Brief Visual Description:** Front view of a building with many windows and a huge banner in
 
@@ -692,7 +734,9 @@ collapses in 2005 and 2009.
 
 **Name:** Mississippi River
 
-**Image Files:** mississippi river.PNG
+**Image Files:**
+
+![Mississippi River](../images/background__z10/mississippi%20river.webp)
 
 **Brief Visual Description:** Top view of the Mississippi river.
 
@@ -722,7 +766,9 @@ America, stretches about 2,340 miles (3,766 km) from Minnesota to the Gulf of Me
 
 **Name:** Freetekno
 
-**Image Files:** freetekno.png
+**Image Files:**
+
+![Freetekno](../images/background__z10/freetekno.webp)
 
 **Brief Visual Description:** Dark background, with a red anarchy symbol on the top right (an ‘A’
 
@@ -750,7 +796,9 @@ a big circle equivalent to the size of the 4 black squares next to it.
 
 **Name:** River Boyne
 
-**Image Files:** river boyne.PNG
+**Image Files:**
+
+![River Boyne](../images/background__z10/river%20boyne.webp)
 
 **Brief Visual Description:** Painterly style scenery of a river, overlooking greeneries and a grey
 
@@ -780,7 +828,9 @@ site of the 1690 Battle of the Boyne.
 
 **Name:** Peyote
 
-**Image Files:** peyote.png
+**Image Files:**
+
+![Peyote](../images/background__z10/peyote.webp)
 
 **Brief Visual Description:** Painterly abstract style of a bright red and orange gradient, with white
 
@@ -822,7 +872,9 @@ https://en.wikipedia.org/wiki/Native_American_Church#/media/File:Peyote_road.jpg
 
 **Name:** Constellations
 
-**Image Files:** Constellations.png
+**Image Files:**
+
+![Constellations](../images/background__z10/Constellations.webp)
 
 **Brief Visual Description:** Dark blue night sky that meets a pink horizon, with bright
 
@@ -852,7 +904,9 @@ constellations with connected dots (stars) and dark silhouette at the bottom.
 
 **Name:** Detroit
 
-**Image Files:** detroit.png
+**Image Files:**
+
+![Detroit](../images/background__z10/detroit.webp)
 
 **Brief Visual Description:** Red and white building with many windows in black from front-side
 
@@ -878,7 +932,9 @@ point of view, with bright blue sky on top.
 
 **Name:** Bullas
 
-**Image Files:** bullas.PNG
+**Image Files:**
+
+![Bullas](../images/background__z10/bullas.webp)
 
 **Brief Visual Description:** Purple cosmic background with stars, in the middle is an outlined
 
@@ -914,7 +970,9 @@ Berachain’s OG projects shipping NFT collections and a play-to-earn ponzi web 
 
 **Name:** Great Bear Lake
 
-**Image Files:** great bear lake.PNG
+**Image Files:**
+
+![Great Bear Lake](../images/background__z10/great%20bear%20lake.webp)
 
 **Brief Visual Description:** Large snowy landscape with a few houses in terracotta and brown in
 
@@ -948,7 +1006,9 @@ America. The lake, frozen from November to July, supports the Sahtu Dene communi
 
 **Name:** Panama
 
-**Image Files:** panama.PNG
+**Image Files:**
+
+![Panama](../images/background__z10/panama.webp)
 
 **Brief Visual Description:** Large deep blue area that looks like water that stretches across the
 
@@ -986,7 +1046,9 @@ q63
 
 **Name:** Yeet
 
-**Image Files:** Yeet.png
+**Image Files:**
+
+![Yeet](../images/background__z10/Yeet.webp)
 
 **Brief Visual Description:** Golden yellow liquid dripping down in a few chunks.
 
@@ -1016,7 +1078,9 @@ founded by Lord Pemberton, the project launched an NFT collection and a ponzi ga
 
 **Name:** Cave Art
 
-**Image Files:** cave art.png
+**Image Files:**
+
+![Cave Art](../images/background__z10/cave%20art.webp)
 
 **Brief Visual Description:** Brown and beige gradient background with central lighting and 3
 
@@ -1054,7 +1118,9 @@ depicts Dreamtime narratives, using symbols and patterns unique to different reg
 
 **Name:** Great Barrier Reef
 
-**Image Files:** great barrier reef.PNG
+**Image Files:**
+
+![Great Barrier Reef](../images/background__z10/great%20barrier%20reef.webp)
 
 **Brief Visual Description:** Different shades of blue as the ocean with a linear beige sandy
 
@@ -1088,7 +1154,9 @@ and marine life.
 
 **Name:** Tree
 
-**Image Files:** Tree.png
+**Image Files:**
+
+![Tree](../images/background__z10/Tree.webp)
 
 **Brief Visual Description:** Big tree from below / bottom point of view (looking up). Dark navy
 
@@ -1122,7 +1190,9 @@ g-trees-149147
 
 **Name:** Mountain
 
-**Image Files:** Mountain.png
+**Image Files:**
+
+![Mountain](../images/background__z10/Mountain.webp)
 
 **Brief Visual Description:** Big mountain in dark grey / black, on top of a grassy ground and
 
@@ -1152,7 +1222,9 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Background%22,%
 
 **Name:** Milady Rave
 
-**Image Files:** Milady Rave.png
+**Image Files:**
+
+![Milady Rave](../images/background__z10/Milady%20Rave.webp)
 
 **Brief Visual Description:** Light pale green tone, with abstract figures, and a small female
 
@@ -1180,7 +1252,9 @@ from the top.
 
 **Name:** Milady Rave 2
 
-**Image Files:** Milady Rave 2.png
+**Image Files:**
+
+![Milady Rave 2](../images/background__z10/Milady%20Rave%202.webp)
 
 **Brief Visual Description:** Human face with big eyes and small mouth, short hair, in a suit. The
 
@@ -1204,7 +1278,9 @@ figure is radiating light in contrast to the room's dark setting.
 
 **Name:** Midas in Pactolus
 
-**Image Files:** midas in pactolus.PNG
+**Image Files:**
+
+![Midas in Pactolus](../images/background__z10/midas%20in%20pactolus.webp)
 
 **Brief Visual Description:** Painterly scenery of a pond / lake with greenish water, surrounded by
 
@@ -1248,7 +1324,9 @@ https://www.metmuseum.org/art/collection/search/437328#:~:text=According%20to%20
 
 **Name:** Mobile Records
 
-**Image Files:** Mobile Records.png
+**Image Files:**
+
+![Mobile Records](../images/background__z10/Mobile%20Records.webp)
 
 **Brief Visual Description:** Black car with yellow stripe lining at the bottom, and an extending
 
@@ -1292,7 +1370,9 @@ documentary.
 
 **Name:** 7Eleven
 
-**Image Files:** 7Eleven.png
+**Image Files:**
+
+![7Eleven](../images/background__z10/7Eleven.webp)
 
 **Brief Visual Description:** Front view of a minimart with ‘7eleven’ sign on top with 3 thick stripes
 
@@ -1328,7 +1408,7 @@ locations, it has over 80,000 stores worldwide.
 
 **Image Files:**
 
-![Simple Background - TV Glitch](../images/simple/simple%20background/57_simple%20background(4).png)
+![Simple Background - TV Glitch](../images/simple/simple%20background/57_simple%20background(4).webp)
 
 **Brief Visual Description:** a stereotypical TV glitch in vibrant colors.
 
@@ -1338,7 +1418,7 @@ locations, it has over 80,000 stores worldwide.
 
 **Image Files:**
 
-![Simple Background - Dark Grey](../images/simple/simple%20background/57_simple%20background(3).png)
+![Simple Background - Dark Grey](../images/simple/simple%20background/57_simple%20background(3).webp)
 
 **Brief Visual Description:** a textured plain black / dark grey background with central light
 
@@ -1350,7 +1430,7 @@ positioning.
 
 **Image Files:**
 
-![Simple Background - Misty Grey](../images/simple/simple%20background/57_simple%20background(5).png)
+![Simple Background - Misty Grey](../images/simple/simple%20background/57_simple%20background(5).webp)
 
 **Brief Visual Description:** light gray misty upper half and gradually turns to black towards the
 
@@ -1362,7 +1442,7 @@ bottom, with textured, weathered surface and central light positioning.
 
 **Image Files:**
 
-![Simple Background - Grey Fade](../images/simple/simple%20background/57_simple%20background(6).png)
+![Simple Background - Grey Fade](../images/simple/simple%20background/57_simple%20background(6).webp)
 
 **Brief Visual Description:** dark grey fading to light grey downwards with textured weathered
 
@@ -1374,7 +1454,7 @@ surface and subtle speckles.
 
 **Image Files:**
 
-![Simple Background - Teal](../images/simple/simple%20background/57_simple%20background(1).png)
+![Simple Background - Teal](../images/simple/simple%20background/57_simple%20background(1).webp)
 
 **Brief Visual Description:** vibrant teal textured background with strong vignette effect framing it.
 
@@ -1384,7 +1464,7 @@ surface and subtle speckles.
 
 **Image Files:**
 
-![Simple Background - Rainbow](../images/simple/simple%20background/57_simple%20background(2).png)
+![Simple Background - Rainbow](../images/simple/simple%20background/57_simple%20background(2).webp)
 
 **Brief Visual Description:** vibrant rainbow color from top to bottom.
 
@@ -1394,7 +1474,7 @@ surface and subtle speckles.
 
 **Image Files:**
 
-![Simple Background - Golden](../images/simple/simple%20background/57_simple%20background(7).png)
+![Simple Background - Golden](../images/simple/simple%20background/57_simple%20background(7).webp)
 
 **Brief Visual Description:** golden background that grows gradually brighter towards the middle
 
@@ -1408,7 +1488,7 @@ direction.
 
 **Image Files:**
 
-![Simple Background - Pink](../images/simple/simple%20background/57_simple%20background.png)
+![Simple Background - Pink](../images/simple/simple%20background/57_simple%20background.webp)
 
 **Brief Visual Description:** vibrant warm pink textured background with strong vignette effect
 
@@ -1422,7 +1502,9 @@ framing it.
 
 **Name:** Honeyroad
 
-**Image Files:** honeyroad.PNG
+**Image Files:**
+
+![Honeyroad](../images/background__z10/honeyroad.webp)
 
 **Brief Visual Description:** Snap of a website page called ‘Honey Road’ anonymous market,
 
@@ -1450,7 +1532,9 @@ offering wide selections of drugs.
 
 **Name:** Volcano
 
-**Image Files:** volcano.PNG
+**Image Files:**
+
+![Volcano](../images/background__z10/volcano.webp)
 
 **Brief Visual Description:** An erupted volcanic mountain. Bright red lava puking out of the
 
@@ -1474,7 +1558,9 @@ mountain as a big ball of smoke in dark grey can be seen in the sky.
 
 **Name:** Bear Cave
 
-**Image Files:** bear cave.png
+**Image Files:**
+
+![Bear Cave](../images/background__z10/bear%20cave.webp)
 
 **Brief Visual Description:** Flat stone grey wall with a hint of brown, a few thick branches
 
@@ -1498,7 +1584,9 @@ dangling down / poking in. bright orange brushes are stroked around the surface.
 
 **Name:** Swirly
 
-**Image Files:** swirly.png
+**Image Files:**
+
+![Swirly](../images/background__z10/swirly.webp)
 
 **Brief Visual Description:** Dark grey background with green and red semi-transparent wavy
 
@@ -1528,7 +1616,9 @@ lines overlapping each other in a swirly / flowy manner.
 
 **Name:** Record Store
 
-**Image Files:** Record Store.png
+**Image Files:**
+
+![Record Store](../images/background__z10/Record%20Store.webp)
 
 **Brief Visual Description:** Vague monochrome painterly shot of a room with a few downlights,
 
@@ -1562,7 +1652,7 @@ hanging decoration, and racks of items in square shapes.
 
 **Image Files:**
 
-![Aquarius](../images/Constellations/aquarius.PNG)
+![Aquarius](../images/Constellations/aquarius.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1598,7 +1688,7 @@ aloof, with a strong focus on individuality and community betterment.
 
 **Image Files:**
 
-![Pisces](../images/Constellations/pisces.PNG)
+![Pisces](../images/Constellations/pisces.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1632,7 +1722,11 @@ connection to spirituality and imagination.
 
 **Name:** Poppy Field
 
-**Image Files:** poppy field_FRONT.PNG poppy field.PNG
+**Image Files:**
+
+![Poppy Field](../images/background__z10%20%28SCENE%29/poppy%20field.webp)
+
+![Poppy Field Front](../images/background__z10%20%28SCENE%29/poppy%20field_FRONT.webp)
 
 **Brief Visual Description:** Simple scenery of a field of poppies that are yet to bloom. Bright blue
 
@@ -1658,7 +1752,7 @@ sky in the background.
 
 **Image Files:**
 
-![Capricornus](../images/Constellations/capricorn.PNG)
+![Capricornus](../images/Constellations/capricorn.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1692,7 +1786,11 @@ loyal and pragmatic.
 
 **Name:** Prison
 
-**Image Files:** prison_FRONT.PNG prison.PNG
+**Image Files:**
+
+![Prison](../images/background__z10%20%28SCENE%29/prison.webp)
+
+![Prison Front](../images/background__z10%20%28SCENE%29/prison_FRONT.webp)
 
 **Brief Visual Description:** Simple grey background with prison bars in front with 3D effect.
 
@@ -1718,7 +1816,11 @@ am thinking of writing a thorough breakdown on this.
 
 **Name:** Sasha
 
-**Image Files:** sasha_FRONT.PNG sasha.PNG
+**Image Files:**
+
+![Sasha](../images/background__z10%20%28SCENE%29/sasha.webp)
+
+![Sasha Front](../images/background__z10%20%28SCENE%29/sasha_FRONT.webp)
 
 **Brief Visual Description:** Room in mainly the colour of beige / light brown, with a door in the
 
@@ -1746,7 +1848,11 @@ as papers and small brushes in a cup.
 
 **Name:** Castlemorton
 
-**Image Files:** castlemorton_FRONT.PNG castlemorton.PNG
+**Image Files:**
+
+![Castlemorton](../images/background__z10%20%28SCENE%29/castlemorton.webp)
+
+![Castlemorton Front](../images/background__z10%20%28SCENE%29/castlemorton_FRONT.webp)
 
 **Brief Visual Description:** Field of grass with a bus or some sort in the background with a
 
@@ -1794,7 +1900,11 @@ usic-forever
 
 **Name:** Owsley Lab
 
-**Image Files:** owsley lab_FRONT.PNG owsley lab.PNG
+**Image Files:**
+
+![Owsley Lab](../images/background__z10%20%28SCENE%29/owsley%20lab.webp)
+
+![Owsley Lab Front](../images/background__z10%20%28SCENE%29/owsley%20lab_FRONT.webp)
 
 **Brief Visual Description:** Room in mainly the colour of beige / light brown. A poster is seen on
 
@@ -1838,7 +1948,11 @@ Australia until his death in a 2011 car accident at age 76
 
 **Name:** Home Lab
 
-**Image Files:** home lab_FRONT.PNG home lab.PNG
+**Image Files:**
+
+![Home Lab](../images/background__z10%20%28SCENE%29/home%20lab.webp)
+
+![Home Lab Front](../images/background__z10%20%28SCENE%29/home%20lab_FRONT.webp)
 
 **Brief Visual Description:** Empty room with brownish accent and a half=opened curtain in the
 
@@ -1864,7 +1978,11 @@ labeled "Hydrogen Peroxide Solution", a clear tray with blue liquid in it, and a
 
 **Name:** Pacioli
 
-**Image Files:** pacioli_FRONT.PNG pacioli.PNG
+**Image Files:**
+
+![Pacioli](../images/background__z10%20%28SCENE%29/pacioli.webp)
+
+![Pacioli Front](../images/background__z10%20%28SCENE%29/pacioli_FRONT.webp)
 
 **Brief Visual Description:** Black room that includes a black board in the background. In front is
 
@@ -1904,7 +2022,7 @@ co-authoring De Divina Proportione (1509), which explored the golden ratio.
 
 **Image Files:**
 
-![Cancer](../images/Constellations/cancer.PNG)
+![Cancer](../images/Constellations/cancer.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1940,7 +2058,7 @@ a strong sense of security and tradition.
 
 **Image Files:**
 
-![Virgo](../images/Constellations/virgo.PNG)
+![Virgo](../images/Constellations/virgo.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -1978,7 +2096,11 @@ for astro entries in general.
 
 **Name:** Newgrange
 
-**Image Files:** newgrange_FRONT.PNG newgrange.PNG
+**Image Files:**
+
+![Newgrange](../images/background__z10%20%28SCENE%29/newgrange.webp)
+
+![Newgrange Front](../images/background__z10%20%28SCENE%29/newgrange_FRONT.webp)
 
 **Brief Visual Description:** Background made of sandy-colored stones with some carvings on
 
@@ -2014,7 +2136,7 @@ Neolithic engineering and cultural significance.
 
 **Image Files:**
 
-![Libra](../images/Constellations/libra.PNG)
+![Libra](../images/Constellations/libra.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2050,7 +2172,7 @@ cooperative and value partnerships.
 
 **Image Files:**
 
-![Leo](../images/Constellations/leo.PNG)
+![Leo](../images/Constellations/leo.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2084,7 +2206,11 @@ with their enthusiasm.
 
 **Name:** Super Lab
 
-**Image Files:** super lab_FRONT.PNG super lab.PNG
+**Image Files:**
+
+![Super Lab](../images/background__z10%20%28SCENE%29/super%20lab.webp)
+
+![Super Lab Front](../images/background__z10%20%28SCENE%29/super%20lab_FRONT.webp)
 
 **Brief Visual Description:** The room has dim lighting, with 2 control panels attached to a
 
@@ -2112,7 +2238,11 @@ on the scale indicating the weighing process.
 
 **Name:** Jungle Lab
 
-**Image Files:** jungle lab_FRONT.PNG jungle lab.PNG
+**Image Files:**
+
+![Jungle Lab](../images/background__z10%20%28SCENE%29/jungle%20lab.webp)
+
+![Jungle Lab Front](../images/background__z10%20%28SCENE%29/jungle%20lab_FRONT.webp)
 
 **Brief Visual Description:** Jungle setting with four blue drums / barrels, a black tarp on the
 
@@ -2140,7 +2270,11 @@ leaves are framing the scene nicely.
 
 **Name:** Acid Test
 
-**Image Files:** acid test_FRONT.PNG acid test.PNG
+**Image Files:**
+
+![Acid Test](../images/background__z10%20%28SCENE%29/acid%20test.webp)
+
+![Acid Test Front](../images/background__z10%20%28SCENE%29/acid%20test_FRONT.webp)
 
 **Brief Visual Description:** Room full of speakers / sound systems, with a drum-set on the right
 
@@ -2166,7 +2300,7 @@ side in the background; two big old cameras are placed in front, from a first-pe
 
 **Image Files:**
 
-![Ophiuchus](../images/Constellations/ophiuchus.PNG)
+![Ophiuchus](../images/Constellations/ophiuchus.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2204,7 +2338,11 @@ uncommon.
 
 **Name:** Hor Berlin
 
-**Image Files:** hor berlin_FRONT.PNG hor berlin.PNG
+**Image Files:**
+
+![Hor Berlin](../images/background__z10%20%28SCENE%29/hor%20berlin.webp)
+
+![Hor Berlin Front](../images/background__z10%20%28SCENE%29/hor%20berlin_FRONT.webp)
 
 **Brief Visual Description:** Dim moody room with yellow tiled walls, black grid, and red door at
 
@@ -2246,7 +2384,7 @@ emphasizing inclusivity and experimental sound.
 
 **Image Files:**
 
-![Gemini](../images/Constellations/gemini.PNG)
+![Gemini](../images/Constellations/gemini.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2282,7 +2420,7 @@ charming, and excel at connecting ideas and people.
 
 **Image Files:**
 
-![Taurus](../images/Constellations/taurus.PNG)
+![Taurus](../images/Constellations/taurus.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2318,7 +2456,7 @@ pleasures.
 
 **Image Files:**
 
-![Sagittarius](../images/Constellations/sagittarius.PNG)
+![Sagittarius](../images/Constellations/sagittarius.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2354,7 +2492,7 @@ generous, honest, and love exploring diverse cultures and ideas.
 
 **Image Files:**
 
-![Scorpius](../images/Constellations/scorpius.PNG)
+![Scorpius](../images/Constellations/scorpius.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2390,7 +2528,7 @@ or intense but are resourceful and fiercely protective of loved ones.
 
 **Image Files:**
 
-![Aries](../images/Constellations/aries.PNG)
+![Aries](../images/Constellations/aries.webp)
 
 **Brief Visual Description:** Deep blue night sky with bright white 4-points-stars connected by thin
 
@@ -2424,7 +2562,9 @@ thrive on action and challenges.
 
 **Name:** Speakers
 
-**Image Files:** Speakers.png
+**Image Files:**
+
+![Speakers](../images/background__z10/Speakers.webp)
 
 **Brief Visual Description:** Dark room with sound systems / speakers stacked in the
 

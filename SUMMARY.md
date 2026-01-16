@@ -5,6 +5,19 @@
 ## Miberas
 * [All Miberas](miberas/index.md)
 
+## Birthdays
+* [All Birthdays](birthdays/index.md)
+* [Prehistoric Era](birthdays/prehistoric.md)
+* [Ancient World](birthdays/ancient-bce.md)
+* [Classical Antiquity BCE](birthdays/classical-bce.md)
+* [Late Antiquity](birthdays/late-antiquity.md)
+* [Early Medieval](birthdays/early-medieval.md)
+* [Medieval Period](birthdays/medieval.md)
+* [Early Modern](birthdays/early-modern.md)
+* [19th Century](birthdays/19th-century.md)
+* [20th Century](birthdays/20th-century.md)
+* [21st Century](birthdays/21st-century.md)
+
 ## Core Lore & Framework
 * [Archetypes](core-lore/archetypes.md)
 * [Ancestors](core-lore/ancestors.md)

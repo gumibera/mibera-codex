@@ -8,7 +8,9 @@
 
 **Name:** Dark Side
 
-**Image Files:** SS4_freetekno_Dark Side.png
+**Image Files:**
+
+![Dark Side](../images/shirts__z50%20(SHORT)/SS4_freetekno_Dark%20Side.webp)
 
 **Brief Visual Description:** a black t-shirt with white outline of a triangle and a rainbow stroke.
 
@@ -54,7 +56,9 @@ experimentation.
 
 **Name:** Grateful Dead 2
 
-**Image Files:** SS4_acidhouse_Grateful Dead 2.png
+**Image Files:**
+
+![Grateful Dead 2](../images/shirts__z50%20(SHORT)/SS4_acidhouse_Grateful%20Dead%202.webp)
 
 **Brief Visual Description:** Tie-dye t-shirt with graphic of a yellow bear bigger in size in front and
 
@@ -106,7 +110,9 @@ blended rock, folk, blues, jazz, and psychedelia.
 
 **Name:** Egg Brain
 
-**Image Files:** SS3_Egg Brain.png
+**Image Files:**
+
+![Egg Brain](../images/shirts__z50%20(SHORT)/SS3_Egg%20Brain.webp)
 
 **Brief Visual Description:** Bone-white t-shirt with a simple illustration of a sunny-side up egg
 
@@ -140,7 +146,9 @@ and a writing that says “this is my brain… any questions?”.
 
 **Name:** Have a Nice Jay
 
-**Image Files:** SS3_Have a Nice Jay.png
+**Image Files:**
+
+![Have a Nice Jay](../images/shirts__z50%20(SHORT)/SS3_Have%20a%20Nice%20Jay.webp)
 
 **Brief Visual Description:** Bone-white t-shirt with a simple illustration of a yellow smiley figure
 
@@ -176,7 +184,9 @@ capital red.
 
 **Name:** Erowid
 
-**Image Files:** SS3_Erowid.png
+**Image Files:**
+
+![Erowid](../images/shirts__z50%20(SHORT)/SS3_Erowid.webp)
 
 **Brief Visual Description:** White t-shirt with Erowid-themed print on it, in navy blue and orange.
 
@@ -230,7 +240,9 @@ it serves millions of visitors annually without ads.
 
 **Name:** HTRK Night Faces
 
-**Image Files:** SS3_HTRK Night Faces.PNG
+**Image Files:**
+
+![HTRK Night Faces](../images/shirts__z50%20(SHORT)/SS3_HTRK%20Night%20Faces.webp)
 
 **Brief Visual Description:** Charcoal grey t-shirt with line doodles of faces and a screaming man
 
@@ -276,7 +288,9 @@ ambient pop, and dub influences, inspired by David Lynch and post-industrial sou
 
 **Name:** Ruggy
 
-**Image Files:** SS3_Ruggy.png
+**Image Files:**
+
+![Ruggy](../images/shirts__z50%20(SHORT)/SS3_Ruggy.webp)
 
 **Brief Visual Description:** White t-shirt with a print of a cartoon-style bear head in soft orange.
 
@@ -306,7 +320,9 @@ ambient pop, and dub influences, inspired by David Lynch and post-industrial sou
 
 **Name:** Special K
 
-**Image Files:** SS3_acidhouse_Special K.png
+**Image Files:**
+
+![Special K](../images/shirts__z50%20(SHORT)/SS3_acidhouse_Special%20K.webp)
 
 **Brief Visual Description:** White t-shirt with white text that reads “special K.” with the ‘K’ being a
 
@@ -344,7 +360,9 @@ big letter in red and curvy-shaped lettering.
 
 **Name:** Gay Guns Marijuana
 
-**Image Files:** SS3_chicagodetroit_modern_stonewall_Gay Guns Marijuana.png
+**Image Files:**
+
+![modern_stonewall_Gay Guns Marijuana](../images/shirts__z50%20(SHORT)/SS3_chicagodetroit_modern_stonewall_Gay%20Guns%20Marijuana.webp)
 
 **Brief Visual Description:** White t-shirt with graphic in green, showing 2 guys in a circle with 1
 
@@ -396,7 +414,9 @@ aGIlTGP2eVF-k
 
 **Name:** Ibiza
 
-**Image Files:** SS3_Ibiza.PNG
+**Image Files:**
+
+![Ibiza](../images/shirts__z50%20(SHORT)/SS3_Ibiza.webp)
 
 **Brief Visual Description:** Creamy white t-shirt with a colourful graphic of a character in the
 
@@ -434,7 +454,9 @@ hherLO0ehg4vE5IyWCOnGo0n1TNhcZJpFW_V
 
 **Name:** Microdose
 
-**Image Files:** SS3_acidhouse_microdose.png
+**Image Files:**
+
+![microdose](../images/shirts__z50%20(SHORT)/SS3_acidhouse_microdose.webp)
 
 **Brief Visual Description:** White t-shirt with red graphic of a smiley face with bear ears and text
 
@@ -496,7 +518,9 @@ spreading globally via online communities (Reddit's r/microdosing).
 
 **Name:** RAF
 
-**Image Files:** SS3_freetekno_RAF.png
+**Image Files:**
+
+![RAF](../images/shirts__z50%20(SHORT)/SS3_freetekno_RAF.webp)
 
 **Brief Visual Description:** Black t-shirt with “RAF” in bold white written in the middle, in front of
 
@@ -558,7 +582,9 @@ RAF's nihilism, fostering a DIY, anti-authoritarian vibe. Techno raves were seen
 
 **Name:** Owsley Stanley Foundation
 
-**Image Files:** SS3_Owsley Stanley Foundation.PNG
+**Image Files:**
+
+![Owsley Stanley Foundation](../images/shirts__z50%20(SHORT)/SS3_Owsley%20Stanley%20Foundation.webp)
 
 **Brief Visual Description:** Black t-shirt with a red-and-blue graphic with white outlines in the
 
@@ -614,7 +640,9 @@ by donations, it emphasizes sonic clarity and cultural legacy.
 
 **Name:** Eth Waterloo
 
-**Image Files:** SS3_Eth Waterloo.png
+**Image Files:**
+
+![Eth Waterloo](../images/shirts__z50%20(SHORT)/SS3_Eth%20Waterloo.webp)
 
 **Brief Visual Description:** White t-shirt with graphics of 2 bears and a bull, along with text that
 
@@ -648,7 +676,9 @@ reads “ETH WATERLOO” at the top, and “WE’RE SO FKN BACK” at the bottom
 
 **Name:** Shameless Misandrist
 
-**Image Files:** SS3_freetekno_Shameless Misandrist.png
+**Image Files:**
+
+![Shameless Misandrist](../images/shirts__z50%20(SHORT)/SS3_freetekno_Shameless%20Misandrist.webp)
 
 **Brief Visual Description:** Pink t-shirt with blood-red writing that reads “SHAMELESS
 
@@ -696,7 +726,9 @@ oppression, while misandry is a powerless, reactive pushback lacking institution
 
 **Name:** Spiral Tee
 
-**Image Files:** SS3_acidhouse_Spiral Tee.png
+**Image Files:**
+
+![Spiral Tee](../images/shirts__z50%20(SHORT)/SS3_acidhouse_Spiral%20Tee.webp)
 
 **Brief Visual Description:** Black t-shirt with white spiral leading to Mibera logo in the center.
 
@@ -730,7 +762,9 @@ general.
 
 **Name:** Acid Mibera
 
-**Image Files:** SS3_acidhouse_Acid Mibera.png
+**Image Files:**
+
+![Acid Mibera](../images/shirts__z50%20(SHORT)/SS3_acidhouse_Acid%20Mibera.webp)
 
 **Brief Visual Description:** White t-shirt with black text that reads ‘ACID’ and a big yellow smiley
 
@@ -764,7 +798,9 @@ with bear ears (mibera).
 
 **Name:** Differently
 
-**Image Files:** SS3_Differently.png
+**Image Files:**
+
+![Differently](../images/shirts__z50%20(SHORT)/SS3_Differently.webp)
 
 **Brief Visual Description:** Black tee with rainbow-colored mushroom that’s bitten on one side
 
@@ -800,7 +836,9 @@ and the text “Think Differently” under it.
 
 **Name:** Landback
 
-**Image Files:** SS3_freetekno_modern_nativeAmerican_Landback.png
+**Image Files:**
+
+![modern_nativeAmerican_Landback](../images/shirts__z50%20(SHORT)/SS3_freetekno_modern_nativeAmerican_Landback.webp)
 
 **Brief Visual Description:** Bright orange t-shirt with graphic of the word “landback” lined up
 
@@ -838,7 +876,9 @@ vertically.
 
 **Name:** Bear Down Bears
 
-**Image Files:** SS3_chicagodetroit_Bear Down Bears.png
+**Image Files:**
+
+![Bear Down Bears](../images/shirts__z50%20(SHORT)/SS3_chicagodetroit_Bear%20Down%20Bears.webp)
 
 **Brief Visual Description:** Dark navy t-shirt with old-school graphic text that reads “Bear Down
 
@@ -894,7 +934,9 @@ predating both the song and the team—it's a pun on the Bears' name.
 
 **Name:** Gadsden Flag
 
-**Image Files:** SS3_freetekno_Gadsden Flag.png
+**Image Files:**
+
+![Gadsden Flag](../images/shirts__z50%20(SHORT)/SS3_freetekno_Gadsden%20Flag.webp)
 
 **Brief Visual Description:** Yellow t-shirt of the Gadsden Flag. a graphic of a coiled rattlesnake
 
@@ -946,7 +988,9 @@ The simple meaning would be “Leave me alone or face consequences.”
 
 **Name:** Honey Road
 
-**Image Files:** SS4_Honey Road.png
+**Image Files:**
+
+![Honey Road](../images/shirts__z50%20(SHORT)/SS4_Honey%20Road.webp)
 
 **Brief Visual Description:** Black t-shirt with neon green Honeyroad graphic.
 
@@ -984,7 +1028,9 @@ Honey Road is heavily inspired by Silk Road and is the official website for Mibe
 
 **Name:** Aboriginal
 
-**Image Files:** SS2_freetekno_Aboriginal.png
+**Image Files:**
+
+![Aboriginal](../images/shirts__z50%20(SHORT)/SS2_freetekno_Aboriginal.webp)
 
 **Brief Visual Description:** Black t-shirt with a graphic of an aboriginal flag; black and red flag
 
@@ -1030,7 +1076,9 @@ general meaning of it is unity, strength, and survival of Aboriginal Australians
 
 **Name:** Gay Liberation Front
 
-**Image Files:** SS2_chicagodetroit_modern_stonewall_Gay Liberation Front.png
+**Image Files:**
+
+![modern_stonewall_Gay Liberation Front](../images/shirts__z50%20(SHORT)/SS2_chicagodetroit_modern_stonewall_Gay%20Liberation%20Front.webp)
 
 **Brief Visual Description:** White t-shirt with white text that reads “-IBERATION FRONT text
 
@@ -1072,7 +1120,9 @@ and power.
 
 **Name:** Hugs Not Drugs
 
-**Image Files:** SS2_Hugs Not Drugs.png
+**Image Files:**
+
+![Hugs Not Drugs](../images/shirts__z50%20(SHORT)/SS2_Hugs%20Not%20Drugs.webp)
 
 **Brief Visual Description:** Red t-shirt with a graphic of 3 bears hugging each other and text
 
@@ -1114,7 +1164,9 @@ The Grateful Dead was an iconic American rock band formed in 1965 in San Francis
 
 **Name:** Chicago Bulls
 
-**Image Files:** SS2_chicagodetroit_Chicago Bulls.png
+**Image Files:**
+
+![Chicago Bulls](../images/shirts__z50%20(SHORT)/SS2_chicagodetroit_Chicago%20Bulls.webp)
 
 **Brief Visual Description:** a black t-shirt with a bull logo and the text “CHICAGO BULLS” on top
 
@@ -1154,7 +1206,9 @@ of it, both in red.
 
 **Name:** Remilia Sprite VN
 
-**Image Files:** SS2_milady_Remilia Sprite VN.png
+**Image Files:**
+
+![Remilia Sprite VN](../images/shirts__z50%20(SHORT)/SS2_milady_Remilia%20Sprite%20VN.webp)
 
 **Brief Visual Description:** White t-shirt with a black line graphic of a young lady with huge
 
@@ -1188,7 +1242,9 @@ sparkly eyes and text below it that reads “Remilia Corporation Ltd”.
 
 **Name:** Tie Dye
 
-**Image Files:** SS2_freetekno_Tie Dye.png
+**Image Files:**
+
+![Tie Dye](../images/shirts__z50%20(SHORT)/SS2_freetekno_Tie%20Dye.webp)
 
 **Brief Visual Description:** Tie dye t-shirt in rainbow colour (from center going outwards), with a
 
@@ -1230,7 +1286,9 @@ Mibera logo in the center, of a smiley face with curved ears.
 
 **Name:** Xiaoyun
 
-**Image Files:** SS2_Xiaoyun.png
+**Image Files:**
+
+![Xiaoyun](../images/shirts__z50%20(SHORT)/SS2_Xiaoyun.webp)
 
 **Brief Visual Description:** White t-shirt with a thin table with a variety of combinations of letters
 
@@ -1264,7 +1322,9 @@ and numbers in it.
 
 **Name:** Drugs Not Hugs
 
-**Image Files:** SS2_Drugs Not Hugs.png
+**Image Files:**
+
+![Drugs Not Hugs](../images/shirts__z50%20(SHORT)/SS2_Drugs%20Not%20Hugs.webp)
 
 **Brief Visual Description:** Black t-shirt with text in green that reads “Drugs not Hugs” in a playful
 
@@ -1302,7 +1362,9 @@ the graphics.
 
 **Name:** Mt Gox
 
-**Image Files:** SS2_Mt Gox.png
+**Image Files:**
+
+![Mt Gox](../images/shirts__z50%20(SHORT)/SS2_Mt%20Gox.webp)
 
 **Brief Visual Description:** Creamy white t-shirt with a graphic text that reads “MT.GOX in
 
@@ -1348,7 +1410,9 @@ crypto market. Creditors are still being repaid; as of Oct 2025, the deadline wa
 
 **Name:** Mother
 
-**Image Files:** SS2_Mother Shirt.png
+**Image Files:**
+
+![Mother Shirt](../images/shirts__z50%20(SHORT)/SS2_Mother%20Shirt.webp)
 
 **Brief Visual Description:** White t-shirt with a semi-realism graphic of a koala and its baby in the
 
@@ -1402,7 +1466,9 @@ allowing $MOTHER payments for phones and plans via Sphere Labs and Unreal Mobile
 
 **Name:** Ohabera Jani
 
-**Image Files:** SS4_Ohabera Jani.PNG
+**Image Files:**
+
+![Ohabera Jani](../images/shirts__z50%20(SHORT)/SS4_Ohabera%20Jani.webp)
 
 **Brief Visual Description:** Milky white t-shirt with a cute bear wearing a purple durag and red
 
@@ -1436,7 +1502,9 @@ jacket and Japanese text in a red text-bubble.
 
 **Name:** Yiqun Lisa Yin
 
-**Image Files:** SS2_Yiqun Lisa Yin.png
+**Image Files:**
+
+![Yiqun Lisa Yin](../images/shirts__z50%20(SHORT)/SS2_Yiqun%20Lisa%20Yin.webp)
 
 **Brief Visual Description:** White t-shirt with a thin graphic made of circles and lines connected
 
@@ -1480,7 +1548,9 @@ hash function with Wang Xiaoyun and Hongbo Yu in 2005, demonstrating its vulnera
 
 **Name:** Tonka
 
-**Image Files:** SS4_freetekno_Tonka.png
+**Image Files:**
+
+![Tonka](../images/shirts__z50%20(SHORT)/SS4_freetekno_Tonka.webp)
 
 **Brief Visual Description:** Creamy white t-shirt with red lining on the neck and sleeves, and a
 
@@ -1522,7 +1592,9 @@ tu.be
 
 **Name:** Free Ross
 
-**Image Files:** SS4_Honey Road.png
+**Image Files:**
+
+![Honey Road](../images/shirts__z50%20(SHORT)/SS4_Honey%20Road.webp)
 
 **Brief Visual Description:** Black t-shirt with neon green silkroad logo as the graphic. The logo is
 
@@ -1568,7 +1640,9 @@ illicit goods using Bitcoin.
 
 **Name:** Techno Table
 
-**Image Files:** SS4_Techno Table.PNG
+**Image Files:**
+
+![Techno Table](../images/shirts__z50%20(SHORT)/SS4_Techno%20Table.webp)
 
 **Brief Visual Description:** Bone-white t-shirt with a blue graphic of periodic tables of Tellurium,
 
@@ -1614,7 +1688,9 @@ predicts element behavior in reactions.
 
 **Name:** Mr Acid House
 
-**Image Files:** SS2_acidhouse_Mr Acid House.png
+**Image Files:**
+
+![Mr Acid House](../images/shirts__z50%20(SHORT)/SS2_acidhouse_Mr%20Acid%20House.webp)
 
 **Brief Visual Description:** Washed red t-shirt with a big graphic of a yellow smiley man with his
 
@@ -1652,7 +1728,9 @@ hand on his mouth, and the text “MR. ACID HOUSE” below it.
 
 **Name:** Unclench
 
-**Image Files:** SS4_Unclench.PNG
+**Image Files:**
+
+![Unclench](../images/shirts__z50%20(SHORT)/SS4_Unclench.webp)
 
 **Brief Visual Description:** White t-shirt with graphic text that reads “UNCLENCH YOUR JAW” in
 
@@ -1686,7 +1764,9 @@ a flowy shape, stars around the text, and a Mibera logo under it.
 
 **Name:** Grateful Dead 1
 
-**Image Files:** SS2_acidhouse_Grateful Dead 1.png
+**Image Files:**
+
+![Grateful Dead 1](../images/shirts__z50%20(SHORT)/SS2_acidhouse_Grateful%20Dead%201.webp)
 
 **Brief Visual Description:** White t-shirt with multiple bears in each of the rainbow’s colors,
 
@@ -1730,7 +1810,9 @@ blended rock, folk, blues, jazz, and psychedelia.
 
 **Name:** Tornado Cash
 
-**Image Files:** SS4_Tornado Cash.PNG
+**Image Files:**
+
+![Tornado Cash](../images/shirts__z50%20(SHORT)/SS4_Tornado%20Cash.webp)
 
 **Brief Visual Description:** Black t-shirt with simple spiral symbolism and text in soft light green,
 
@@ -1776,7 +1858,9 @@ source using zero-knowledge proofs (zk-SNARKs).
 
 **Name:** Nazi Pedo Cult
 
-**Image Files:** SS4_Nazi Pedo Cult.png
+**Image Files:**
+
+![Nazi Pedo Cult](../images/shirts__z50%20(SHORT)/SS4_Nazi%20Pedo%20Cult.webp)
 
 **Brief Visual Description:** Black t-shirt with a bright red rectangle in the middle. In it is a lady
 
@@ -1818,7 +1902,9 @@ her that reads “NAZI PEDO CULT”.
 
 **Name:** Free Palestine
 
-**Image Files:** SS2_milady_modern_palestine_Free Palestine.png
+**Image Files:**
+
+![modern_palestine_Free Palestine](../images/shirts__z50%20(SHORT)/SS2_milady_modern_palestine_Free%20Palestine.webp)
 
 **Brief Visual Description:** Black t-shirt a graphic of a fist up in the colour of Palestine’s flag
 
@@ -1854,7 +1940,9 @@ her that reads “NAZI PEDO CULT”.
 
 **Name:** Nirvana
 
-**Image Files:** SS2_freetekno_Nirvana.png
+**Image Files:**
+
+![Nirvana](../images/shirts__z50%20(SHORT)/SS2_freetekno_Nirvana.webp)
 
 **Brief Visual Description:** Black t-shirt with a yellow outline of a smiley face with bear ears,
 
@@ -1896,7 +1984,9 @@ music and scene culture. They’re also heavily tied to drugs such as cocaine.
 
 **Name:** Mascot Jani
 
-**Image Files:** SS2_Mascot Jani.PNG
+**Image Files:**
+
+![Mascot Jani](../images/shirts__z50%20(SHORT)/SS2_Mascot%20Jani.webp)
 
 **Brief Visual Description:** Vibrant red t-shirt with a big graphic of a cute bear head wearing a
 
@@ -1928,7 +2018,9 @@ purple durag.
 
 **Name:** LSD Made Me a Prostitute
 
-**Image Files:** SS4_freetekno_LSD Made Me A Prostitute.png
+**Image Files:**
+
+![LSD Made Me A Prostitute](../images/shirts__z50%20(SHORT)/SS4_freetekno_LSD%20Made%20Me%20A%20Prostitute.webp)
 
 **Brief Visual Description:** Black t-shirt with old-school graphic that focuses on the text “LSD
 
@@ -1966,7 +2058,9 @@ MADE ME A PROSTITUTE”.
 
 **Name:** RAR
 
-**Image Files:** SS2_acidhouse_RAR.png
+**Image Files:**
+
+![RAR](../images/shirts__z50%20(SHORT)/SS2_acidhouse_RAR.webp)
 
 **Brief Visual Description:** White t-shirt with a black star in the middle. On top of it is the word
 
@@ -2006,7 +2100,9 @@ very much Mibera.
 
 **Name:** Ai Weiwei Assange
 
-**Image Files:** SS4_Ai Weiwei Assange.png
+**Image Files:**
+
+![Ai Weiwei Assange](../images/shirts__z50%20(SHORT)/SS4_Ai%20Weiwei%20Assange.webp)
 
 **Brief Visual Description:** Hot fuschia t-shirt with a semi-realism graphic of 2 guys with their
 
@@ -2058,7 +2154,9 @@ Assange's father; calls for his release as a free speech advocate. Assange was f
 
 **Name:** Legalize Catboys
 
-**Image Files:** SS2_milady_Legalize Catboys.png
+**Image Files:**
+
+![Legalize Catboys](../images/shirts__z50%20(SHORT)/SS2_milady_Legalize%20Catboys.webp)
 
 **Brief Visual Description:** Light grey t-shirt with a graphic of 2 male figures as cats with cat ears
 
@@ -2102,7 +2200,9 @@ main channel (now simply Daniel Howell).
 
 **Name:** Nyan Cat
 
-**Image Files:** SS4_Nyan Cat.png
+**Image Files:**
+
+![Nyan Cat](../images/shirts__z50%20(SHORT)/SS4_Nyan%20Cat.webp)
 
 **Brief Visual Description:** Dark blue t-shirt with a big nyan cat on it. A grey cat with a biscuit
 
@@ -2202,7 +2302,9 @@ million views by 2023, inspiring remixes, games, apps, and even a cryptocurrency
 
 **Name:** Charlie Dragon
 
-**Image Files:** SS5_milady_Dragon.png
+**Image Files:**
+
+![Dragon](../images/shirts__z50%20(SHORT)/SS5_milady_Dragon.webp)
 
 **Brief Visual Description:** Black short-sleeved shirt with silky texture and vibrant graphic of
 
@@ -2244,7 +2346,9 @@ Maker
 
 **Name:** Suzuha
 
-**Image Files:** SS1_milady_Suzuha.png
+**Image Files:**
+
+![Suzuha](../images/shirts__z50%20(SHORT)/SS1_milady_Suzuha.webp)
 
 **Brief Visual Description:** Black t-shirt with a big graphic in a rectangular frame of a lady
 
@@ -2278,7 +2382,9 @@ address”.
 
 **Name:** Munitions
 
-**Image Files:** SS5_freetekno_munitions.PNG
+**Image Files:**
+
+![munitions](../images/shirts__z50%20(SHORT)/SS5_freetekno_munitions.webp)
 
 **Brief Visual Description:** Black t-shirt with white text with the head text being “WARNING”,
 
@@ -2330,7 +2436,9 @@ continues it. Released under CC0 license.
 
 **Name:** Motor Detroit
 
-**Image Files:** SS1_chicagodetroit_Motor Detroit.png
+**Image Files:**
+
+![Motor Detroit](../images/shirts__z50%20(SHORT)/SS1_chicagodetroit_Motor%20Detroit.webp)
 
 **Brief Visual Description:** Black t-shirt with a graphic and text that says “MOTOR Detroit” in the
 
@@ -2370,7 +2478,9 @@ middle.
 
 **Name:** IMGNAI Catgirl
 
-**Image Files:** SS2_IMGNAI Catgirl.png
+**Image Files:**
+
+![IMGNAI Catgirl](../images/shirts__z50%20(SHORT)/SS2_IMGNAI%20Catgirl.webp)
 
 **Brief Visual Description:** Black t-shirt with pink graphic of a girl with cat ears on a laptop /
 
@@ -2430,7 +2540,9 @@ LLM-driven intelligence surges toward potential human "enslavement" by AI.
 
 **Name:** Horsey
 
-**Image Files:** SS1_horsey.png
+**Image Files:**
+
+![horsey](../images/shirts__z50%20(SHORT)/SS1_horsey.webp)
 
 **Brief Visual Description:** White t-shirt with a colourful doodle of a brown horse running on a
 
@@ -2468,7 +2580,9 @@ JhIfhPeaPwhMZj15auL520OjyGew
 
 **Name:** Green Dungarees
 
-**Image Files:** SS2_acidhouse_Green Dungarees.png
+**Image Files:**
+
+![Green Dungarees](../images/shirts__z50%20(SHORT)/SS2_acidhouse_Green%20Dungarees.webp)
 
 **Brief Visual Description:** White t-shirt with a tint of green with a leafy green dungarees over it.
 
@@ -2498,7 +2612,9 @@ JhIfhPeaPwhMZj15auL520OjyGew
 
 **Name:** Overall
 
-**Image Files:** SS2_Overalls.png
+**Image Files:**
+
+![Overalls](../images/shirts__z50%20(SHORT)/SS2_Overalls.webp)
 
 **Brief Visual Description:** Jeans-blue overall over a grey t-shirt with short sleeves.
 
@@ -2530,7 +2646,9 @@ JhIfhPeaPwhMZj15auL520OjyGew
 
 **Name:** Red Dungarees
 
-**Image Files:** SS3_acidhouse_Red Dungarees.png
+**Image Files:**
+
+![Red Dungarees](../images/shirts__z50%20(SHORT)/SS3_acidhouse_Red%20Dungarees.webp)
 
 **Brief Visual Description:** White t-shirt with a red dungarees over it..
 
@@ -2562,7 +2680,9 @@ JhIfhPeaPwhMZj15auL520OjyGew
 
 **Name:** Smokey The Bera Shirt
 
-**Image Files:** SS5_chicagodetroit_smokey the bera shirt.PNG
+**Image Files:**
+
+![smokey the bera shirt](../images/shirts__z50%20(SHORT)/SS5_chicagodetroit_smokey%20the%20bera%20shirt.webp)
 
 SS5_chicagodetroit_smokey the bera shirt__z85.PNG
 
@@ -2596,7 +2716,9 @@ and brown. Focusing on a bear figure wearing an adventure hat.
 
 **Name:** Babybera
 
-**Image Files:** SS4_Babybera.PNG
+**Image Files:**
+
+![Babybera](../images/shirts__z50%20(SHORT)/SS4_Babybera.webp)
 
 **Brief Visual Description:** White t-shirt with a graphic of a grey figure with an eerie smile and
 
@@ -2630,7 +2752,9 @@ animal-like nose / mouth / snout, and the words “BABY BERA” framing it.
 
 **Name:** Beraland
 
-**Image Files:** SS2_Beraland.png
+**Image Files:**
+
+![Beraland](../images/shirts__z50%20(SHORT)/SS2_Beraland.webp)
 
 **Brief Visual Description:** Pale purple t-shirt with a big graphic of Beraland logo, a white bear
 
@@ -2664,7 +2788,9 @@ head in the shape of a globe.
 
 **Name:** Beradrome 1
 
-**Image Files:** SS3_milady_Beradrome 1.png
+**Image Files:**
+
+![Beradrome 1](../images/shirts__z50%20(SHORT)/SS3_milady_Beradrome%201.webp)
 
 **Brief Visual Description:** Black t-shirt with a beraland logo on it. A bear head with sparkly
 
@@ -2698,7 +2824,9 @@ almond eyes wearing a purple-green bike helmet..
 
 **Name:** Shogun Baddie
 
-**Image Files:** SS2_Shogun Baddie.PNG
+**Image Files:**
+
+![Shogun Baddie](../images/shirts__z50%20(SHORT)/SS2_Shogun%20Baddie.webp)
 
 **Brief Visual Description:** Black t-shirt with a magenta graphic of a pretty female bear head with
 
@@ -2732,7 +2860,9 @@ a ribbon, some Chinese characters on the side followed by the word “SHOGUN”.
 
 **Name:** Beradrome 2
 
-**Image Files:** SS3_milady_Beradrome 2.png
+**Image Files:**
+
+![Beradrome 2](../images/shirts__z50%20(SHORT)/SS3_milady_Beradrome%202.webp)
 
 **Brief Visual Description:** Vibrant dark purple t-shirt with graphic of a bear head wearing bike
 
@@ -2768,7 +2898,9 @@ helmet slowly fading from right to left and white text under it that reads
 
 **Name:** IVX
 
-**Image Files:** SS3_IVX.PNG
+**Image Files:**
+
+![IVX](../images/shirts__z50%20(SHORT)/SS3_IVX.webp)
 
 **Brief Visual Description:** Vibrant indigo tee with white logo of what looks like a ‘v’ and an
 
@@ -2802,7 +2934,9 @@ upside down ‘v’ next to it.
 
 **Name:** Baddies Crop
 
-**Image Files:** SS3_Baddies Crop.PNG
+**Image Files:**
+
+![Baddies Crop](../images/shirts__z50%20(SHORT)/SS3_Baddies%20Crop.webp)
 
 **Brief Visual Description:** White cropped tank top with v-neck and a small graphic of a bear
 
@@ -2870,7 +3004,9 @@ circular shape with grids made of thin lines in the middle.
 
 **Name:** All Seeing Bullas
 
-**Image Files:** SS3_Bullas.PNG
+**Image Files:**
+
+![Bullas](../images/shirts__z50%20(SHORT)/SS3_Bullas.webp)
 
 **Brief Visual Description:** Deep teal t-shirt with the “Bullas” logo and lettering. A triangle with
 
@@ -2904,7 +3040,9 @@ bull horns extending out of it with an open eyeball.
 
 **Name:** Until Sunrise
 
-**Image Files:** SS3_Sunrise__w1.PNG
+**Image Files:**
+
+![_w1](../images/shirts__z50%20(SHORT)/SS3_Sunrise__w1.webp)
 
 **Brief Visual Description:** Black / nearly-black navy t-shirt with a graphic of a small circle in the
 
@@ -2938,7 +3076,9 @@ middle inside of an outline of a larger circular outline, both in white.
 
 **Name:** Tedism
 
-**Image Files:** SS3_Tedism.PNG
+**Image Files:**
+
+![Tedism](../images/shirts__z50%20(SHORT)/SS3_Tedism.webp)
 
 **Brief Visual Description:** Black T-shirt with white text that reads “TEDISM”.
 
@@ -2970,7 +3110,9 @@ middle inside of an outline of a larger circular outline, both in white.
 
 **Name:** Henlo Jersey
 
-**Image Files:** SS3_Henlo.PNG
+**Image Files:**
+
+![Henlo](../images/shirts__z50%20(SHORT)/SS3_Henlo.webp)
 
 **Brief Visual Description:** Muted purple jersey with ‘HENLO’ in gothic font, worn over a white
 
@@ -3004,7 +3146,9 @@ t-shirt, topped with 2 thin gold chains.
 
 **Name:** Henlo with Chain
 
-**Image Files:** SS4_Henlo with Chain.png
+**Image Files:**
+
+![Henlo with Chain](../images/shirts__z50%20(SHORT)/SS4_Henlo%20with%20Chain.webp)
 
 **Brief Visual Description:** Vibrant purple t-shirt with white “HENLO” text in the middle and a big
 
@@ -3038,7 +3182,9 @@ golden chain with a huge charm in the shape of a honeycomb.
 
 **Name:** Sari
 
-**Image Files:** SS3_milady_Sari.png
+**Image Files:**
+
+![Sari](../images/shirts__z50%20(SHORT)/SS3_milady_Sari.webp)
 
 **Brief Visual Description:** Traditional female Indian attire in green. A green garment wrapped
 
@@ -3088,7 +3234,9 @@ symbolizes cultural identity and versatility.
 
 **Name:** Orange Buddhist
 
-**Image Files:** SS3_acidhouse_Orange Buddhist.PNG
+**Image Files:**
+
+![Orange Buddhist](../images/shirts__z50%20(SHORT)/SS3_acidhouse_Orange%20Buddhist.webp)
 
 **Brief Visual Description:** Orange monk attire. Orange garment wrapped around the body and
 
@@ -3138,7 +3286,9 @@ color (depending on region and sect), the robes are made from patched cloth and 
 
 **Name:** Skirt of Pythia
 
-**Image Files:** SS3_acidhouse_ancient_pythia_Skirt Of Pythia.PNG
+**Image Files:**
+
+![ancient_pythia_Skirt Of Pythia](../images/shirts__z50%20(SHORT)/SS3_acidhouse_ancient_pythia_Skirt%20Of%20Pythia.webp)
 
 **Brief Visual Description:** Piece of brown sleeveless flowy garment, hooked only on one
 
@@ -3196,7 +3346,9 @@ texts like Plutarch’s writings.
 
 **Name:** Star Moon Kaftan
 
-**Image Files:** SS4_chicagodetroit_Star Moon Kaftan.PNG
+**Image Files:**
+
+![Star Moon Kaftan](../images/shirts__z50%20(SHORT)/SS4_chicagodetroit_Star%20Moon%20Kaftan.webp)
 
 **Brief Visual Description:** Black kaftan with moon and star at the bottom and zigzag linings in
 
@@ -3236,7 +3388,9 @@ silvery coloured fabric.
 
 **Name:** Palestinian Jacket
 
-**Image Files:** SS4_freetekno_Palestinian Jacket.PNG
+**Image Files:**
+
+![Palestinian Jacket](../images/shirts__z50%20(SHORT)/SS4_freetekno_Palestinian%20Jacket.webp)
 
 SS4_freetekno_Palestinian Jacket__z85.PNG
 
@@ -3282,7 +3436,9 @@ funky patterns in yellow, orange, and green.
 
 **Name:** Maid
 
-**Image Files:** SS5_milady_Maid.png
+**Image Files:**
+
+![Maid](../images/shirts__z50%20(SHORT)/SS5_milady_Maid.webp)
 
 **Brief Visual Description:** “Maid dress” in black and white. A dress with puffy shoulders and
 
@@ -3318,7 +3474,9 @@ ribbons around the waist. Low neck cutting.
 
 **Name:** Rape
 
-**Image Files:** SS3_milady_Rape.png
+**Image Files:**
+
+![Rape](../images/shirts__z50%20(SHORT)/SS3_milady_Rape.webp)
 
 **Brief Visual Description:** Black shirt with white text that reads “RAPE”.
 
@@ -3368,7 +3526,9 @@ noise, lounge spoofs, and psychedelia.
 
 **Name:** Men Illegal
 
-**Image Files:** SS3_freetekno_Men Illegal.png
+**Image Files:**
+
+![Men Illegal](../images/shirts__z50%20(SHORT)/SS3_freetekno_Men%20Illegal.webp)
 
 **Brief Visual Description:** White t-shirt with black lining on the neck and both ends of sleeves,
 
@@ -3402,7 +3562,9 @@ and a writing that says “-on’t wait until -men are illegal”.
 
 **Name:** Scum
 
-**Image Files:** SS3_freetekno_SCUM.png
+**Image Files:**
+
+![SCUM](../images/shirts__z50%20(SHORT)/SS3_freetekno_SCUM.webp)
 
 **Brief Visual Description:** White t-shirt with black text that reads “SCUM”.
 
@@ -3438,7 +3600,9 @@ and a writing that says “-on’t wait until -men are illegal”.
 
 **Name:** Criminal Records
 
-**Image Files:** SS3_chicagodetroit_Criminal Records Vest.png
+**Image Files:**
+
+![Criminal Records Vest](../images/shirts__z50%20(SHORT)/SS3_chicagodetroit_Criminal%20Records%20Vest.webp)
 
 **Brief Visual Description:** Black vest with white text that reads “CRIMINAL RECORDS” in bold
 
@@ -3478,7 +3642,9 @@ font.
 
 **Name:** I Met God
 
-**Image Files:** SS3_milady_I Met God.png
+**Image Files:**
+
+![I Met God](../images/shirts__z50%20(SHORT)/SS3_milady_I%20Met%20God.webp)
 
 **Brief Visual Description:** Black shirt with white text that reads “I MET GOD AT THE MILADY
 
@@ -3512,7 +3678,9 @@ RAVE”.
 
 **Name:** Fuck Work
 
-**Image Files:** SS3_Fuck Work.png
+**Image Files:**
+
+![Fuck Work](../images/shirts__z50%20(SHORT)/SS3_Fuck%20Work.webp)
 
 **Brief Visual Description:** Black shirt with white text that reads “FUCK WORK”.
 
@@ -3544,7 +3712,9 @@ RAVE”.
 
 **Name:** Old School
 
-**Image Files:** SS3_chicagodetroit_Old School.PNG
+**Image Files:**
+
+![Old School](../images/shirts__z50%20(SHORT)/SS3_chicagodetroit_Old%20School.webp)
 
 **Brief Visual Description:** Black tank top with multiple writings in white, with the biggest one
 
@@ -3578,7 +3748,9 @@ being an underlined ‘Old School’.
 
 **Name:** Bjork
 
-**Image Files:** SS3_Bjork.png
+**Image Files:**
+
+![Bjork](../images/shirts__z50%20(SHORT)/SS3_Bjork.webp)
 
 **Brief Visual Description:** Red t-shirt with white text that reads “Enjoy COCK”.
 
@@ -3610,7 +3782,9 @@ being an underlined ‘Old School’.
 
 **Name:** Wikipedia Editor
 
-**Image Files:** SS3_Wikipedia Editor.png
+**Image Files:**
+
+![Wikipedia Editor](../images/shirts__z50%20(SHORT)/SS3_Wikipedia%20Editor.webp)
 
 **Brief Visual Description:** White t-shirt with big blue text that reads “Wikipedia Editor”.
 
@@ -3642,7 +3816,9 @@ being an underlined ‘Old School’.
 
 **Name:** DARE Rave
 
-**Image Files:** SS3_DARE Rave.png
+**Image Files:**
+
+![DARE Rave](../images/shirts__z50%20(SHORT)/SS3_DARE%20Rave.webp)
 
 **Brief Visual Description:** Black t-shirt with “D.A.R.E” in red written in the upper middle section.
 
@@ -3682,7 +3858,9 @@ ug_Abuse_Resistance_Education_(DARE).png
 
 **Name:** DARE Memecoins
 
-**Image Files:** SS3_ DARE Memecoins.png
+**Image Files:**
+
+![ DARE Memecoins](../images/shirts__z50%20(SHORT)/SS3_%20DARE%20Memecoins.webp)
 
 **Brief Visual Description:** Black t-shirt with “D.A.R.E” in magenta written in the upper middle
 
@@ -3722,7 +3900,9 @@ ug_Abuse_Resistance_Education_(DARE).png
 
 **Name:** Rug Core
 
-**Image Files:** SS3_freetekno_Rug Core.png
+**Image Files:**
+
+![Rug Core](../images/shirts__z50%20(SHORT)/SS3_freetekno_Rug%20Core.webp)
 
 **Brief Visual Description:** Black t-shirt with text in red in the middle that says “rug core” in a
 
@@ -3756,7 +3936,9 @@ playful font.
 
 **Name:** Virgin
 
-**Image Files:** SS3_Virgin.png
+**Image Files:**
+
+![Virgin](../images/shirts__z50%20(SHORT)/SS3_Virgin.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “CRYPTO IS FOR VIRGINS” in
 
@@ -3790,7 +3972,9 @@ bold font.
 
 **Name:** Black is Beautiful
 
-**Image Files:** SS3_freetekno_Black Is Beautiful.png
+**Image Files:**
+
+![Black Is Beautiful](../images/shirts__z50%20(SHORT)/SS3_freetekno_Black%20Is%20Beautiful.webp)
 
 **Brief Visual Description:** Black t-shirt with text in white that says “BLACK IS BEAUTIFUL”.
 
@@ -3832,7 +4016,9 @@ bold font.
 
 **Name:** Music Box Vest
 
-**Image Files:** SS2_chicagodetroit_Music Box Vest.PNG
+**Image Files:**
+
+![Music Box Vest](../images/shirts__z50%20(SHORT)/SS2_chicagodetroit_Music%20Box%20Vest.webp)
 
 **Brief Visual Description:** White tank / vest with text in black that reads “MUSIC BOX”.
 
@@ -3872,7 +4058,9 @@ bold font.
 
 **Name:** Palestinians for Black Power
 
-**Image Files:** SS2_acidhouse_modern_palestine_Palestinians For Black Power.png
+**Image Files:**
+
+![modern_palestine_Palestinians For Black Power](../images/shirts__z50%20(SHORT)/SS2_acidhouse_modern_palestine_Palestinians%20For%20Black%20Power.webp)
 
 **Brief Visual Description:** a black t-shirt with white text that reads “PALESTINIANS for BLACK
 
@@ -3912,7 +4100,9 @@ POWER” and an Arabic script under it.
 
 **Name:** Reborn
 
-**Image Files:** SS2_milady_Reborn.png
+**Image Files:**
+
+![Reborn](../images/shirts__z50%20(SHORT)/SS2_milady_Reborn.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “I WAS REBORN AT THE
 
@@ -3950,7 +4140,9 @@ MILADY RAVE” on it .
 
 **Name:** True Love Found
 
-**Image Files:** SS2_milady_True Love.png
+**Image Files:**
+
+![True Love](../images/shirts__z50%20(SHORT)/SS2_milady_True%20Love.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “I FOUND TRUE LOVE AT
 
@@ -3988,7 +4180,9 @@ THE MILADY RAVE” on it .
 
 **Name:** K-Holed
 
-**Image Files:** SS2_milady_K-holed.png
+**Image Files:**
+
+![K-holed](../images/shirts__z50%20(SHORT)/SS2_milady_K-holed.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “I K-HOLED AT THE MILADY
 
@@ -4026,7 +4220,9 @@ RAVE” on it .
 
 **Name:** I Was Mibera
 
-**Image Files:** SS2_milady_I Was Mibera.png
+**Image Files:**
+
+![I Was Mibera](../images/shirts__z50%20(SHORT)/SS2_milady_I%20Was%20Mibera.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “I WAS MIBERA AT THE
 
@@ -4064,7 +4260,9 @@ MILADY RAVE” on it .
 
 **Name:** Future Rug Core
 
-**Image Files:** SS2_freetekno_Future Rug Core.png
+**Image Files:**
+
+![Future Rug Core](../images/shirts__z50%20(SHORT)/SS2_freetekno_Future%20Rug%20Core.webp)
 
 **Brief Visual Description:** Black t-shirt with red text that says “THE FUTURE IS RUGCORE” in
 
@@ -4098,7 +4296,9 @@ thin font.
 
 **Name:** Sonora
 
-**Image Files:** SS2_milady_Sonora.png
+**Image Files:**
+
+![Sonora](../images/shirts__z50%20(SHORT)/SS2_milady_Sonora.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “I HELD HANDS WITH
 
@@ -4136,7 +4336,9 @@ MILADY SONORA AT THE MILADY RAVE” on it .
 
 **Name:** Future Ladyboy
 
-**Image Files:** SS2_milady_Future Ladyboy.png
+**Image Files:**
+
+![Future Ladyboy](../images/shirts__z50%20(SHORT)/SS2_milady_Future%20Ladyboy.webp)
 
 **Brief Visual Description:** Black t-shirt with red text that says “THE FUTURE IS LADYBOY” in
 
@@ -4180,7 +4382,9 @@ Future Is Ladyboy" tees.
 
 **Name:** Arabs for Black Power
 
-**Image Files:** SS2_acidhouse_modern_arabs_Arabs For Black Power.png
+**Image Files:**
+
+![modern_arabs_Arabs For Black Power](../images/shirts__z50%20(SHORT)/SS2_acidhouse_modern_arabs_Arabs%20For%20Black%20Power.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads “ARABS for BLACK POWER”
 
@@ -4220,7 +4424,9 @@ and an Arabic script under it.
 
 **Name:** Jury Nullification
 
-**Image Files:** SS2_freetekno_Jury Nullification.png
+**Image Files:**
+
+![Jury Nullification](../images/shirts__z50%20(SHORT)/SS2_freetekno_Jury%20Nullification.webp)
 
 **Brief Visual Description:** White t-shirt with black text that reads “GOOGLE JURY
 
@@ -4272,7 +4478,9 @@ from many different sides so are taking the aesthetic and narrative even deeper 
 
 **Name:** School Sucks
 
-**Image Files:** SS2_School Sucks.png
+**Image Files:**
+
+![School Sucks](../images/shirts__z50%20(SHORT)/SS2_School%20Sucks.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that says “SCHOOL SUCKS” in bold font.
 
@@ -4304,7 +4512,9 @@ from many different sides so are taking the aesthetic and narrative even deeper 
 
 **Name:** Wicked
 
-**Image Files:** SS2_freetekno_Wicked.png
+**Image Files:**
+
+![Wicked](../images/shirts__z50%20(SHORT)/SS2_freetekno_Wicked.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that says “WICKED” in graffiti style.
 
@@ -4342,7 +4552,9 @@ from many different sides so are taking the aesthetic and narrative even deeper 
 
 **Name:** Future is Accessible
 
-**Image Files:** SS1_freetekno_Future Is Accessible.png
+**Image Files:**
+
+![Future Is Accessible](../images/shirts__z50%20(SHORT)/SS1_freetekno_Future%20Is%20Accessible.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that says “THE FUTURE IS
 
@@ -4414,7 +4626,9 @@ WOMEN”.
 
 **Name:** Top Signal
 
-**Image Files:** SS1_milady_top signal.PNG
+**Image Files:**
+
+![top signal](../images/shirts__z50%20(SHORT)/SS1_milady_top%20signal.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that reads ”APY 1,420,690,808,000%”.
 
@@ -4446,7 +4660,9 @@ WOMEN”.
 
 **Name:** DiY
 
-**Image Files:** SS1_freetekno_DiY.PNG
+**Image Files:**
+
+![DiY](../images/shirts__z50%20(SHORT)/SS1_freetekno_DiY.webp)
 
 **Brief Visual Description:** Black t-shirt with big white text that says “DiY” in bold font.
 
@@ -4486,7 +4702,9 @@ WOMEN”.
 
 **Name:** Crypto Anarchist
 
-**Image Files:** SS1_Crypto Anarchist.png
+**Image Files:**
+
+![Crypto Anarchist](../images/shirts__z50%20(SHORT)/SS1_Crypto%20Anarchist.webp)
 
 **Brief Visual Description:** White t-shirt with barely visible lines or paragraphs, with the title that
 
@@ -4520,7 +4738,9 @@ reads “The Crypto Anarchist Manifesto”.
 
 **Name:** Autistic Fuck
 
-**Image Files:** SS5_Autistic Fuck.PNG
+**Image Files:**
+
+![Autistic Fuck](../images/shirts__z50%20(SHORT)/SS5_Autistic%20Fuck.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that says “AUTISTIC AND READY TO
 
@@ -4554,7 +4774,9 @@ FUCK” in thin font.
 
 **Name:** Not Gay
 
-**Image Files:** SS1_Not Gay.png
+**Image Files:**
+
+![Not Gay](../images/shirts__z50%20(SHORT)/SS1_Not%20Gay.webp)
 
 **Brief Visual Description:** Black t-shirt with white text that says “I’M NOT GAY BUT WHEN I
 
@@ -4622,7 +4844,9 @@ MACHINE”.
 
 **Name:** Autism and a Gun
 
-**Image Files:** SS1_Autism and a Gun.png
+**Image Files:**
+
+![Autism and a Gun](../images/shirts__z50%20(SHORT)/SS1_Autism%20and%20a%20Gun.webp)
 
 **Brief Visual Description:** White t-shirt with black text that says “PLEASE BE PATIENT I HAVE
 
@@ -4656,7 +4880,9 @@ AUTISM AND A GUN IN MY POCKET”.
 
 **Name:** Pink Vest
 
-**Image Files:** SS1_chicagodetroit_Pink Vest.png
+**Image Files:**
+
+![Pink Vest](../images/shirts__z50%20(SHORT)/SS1_chicagodetroit_Pink%20Vest.webp)
 
 **Brief Visual Description:** Plain pink vest / tank top.
 

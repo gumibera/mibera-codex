@@ -8,7 +8,9 @@
 
 **Name:** Blue Velvet Suit
 
-**Image Files:** SS3_chicagodetroit_Blue Velvet Suit.png
+**Image Files:**
+
+![Blue Velvet Suit](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Blue%20Velvet%20Suit.webp)
 
 SS3_chicagodetroit_Blue Velvet Suit__z85.png
 
@@ -58,7 +60,9 @@ a cornerstone of electronic dance music.
 
 **Name:** Keith Haring Shirt
 
-**Image Files:** SS3_chicagodetroit_Keith Harding Shirt.PNG
+**Image Files:**
+
+![Keith Harding Shirt](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Keith%20Harding%20Shirt.webp)
 
 SS3_chicagodetroit_Keith Harding Shirt__z85.PNG
 
@@ -112,7 +116,9 @@ sex, and anti-discrimination.
 
 **Name:** Green Baggy Jacket
 
-**Image Files:** SS3_milady_Green Baggy Jacket.png
+**Image Files:**
+
+![Green Baggy Jacket](../images/shirts__z50%20(LONG)/SS3_milady_Green%20Baggy%20Jacket.webp)
 
 SS3_milady_Green Baggy Jacket__z85.png
 
@@ -158,7 +164,9 @@ ce-for-diasporic-south-asians
 
 **Name:** Heavens Gate
 
-**Image Files:** SS3_Heavens Gate.png SS3_Heavens Gate__z85.png
+**Image Files:**
+
+![Heavens Gate.png SS3_Heavens Gate__z85](../images/shirts__z50%20(LONG)/SS3_Heavens%20Gate.png%20SS3_Heavens%20Gate__z85.webp)
 
 **Brief Visual Description:** Plain pink long-sleeves with a button by the neck..
 
@@ -228,7 +236,9 @@ collectibles.
 
 **Name:** Magenta Suit
 
-**Image Files:** SS3_milady_Magenta Suit__z85.png SS3_milady_Magenta Suit.png
+**Image Files:**
+
+![Magenta Suit__z85.png SS3_milady_Magenta Suit](../images/shirts__z50%20(LONG)/SS3_milady_Magenta%20Suit__z85.png%20SS3_milady_Magenta%20Suit.webp)
 
 **Brief Visual Description:** Deep magenta suit with a tie with the same colour as the suit and
 
@@ -262,7 +272,9 @@ satirically. Milady being one of our archetypes.
 
 **Name:** Seoul Olympics
 
-**Image Files:** SS3_acidhouse_Seoul Olympics.PNG
+**Image Files:**
+
+![Seoul Olympics](../images/shirts__z50%20(LONG)/SS3_acidhouse_Seoul%20Olympics.webp)
 
 SS3_acidhouse_Seoul Olympics__z85.PNG
 
@@ -318,7 +330,9 @@ early prototype for the rave format.
 
 **Name:** Aphexkitty
 
-**Image Files:** SS3_aphexkitty.PNG SS3_aphexkitty__z85.PNG
+**Image Files:**
+
+![aphexkitty.PNG SS3_aphexkitty__z85](../images/shirts__z50%20(LONG)/SS3_aphexkitty.PNG%20SS3_aphexkitty__z85.webp)
 
 **Brief Visual Description:** Long sleeves in bone-white with a big hello-kitty graphic wearing pink
 
@@ -358,7 +372,9 @@ IDM, techno, ambient, and experimental music. Hello Kitty is a Japanese cartoon 
 
 **Name:** Tracksuit 1
 
-**Image Files:** SS3_acidhouse_Tracksuit 1.PNG SS3_acidhouse_Tracksuit 1__z85.PNG
+**Image Files:**
+
+![Tracksuit 1.PNG SS3_acidhouse_Tracksuit 1__z85](../images/shirts__z50%20(LONG)/SS3_acidhouse_Tracksuit%201.PNG%20SS3_acidhouse_Tracksuit%201__z85.webp)
 
 **Brief Visual Description:** Purple tracksuit in dark purple with old-school graphic in bright neon
 
@@ -406,7 +422,9 @@ music, despite initial resistance from mainstream media.
 
 **Name:** Aum Cult
 
-**Image Files:** SS3_Aum Cult.png SS3_Aum Cult__z85.png
+**Image Files:**
+
+![Aum Cult.png SS3_Aum Cult__z85](../images/shirts__z50%20(LONG)/SS3_Aum%20Cult.png%20SS3_Aum%20Cult__z85.webp)
 
 **Brief Visual Description:** Plain white long sleeves with silky complexion.
 
@@ -452,7 +470,9 @@ members were executed in 2018; remnants persist under surveillance as a terroris
 
 **Name:** Cool
 
-**Image Files:** SS3_milady_Cool__z85.png SS3_milady_Cool.png
+**Image Files:**
+
+![Cool__z85.png SS3_milady_Cool](../images/shirts__z50%20(LONG)/SS3_milady_Cool__z85.png%20SS3_milady_Cool.webp)
 
 **Brief Visual Description:** Yellow shirt with black patch on one side at the top and black triangle
 
@@ -490,7 +510,9 @@ INTO THIS <3
 
 **Name:** Headstrong
 
-**Image Files:** SS3_acidhouse_Headstrong.PNG SS3_acidhouse_Headstrong__z85.PNG
+**Image Files:**
+
+![Headstrong.PNG SS3_acidhouse_Headstrong__z85](../images/shirts__z50%20(LONG)/SS3_acidhouse_Headstrong.PNG%20SS3_acidhouse_Headstrong__z85.webp)
 
 **Brief Visual Description:** Red and white long-sleeves with circular graphic in the middle and
 
@@ -528,7 +550,9 @@ words in between them that reads “-FOR THE -EADSTRONG”.
 
 **Name:** Shiny Cult
 
-**Image Files:** SS3_freetekno_Shiny cult__z85.PNG SS3_freetekno_Shiny cult.PNG
+**Image Files:**
+
+![Shiny cult__z85.PNG SS3_freetekno_Shiny cult](../images/shirts__z50%20(LONG)/SS3_freetekno_Shiny%20cult__z85.PNG%20SS3_freetekno_Shiny%20cult.webp)
 
 **Brief Visual Description:** Plain white long sleeves with shiny complexion.
 
@@ -560,7 +584,9 @@ words in between them that reads “-FOR THE -EADSTRONG”.
 
 **Name:** Fruits Remilia Hoodie
 
-**Image Files:** SS3_milady_Fruits Remilia Hoodie.PNG
+**Image Files:**
+
+![Fruits Remilia Hoodie](../images/shirts__z50%20(LONG)/SS3_milady_Fruits%20Remilia%20Hoodie.webp)
 
 SS3_milady_Fruits Remilia Hoodie__z85.PNG
 
@@ -606,7 +632,9 @@ Remilia's digital characters.
 
 **Name:** William Gibson Jacket
 
-**Image Files:** SS4_freetekno_William Gibson Jacket.PNG
+**Image Files:**
+
+![William Gibson Jacket](../images/shirts__z50%20(LONG)/SS4_freetekno_William%20Gibson%20Jacket.webp)
 
 SS4_freetekno_William Gibson Jacket_z85.PNG
 
@@ -650,7 +678,9 @@ widely credited with pioneering the science fiction subgenre known as cyberpunk.
 
 **Name:** Tight Leather Jacket
 
-**Image Files:** SS3_chicagodetroit_Tight Leather Jacket.png
+**Image Files:**
+
+![Tight Leather Jacket](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Tight%20Leather%20Jacket.webp)
 
 SS3_chicagodetroit_Tight Leather Jacket__z85.png
 
@@ -690,7 +720,9 @@ blending punk’s edge with the city’s harsh winters.
 
 **Name:** Dark Green Suit
 
-**Image Files:** SS2_milady_Dark Green Suit.PNG
+**Image Files:**
+
+![Dark Green Suit](../images/shirts__z50%20(LONG)/SS2_milady_Dark%20Green%20Suit.webp)
 
 SS2_milady_Dark Green Suit__z85.PNG
 
@@ -726,7 +758,9 @@ satirically. Milady being one of our archetypes.
 
 **Name:** Gola
 
-**Image Files:** SS3_acidhouse_Gola.png SS3_acidhouse_Gola__z85.png
+**Image Files:**
+
+![Gola.png SS3_acidhouse_Gola__z85](../images/shirts__z50%20(LONG)/SS3_acidhouse_Gola.png%20SS3_acidhouse_Gola__z85.webp)
 
 **Brief Visual Description:** Indigo tracksuit with zipper in the middle; teal and red accents going
 
@@ -770,7 +804,9 @@ in an article by DJ Mag about Irish acts and underground talents.
 
 **Name:** Jani Jacket
 
-**Image Files:** SS4_chicagodetroit_Jani Jacket.PNG
+**Image Files:**
+
+![Jani Jacket](../images/shirts__z50%20(LONG)/SS4_chicagodetroit_Jani%20Jacket.webp)
 
 SS4_chicagodetroit_Jani Jacket__z85.PNG
 
@@ -806,7 +842,9 @@ brains behind Mibera lore and creation.
 
 **Name:** Kraftwerk
 
-**Image Files:** SS3_chicagodetroit_Kraftwerk.png
+**Image Files:**
+
+![Kraftwerk](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Kraftwerk.webp)
 
 SS3_chicagodetroit_Kraftwerk__z85.png
 
@@ -866,7 +904,9 @@ auto industry and post-industrial decay.
 
 **Name:** Black Turtleneck
 
-**Image Files:** SS2_chicagodetroit_Black Turtleneck.PNG
+**Image Files:**
+
+![Black Turtleneck](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_Black%20Turtleneck.webp)
 
 SS2_chicagodetroit_Black Turtleneck__z85.PNG
 
@@ -914,7 +954,9 @@ Everly.
 
 **Name:** Dark Suit
 
-**Image Files:** SS5_Dark Suit.PNG SS5_Dark Suit__z85.PNG
+**Image Files:**
+
+![Dark Suit.PNG SS5_Dark Suit__z85](../images/shirts__z50%20(LONG)/SS5_Dark%20Suit.PNG%20SS5_Dark%20Suit__z85.webp)
 
 **Brief Visual Description:** Sleek almost-black suit with a hint of blue. Underneath is a dark navy
 
@@ -948,7 +990,9 @@ satirically. Milady being one of our archetypes.
 
 **Name:** Chicago Bears Long
 
-**Image Files:** SS4_chicagodetroit_Chicago Bears Long.PNG
+**Image Files:**
+
+![Chicago Bears Long](../images/shirts__z50%20(LONG)/SS4_chicagodetroit_Chicago%20Bears%20Long.webp)
 
 SS4_chicagodetroit_Chicago Bears Long__z85.PNG
 
@@ -994,7 +1038,9 @@ team in the NFL's NFC North, founded in 1920 as the Decatur Staleys in Illinois.
 
 **Name:** Bitcoin Jacket
 
-**Image Files:** SS5_acidhouse_Bitcoin Jacket.PNG
+**Image Files:**
+
+![Bitcoin Jacket](../images/shirts__z50%20(LONG)/SS5_acidhouse_Bitcoin%20Jacket.webp)
 
 SS5_acidhouse_Bitcoin Jacket__z85.PNG
 
@@ -1042,7 +1088,9 @@ community driven meme-coin on the Ethereum blockchain that was launched in late 
 
 **Name:** Trippy
 
-**Image Files:** SS5_acidhouse_Trippy.PNG SS5_acidhouse_Trippy__z85.PNG
+**Image Files:**
+
+![Trippy.PNG SS5_acidhouse_Trippy__z85](../images/shirts__z50%20(LONG)/SS5_acidhouse_Trippy.PNG%20SS5_acidhouse_Trippy__z85.webp)
 
 **Brief Visual Description:** Long sleeves in dark grey / purple with trippy patterns; tiny red dots,
 
@@ -1074,7 +1122,9 @@ blue lines and curves, and white almond shapes. All filling the shirt.
 
 **Name:** Henlo Jersey
 
-**Image Files:** SS3_Henlo.PNG
+**Image Files:**
+
+![Henlo](../images/shirts__z50%20(LONG)/SS3_Henlo.webp)
 
 **Brief Visual Description:** Muted purple jersey with ‘HENLO’ in gothic font, worn over a white
 
@@ -1108,7 +1158,9 @@ t-shirt, topped with 2 thin gold chains.
 
 **Name:** 80s Detroit Jersey
 
-**Image Files:** SS3_chicagodetroit_80s Detroit Jersey.PNG
+**Image Files:**
+
+![80s Detroit Jersey](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Detroit%20Jersey.webp)
 
 **Brief Visual Description:** Blue basketball jersey with white lining around the neck and sleeves
 
@@ -1142,7 +1194,9 @@ archetypes.
 
 **Name:** Chicago Jersey
 
-**Image Files:** SS3_chicagodetroit_80s Chicago Jersey.PNG
+**Image Files:**
+
+![80s Chicago Jersey](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Chicago%20Jersey.webp)
 
 **Brief Visual Description:** Vibrant red basketball jersey that reads “Chicago” in cursive lettering
 
@@ -1176,7 +1230,9 @@ archetypes.
 
 **Name:** Arc Jersey
 
-**Image Files:** SS3_arc jersey.png SS3_arc jersey__z85.png
+**Image Files:**
+
+![arc jersey.png SS3_arc jersey__z85](../images/shirts__z50%20(LONG)/SS3_arc%20jersey.png%20SS3_arc%20jersey__z85.webp)
 
 **Brief Visual Description:** Black jersey with short sleeves and the number 69 big in the middle
 
@@ -1208,7 +1264,9 @@ under the text “ARC” in purple. On each sleeve are thick stripes in light gr
 
 **Name:** Mibera Spiral Hockey
 
-**Image Files:** SS2_Mibera Spiral Hockey.PNG SS2_Mibera Spiral Hockey__z85.PNG
+**Image Files:**
+
+![Mibera Spiral Hockey.PNG SS2_Mibera Spiral Hockey__z85](../images/shirts__z50%20(LONG)/SS2_Mibera%20Spiral%20Hockey.PNG%20SS2_Mibera%20Spiral%20Hockey__z85.webp)
 
 **Brief Visual Description:** Hockey jersey in white with thick yellow, green, and blue stripes
 
@@ -1242,7 +1300,9 @@ center.
 
 **Name:** Baby Bera Hockey
 
-**Image Files:** SS4_milady_Baby Bera Hockey.png
+**Image Files:**
+
+![Baby Bera Hockey](../images/shirts__z50%20(LONG)/SS4_milady_Baby%20Bera%20Hockey.webp)
 
 SS4_milady_Baby Bera Hockey__z85.png
 
@@ -1282,7 +1342,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Baby Bera Jacket
 
-**Image Files:** SS3_Babybera Jacket.PNG SS3_Babybera Jacket__z85.PNG
+**Image Files:**
+
+![Babybera Jacket.PNG SS3_Babybera Jacket__z85](../images/shirts__z50%20(LONG)/SS3_Babybera%20Jacket.PNG%20SS3_Babybera%20Jacket__z85.webp)
 
 **Brief Visual Description:** Soft-looking bomber jacket in soft pink and creamy white. On it can
 
@@ -1324,7 +1386,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Sun Kigu
 
-**Image Files:** SS5_milady_Sun Kigu.png SS5_milady_Sun Kigu__z85.png
+**Image Files:**
+
+![Sun Kigu.png SS5_milady_Sun Kigu__z85](../images/shirts__z50%20(LONG)/SS5_milady_Sun%20Kigu.png%20SS5_milady_Sun%20Kigu__z85.webp)
 
 **Brief Visual Description:** Bear onesie in dark brown with the hood up and sparkly eyes.
 
@@ -1354,7 +1418,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Polar Kigu
 
-**Image Files:** SS5_milady_Polar Kigu.png SS5_milady_Polar Kigu__z85.png
+**Image Files:**
+
+![Polar Kigu.png SS5_milady_Polar Kigu__z85](../images/shirts__z50%20(LONG)/SS5_milady_Polar%20Kigu.png%20SS5_milady_Polar%20Kigu__z85.webp)
 
 **Brief Visual Description:** Polar bear onesie in white with the hood up and sparkly eyes.
 
@@ -1384,7 +1450,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Brown Kigu
 
-**Image Files:** SS5_milady_Brown Kigu__z85.png SS5_milady_Brown Kigu.png
+**Image Files:**
+
+![Brown Kigu__z85.png SS5_milady_Brown Kigu](../images/shirts__z50%20(LONG)/SS5_milady_Brown%20Kigu__z85.png%20SS5_milady_Brown%20Kigu.webp)
 
 **Brief Visual Description:** Bear onesie in darker brown with the hood up.
 
@@ -1414,7 +1482,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Panda Kigu
 
-**Image Files:** SS5_milady_Panda Kigu__z85.PNG SS5_milady_Panda Kigu.PNG
+**Image Files:**
+
+![Panda Kigu__z85.PNG SS5_milady_Panda Kigu](../images/shirts__z50%20(LONG)/SS5_milady_Panda%20Kigu__z85.PNG%20SS5_milady_Panda%20Kigu.webp)
 
 **Brief Visual Description:** Panda onesie in black and white with the hood up.
 
@@ -1444,7 +1514,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Cute Kigu
 
-**Image Files:** SS4_milady_cute kigu__z85.PNG SS4_milady_cute kigu.PNG
+**Image Files:**
+
+![cute kigu__z85.PNG SS4_milady_cute kigu](../images/shirts__z50%20(LONG)/SS4_milady_cute%20kigu__z85.PNG%20SS4_milady_cute%20kigu.webp)
 
 **Brief Visual Description:** Bear onesie with the hood up in light beige.
 
@@ -1476,7 +1548,9 @@ the past. His art ranges from music to physical objects.
 
 **Name:** Fable
 
-**Image Files:** SS5_Fable.PNG SS5_Fable__z85.PNG
+**Image Files:**
+
+![Fable.PNG SS5_Fable__z85](../images/shirts__z50%20(LONG)/SS5_Fable.PNG%20SS5_Fable__z85.webp)
 
 **Brief Visual Description:** Purple onesie with the hood up and brown bear ears and thick brown
 
@@ -1556,7 +1630,9 @@ seen on the shoulder, and the pad.
 
 **Name:** Chinese
 
-**Image Files:** SS3_acidhouse_Chinese.PNG SS3_acidhouse_Chinese__z85.PNG
+**Image Files:**
+
+![Chinese.PNG SS3_acidhouse_Chinese__z85](../images/shirts__z50%20(LONG)/SS3_acidhouse_Chinese.PNG%20SS3_acidhouse_Chinese__z85.webp)
 
 **Brief Visual Description:** Black tang suit (long sleeve shirt with mandarin collar and buttons),
 
@@ -1596,7 +1672,9 @@ cultural events, or festivals.
 
 **Name:** Silver Mongolian
 
-**Image Files:** SS3_chicagodetroit_Silver Mongolian__w6.PNG
+**Image Files:**
+
+![Silver Mongolian__w6](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Silver%20Mongolian__w6.webp)
 
 SS3_chicagodetroit_Silver Mongolian__z85.PNG
 
@@ -1638,7 +1716,9 @@ million, they speak the Mongolian language and have a rich history as nomadic pa
 
 **Name:** Orthodox Robe
 
-**Image Files:** SS5_Orthodox Robe__z85.PNG SS5_Orthodox Robe.PNG
+**Image Files:**
+
+![Orthodox Robe__z85.PNG SS5_Orthodox Robe](../images/shirts__z50%20(LONG)/SS5_Orthodox%20Robe__z85.PNG%20SS5_Orthodox%20Robe.webp)
 
 **Brief Visual Description:** Black long robe with white accents and lining, mainly of symbolism /
 
@@ -1690,7 +1770,9 @@ achieve union with God.
 
 **Name:** Peyote Patterned
 
-**Image Files:** SS3_freetekno_Peyote Patterned.PNG
+**Image Files:**
+
+![Peyote Patterned](../images/shirts__z50%20(LONG)/SS3_freetekno_Peyote%20Patterned.webp)
 
 SS3_freetekno_Peyote Patterned__z85.PNG
 
@@ -1738,7 +1820,9 @@ used for millennia by indigenous peoples in religious and medicinal rituals.
 
 **Name:** Rasta
 
-**Image Files:** SS3_chicagodetroit_Rasta.png SS3_chicagodetroit_Rasta__z85.png
+**Image Files:**
+
+![Rasta.png SS3_chicagodetroit_Rasta__z85](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Rasta.png%20SS3_chicagodetroit_Rasta__z85.webp)
 
 **Brief Visual Description:** Tri-color long sleeves in red, yellow, and green, in order from left to
 
@@ -1778,7 +1862,9 @@ cultural movement that emerged in Jamaica in the 1930s among African descendants
 
 **Name:** Black Niqab
 
-**Image Files:** SS5_milady_Black Niqab.png SS5_milady_Black Niqab__z85.png
+**Image Files:**
+
+![Black Niqab.png SS5_milady_Black Niqab__z85](../images/shirts__z50%20(LONG)/SS5_milady_Black%20Niqab.png%20SS5_milady_Black%20Niqab__z85.webp)
 
 **Brief Visual Description:** Plain black niqab. Head and face cover that drapes down the head.
 
@@ -1826,7 +1912,9 @@ dayi-jessica-beshir-interview
 
 **Name:** Sufi
 
-**Image Files:** SS4_freetekno_Sufi.PNG SS4_freetekno_Sufi__z85.PNG
+**Image Files:**
+
+![Sufi.PNG SS4_freetekno_Sufi__z85](../images/shirts__z50%20(LONG)/SS4_freetekno_Sufi.PNG%20SS4_freetekno_Sufi__z85.webp)
 
 **Brief Visual Description:** Garments and robes in vibrant red and green with cool tone, draping
 
@@ -1874,7 +1962,9 @@ the Middle East, and North Africa.
 
 **Name:** Buddhist Techno
 
-**Image Files:** SS4_acidhouse_buddhist techno.PNG
+**Image Files:**
+
+![buddhist techno](../images/shirts__z50%20(LONG)/SS4_acidhouse_buddhist%20techno.webp)
 
 SS4_acidhouse_buddhist techno__z85.PNG
 
@@ -1922,7 +2012,9 @@ and electronic soundscapes, celebrating spiritual-tech fusion for 500 attendees.
 
 **Name:** Tassles
 
-**Image Files:** SS2_chicagodetroit_tassles__z85.PNG SS2_chicagodetroit_tassles.PNG
+**Image Files:**
+
+![tassles__z85.PNG SS2_chicagodetroit_tassles](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_tassles__z85.PNG%20SS2_chicagodetroit_tassles.webp)
 
 **Brief Visual Description:** Garment in light beige to blue gradient with tassels dangling over the
 
@@ -1964,7 +2056,9 @@ traditional Mongolian attire. Mongolian are one of Mibera ancestor types.
 
 **Name:** Sadhu
 
-**Image Files:** SS2_chicagodetroit_Sadhu.png SS2_chicagodetroit_Sadhu__z85.png
+**Image Files:**
+
+![Sadhu.png SS2_chicagodetroit_Sadhu__z85](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_Sadhu.png%20SS2_chicagodetroit_Sadhu__z85.webp)
 
 **Brief Visual Description:** Plain long sleeve orange sadhu / maxi clothing.
 
@@ -2004,7 +2098,9 @@ living as a wandering monk or hermit in India.
 
 **Name:** Modern Sami
 
-**Image Files:** SS2_acidhouse_Modern Sami.PNG
+**Image Files:**
+
+![Modern Sami](../images/shirts__z50%20(LONG)/SS2_acidhouse_Modern%20Sami.webp)
 
 SS2_acidhouse_Modern Sami__z85.PNG
 
@@ -2048,7 +2144,9 @@ lived as semi-nomadic reindeer herders, hunters, and fishers for millennia.
 
 **Name:** Light Blue Flowery
 
-**Image Files:** SS4_milady_Light Blue Flowery.PNG
+**Image Files:**
+
+![Light Blue Flowery](../images/shirts__z50%20(LONG)/SS4_milady_Light%20Blue%20Flowery.webp)
 
 SS4_milady_Light Blue Flowery__z85.PNG
 
@@ -2082,7 +2180,9 @@ buttons section in the middle.
 
 **Name:** Dark Blue Flowery
 
-**Image Files:** SS5_milady_Dark Blue Flowery.PNG
+**Image Files:**
+
+![Dark Blue Flowery](../images/shirts__z50%20(LONG)/SS5_milady_Dark%20Blue%20Flowery.webp)
 
 SS5_milady_Dark Blue Flowery__z85.PNG
 

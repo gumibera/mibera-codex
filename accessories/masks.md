@@ -58,7 +58,7 @@ channeling a perpetual hibernation theme through bear emojis and sleep motifs.
 
 **Image Files:**
 
-![Nose Ring with Chain](../images/Masks/SS3_milady_Nose Ring With Chain.png)
+![Nose Ring with Chain](../images/Masks/SS3_milady_Nose Ring With Chain.webp)
 
 **Brief Visual Description:** Two golden slim chains connected to a ring on one end..
 
@@ -98,7 +98,7 @@ ancestors and archetypes.
 
 **Image Files:**
 
-![Black Mask](../images/Masks/SS2_freetekno_Black Mask.PNG)
+![Black Mask](../images/Masks/SS2_freetekno_Black Mask.webp)
 
 **Brief Visual Description:** Black mask covering just the mouth and nose part..
 
@@ -136,7 +136,7 @@ ancestors and archetypes.
 
 **Image Files:**
 
-![Cypherpunk 3](../images/Masks/SS3_Cypherpunk 3.png)
+![Cypherpunk 3](../images/Masks/SS3_Cypherpunk 3.webp)
 
 **Brief Visual Description:** White mask with ‘10D7C7’ written on the forehead.
 
@@ -194,7 +194,7 @@ through coding over policy debates.
 
 **Image Files:**
 
-![Velvet](../images/Masks/SS3_Velvet.PNG)
+![Velvet](../images/Masks/SS3_Velvet.webp)
 
 **Brief Visual Description:** Black full-face mask with velvet-y texture / complexion.
 
@@ -226,7 +226,7 @@ through coding over policy debates.
 
 **Image Files:**
 
-![Golden Anonymous](../images/Masks/SS4_chicagodetroit_Golden Anonymous.png)
+![Golden Anonymous](../images/Masks/SS4_chicagodetroit_Golden Anonymous.webp)
 
 **Brief Visual Description:** Golden ‘anonymous’ mask, with 2 eyeholes, defined nose, thin
 
@@ -270,7 +270,7 @@ e
 
 **Image Files:**
 
-![Venetian Black](../images/Masks/SS4_Venetian Black.PNG)
+![Venetian Black](../images/Masks/SS4_Venetian Black.webp)
 
 **Brief Visual Description:** Rounded black mask with much bigger eyeholes compared to usual
 
@@ -318,7 +318,7 @@ enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché
 
 **Image Files:**
 
-![Green Mask](../images/Masks/SS4_chicagodetroit_Green Mask.png)
+![Green Mask](../images/Masks/SS4_chicagodetroit_Green Mask.webp)
 
 **Brief Visual Description:** Full-face green mask with a shape of a face and deep eye-sockets..
 
@@ -368,7 +368,7 @@ be
 
 **Image Files:**
 
-![Homemade Bee Mask](../images/Masks/SS3_milady_Homemade Bee Mask.png)
+![Homemade Bee Mask](../images/Masks/SS3_milady_Homemade Bee Mask.webp)
 
 **Brief Visual Description:** Bee mask, portrayed by thick net in brown and transparent milky
 
@@ -402,7 +402,7 @@ white cover over it.
 
 **Image Files:**
 
-![Plastic Bag Mask](../images/Masks/SS4_chicagodetroit_modern_irish_Plastic Bag Mask.png)
+![Plastic Bag Mask](../images/Masks/SS4_chicagodetroit_modern_irish_Plastic Bag Mask.webp)
 
 **Brief Visual Description:** Plain white semi-transparent plastic bag mask.
 
@@ -586,7 +586,7 @@ the eyes-part.
 
 **Image Files:**
 
-![White Anonymous](../images/Masks/SS4_chicagodetroit_White Anonymous.png)
+![White Anonymous](../images/Masks/SS4_chicagodetroit_White Anonymous.webp)
 
 **Brief Visual Description:** Classic white ‘Anonymous’ mask, with a smiling face with blushing
 
@@ -676,7 +676,7 @@ lNewsletter-23.10.07
 
 **Image Files:**
 
-![Silver Mask](../images/Masks/SS1_freetekno_Silver Mask.png)
+![Silver Mask](../images/Masks/SS1_freetekno_Silver Mask.webp)
 
 **Brief Visual Description:** Rounded-shaped full-face silver mask with a shape of a face and
 
@@ -718,7 +718,7 @@ metallic complexion.
 
 **Image Files:**
 
-![Surgical Mask](../images/Masks/SS1_acidhouse_Surgical Mask.png)
+![Surgical Mask](../images/Masks/SS1_acidhouse_Surgical Mask.webp)
 
 **Brief Visual Description:** Stereotypical green surgical mask, with lighter colored lining.
 
@@ -800,7 +800,7 @@ often with personal stories and absurdist commentary. It has since then gained a
 
 **Image Files:**
 
-![Cypherpunk 1](../images/Masks/SS4_Cypherpunk 1.png)
+![Cypherpunk 1](../images/Masks/SS4_Cypherpunk 1.webp)
 
 **Brief Visual Description:** White mask with ‘197’ on one eye, and ‘FB5’ on the other eye.
 
@@ -860,7 +860,7 @@ through coding over policy debates.
 
 **Image Files:**
 
-![Cypherpunk 2](../images/Masks/SS1_Cypherpunk 2.png)
+![Cypherpunk 2](../images/Masks/SS1_Cypherpunk 2.webp)
 
 **Brief Visual Description:** White mask with a few short lines that look like a barcode on the
 
@@ -922,7 +922,7 @@ through coding over policy debates.
 
 **Image Files:**
 
-![MF Doom](../images/Masks/SS4_freetekno_MF doom.png)
+![MF Doom](../images/Masks/SS4_freetekno_MF doom.webp)
 
 **Brief Visual Description:** Silver mask with a lot of defined edges, depths, and unique shape.
 
@@ -966,7 +966,7 @@ identity.
 
 **Image Files:**
 
-![Venetian Gold](../images/Masks/SS5_Venetian Gold.PNG)
+![Venetian Gold](../images/Masks/SS5_Venetian Gold.webp)
 
 **Brief Visual Description:** Rounded golden mask with much bigger eyeholes compared to usual
 
@@ -1040,7 +1040,7 @@ enigmatic allure, and is showcased by Ca’ Macana as an authentic paper-mâché
 
 **Image Files:**
 
-![CFang Face](../images/Masks/SS1_milady_Cfang Face.png)
+![CFang Face](../images/Masks/SS1_milady_Cfang Face.webp)
 
 **Brief Visual Description:** Circular milky white mist, solid in color.
 
@@ -1116,7 +1116,7 @@ four rings on one of the ears.
 
 **Image Files:**
 
-![White Mask](../images/Masks/SS2_chicagodetroit_White Mask.png)
+![White Mask](../images/Masks/SS2_chicagodetroit_White Mask.webp)
 
 **Brief Visual Description:** Round white mask with 2 eye-holes and stripy holes on the mouth
 
@@ -1154,7 +1154,7 @@ side.
 
 **Image Files:**
 
-![Chulym Beekeeper Hat](../images/Masks/SS3_Chulym Beekeeper Hat.png)
+![Chulym Beekeeper Hat](../images/Masks/SS3_Chulym Beekeeper Hat.webp)
 
 **Brief Visual Description:** Big pale army green hood with black transparent draping down the
 
@@ -1230,7 +1230,7 @@ shapes, going outwards from the center, in the color of black.
 
 **Image Files:**
 
-![Faceless Galaxy](../images/Masks/SS5_acidhouse_Faceless Galaxy.png)
+![Faceless Galaxy](../images/Masks/SS5_acidhouse_Faceless Galaxy.webp)
 
 **Brief Visual Description:** Glimpse of a galaxy with stars portrayed by the color of dark blue and
 

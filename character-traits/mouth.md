@@ -12,7 +12,7 @@ MOUTH
 
 **Image Files:**
 
-![queasy](../images/mouth__z90/queasy__w5.png)
+![queasy](../images/mouth__z90/queasy__w5.webp)
 
 **Brief Visual Description:** a mouth made of a squiggly / trembly line.
 
@@ -40,7 +40,7 @@ MOUTH
 
 **Image Files:**
 
-![tongue](../images/mouth__z90/tongue__w8.png)
+![tongue](../images/mouth__z90/tongue__w8.webp)
 
 **Brief Visual Description:** a small tongue, out of an open mouth.
 
@@ -68,7 +68,7 @@ MOUTH
 
 **Image Files:**
 
-![normal](../images/mouth__z90/normal__w10.png)
+![normal](../images/mouth__z90/normal__w10.webp)
 
 **Brief Visual Description:** a mouth portrayed by a short thin stroke.
 
@@ -96,7 +96,7 @@ MOUTH
 
 **Image Files:**
 
-![smile](../images/mouth__z90/smile__w10.png)
+![smile](../images/mouth__z90/smile__w10.webp)
 
 **Brief Visual Description:** a smile portrayed by a thin short curved line.
 
@@ -122,7 +122,7 @@ MOUTH
 
 **Image Files:**
 
-![content](../images/mouth__z90/content__w9.png)
+![content](../images/mouth__z90/content__w9.webp)
 
 **Brief Visual Description:** Subtle smile portrayed by a thin, short, slightly-curved line.
 
@@ -150,7 +150,7 @@ MOUTH
 
 **Image Files:**
 
-![sad](../images/mouth__z90/sad__w8.png)
+![sad](../images/mouth__z90/sad__w8.webp)
 
 **Brief Visual Description:** a sad portrayed by a short thin line with a pronounced downward
 
@@ -180,7 +180,7 @@ MOUTH
 
 **Image Files:**
 
-![blunt](../images/mouth__z90/blunt__w6.png)
+![blunt](../images/mouth__z90/blunt__w6.webp)
 
 **Brief Visual Description:** a mouth portrayed by a line that’s slightly curved downward holding a
 
@@ -210,7 +210,7 @@ MOUTH
 
 **Image Files:**
 
-![cig](../images/mouth__z90/cig__w6.png)
+![cig](../images/mouth__z90/cig__w6.webp)
 
 **Brief Visual Description:** a mouth portrayed by a line that’s slightly curved downward holding a
 
@@ -240,7 +240,7 @@ MOUTH
 
 **Image Files:**
 
-![toothpick](../images/mouth__z90/toothpick__w5.png)
+![toothpick](../images/mouth__z90/toothpick__w5.webp)
 
 **Brief Visual Description:** a mouth portrayed by a nearly-straight line, holding a toothpick..
 
@@ -268,7 +268,7 @@ MOUTH
 
 **Image Files:**
 
-![blehhh](../images/mouth__z90/blehhh__w5.png)
+![blehhh](../images/mouth__z90/blehhh__w5.webp)
 
 **Brief Visual Description:** tongue out of a thin mouth in a playful manner.
 
@@ -296,7 +296,7 @@ MOUTH
 
 **Image Files:**
 
-![gasp](../images/mouth__z90/gasp__w4.png)
+![gasp](../images/mouth__z90/gasp__w4.webp)
 
 **Brief Visual Description:** a gasping mouth, forming an oval shape, showing the teeth and the
 
@@ -326,7 +326,7 @@ MOUTH
 
 **Image Files:**
 
-![grit](../images/mouth__z90/grit__w4.png)
+![grit](../images/mouth__z90/grit__w4.webp)
 
 **Brief Visual Description:** a tightly closed mouth with the teeth pressed firmly together.
 
@@ -354,7 +354,7 @@ MOUTH
 
 **Image Files:**
 
-![chuffed](../images/mouth__z90/chuffed__w3.png)
+![chuffed](../images/mouth__z90/chuffed__w3.webp)
 
 **Brief Visual Description:** a short curved line showcasing a puffing cheek, and another one
 
@@ -384,7 +384,7 @@ MOUTH
 
 **Image Files:**
 
-![belch](../images/mouth__z90/belch__w3.png)
+![belch](../images/mouth__z90/belch__w3.webp)
 
 **Brief Visual Description:** an open mouth with squiggly outline, portraying air movement.
 
@@ -412,7 +412,7 @@ MOUTH
 
 **Image Files:**
 
-![drool](../images/mouth__z90/drool__w3.png)
+![drool](../images/mouth__z90/drool__w3.webp)
 
 **Brief Visual Description:** a slightly open mouth with a visible tongue and drool dripping off of it.
 
@@ -440,7 +440,7 @@ MOUTH
 
 **Image Files:**
 
-![gurn](../images/mouth__z90/gurn__w2.png)
+![gurn](../images/mouth__z90/gurn__w2.webp)
 
 **Brief Visual Description:** a slightly open mouth showing teeth, heavily tilted.
 
@@ -468,7 +468,7 @@ MOUTH
 
 **Image Files:**
 
-![heart](../images/mouth__z90/heart__w2.png)
+![heart](../images/mouth__z90/heart__w2.webp)
 
 **Brief Visual Description:** a mouth with the tongue out with a heart shaped item on it.
 
@@ -496,7 +496,7 @@ MOUTH
 
 **Image Files:**
 
-![acid](../images/mouth__z90/acid__w2.png)
+![acid](../images/mouth__z90/acid__w2.webp)
 
 **Brief Visual Description:** a mouth with the tongue out with a square-shaped item on it.
 
@@ -524,7 +524,7 @@ MOUTH
 
 **Image Files:**
 
-![biting lip](../images/mouth__z90/biting lip__w2.png)
+![biting lip](../images/mouth__z90/biting lip__w2.webp)
 
 **Brief Visual Description:** a mouth showing the bottom lip being bitten, with a bit of teeth
 
@@ -554,7 +554,7 @@ MOUTH
 
 **Image Files:**
 
-![meta mouth](../images/mouth__z90/meta mouth__w1.png)
+![meta mouth](../images/mouth__z90/meta mouth__w1.webp)
 
 **Brief Visual Description:** a mouth made of the writing of the word ‘mouth’.
 

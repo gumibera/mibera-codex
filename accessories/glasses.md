@@ -10,7 +10,7 @@
 
 **Image Files:**
 
-![Omega](../images/glasses__z140/acidhouse_Omega.png)
+![Omega](../images/glasses__z140/acidhouse_Omega.webp)
 
 **Brief Visual Description:** Glasses with a hint of dark teal with Omega logos on them; a
 
@@ -46,7 +46,7 @@ Bear’s traits.
 
 **Image Files:**
 
-![Tekno 2](../images/glasses__z140/freetekno_Tekno 2.png)
+![Tekno 2](../images/glasses__z140/freetekno_Tekno 2.webp)
 
 **Brief Visual Description:** Black retro round glasses, with pure black shades and rusty looking
 
@@ -80,7 +80,7 @@ frames in a very dark brown, framing half top part of the glasses..
 
 **Image Files:**
 
-![Cyber Punk 1](../images/glasses__z140/freetekno_Cyber Punk 1.png)
+![Cyber Punk 1](../images/glasses__z140/freetekno_Cyber Punk 1.webp)
 
 **Brief Visual Description:** Round glasses with a unique framing of a straight line only at the top
 
@@ -110,7 +110,7 @@ of dark grey.
 
 **Image Files:**
 
-![Rayban](../images/glasses__z140/chicagodetroit_Rayban.png)
+![Rayban](../images/glasses__z140/chicagodetroit_Rayban.webp)
 
 **Brief Visual Description:** Rectangular-shaped glasses with clear lenses and thick black
 
@@ -150,7 +150,7 @@ frames.
 
 **Image Files:**
 
-![Magenta Glow](../images/glasses__z140/chicagodetroit_Magenta Glow.png)
+![Magenta Glow](../images/glasses__z140/chicagodetroit_Magenta Glow.webp)
 
 **Brief Visual Description:** Glow glasses mainly in magenta, with yellow parts on its bridge and
 
@@ -184,7 +184,7 @@ aligning with Mibera’s.
 
 **Image Files:**
 
-![Mottega Blue](../images/glasses__z140/milady_Mottega Blue.png)
+![Mottega Blue](../images/glasses__z140/milady_Mottega Blue.webp)
 
 **Brief Visual Description:** Glasses with light blue lenses and thick blue frames.
 
@@ -210,7 +210,7 @@ aligning with Mibera’s.
 
 **Image Files:**
 
-![Harajuku](../images/glasses__z140/milady_Harajuku.png)
+![Harajuku](../images/glasses__z140/milady_Harajuku.webp)
 
 **Brief Visual Description:** red frames with orange lenses.
 
@@ -236,7 +236,7 @@ aligning with Mibera’s.
 
 **Image Files:**
 
-![Red Glow](../images/glasses__z140/chicagodetroit_Red Glow.png)
+![Red Glow](../images/glasses__z140/chicagodetroit_Red Glow.webp)
 
 **Brief Visual Description:** Glow glasses mainly in red, with yellow on the center and sides.
 
@@ -268,7 +268,7 @@ aligning with Mibera’s.
 
 **Image Files:**
 
-![Black Scifi](../images/glasses__z140/chicagodetroit_Black Scifi.png)
+![Black Scifi](../images/glasses__z140/chicagodetroit_Black Scifi.webp)
 
 **Brief Visual Description:** all-black glasses with slightly curved top-framing and triangular cut at
 
@@ -316,7 +316,7 @@ It is part of a broader retrospective on Chicago’s Black music history.
 
 **Image Files:**
 
-![Red Sunglasses](../images/glasses__z140/chicagodetroit_Red Sunglasses.png)
+![Red Sunglasses](../images/glasses__z140/chicagodetroit_Red Sunglasses.webp)
 
 **Brief Visual Description:** Round transparent sunglasses with a thin red framing.
 
@@ -358,7 +358,7 @@ and vibrant dance culture.
 
 **Image Files:**
 
-![Sunnies](../images/glasses__z140/acidhouse_Sunnies.png)
+![Sunnies](../images/glasses__z140/acidhouse_Sunnies.webp)
 
 **Brief Visual Description:** Triangle-shaped glasses with grey lenses and grey frames
 
@@ -390,7 +390,7 @@ and vibrant dance culture.
 
 **Image Files:**
 
-![Cyber Punk 2](../images/glasses__z140/freetekno_Cyber Punk 2.png)
+![Cyber Punk 2](../images/glasses__z140/freetekno_Cyber Punk 2.webp)
 
 **Brief Visual Description:** All-black cyberpunk style glasses
 
@@ -416,7 +416,7 @@ and vibrant dance culture.
 
 **Image Files:**
 
-![Round](../images/glasses__z140/acidhouse_Round.png)
+![Round](../images/glasses__z140/acidhouse_Round.webp)
 
 **Brief Visual Description:** Silver, circular framed glasses with clear lenses.
 
@@ -442,7 +442,7 @@ and vibrant dance culture.
 
 **Image Files:**
 
-![Purple Glow](../images/glasses__z140/chicagodetroit_Purple Glow.png)
+![Purple Glow](../images/glasses__z140/chicagodetroit_Purple Glow.webp)
 
 **Brief Visual Description:** Glow glasses mainly in purple, with yellow on the center and sides.
 
@@ -474,7 +474,7 @@ aligning with Mibera’s.
 
 **Image Files:**
 
-![YY](../images/glasses__z140/milady_YY.png)
+![YY](../images/glasses__z140/milady_YY.webp)
 
 **Brief Visual Description:** Dark shades of purple glasses with dark grey framing.
 
@@ -500,7 +500,7 @@ aligning with Mibera’s.
 
 **Image Files:**
 
-![Reflections](../images/glasses__z140/chicagodetroit_Reflections.png)
+![Reflections](../images/glasses__z140/chicagodetroit_Reflections.webp)
 
 **Brief Visual Description:** Classic aviator with black and white reflections on its lenses and thin
 
@@ -528,7 +528,7 @@ black frames.
 
 **Image Files:**
 
-![Star Goggles](../images/glasses__z140/freetekno_Star Goggles.png)
+![Star Goggles](../images/glasses__z140/freetekno_Star Goggles.webp)
 
 **Brief Visual Description:** Black goggles with a white star on one side.
 
@@ -560,7 +560,7 @@ black frames.
 
 **Image Files:**
 
-![Black White Sunglasses](../images/glasses__z140/chicagodetroit_Black White Sunglasses.png)
+![Black White Sunglasses](../images/glasses__z140/chicagodetroit_Black White Sunglasses.webp)
 
 **Brief Visual Description:** a pair of sleek black sunglasses with a hint of white on the top frame.
 
@@ -586,7 +586,7 @@ black frames.
 
 **Image Files:**
 
-![Tactical](../images/glasses__z140/milady_Tactical.png)
+![Tactical](../images/glasses__z140/milady_Tactical.webp)
 
 **Brief Visual Description:** big turquoise visor with stats / readings on it, in black framing.
 
@@ -618,7 +618,7 @@ black frames.
 
 **Image Files:**
 
-![Tekno 1](../images/glasses__z140/freetekno_Tekno 1.png)
+![Tekno 1](../images/glasses__z140/freetekno_Tekno 1.webp)
 
 **Brief Visual Description:** all-black round glasses.
 
@@ -644,7 +644,7 @@ black frames.
 
 **Image Files:**
 
-![Mottega Yellow](../images/glasses__z140/milady_Mottega Yellow.png)
+![Mottega Yellow](../images/glasses__z140/milady_Mottega Yellow.webp)
 
 **Brief Visual Description:** Glasses with dark lenses and thick yellow frames.
 
@@ -680,7 +680,7 @@ https://opensea.io/collection/milady?traits=[{%22traitType%22:%22Glasses%22,%22v
 
 **Image Files:**
 
-![3D](../images/glasses__z140/chicacodetroit_3D.png)
+![3D](../images/glasses__z140/chicacodetroit_3D.webp)
 
 **Brief Visual Description:** Flimsy glasses with white frames. Left frame is blue and right frame
 
@@ -714,7 +714,7 @@ is red.
 
 **Image Files:**
 
-![Squad](../images/glasses__z140/acidhouse_Squad.png)
+![Squad](../images/glasses__z140/acidhouse_Squad.webp)
 
 **Brief Visual Description:** Pointed all black sunglasses.
 
@@ -752,7 +752,7 @@ Sources / References
 
 **Image Files:**
 
-![Snow Goggles 2](../images/glasses__z140/Snow Goggles 2.PNG)
+![Snow Goggles 2](../images/glasses__z140/Snow Goggles 2.webp)
 
 **Brief Visual Description:** white snow-goggles with thin opening in the middle and tribal art.
 
@@ -778,7 +778,7 @@ Sources / References
 
 **Image Files:**
 
-![Sick Sunglasses](../images/glasses__z140/chicagodetroit_Sick Sunglasses.png)
+![Sick Sunglasses](../images/glasses__z140/chicagodetroit_Sick Sunglasses.webp)
 
 **Brief Visual Description:** Rounded glasses with slightly dark glasses and golden framing.
 
@@ -810,7 +810,7 @@ niche.
 
 **Image Files:**
 
-![Colorful](../images/glasses__z140/milady_Colorful.png)
+![Colorful](../images/glasses__z140/milady_Colorful.webp)
 
 **Brief Visual Description:** Retro-style visor sunglasses in orange and yellow.
 
@@ -842,7 +842,7 @@ niche.
 
 **Image Files:**
 
-![Swimming Goggles](../images/glasses__z140/acidhouse_Swimming Goggles.png)
+![Swimming Goggles](../images/glasses__z140/acidhouse_Swimming Goggles.webp)
 
 **Brief Visual Description:** Blue circular swimming goggles
 
@@ -872,7 +872,7 @@ niche.
 
 **Image Files:**
 
-![Prescription](../images/glasses__z140/chicagodetroit_Prescription.png)
+![Prescription](../images/glasses__z140/chicagodetroit_Prescription.webp)
 
 **Brief Visual Description:** oval-shaped glasses with clear lenses and black frames on the top
 
@@ -900,7 +900,7 @@ half.
 
 **Image Files:**
 
-![Spy](../images/glasses__z140/milady_Spy.png)
+![Spy](../images/glasses__z140/milady_Spy.webp)
 
 **Brief Visual Description:** big sunglasses with vibrant green lenses and thick black frames, with
 
@@ -928,7 +928,7 @@ a mic attached on one side.
 
 **Image Files:**
 
-![96](../images/glasses__z140/chicagodetroit_96.PNG)
+![96](../images/glasses__z140/chicagodetroit_96.webp)
 
 **Brief Visual Description:** square-shaped glasses with black lenses and golden rim, with a
 
@@ -958,7 +958,7 @@ bee-shaped visual in the center.
 
 **Image Files:**
 
-![Snow Goggles 1](../images/glasses__z140/Snow Goggles 1.PNG)
+![Snow Goggles 1](../images/glasses__z140/Snow Goggles 1.webp)
 
 **Brief Visual Description:** white snow goggles with drawings that look like a mask / eye holes.
 
@@ -984,7 +984,7 @@ bee-shaped visual in the center.
 
 **Image Files:**
 
-![Scifi](../images/glasses__z140/milady_Scifi.png)
+![Scifi](../images/glasses__z140/milady_Scifi.webp)
 
 **Brief Visual Description:** hot-pink visor with thick white frames. Circles and lines can be seen
 
@@ -1012,7 +1012,7 @@ on the visor.
 
 **Image Files:**
 
-![Big 80s](../images/glasses__z140/chicagodetroit_Big 80s.png)
+![Big 80s](../images/glasses__z140/chicagodetroit_Big 80s.webp)
 
 **Brief Visual Description:** big rounded 80s style glasses with black frames and dark brownish
 
@@ -1046,7 +1046,7 @@ lenses.
 
 **Image Files:**
 
-![Blue Glow](../images/glasses__z140/chicagodetroit_Blue Glow.png)
+![Blue Glow](../images/glasses__z140/chicagodetroit_Blue Glow.webp)
 
 **Brief Visual Description:** Glow glasses mainly in neon blue, with yellow on the center and
 
@@ -1078,7 +1078,7 @@ sides.
 
 **Image Files:**
 
-![Stars](../images/glasses__z140/freetekno_Stars.png)
+![Stars](../images/glasses__z140/freetekno_Stars.webp)
 
 **Brief Visual Description:** Star-shaped rimless glasses in deep dark pink.
 
@@ -1110,7 +1110,7 @@ sides.
 
 **Image Files:**
 
-![Green Glow](../images/glasses__z140/chicagodetroit_Green Glow.png)
+![Green Glow](../images/glasses__z140/chicagodetroit_Green Glow.webp)
 
 **Brief Visual Description:** Glow glasses mainly in neon green, with yellow on the center and
 
@@ -1142,7 +1142,7 @@ sides.
 
 **Image Files:**
 
-![D2 Edamame](../images/glasses__z140/d2 edamame.PNG)
+![D2 Edamame](../images/glasses__z140/d2 edamame.webp)
 
 **Brief Visual Description:** aviator style glasses with light green framing and black lenses.
 

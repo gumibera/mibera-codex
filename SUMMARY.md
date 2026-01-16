@@ -46,5 +46,3 @@
 ## Special Collections
 * [Featured Projects](special-collections/featured.md)
 
-## Visual Elements
-* [Fonts](visual-elements/fonts.md)

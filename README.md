@@ -22,8 +22,6 @@ Documentation for Mibera Maker, an NFT project with 1,337+ traits.
 
 **Special Collections** — Featured Projects & Partners
 
-**Visual Elements** — Fonts
-
 ## Drug-Tarot System
 
 78 tarot cards mapped to 78 drugs. Each card includes drug name, molecule, suit, element, and meaning. Drugs classified as Ancient (38), Modern (35), or Both (5).

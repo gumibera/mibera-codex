@@ -6,12 +6,13 @@
 
 ## Freetekno
 
+### Identity
+
 **Name of Archetype:** Freetekno
 
 **Time Period:** Early late 90s
 
 **Time Range & Astrology:**
-
 **- June 21 - July 22:** Cancer
 
 **- July 23 - August 22:** Leo
@@ -22,8 +23,11 @@
 
 Pacha (Ibiza, Spain), Tonka at The Zap (Brighton, UK)
 
-**Figures Associated:**
+---
 
+### Cultural Significance
+
+**Figures Associated:**
 - MF Doom; Daniel Dumile, was a British-American rapper and producer, renowned for
 
 his intricate lyricism, unique masked persona, and influential contributions to
@@ -83,7 +87,6 @@ Festival, where their hardcore and techno sets contributed to the event’s lege
 status.
 
 **Events Associated / Significant Cultural Impact:**
-
 - DiY Digs & Woosh Illegal Rave in Castlemorton 1992, a massive, unplanned illegal
 
 rave in Worcestershire, UK, that drew ~20,000 attendees after New Age travellers were
@@ -112,44 +115,46 @@ mask,
 
 Drugs Representations / Associated
 
+---
+
+### Drug Connections
+
 **Modern:** LSD, DMT, Speed
 
 **Ancient:** Khat, Trance, Ayahuasca
+
+---
+
+### Visual References
 
 **Miberas within the archetype:** freetekno1.png freetekno2.png freetekno3.png
 
 freetekno4.png
 
+---
+
+### Sources
+
 **Sources:**
-
 - https://fashion-era.com/fashion-history/1990s/90s-rave-fashion#google_vignette
-
 - https://www.dazeddigital.com/music/article/35706/1/uk-drill-artists-and-crews
-
 - https://en.wikipedia.org/wiki/MF_Doom
-
 - https://ictnews.org/news/native-rap-artist-builds-bridges-with-his-music-/
-
 - https://en.wikipedia.org/wiki/Spiral_Tribe
-
 - https://au.rollingstone.com/music/music-features/dj-pgz-blak-electronic-artist-naidoc-week-4849
-
-4/
-
 - https://djmag.com/features/castlemorton-1992-photographing-illegal-rave-changed-uk-dance-m
-
-usic-forever
 
 ---
 
 ## Milady
+
+### Identity
 
 **Name of Archetype:** Milady
 
 **Time Period:** Current
 
 **Time Range & Astrology:**
-
 **- December 22 - January 19:** Capricorn
 
 **- January 20 - February 18:** Aquarius
@@ -158,8 +163,11 @@ usic-forever
 
 **Locations Associated:** Castlemorton (UK), London (UK), Stonehenge (UK). . .
 
-**Figures Associated:**
+---
 
+### Cultural Significance
+
+**Figures Associated:**
 - Grimes; a Canadian musician, singer, songwriter, record producer, and visual artist
 
 known for her eclectic blend of dream pop, synth-pop, electronic, R&B, and experimental
@@ -173,7 +181,6 @@ lyrics and videos.
 founded by Shoko Asahara in Japan.
 
 **Events Associated / Significant Cultural Impact:**
-
 - “Wartime” Milady; blood splattered across the original Milady Maker NFT PFP across
 
 its community to symbolize involvement in the ‘wartime’ movement.
@@ -184,36 +191,43 @@ its community to symbolize involvement in the ‘wartime’ movement.
 
 Drugs Representations / Associated
 
+---
+
+### Drug Connections
+
 **Modern:** LSD, DMT
 
 **Ancient:** Khat, Trance, Ayahuasca
+
+---
+
+### Visual References
 
 **Miberas within the archetype:** milady1.PNG milady2.PNG milady3.PNG
 
 milady4.PNG
 
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.youtube.com/watch?app=desktop&v=P0JA_Uspyjs
-
 - https://en.wikipedia.org/wiki/Grimes
-
 - https://www.thehindu.com/news/international/aum-cult-members-face-execution-for-tokyo-subw
-
-ay-gas-attack/article23299723.ece
-
 - https://en.wikipedia.org/wiki/Aum_Shinrikyo
 
 ---
 
 ## Chicago Detroit
 
+### Identity
+
 **Name of Archetype:** Chicago Detroit
 
 **Time Period:** Early 80s
 
 **Time Range & Astrology:**
-
 **- March 21 - April 19:** Aries
 
 **- April 20 - May:** Taurus
@@ -224,8 +238,11 @@ ay-gas-attack/article23299723.ece
 
 “The Warehouse” (Chicago, US) .
 
-**Figures Associated:**
+---
 
+### Cultural Significance
+
+**Figures Associated:**
 - Ron Hardy; a pioneering Chicago DJ in the 1980s, instrumental in shaping house music.
 
 As a resident DJ at the Music Box, a key underground club, he blended disco, funk, and
@@ -240,42 +257,7 @@ tracks like “On and On”, founding the globally influential Chosen Few Picnic
 
 and fostering inclusivity, cementing house music’s legacy. The main people of the crew
 
-**are:** Frankie Knuckles, Wayne Williams, Tony Hatchett, Andre Hatchett, Alan King, Terry
-
-Hunter, Mike Dunn, Jesse Saunders, Vince Lawrence, Chip E., Lori Branch, Toni Shelton
-
-(“Disco” Toni), Ron Hardy, Larry Head (Mr. Fingers), DJ Pierre, DJ Spanky, Fast Eddie,
-
-Tyree Cooper, and Curtis McClain.
-
-- Lori Branch; the first female DJ in Chicago’s house scene.
-
-- Yung Singh; a rising DJ and producer recognized by DJ Mag as 'one to watch’. He is
-
-known for his contributions to the UK Garage revival and his influential Punjabi Garage
-
-mix for Shuffle ‘N’ Swing, blending UK soundsystem culture with Hip-Hop, Jungle,
-
-Grime, and Punjabi influences.
-
-- The Rubberbandits; an Irish comedy hip-hop duo from Limerick, consisting of Blindboy
-
-Boatclub (Dave Chambers) and Mr Chrome (Bob McGlynn), who perform with plastic
-
-bag masks to conceal their identities. Their work critiques Irish urban youth issues like
-
-drug abuse and republicanism.
-
-- Lee “Scratch” Perry; a Jamaican reggae and dub music pioneer, renowned for his
-
-innovative production techniques and eccentric personality.
-
-- Marsha P. Johnson; a New York-based trans activist and Stonewall icon, who inspired a
-
-stirring documentary revolving her life and death.
-
 **Events Associated / Significant Cultural Impact:**
-
 - Illegal Covid Raves; During the COVID-19 lockdowns in 2020-2021, the UK, particularly
 
 London, saw a surge in illegal raves—underground parties in warehouses, parks,
@@ -298,42 +280,46 @@ golden),
 
 Drugs Representations / Associated
 
+---
+
+### Drug Connections
+
 **Modern:** Vape bag (volcano bag), NOS,
 
-**Ancient:**
+**Ancient:** 
+
+---
+
+### Visual References
 
 **Miberas within the archetype:** chicagodetroit1.PNG chicagodetroit2.PNG
 
 chicagodetroit3.PNG chicagodetroit4.PNG
 
+---
+
+### Sources
+
 **Sources:**
-
 - https://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box
-
 - https://www.312soul.com/1984-1990
-
 - https://ra.co/features/1597
-
 - https://earthackney.co.uk/performers/yung-singh/
-
 - https://www.youtube.com/watch?si=YuZu8bx7jm-GOxV7&t=1&v=aGvb4Jb0TSg&feature=youtu.
-
-be
-
 - https://www.youtube.com/watch?v=E4ldQOkMhrY
-
 - https://www.theguardian.com/film/2017/oct/05/death-life-marsha-p-johnson-review-documentary
 
 ---
 
 ## Acidhouse
 
+### Identity
+
 **Name of Archetype:** Acidhouse
 
 **Time Period:** Late 90s / 2000s
 
 **Time Range & Astrology:**
-
 **- September 23 - October 22:** Libra
 
 **- October 23 - November 21:** Scorpio
@@ -342,8 +328,11 @@ be
 
 **Locations Associated:** Shoom in London (UK)
 
-**Figures Associated:**
+---
 
+### Cultural Significance
+
+**Figures Associated:**
 - DJ Bus Replacement Service aka Doris Woo, a retired DJ known for her eclectic,
 
 genre-blending sets, and playful persona.
@@ -367,7 +356,6 @@ known for their eclectic blend of rock, folk, blues, country, and psychedelia
 - .
 
 **Events Associated / Significant Cultural Impact:**
-
 - 1988’s “Second Summer of Love”; acid house music and ecstasy catalyzed a cultural
 
 explosion across the UK, which later spread its influence to the US and beyond.
@@ -388,25 +376,31 @@ swimming goggles, Kim Jong Un face mask, surgical mask, gold hoop, Jake’s hat,
 
 Drugs Representations / Associated
 
-**Modern:**
+---
 
-**Ancient:**
+### Drug Connections
+
+**Modern:** 
+
+**Ancient:** 
+
+---
+
+### Visual References
 
 **Miberas within the archetype:** acidhouse1.PNG acidhouse2.PNG acidhouse3.PNG
 
 acidhouse4.PNG
 
+---
+
+### Sources
+
 **Sources:**
-
 - https://fashion-era.com/fashion-history/1990s/90s-rave-fashion#google_vignette
-
 - https://mixmag.net/feature/dj-bus-replacement-service-interview
-
 - https://www.youtube.com/watch?v=h3t3YnVgY9k&t=661s
-
 - https://www.youtube.com/watch?v=RgyFiFJGqgo
-
 - https://en.wikipedia.org/wiki/Grateful_Dead
 
 ---
-

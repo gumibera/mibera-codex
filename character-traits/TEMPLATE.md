@@ -1,6 +1,6 @@
-# Clothing Trait Entry Template
+# Character Traits Entry Template
 
-*Use this template when documenting clothing traits. Fill in all applicable fields. For simple solid-colored shirts, use the Minimal Template at the bottom of this document.*
+*Use this template when documenting character traits (eyes, hair, body, mouth, eyebrows, tattoos).*
 
 ---
 
@@ -12,15 +12,11 @@
 
 **Image Files:**
 
-**Garment Type:**
-
-**Fit:**
+**Trait Category:**
 
 **Visual Description:**
 
 **Dominant Colors:**
-
-**Material Impression:**
 
 ---
 
@@ -50,9 +46,8 @@
 
 **Vibe Tags:**
 
-**Setting:**
-
 **Swag Score:**
+
 
 ---
 
@@ -81,36 +76,42 @@
 ---
 ---
 
-# Minimal Template (Simple Shirts)
-
-*Use this condensed template for basic solid-colored shirts and simple garments without cultural references.*
-
----
-
-## [Trait Name]
-
-**Name:**
-
-**Image Files:**
-
-**Visual Description:**
-
-**Dominant Colors:**
-
-**Archetype Affinity:**
-
-**Vibe Tags:**
-
-**Color Symbolism:**
-
-**Styling Notes:**
-
-**Date Added:**
-
----
----
-
 # Field Reference Guide
+
+## Trait Categories
+
+### Eyes
+- normal
+- stoned
+- ecstasy
+- hypno
+- crying
+- closed
+
+### Hair
+- bob
+- messy
+- short
+- long
+- bald
+- dyed
+
+### Body
+- skin tones
+- body types
+
+### Mouth
+- expressions
+- accessories (cigarette, etc.)
+
+### Eyebrows
+- shapes
+- expressions
+
+### Tattoos
+- cultural symbols
+- modern designs
+- ancestral references
 
 ## Vibe Tags Glossary
 
@@ -140,55 +141,3 @@
 | **Milady** | Contemporary | Varied | Internet-influenced, ironic, cute |
 | **Chicago Detroit** | Early 80s | House, techno | Sharp, soulful, foundational |
 | **Acidhouse** | Late 80s-90s | Acid, rave | Smiley faces, neon, ecstatic |
-
-## Garment Types
-
-- t-shirt
-- long-sleeve
-- button-up
-- jacket
-- hoodie
-- suit
-- vest
-- sweater
-- polo
-- jersey
-- cardigan
-- coat
-- windbreaker
-
-## Fit Options
-
-- fitted
-- relaxed
-- oversized
-- cropped
-- tailored
-- baggy
-
-## Material Impressions
-
-- cotton
-- mesh
-- velvet
-- leather
-- denim
-- synthetic
-- knit
-- distressed
-- vintage wash
-- shiny
-- matte
-
-## Source Types
-
-- band merch
-- brand
-- artwork
-- meme
-- scene photo
-- film reference
-- original design
-- organization merch
-- vintage reference
-- subculture staple

@@ -6,2083 +6,3145 @@
 
 ## Reindeer
 
+### Visual Properties
+
 **Name:** Reindeer
 
+**Image Files:**
 ![Reindeer](../images/tattoos__z125/ancient_sami_Reindeer.webp)
 
-**Brief Visual Description:** Line doodle of a reindeer, small in size.
+**Trait Category:**
+
+**Visual Description:** Line doodle of a reindeer, small in size.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Sami Reindeer Herders of Lapland
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** Sami Reindeer Herders of Lapland
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Sami
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Sami
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.nathab.com/blog/sami-reindeer-herders
 
-**Summary:**
-
-Exploring the traditional lifestyle of the Sámi, an Indigenous people of northern Norway,
-
-Sweden, Finland, and Russia, focusing on their ancient practice of reindeer herding. It details
-
-their seasonal migration, using the term "bozaovazzi" (reindeer walkers), and the cultural
-
-significance of reindeer, which provide food, clothing, and shelter. The piece highlights
-
-challenges from climate change, like hardened snow affecting reindeer foraging, and industrial
-
-impacts like logging and mining. It also promotes cultural immersion through visits to places like
-
-Inari, offering experiences like dog-sledding and meeting herders.
+**Summary:** Exploring the traditional lifestyle of the Sámi, an Indigenous people of northern Norway, Sweden, Finland, and Russia, focusing on their ancient practice of reindeer herding. It details their seasonal migration, using the term "bozaovazzi" (reindeer walkers), and the cultural significance of reindeer, which provide food, clothing, and shelter. The piece highlights challenges from climate change, like hardened snow affecting reindeer foraging, and industrial impacts like logging and mining. It also promotes cultural immersion through visits to places like Inari, offering experiences like dog-sledding and meeting herders.
 
 ---
 
 ## Sharaku
 
+### Visual Properties
+
 **Name:** Sharaku
 
+**Image Files:**
 ![Sharaku](../images/tattoos__z125/ancient_japanese_Sharaku.webp)
 
-**Brief Visual Description:** Outline of a figure of a Japanese man, specifically Sharaku.
+**Trait Category:**
+
+**Visual Description:** Outline of a figure of a Japanese man, specifically Sharaku.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Toshusai Sharaku, description below.
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** Toshusai Sharaku, description below.
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Japanese
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Japanese
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Sharaku
 
-**summary:**
-
-Tōshūsai Sharaku was a Japanese ukiyo-e artist active in 1794–1795, known for his vivid
-
-kabuki actor portraits. His bold, expressive style, with exaggerated features and dynamic poses,
-
-captured the essence of performers. Despite producing around 140 prints in a short period, his
-
-identity and life remain mysterious, with theories suggesting he was a Noh actor, samurai, or
-
-artist under a pseudonym. His work, initially underappreciated, later gained recognition for its
-
-psychological depth and artistic innovation. He vanished from the art scene as abruptly as he
-
-appeared, leaving a lasting legacy in ukiyo-e.
+**Summary:** Tōshūsai Sharaku was a Japanese ukiyo-e artist active in 1794–1795, known for his vivid kabuki actor portraits. His bold, expressive style, with exaggerated features and dynamic poses, captured the essence of performers. Despite producing around 140 prints in a short period, his identity and life remain mysterious, with theories suggesting he was a Noh actor, samurai, or artist under a pseudonym. His work, initially underappreciated, later gained recognition for its psychological depth and artistic innovation. He vanished from the art scene as abruptly as he appeared, leaving a lasting legacy in ukiyo-e.
 
 ---
 
 ## Oracle
 
+### Visual Properties
+
 **Name:** Oracle
 
+**Image Files:**
 ![Oracle](../images/tattoos__z125/modern_pythia_Oracle.webp)
 
-**Brief Visual Description:** Magic-8-ball drawn in blue, with 3 small sparks on it and short lines
+**Trait Category:**
 
-depicting the ball radiating some sort of light / shine from it.
+**Visual Description:** Magic-8-ball drawn in blue, with 3 small sparks on it and short lines depicting the ball radiating some sort of light / shine from it.
 
 **Dominant Colors:** blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** description below
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** description below
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Pythia
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Pythia
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Pythia
 
-**summary:**
-
-The Pythia was the oracle of Apollo at Delphi in ancient Greece, serving as
-
-a priestess who delivered prophecies. Seated on a tripod in the temple, she
-
-entered a trance-like state, possibly induced by vapors or chewing laurel
-
-leaves, to channel divine messages. Her cryptic responses influenced
-
-major decisions in Greek society, from politics to warfare. The role was held
-
-by women, often chosen for their purity, and the oracle’s prominence lasted
-
-from the 8th century BCE until the decline of pagan practices in the 4th
-
-century CE.
+**Summary:** The Pythia was the oracle of Apollo at Delphi in ancient Greece, serving as a priestess who delivered prophecies. Seated on a tripod in the temple, she entered a trance-like state, possibly induced by vapors or chewing laurel leaves, to channel divine messages. Her cryptic responses influenced major decisions in Greek society, from politics to warfare. The role was held by women, often chosen for their purity, and the oracle’s prominence lasted from the 8th century BCE until the decline of pagan practices in the 4th century CE.
 
 ---
 
 ## Rilakkuma
 
+### Visual Properties
+
 **Name:** Rilakkuma
 
+**Image Files:**
 ![Rilakkuma](../images/tattoos__z125/modern_japanese_Rilakkuma.webp)
 
-**Brief Visual Description:** Line drawing of a bear with a big head lying on its side with the hand
+**Trait Category:**
 
-(paw) supporting its head.
+**Visual Description:** Line drawing of a bear with a big head lying on its side with the hand (paw) supporting its head.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Rilakkuma (a Japanese fictional character)
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** Rilakkuma (a Japanese fictional character)
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Japanese
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
 
-**Research Summary:**
+### Mibera Integration
 
-Rilakkuma is a popular Japanese character created by San-X, a company known for cute
+**Archetype:** 
 
-stationery and merchandise, in 2003. Designed by Aki Kondo, Rilakkuma is a soft, brown bear
+**Archetype Alignment:** 
 
-with a relaxed demeanor, often depicted lounging or eating snacks like dango or pancakes. The
+**Vibe Tags:**
 
-name "Rilakkuma" comes from combining "relax" and "kuma" (Japanese for bear), embodying a
+**Swag Score:** 
 
-stress-free, laid-back lifestyle.
 
-Rilakkuma symbolizes relaxation, self-care, and enjoying life’s simple pleasures. Its
+---
 
-carefree attitude appeals to those seeking comfort in busy, stressful lives, especially in Japan’s
+### Connections
 
-work-centric culture. The character promotes a message of slowing down and finding joy in
+**Ancestor:** Japanese
 
-everyday moments, like napping or snacking. Its gender-neutral design and universal themes
+**Trait Synergies:**
 
-make it beloved across ages and cultures, particularly in the kawaii (cute) aesthetic movement.
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Nepalese Flag
 
+### Visual Properties
+
 **Name:** Nepalese Flag
 
+**Image Files:**
 ![Nepalese Flag](../images/tattoos__z125/modern_nepal_Nepalese%20Flag.webp)
 
-**Brief Visual Description:** Nepalese flag, shaped in 2 connected triangles with red as the base
+**Trait Category:**
 
-color and 2 white symbols on it.
+**Visual Description:** Nepalese flag, shaped in 2 connected triangles with red as the base color and 2 white symbols on it.
 
 **Dominant Colors:** Red, white
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** The national flag of Nepal
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** The national flag of Nepal
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Nepal
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Nepal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Flag_of_Nepal
 
-**Summary:**
-
-The Flag of Nepal, adopted in 1962 and formalized in the 2006 constitution, is the world’s only
-
-non-rectangular national flag, shaped like two stacked pennants. It features a crimson red
-
-background (symbolizing bravery and national flower, rhododendron), with a blue border
-
-(representing peace). The flag includes a white crescent moon with eight rays and a
-
-twelve-rayed sun, symbolizing hope, peace, and the Himalayan landscape. Its unique shape
-
-reflects Nepal’s cultural and historical identity, with roots in ancient traditions and
-
-Hindu-Buddhist symbolism. The flag’s design was simplified in 1962 from earlier, more complex
-
-versions.
+**Summary:** The Flag of Nepal, adopted in 1962 and formalized in the 2006 constitution, is the world’s only non-rectangular national flag, shaped like two stacked pennants. It features a crimson red background (symbolizing bravery and national flower, rhododendron), with a blue border (representing peace). The flag includes a white crescent moon with eight rays and a twelve-rayed sun, symbolizing hope, peace, and the Himalayan landscape. Its unique shape reflects Nepal’s cultural and historical identity, with roots in ancient traditions and Hindu-Buddhist symbolism. The flag’s design was simplified in 1962 from earlier, more complex versions.
 
 ---
 
 ## Star and Crescent Hand
 
+### Visual Properties
+
 **Name:** Star and Crescent Hand
 
+**Image Files:**
 ![Star and Crescent Hand](../images/tattoos__z125/modern_turkey_Star%20and%20Crescent%20Hand.webp)
 
-**Brief Visual Description:** The star and crescent of Turkey’s flag, directly on top of Mibera’s
+**Trait Category:**
 
-hand. It is entirely red.
+**Visual Description:** The star and crescent of Turkey’s flag, directly on top of Mibera’s hand. It is entirely red.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Ancient:** 1071-1300 CE (Seljuk Empire to the rise of the Ottoman Empire)
+**Source Type:**
 
-**Modern:** 1923-1950 CE (Establishment and early years of the Republic of Turkey)
+**Cultural Origin:** 
 
-**Team Anecdotes:**
+**Era:** Modern ---
 
-**Date Created/Uploaded:** August 9, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):** Turkey
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):**
+### Mibera Integration
 
-**Ancient / Modern:** Modern
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Turkey
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Caria Tyche
 
+### Visual Properties
+
 **Name:** Caria Tyche
 
+**Image Files:**
 ![Caria Tyche](../images/tattoos__z125/ancient_greek_Caria%20Tyche.webp)
 
-**Brief Visual Description:** an intricate line drawing of Tyche, Greek Goddess of Fame and
+**Trait Category:**
 
-Fortune.
+**Visual Description:** an intricate line drawing of Tyche, Greek Goddess of Fame and Fortune.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Tyche is the Greek Goddess of Fortune and Fame, as
+### Cultural Context
 
-‘caria’ means "graceful" or "she who flows like water"
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Tyche is the Greek Goddess of Fortune and Fame, as ‘caria’ means "graceful" or "she who flows like water"
 
-**Date Created/Uploaded:** August 9, 2024
+**Era:** Ancient
 
-**Who Introduced the Trait:**
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):** Greek
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):**
+---
 
-**Ancient / Modern:** Ancient
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Greek
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Tyche
 
-**Summary:**
-
-Caria’s Tyche was associated with symbols such as the mural crown (representing city walls),
-
-cornucopia (abundance), and rudder (guiding fate). Her worship in Caria reflected the Hellenistic
-
-period’s emphasis on chance and fortune, especially after Alexander the Great’s conquests,
-
-when socio-political instability amplified her significance. In Caria, Tyche’s cult was part of a
-
-broader trend where cities personified their fortune through her, often depicting her on coins and
-
-in statues to invoke prosperity and protection.
+**Summary:** Caria’s Tyche was associated with symbols such as the mural crown (representing city walls), cornucopia (abundance), and rudder (guiding fate). Her worship in Caria reflected the Hellenistic period’s emphasis on chance and fortune, especially after Alexander the Great’s conquests, when socio-political instability amplified her significance. In Caria, Tyche’s cult was part of a broader trend where cities personified their fortune through her, often depicting her on coins and in statues to invoke prosperity and protection.
 
 ---
 
 ## Uwu Baphomet
 
+### Visual Properties
+
 **Name:** Uwu Baphomet
 
+**Image Files:**
 ![uwu baphomet](../images/tattoos__z125/modern_satanist_uwu%20baphomet.webp)
 
-**Brief Visual Description:** Linework of a goat with long horns in a very cute style.
+**Trait Category:**
+
+**Visual Description:** Linework of a goat with long horns in a very cute style.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Satanist
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Satanist
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Baphomet
-
 - https://en.wikipedia.org/wiki/Uwu
 
-**Summary:**
-
-UwU Baphomet, is in short a cute version of the figure Baphomet, combining Satanism and
-
-Kawaii internet culture.
-
-UwU is an emoticon and internet slang used to express cuteness, affection, or happiness, often
-
-in anime, gaming, and kawaii culture. It mimics a face with closed, happy eyes (U shapes) and a
-
-small, puckered mouth (w), resembling a shy or adorable expression. Popularized online,
-
-especially in furry and otaku communities, it’s used in text, memes, and roleplay to convey
-
-**playful or wholesome vibes. Example:** “I wuv you >w<” or “so cute UwU.”
-
-As for Baphomet, it is a symbolic figure often depicted as a goat-headed, winged, androgynous
-
-being with occult and esoteric associations. Originating in the 14th century during the trials of
-
-the Knights Templar, where it was falsely linked to their alleged idolatry, the name likely derives
-
-from a corruption of "Muhammad." Popularized in the 19th century by occultist Eliphas Levi,
-
-who illustrated it as a representation of balance (male/female, good/evil), Baphomet is now tied
-
-to modern occultism, Satanism, and mysticism, symbolizing duality and hidden knowledge.
+**Summary:** UwU Baphomet, is in short a cute version of the figure Baphomet, combining Satanism and Kawaii internet culture. UwU is an emoticon and internet slang used to express cuteness, affection, or happiness, often in anime, gaming, and kawaii culture. It mimics a face with closed, happy eyes (U shapes) and a small, puckered mouth (w), resembling a shy or adorable expression. Popularized online, especially in furry and otaku communities, it’s used in text, memes, and roleplay to convey **playful or wholesome vibes. Example:** “I wuv you >w<” or “so cute UwU.” As for Baphomet, it is a symbolic figure often depicted as a goat-headed, winged, androgynous being with occult and esoteric associations. Originating in the 14th century during the trials of the Knights Templar, where it was falsely linked to their alleged idolatry, the name likely derives from a corruption of "Muhammad." Popularized in the 19th century by occultist Eliphas Levi, who illustrated it as a representation of balance (male/female, good/evil), Baphomet is now tied to modern occultism, Satanism, and mysticism, symbolizing duality and hidden knowledge.
 
 ---
 
 ## Milady Eyes Hand
 
+### Visual Properties
+
 **Name:** Milady Eyes Hand
 
+**Image Files:**
 ![Milady Eyes Hand](../images/tattoos__z125/Milady%20Eyes%20Hand.webp)
 
-**Brief Visual Description:** Pair of big (milady) eyes with 2 eyebrows tilting upwards from the
+**Trait Category:**
 
-inside, and a tiny mouth.
+**Visual Description:** Pair of big (milady) eyes with 2 eyebrows tilting upwards from the inside, and a tiny mouth.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Tez
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 6, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://opensea.io/collection/milady
-
 - https://iq.wiki/wiki/milady-maker
-
 - https://discord.com/channels/1133935527855399053/1260863409134637136/12608645961896
 
-42845
-
-**Summary:**
-
-Milady Maker is a collection of 10,000 generative profile picture NFTs on the Ethereum
-
-blockchain, launched in August 2021 by the Remilia Collective. Inspired by 2000s Tokyo street
-
-fashion and the "neochibi" aesthetic, it features anime-style avatars with randomized
-
-accessories, rated by a "Drip Score" for stylishness. Popular on Crypto Twitter, it gained fame
-
-after Elon Musk’s tweet in 2023, boosting its floor price. The project includes community events
-
-like raves, VRtube avatars, and a Minecraft metaverse.
+**Summary:** Milady Maker is a collection of 10,000 generative profile picture NFTs on the Ethereum blockchain, launched in August 2021 by the Remilia Collective. Inspired by 2000s Tokyo street fashion and the "neochibi" aesthetic, it features anime-style avatars with randomized accessories, rated by a "Drip Score" for stylishness. Popular on Crypto Twitter, it gained fame after Elon Musk’s tweet in 2023, boosting its floor price. The project includes community events like raves, VRtube avatars, and a Minecraft metaverse.
 
 ---
 
 ## Inverted Pentagram
 
+### Visual Properties
+
 **Name:** Inverted Pentagram
 
+**Image Files:**
 ![Inverted Pentagram](../images/tattoos__z125/ancient_Satanist_Inverted%20Pentagram.webp)
 
-**Brief Visual Description:** Line work of an upside down star inside of a circle.
+**Trait Category:**
+
+**Visual Description:** Line work of an upside down star inside of a circle.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Satanist
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Satanist
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
+- https://mandalashop-online.com/en/blog/inverted-pentagram-n168#:~:text=What%20is%20the%
 
-https://mandalashop-online.com/en/blog/inverted-pentagram-n168#:~:text=What%20is%20the%
-
-20meaning%20of,this%20symbol%20requires%20great%20discernment.
-
-**Summary:**
-
-The meaning of the Inverted Pentagram varies according to the traditions and intentions in
-
-which it is used. In most interpretations, it symbolizes an inversion of spiritual values, a state
-
-where the Spirit is dominated by material or emotional forces.
-
-**It can be seen as a reflection of:**
-
-- an inner imbalance,
-
-- a loss of spiritual bearings,
-
-- or submission to primal instincts and drives.
-
-In this sense, it acts as a mirror of the state of the human being when he turns away from his
-
-higher nature. It symbolizes the human being who, instead of elevating himself, locks himself
-
-into the density of matter, in fear, ego or the will to power.
+**Summary:** The meaning of the Inverted Pentagram varies according to the traditions and intentions in which it is used. In most interpretations, it symbolizes an inversion of spiritual values, a state where the Spirit is dominated by material or emotional forces. **It can be seen as a reflection of:** - an inner imbalance, - a loss of spiritual bearings, - or submission to primal instincts and drives. In this sense, it acts as a mirror of the state of the human being when he turns away from his higher nature. It symbolizes the human being who, instead of elevating himself, locks himself into the density of matter, in fear, ego or the will to power.
 
 ---
 
 ## Cursed Milady
 
+### Visual Properties
+
 **Name:** Cursed Milady
 
+**Image Files:**
 ![Cursed Milady](../images/tattoos__z125/Cursed%20Milady.webp)
 
-**Brief Visual Description:** Rough linework in red of a short-haired woman wearing a French
+**Trait Category:**
 
-beret.
+**Visual Description:** Rough linework in red of a short-haired woman wearing a French beret.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Tez
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-- https://discord.com/channels/1133935527855399053/1260863409134637136/12608646906498
+---
 
-25311
+### Mibera Integration
 
-**Note:**
+**Archetype:** 
 
-“Cursed” in internet culture typically used to refer to horrendous / awful versions of certain
+**Archetype Alignment:** 
 
-things.
+**Vibe Tags:**
+
+**Swag Score:** - https://discord.com/channels/1133935527855399053/1260863409134637136/12608646906498 25311
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 6, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Beloved
 
+### Visual Properties
+
 **Name:** Beloved
 
+**Image Files:**
 ![Beloved](../images/tattoos__z125/modern_greek_Beloved.webp)
 
-**Brief Visual Description:** Simple straight writing of ‘beloved’ in Greek language and alphabet
+**Trait Category:**
 
-‘αγαπητός’.
+**Visual Description:** Simple straight writing of ‘beloved’ in Greek language and alphabet ‘αγαπητός’.
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Modern ---
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Greek
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Greek
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Stupa
 
+### Visual Properties
+
 **Name:** Stupa
 
+**Image Files:**
 ![Stupa](../images/tattoos__z125/ancient_nepal_Stupa.webp)
 
-**Brief Visual Description:** Black and white drawing of a shrine with shading.
+**Trait Category:**
+
+**Visual Description:** Black and white drawing of a shrine with shading.
 
 **Dominant Colors:** Black, grey.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Nepal
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Nepal
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Stupa
 
-A stupa is a structure used in Buddhism as a place of worship, meditation, and relic veneration.
-
-Originating in ancient India, it symbolizes the Buddha’s enlightenment and burial mound.
-
-Typically featuring a rounded dome, a spire, and a square base, stupas represent the path to
-
-nirvana. They are found across Asia, from India’s Sanchi Stupa to Nepal’s Boudhanath, serving
-
-as spiritual focal points for devotees.
+**Summary:** 
 
 ---
 
 ## Filipino Tribal
 
+### Visual Properties
+
 **Name:** Filipino Tribal
 
+**Image Files:**
 ![Filipino Tribal](../images/tattoos__z125/Filipino%20Tribal.webp)
 
-**Brief Visual Description:** Filipino tribal line-work.
+**Trait Category:**
+
+**Visual Description:** Filipino tribal line-work.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**NOTE:**
+---
 
-NOT YET ELABORATED, need to dig deeper into this since there are many kinds of Filipino
+### Mibera Integration
 
-ancestral / tribal tattoos it seems.
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 6, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Enso
 
+### Visual Properties
+
 **Name:** Enso
 
+**Image Files:**
 ![Enso](../images/tattoos__z125/ancient_buddhist_Enso.webp)
 
-**Brief Visual Description:** Thick brush stroke that goes in nearly full circle.
+**Trait Category:**
+
+**Visual Description:** Thick brush stroke that goes in nearly full circle.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Buddhist
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Buddhist
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://safety4sea.com/cm-enso-circle-letting-go-of-the-mind/
 
-**Summary:**
-
-**■ Journey:** For seafarers, the journey across the oceans could represent their life’s
-
-journey. The Enso circle’s symbolism can relate to a seafarer’s voyage being a complete
-
-experience.
-
-**■ Circle of life:** Seafarers can connect Enso circle with their life at sea, where they
-
-experience cycles of departure, exploration, and return.
-
-**■ Navigating Challenges:** The act of drawing an Enso circle in one brushstroke can
-
-reflect the quick decisions and swift actions seafarers often need to make when
-
-navigating challenges on the sea. The circle’s creation in a single stroke mirrors the
-
-necessity for timely and well-considered responses.
-
-**■ Connection with nature:** Seafarers are intimately connected to the sea and nature. The
-
-Enso circle’s representation of unity and interconnectedness can reflect their relationship
-
-with the natural world, emphasizing the interdependence between humans and the
-
-environment.
+**Summary:** 
 
 ---
 
 ## Straight Edge
 
+### Visual Properties
+
 **Name:** Straight Edge
 
+**Image Files:**
 ![Straight Edge](../images/tattoos__z125/Straight%20Edge.webp)
 
-**Brief Visual Description:** Two thick rectangular lines with clean edges crossing one another.
+**Trait Category:**
+
+**Visual Description:** Two thick rectangular lines with clean edges crossing one another.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Jani / Tez
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 6, 2024
+
+**Introduced By:** Jani / Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1152388368865431582/11745383081315
-
-04128
-
 - https://discord.com/channels/1133935527855399053/1164327631655813160/11757503526671
-
-52435
-
 - https://www.kerrang.com/what-does-it-mean-to-be-straight-edge-in-2019
 
-**Summary:**
-
-The article explores the evolution of the straight edge subculture, a hardcore punk movement
-
-originating in the early 1980s, centered on abstaining from alcohol, tobacco, and recreational
-
-drugs. It highlights how the movement, named after Minor Threat’s 1981 song, has shifted from
-
-its militant roots to a more flexible identity in 2020. Core values—avoiding drugs, alcohol, and
-
-**smoking—remain, but attitudes vary:** some, like Nathan, treat it as a daily choice, while others,
-
-like Trevor of Eighteen Visions, view it as a lifelong commitment, expressing disappointment in
-
-those who “break edge.” The article notes a decline in the subculture’s early rigidity, with
-
-individuals like Jeremy (age 36) seeing it as second nature, open to possibly drinking later in
-
-life. Bands like Martha are still labeled straight edge despite some members no longer adhering,
-
-reflecting a less judgmental community. The piece underscores straight edge’s enduring
-
-relevance, balancing personal empowerment with evolving social acceptance.
+**Summary:** The article explores the evolution of the straight edge subculture, a hardcore punk movement originating in the early 1980s, centered on abstaining from alcohol, tobacco, and recreational drugs. It highlights how the movement, named after Minor Threat’s 1981 song, has shifted from its militant roots to a more flexible identity in 2020. Core values—avoiding drugs, alcohol, and **smoking—remain, but attitudes vary:** some, like Nathan, treat it as a daily choice, while others, like Trevor of Eighteen Visions, view it as a lifelong commitment, expressing disappointment in those who “break edge.” The article notes a decline in the subculture’s early rigidity, with individuals like Jeremy (age 36) seeing it as second nature, open to possibly drinking later in life. Bands like Martha are still labeled straight edge despite some members no longer adhering, reflecting a less judgmental community. The piece underscores straight edge’s enduring relevance, balancing personal empowerment with evolving social acceptance.
 
 ---
 
 ## Whirling Dervish
 
+### Visual Properties
+
 **Name:** Whirling Dervish
 
+**Image Files:**
 ![Whirling Dervish](../images/tattoos__z125/ancient_sufi_Whirling%20Dervish.webp)
 
-**Brief Visual Description:** Simple line-work of a dancing woman in a long dress.
+**Trait Category:**
+
+**Visual Description:** Simple line-work of a dancing woman in a long dress.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Jani
+**Era:** Ancient - https://discord.com/channels/1133935527855399053/1160911774086873089/11609192972086 14973 - https://www.theguardian.com/world/gallery/2016/feb/05/the-psychedelic-world-of-sudans-sufis-in -pictures
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Sufi
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
 
-- https://discord.com/channels/1133935527855399053/1160911774086873089/11609192972086
+### Mibera Integration
 
-14973
+**Archetype:** 
 
-- https://www.theguardian.com/world/gallery/2016/feb/05/the-psychedelic-world-of-sudans-sufis-in
+**Archetype Alignment:** 
 
--pictures
+**Vibe Tags:**
 
-**Summary:**
+**Swag Score:** 
 
-Sufi whirling, also known as "whirling dervishes," is a meditative dance practiced by Sufi
 
-Dervishes, primarily within the Mevlevi Order, founded in the 13th century by followers of the
+---
 
-mystic poet Rumi in Konya, Turkey. Performers spin in circles to achieve spiritual ecstasy and
+### Connections
 
-connect with the divine, symbolizing the soul’s journey toward God and the cosmic order of
+**Ancestor:** Sufi
 
-planets orbiting the sun. Dancers wear traditional white robes with wide skirts (representing the
+**Trait Synergies:**
 
-ego’s shroud) and a black cloak (symbolizing the ego’s grave), which is shed during the dance.
+**Trait Conflicts:** 
 
-Accompanied by music like the ney (flute), the ritual involves specific movements, with the right
+---
 
-hand raised to receive divine energy and the left lowered to transmit it to earth. Practiced mainly
+### Attribution & Sources
 
-in Turkey and parts of the Middle East, it remains a profound expression of Sufi mysticism,
+**Date Added:** August 6, 2024
 
-emphasizing unity, love, and transcendence.
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** Sufi whirling, also known as "whirling dervishes," is a meditative dance practiced by Sufi Dervishes, primarily within the Mevlevi Order, founded in the 13th century by followers of the mystic poet Rumi in Konya, Turkey. Performers spin in circles to achieve spiritual ecstasy and connect with the divine, symbolizing the soul’s journey toward God and the cosmic order of planets orbiting the sun. Dancers wear traditional white robes with wide skirts (representing the ego’s shroud) and a black cloak (symbolizing the ego’s grave), which is shed during the dance. Accompanied by music like the ney (flute), the ritual involves specific movements, with the right hand raised to receive divine energy and the left lowered to transmit it to earth. Practiced mainly in Turkey and parts of the Middle East, it remains a profound expression of Sufi mysticism, emphasizing unity, love, and transcendence.
 
 ---
 
 ## Sugar Skull
 
+### Visual Properties
+
 **Name:** Sugar Skull
 
+**Image Files:**
 ![Sugar Skull](../images/tattoos__z125/Sugar%20Skull.webp)
 
-**Brief Visual Description:** Intricate line art of a skull with insane amounts of details and flowers
+**Trait Category:**
 
-on the eye-sockets.
+**Visual Description:** Intricate line art of a skull with insane amounts of details and flowers on the eye-sockets.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Tez
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 6, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.byrdie.com/sugar-skulls-history-significance-and-modern-day-tattoos-3189625
 
-**Summary:**
-
-Sugar Skull is generally an iconic symbol of Día de los Muertos (Day of the Dead), a Mexican
-
-holiday celebrated on November 1-2 to honor deceased loved ones. Originating from ancient
-
-Meso-American traditions, sugar skulls (calaveras) were crafted from abundant sugar as a
-
-substitute for real skulls, a practice banned by Spanish colonizers who imposed Catholic rituals.
-
-Today, these colorful, decorated skulls symbolize the celebration of life and death, connecting
-
-modern Meso-Americans to their ancestors. In contemporary culture, sugar skulls are popular in
-
-tattoos, art, and decor, embraced globally for their vibrant, intricate designs.
+**Summary:** Sugar Skull is generally an iconic symbol of Día de los Muertos (Day of the Dead), a Mexican holiday celebrated on November 1-2 to honor deceased loved ones. Originating from ancient Meso-American traditions, sugar skulls (calaveras) were crafted from abundant sugar as a substitute for real skulls, a practice banned by Spanish colonizers who imposed Catholic rituals. Today, these colorful, decorated skulls symbolize the celebration of life and death, connecting modern Meso-Americans to their ancestors. In contemporary culture, sugar skulls are popular in tattoos, art, and decor, embraced globally for their vibrant, intricate designs.
 
 ---
 
 ## Lineart Lotus
 
+### Visual Properties
+
 **Name:** Lineart Lotus
 
+**Image Files:**
 ![Lineart Lotus](../images/tattoos__z125/modern_hindu_Lineart%20Lotus.webp)
 
-**Brief Visual Description:** Simple line-art connecting a few curves, a lotus, and a few dots.
+**Trait Category:**
+
+**Visual Description:** Simple line-art connecting a few curves, a lotus, and a few dots.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Hindu
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
 
-**Research Summary:**
+### Mibera Integration
 
-A line art lotus tattoo generally symbolizes purity, enlightenment, and resilience. The lotus
+**Archetype:** 
 
-flower, revered in cultures like Buddhism and Hinduism, represents rising above adversity, as it
+**Archetype Alignment:** 
 
-blooms beautifully despite growing in muddy waters. Its minimalist line art style emphasizes
+**Vibe Tags:**
 
-simplicity, elegance, and clarity, often appealing to those seeking a subtle yet meaningful design.
+**Swag Score:** 
 
-The tattoo can also signify spiritual growth, inner peace, or transformation, with its clean lines
 
-highlighting the flower's delicate beauty and universal significance across spiritual traditions.
+---
+
+### Connections
+
+**Ancestor:** Hindu
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Ottoman Tughra
 
+### Visual Properties
+
 **Name:** Ottoman Tughra
 
+**Image Files:**
 ![Ottoman Tughra](../images/tattoos__z125/ancient_turkey_Ottoman%20Tughra.webp)
 
-**Brief Visual Description:** Lines forming a monograph.
+**Trait Category:**
+
+**Visual Description:** Lines forming a monograph.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Ottoman / Tughra
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** Ottoman / Tughra
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Turkey
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Turkey
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Tughra
 
-**Summary:**
-
-A tughra is an ornate calligraphic monogram used by Ottoman sultans as a signature,
-
-symbolizing their authority. Originating in the 14th century, it features intricate Arabic script with
-
-the sultan’s name, title, and often their father’s name, stylized into a unique design. Tughras
-
-were used on official documents, coins, and seals, serving as a mark of legitimacy and
-
-sovereignty in the Ottoman Empire until its dissolution in 1922.
+**Summary:** A tughra is an ornate calligraphic monogram used by Ottoman sultans as a signature, symbolizing their authority. Originating in the 14th century, it features intricate Arabic script with the sultan’s name, title, and often their father’s name, stylized into a unique design. Tughras were used on official documents, coins, and seals, serving as a mark of legitimacy and sovereignty in the Ottoman Empire until its dissolution in 1922.
 
 ---
 
 ## Heart with Wings
 
+### Visual Properties
+
 **Name:** Heart with Wings
 
+**Image Files:**
 ![Heart with Wings](../images/tattoos__z125/modern_sufi_Heart%20with%20Wings.webp)
 
-**Brief Visual Description:** Heart with a crescent moon facing upwards and a star on top of it,
+**Trait Category:**
 
-and a pair of wings extending out of the heart.
+**Visual Description:** Heart with a crescent moon facing upwards and a star on top of it, and a pair of wings extending out of the heart.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Sufi
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
 
-**Research Summary:**
+### Mibera Integration
 
-A heart with wings tattoo in the context of Sufism, a mystical branch of Islam, symbolizes the
+**Archetype:** 
 
-ascension of the heart toward divine love and spiritual liberation. The emblem, chosen by
+**Archetype Alignment:** 
 
-Hazrat Inayat Khan for the Universal Sufi Movement in the early 20th century, represents the
+**Vibe Tags:**
 
-heart as a bridge between the earthly and divine, with wings signifying its rise toward God. The
+**Swag Score:** 
 
-heart often contains a crescent moon (responsiveness to divine light, reflecting the sun) and a
 
-five-pointed star (divine light or love within the heart). In Sufism, this imagery reflects the soul’s
+---
 
-journey to transcend ego, achieve unity with the divine, and embody love and harmony, often
+### Connections
 
-linked to practices like Sufi whirling, where dancers seek spiritual ecstasy. The tattoo can also
+**Ancestor:** Sufi
 
-carry broader meanings like freedom, love, or memorializing a loved one, but its Sufi roots
+**Trait Synergies:**
 
-emphasize spiritual elevation and divine connection.
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Ber Tsetseg
 
+### Visual Properties
+
 **Name:** Ber Tsetseg
 
+**Image Files:**
 ![Ber Tsetseg](../images/tattoos__z125/modern_mongolian_Ber%20Tsetseg.webp)
 
-**Brief Visual Description:** Line work of 3 flowers with leaves, portraying Mongolia’s national
+**Trait Category:**
 
-**flower:** Ber Tsetseg
+**Visual Description:** Line work of 3 flowers with leaves, portraying Mongolia’s national
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Mongolia’s national flower, Ber Tsetseg (Scabiosa
+### Cultural Context
 
-comosa), declared in October 2014, symbolizes resilience and tolerance. Known as the
+**Source Type:**
 
-Pincushion Flower, its lavender-blue blooms thrive in Mongolia’s harsh climate, reflecting the
+**Cultural Origin:** Mongolia’s national flower, Ber Tsetseg (Scabiosa comosa), declared in October 2014, symbolizes resilience and tolerance. Known as the Pincushion Flower, its lavender-blue blooms thrive in Mongolia’s harsh climate, reflecting the nation’s enduring spirit. It’s culturally significant, used in equestrian traditions like saddle decorations, and plays an ecological role by attracting pollinators.
 
-nation’s enduring spirit. It’s culturally significant, used in equestrian traditions like saddle
+**Era:** Modern
 
-decorations, and plays an ecological role by attracting pollinators.
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:**
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):** Mongolian
+### Mibera Integration
 
-**Archetype (if applicable):**
+**Archetype:** 
 
-**Swag Score (if applicable):**
+**Archetype Alignment:** 
 
-**Ancient / Modern:** Modern
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Mongolian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://www.explorationjunkie.com/mongolia-national-flower/
+
+**Summary:** 
 
 ---
 
 ## Sicanje
 
+### Visual Properties
+
 **Name:** Sicanje
 
+**Image Files:**
 ![Sicanje](../images/tattoos__z125/modern_sicanje_Sicanje.webp)
 
-**Brief Visual Description:** Line work that’s a combination of circular shapes, lines, and dots.
+**Trait Category:**
+
+**Visual Description:** Line work that’s a combination of circular shapes, lines, and dots.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Sicanje tattoo; a traditional tattooing practice among
+### Cultural Context
 
-Catholic Croats in Bosnia and Herzegovina, particularly in the Rama region, believed to protect
+**Source Type:**
 
-against forced marriages, abductions, or conversions to Islam. Performed mainly on girls aged
+**Cultural Origin:** Sicanje tattoo; a traditional tattooing practice among Catholic Croats in Bosnia and Herzegovina, particularly in the Rama region, believed to protect against forced marriages, abductions, or conversions to Islam. Performed mainly on girls aged 10-15, the tattoos were made off of a mixture of soot, honey, and milk, often on hands or chests.
 
-10-15, the tattoos were made off of a mixture of soot, honey, and milk, often on hands or chests.
+**Era:** Modern - https://balkandiskurs.com/en/2022/10/21/the-tradition-of-sicanje/ - https://engagedscholarship.csuohio.edu/sicanje/ - https://www.atlasobscura.com/articles/sicanje-traditional-balkan-tattoo - https://discord.com/channels/1133935527855399053/1143685538075902095/11679201144699 78142 ---
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):** Sicanje
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):**
+**Archetype:** 
 
-**Ancient / Modern:** Modern
+**Archetype Alignment:** 
 
-- https://balkandiskurs.com/en/2022/10/21/the-tradition-of-sicanje/
+**Vibe Tags:**
 
-- https://engagedscholarship.csuohio.edu/sicanje/
+**Swag Score:** 
 
-- https://www.atlasobscura.com/articles/sicanje-traditional-balkan-tattoo
 
-- https://discord.com/channels/1133935527855399053/1143685538075902095/11679201144699
+---
 
-78142
+### Connections
+
+**Ancestor:** Sicanje
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Stylized Dragon
 
+### Visual Properties
+
 **Name:** Stylized Dragon
 
+**Image Files:**
 ![Stylized Dragon](../images/tattoos__z125/modern_chinese_Stylized%20Dragon.webp)
 
-**Brief Visual Description:** Line work of a dragon’s face, front-view.
+**Trait Category:**
+
+**Visual Description:** Line work of a dragon’s face, front-view.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Chinese
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
 
-**Research Summary:**
+### Mibera Integration
 
-A dragon face tattoo typically symbolizes power, strength, wisdom, and protection, with
+**Archetype:** 
 
-meanings varying by cultural context. In Eastern cultures (e.g., Chinese, Japanese,
+**Archetype Alignment:** 
 
-Vietnamese), it represents benevolence, good fortune, and spiritual energy, often tied to nature,
+**Vibe Tags:**
 
-water, or imperial authority. For example, Chinese dragons symbolize luck and wisdom, while
+**Swag Score:** 
 
-Japanese ryujin are linked to natural forces like the sea. In Western cultures, dragon face
 
-tattoos often signify courage, dominance, or overcoming challenges, reflecting the fiercer, more
+---
 
-malevolent dragons of European folklore. The tattoo’s design, such as an upward-facing dragon,
+### Connections
 
-may emphasize ambition or enlightenment, while colors (e.g., red for passion, blue for peace)
+**Ancestor:** Chinese
 
-and placement (e.g., chest for courage, face for boldness) add personal nuance. In specific
+**Trait Synergies:**
 
-contexts, like One Piece fandom, theories suggest tattoos like Monkey D. Dragon’s face
+**Trait Conflicts:** 
 
-markings may symbolize rebellion or cultural heritage, though no official meaning is confirmed.
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Indus Valley Civilization Oxen
 
+### Visual Properties
+
 **Name:** Indus Valley Civilization Oxen
 
+**Image Files:**
 ![Indus Valley Civilization Oxen](../images/tattoos__z125/ancient_punjabi_Indus%20Valley%20Civilization%20Oxen.webp)
 
-**Brief Visual Description:** Simple shape made of lines, irregular outline resembling an Ox, with
+**Trait Category:**
 
-a slight curve, a small circular dot near the top center, and a jagged edge on the right side..
+**Visual Description:** Simple shape made of lines, irregular outline resembling an Ox, with a slight curve, a small circular dot near the top center, and a jagged edge on the right side..
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Punjabi
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Punjabi
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://press.rebus.community/historyoftech/chapter/tools-of-agriculture-in-the-indus-civilization/
 
-**#:** ~:text=Figure%203.,domesticated%20as%20well.%5B5%5D
-
-**Summary:**
-
-The Indus Valley Civilization (ca. 2500 BCE) relied heavily on agriculture, supported by greater
-
-rainfall and annual Indus River flooding, which enriched the soil. Primary crops included wheat
-
-and barley, grown using rabi cultivation (sown in November, harvested before April floods).
-
-Oxen were key for plowing and carts, while cows provided milk and meat. Other domesticated
-
-animals like asses, Bactrian camels, water buffaloes, goats, sheep, and pigs aided farming and
-
-food supply, reflecting a diverse agricultural economy.
+**Summary:** The Indus Valley Civilization (ca. 2500 BCE) relied heavily on agriculture, supported by greater rainfall and annual Indus River flooding, which enriched the soil. Primary crops included wheat and barley, grown using rabi cultivation (sown in November, harvested before April floods). Oxen were key for plowing and carts, while cows provided milk and meat. Other domesticated animals like asses, Bactrian camels, water buffaloes, goats, sheep, and pigs aided farming and food supply, reflecting a diverse agricultural economy.
 
 ---
 
 ## Stylized Quetzalcoatl
 
+### Visual Properties
+
 **Name:** Stylized Quetzalcoatl
 
+**Image Files:**
 ![Stylized Quetzalcoatl](../images/tattoos__z125/modern_mayan_Stylized%20Quetzalcoatl.webp)
 
-**Brief Visual Description:** Line work of a flying entity Quetzalcōātl/Kukulkan’s face, front-view,
+**Trait Category:**
 
-clouds can be seen indicating the figure being in the sky.
+**Visual Description:** Line work of a flying entity Quetzalcōātl/Kukulkan’s face, front-view, clouds can be seen indicating the figure being in the sky.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:** To showcase a modern rendering of an ancient deity.
+---
 
-**General Real World Trait History:** Quetzalcoatl, a prominent deity in Mesoamerican
+### Cultural Context
 
-mythology, particularly among the Aztecs, revered as the god of wind, air, learning, and
+**Source Type:**
 
-priesthood. Also known as Kukulkan.
+**Cultural Origin:** Quetzalcoatl, a prominent deity in Mesoamerican mythology, particularly among the Aztecs, revered as the god of wind, air, learning, and priesthood. Also known as Kukulkan.
 
-**Team Anecdotes:**
+**Era:** Modern
 
-**Date Created/Uploaded:** August 9, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:**
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
 
-**Ancestor (if applicable):** Mayan
+**Notable Figures:**
 
-**Archetype (if applicable):**
+---
 
-**Swag Score (if applicable):**
+### Mibera Integration
 
-**Ancient / Modern:** Modern
+**Archetype:** 
+
+**Archetype Alignment:** To showcase a modern rendering of an ancient deity.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Mayan
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Quetzalc%C5%8D%C4%81tl
+
+**Summary:** 
 
 ---
 
 ## Om
 
+### Visual Properties
+
 **Name:** Om
 
+**Image Files:**
 ![Om](../images/tattoos__z125/ancient_hindu_Om.webp)
 
-**Brief Visual Description:** An ‘om’ symbol in black.
+**Trait Category:**
+
+**Visual Description:** An ‘om’ symbol in black.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** “Om” symbol (or Aum); a sacred sound and spiritual icon in
+### Cultural Context
 
-Hinduism, Buddhism, and Jainism, representing the essence of the universe and the vibration of
+**Source Type:**
 
-creation. Written as ॐ in Sanskrit, it combines the sounds "A," "U," and "M," symbolizing the
+**Cultural Origin:** “Om” symbol (or Aum); a sacred sound and spiritual icon in Hinduism, Buddhism, and Jainism, representing the essence of the universe and the vibration of creation. Written as ॐ in Sanskrit, it combines the sounds "A," "U," and "M," symbolizing the waking, dreaming, and deep sleep states, with silence afterward representing transcendence. Used in meditation, mantras, and rituals, it signifies unity, peace, and the connection to the divine, often depicted in art and tattoos for its spiritual depth.
 
-waking, dreaming, and deep sleep states, with silence afterward representing transcendence.
+**Era:** Ancient ---
 
-Used in meditation, mantras, and rituals, it signifies unity, peace, and the connection to the
+**Scene Association:**
 
-divine, often depicted in art and tattoos for its spiritual depth.
+**Geographic Roots:**
 
-**Team Anecdotes:**
+**Why This Matters:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Notable Figures:**
 
-**Who Introduced the Trait:**
+---
 
-**Trait Conflicts:**
+### Mibera Integration
 
-**Ancestor (if applicable):** Hindu
+**Archetype:** 
 
-**Archetype (if applicable):**
+**Archetype Alignment:** 
 
-**Swag Score (if applicable):**
+**Vibe Tags:**
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Hindu
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Pythia Bust
 
+### Visual Properties
+
 **Name:** Pythia Bust
 
+**Image Files:**
 ![Pythia Bust](../images/tattoos__z125/ancient_pythia_Pythia%20Bust.webp)
 
-**Brief Visual Description:** A vague drawing mainly consisting of shading in the shape of a
+**Trait Category:**
 
-woman’s side profile.
+**Visual Description:** A vague drawing mainly consisting of shading in the shape of a woman’s side profile.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Pythia
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** Pythia
 
-**Who Introduced the Trait:**
+**Era:** Ancient - https://en.wikipedia.org/wiki/Pythia
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):** Pythia
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
 
-- https://en.wikipedia.org/wiki/Pythia
+### Mibera Integration
 
-**summary:**
+**Archetype:** Pythia
 
-The Pythia was the oracle of Apollo at Delphi in ancient Greece, serving as a priestess who
+**Archetype Alignment:** 
 
-delivered prophecies. Seated on a tripod in the temple, she entered a trance-like state, possibly
+**Vibe Tags:**
 
-induced by vapors or chewing laurel leaves, to channel divine messages. Her cryptic responses
+**Swag Score:** 
 
-influenced major decisions in Greek society, from politics to warfare. The role was held by
 
-women, often chosen for their purity, and the oracle’s prominence lasted from the 8th century
+---
 
-BCE until the decline of pagan practices in the 4th century CE.
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** The Pythia was the oracle of Apollo at Delphi in ancient Greece, serving as a priestess who delivered prophecies. Seated on a tripod in the temple, she entered a trance-like state, possibly induced by vapors or chewing laurel leaves, to channel divine messages. Her cryptic responses influenced major decisions in Greek society, from politics to warfare. The role was held by women, often chosen for their purity, and the oracle’s prominence lasted from the 8th century BCE until the decline of pagan practices in the 4th century CE.
 
 ---
 
 ## Jaguar
 
+### Visual Properties
+
 **Name:** Jaguar
 
+**Image Files:**
 ![Jaguar](../images/tattoos__z125/ancient_mayan_Jaguar.webp)
 
-**Brief Visual Description:** Line drawing of what looks like an upside down cat-like animal in a
+**Trait Category:**
 
-distinct style.
+**Visual Description:** Line drawing of what looks like an upside down cat-like animal in a distinct style.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Mayan Tribe; a Mayan jaguar tattoo generally symbolizes
+### Cultural Context
 
-strength, power, and transformation, reflecting the jaguar's revered status in Mayan culture
+**Source Type:**
 
-as a sacred animal and guardian of the spirit world. Associated with courage, protection, and
+**Cultural Origin:** Mayan Tribe; a Mayan jaguar tattoo generally symbolizes strength, power, and transformation, reflecting the jaguar's revered status in Mayan culture as a sacred animal and guardian of the spirit world. Associated with courage, protection, and rebirth, it was often linked to warriors and nobles who wore jaguar skins for battle prowess.
 
-rebirth, it was often linked to warriors and nobles who wore jaguar skins for battle prowess.
+**Era:** Ancient
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):**
+**Archetype:** 
 
-**Ancient / Modern:** Ancient
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552134794484
-
-16256
-
 - https://www.heritagedaily.com/2022/09/the-ritual-drug-habits-of-the-maya/144651
+
+**Summary:** 
 
 ---
 
 ## Dragon
 
+### Visual Properties
+
 **Name:** Dragon
 
+**Image Files:**
 ![Dragon](../images/tattoos__z125/ancient_chinese_Dragon.webp)
 
-**Brief Visual Description:** The traditional hanzi alphabet of the word ‘lóng’ in red.(龍)
+**Trait Category:**
+
+**Visual Description:** The traditional hanzi alphabet of the word ‘lóng’ in red.(龍)
 
 **Dominant Colors:** Red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient ---
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Chinese
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Chinese
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Barbed Wire
 
+### Visual Properties
+
 **Name:** Barbed Wire
 
+**Image Files:**
 ![Barbed Wire](../images/tattoos__z125/Barbed%20Wire.webp)
 
-**Brief Visual Description:** A barbed wire
+**Trait Category:**
+
+**Visual Description:** A barbed wire
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 6, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Tez
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 6, 2024
+
+**Introduced By:** Tez
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://discord.com/channels/1133935527855399053/1260863409134637136/12608667500363
 
-12175
+**Summary:** 
 
 ---
 
 ## From the Full Moon Fell Nokomis
 
+### Visual Properties
+
 **Name:** From the Full Moon Fell Nokomis
 
+**Image Files:**
 ![modern_native american_From the Full Moon fell Nokomis](../images/tattoos__z125/modern_native%20american_From%20the%20Full%20Moon%20fell%20Nokomis.webp)
 
-**Brief Visual Description:** Line work of a woman looking up with her hair floating and vines.
+**Trait Category:**
+
+**Visual Description:** Line work of a woman looking up with her hair floating and vines.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** "From the Full Moon Fell Nokomis" is a segment from Henry
+### Cultural Context
 
-Wadsworth Longfellow's epic poem The Song of Hiawatha (1855). It describes how Nokomis, a
+**Source Type:**
 
-woman born from the moon, falls to earth after a rival cuts her grapevine swing out of jealousy.
+**Cultural Origin:** "From the Full Moon Fell Nokomis" is a segment from Henry Wadsworth Longfellow's epic poem The Song of Hiawatha (1855). It describes how Nokomis, a woman born from the moon, falls to earth after a rival cuts her grapevine swing out of jealousy. On the meadow, she gives birth to her daughter Wenonah. Despite Nokomis' warnings, Wenonah is seduced by the West Wind (Mudjekeewis), leading to the birth of Hiawatha. Wenonah dies in childbirth, and Nokomis raises Hiawatha, nurturing him with wisdom and care by the shores of Gitche Gumee (Lake Superior). The story highlights themes of ancestry, nature, and matriarchal influence.
 
-On the meadow, she gives birth to her daughter Wenonah. Despite Nokomis' warnings,
+**Era:** Modern ---
 
-Wenonah is seduced by the West Wind (Mudjekeewis), leading to the birth of Hiawatha.
+**Scene Association:**
 
-Wenonah dies in childbirth, and Nokomis raises Hiawatha, nurturing him with wisdom and care
+**Geographic Roots:**
 
-by the shores of Gitche Gumee (Lake Superior). The story highlights themes of ancestry, nature,
+**Why This Matters:**
 
-and matriarchal influence.
+**Notable Figures:**
 
-**Team Anecdotes:**
+---
 
-**Date Created/Uploaded:** August 9, 2024
+### Mibera Integration
 
-**Who Introduced the Trait:**
+**Archetype:** 
 
-**Trait Conflicts:**
+**Archetype Alignment:** 
 
-**Ancestor (if applicable):**
+**Vibe Tags:**
 
-**Archetype (if applicable):**
+**Swag Score:** 
 
-**Swag Score (if applicable):**
 
-**Ancient / Modern:** Modern
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Picture Cave
 
+### Visual Properties
+
 **Name:** Picture Cave
 
+**Image Files:**
 ![ancient_native american_Picture Cave](../images/tattoos__z125/ancient_native%20american_Picture%20Cave.webp)
 
-**Brief Visual Description:** Line work of a naked prehistoric man with what looks like arrows.
+**Trait Category:**
+
+**Visual Description:** Line work of a naked prehistoric man with what looks like arrows.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Native American
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
 
-**Source:**
+### Mibera Integration
 
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Native American
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
 - https://en.wikipedia.org/wiki/Picture_Cave
 
-**Summary:**
-
-Picture Cave, located in Warren County, Missouri, is a significant archaeological site featuring 296
-
-prehistoric Native American wall paintings, making it one of the most important rock art sites in North
-
-America. Sold to an undisclosed buyer for over $2 million in 2021 despite objections from the Osage
-
-Nation, the cave’s glyphs offer valuable insights into ancient cultural and spiritual practices.
+**Summary:** Picture Cave, located in Warren County, Missouri, is a significant archaeological site featuring 296 prehistoric Native American wall paintings, making it one of the most important rock art sites in North America. Sold to an undisclosed buyer for over $2 million in 2021 despite objections from the Osage Nation, the cave’s glyphs offer valuable insights into ancient cultural and spiritual practices.
 
 ---
 
 ## Time
 
+### Visual Properties
+
 **Name:** Time
 
+**Image Files:**
 ![Time](../images/tattoos__z125/ancient_mongolian_Time.webp)
 
-**Brief Visual Description:** (would like to take a bit more time thinking of a desc for this one).
+**Trait Category:**
+
+**Visual Description:** (would like to take a bit more time thinking of a desc for this one).
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Mongolian
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
 
-**NOTE:** NOT DIGGED YET
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Mongolian
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Ge Ez Love
 
+### Visual Properties
+
 **Name:** Ge Ez Love
 
+**Image Files:**
 ![ez love](../images/tattoos__z125/ancient_ethiopian_ge_ez%20love.webp)
 
-**Brief Visual Description:** What looks like a script; It is read: “ge’ez” meaning ‘love’ in ancient
+**Trait Category:**
 
-Semitic language of Ethiopia and Eritrea.
+**Visual Description:** What looks like a script; It is read: “ge’ez” meaning ‘love’ in ancient Semitic language of Ethiopia and Eritrea.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Ancient ---
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):**
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Grateful Dead Mushroom
 
+### Visual Properties
+
 **Name:** Grateful Dead Mushroom
 
+**Image Files:**
 ![Grateful Dead Mushroom](../images/tattoos__z125/Grateful%20Dead%20Mushroom.webp)
 
-**Brief Visual Description:** Pink bear posing in front of stereotypical cartoon-ish mushrooms in
+**Trait Category:**
 
-red and white.
+**Visual Description:** Pink bear posing in front of stereotypical cartoon-ish mushrooms in red and white.
 
 **Dominant Colors:** Pink, red, white.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Grateful Dead Mushroom, formed in 1965 in Palo Alto,
+### Cultural Context
 
-California, was a pioneering psychedelic rock band led by Jerry Garcia, Bob Weir, and Phil
+**Source Type:**
 
-Lesh. Known for their improvisational live performances, eclectic style blending rock, folk, and
+**Cultural Origin:** Grateful Dead Mushroom, formed in 1965 in Palo Alto, California, was a pioneering psychedelic rock band led by Jerry Garcia, Bob Weir, and Phil Lesh. Known for their improvisational live performances, eclectic style blending rock, folk, and jazz, and a devoted fanbase ("Deadheads"), they released 13 studio albums, with hits like "Truckin'" and "Touch of Grey."
 
-jazz, and a devoted fanbase ("Deadheads"), they released 13 studio albums, with hits like
+**Era:** 
 
-"Truckin'" and "Touch of Grey."
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created/Uploaded:** December 10, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:** Jani
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
 
-**Ancestor (if applicable):**
+### Mibera Integration
 
-**Archetype (if applicable):**
+**Archetype:** 
 
-**Swag Score (if applicable):**
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** ---
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Semilunar
 
+### Visual Properties
+
 **Name:** Semilunar
 
+**Image Files:**
 ![Semilunar](../images/tattoos__z125/modern_arabic_Semilunar.webp)
 
-**Brief Visual Description:** Semilunar moon made of flowy lines and circular shapes.
+**Trait Category:**
+
+**Visual Description:** Semilunar moon made of flowy lines and circular shapes.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Arabic
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
 
-**Research Summary:**
+### Mibera Integration
 
-A semilunar moon tattoo (crescent moon) in an Arabic context generally symbolizes growth,
+**Archetype:** 
 
-renewal, and faith, reflecting its prominence in Islamic culture. The crescent moon, often paired
+**Archetype Alignment:** 
 
-with a star, marks the Islamic lunar calendar, signaling the start of Ramadan and other religious
+**Vibe Tags:**
 
-events. In Arabic tradition, it represents divine guidance, protection, and the cyclical nature of
+**Swag Score:** 
 
-life, rooted in its historical use in pre-Islamic and Islamic iconography, such as on flags and
 
-mosques. The design may carry personal meanings like hope or spirituality, depending on
+---
 
-individual interpretation.
+### Connections
+
+**Ancestor:** Arabic
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Triskele
 
+### Visual Properties
+
 **Name:** Triskele Hand
 
+**Image Files:**
 ![ancient_irish druids_Triskele Hand](../images/tattoos__z125/ancient_irish%20druids_Triskele%20Hand.webp)
 
-**Brief Visual Description:** Motif consisting of 3 lines of spirals connected in the center, forming
+**Trait Category:**
 
-an almost-triangular shape of spirals.
+**Visual Description:** Motif consisting of 3 lines of spirals connected in the center, forming an almost-triangular shape of spirals.
 
 **Dominant Colors:** Black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Irish druids / Celtic culture
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Cultural Origin:** Irish druids / Celtic culture
 
-**Who Introduced the Trait:** Jani
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Irish
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
 
-**Research Summary:**
+### Mibera Integration
 
-About the tattoo
+**Archetype:** 
 
-Triskele tattoo generally symbolizes progression, cycles, and spiritual growth. Rooted in
+**Archetype Alignment:** 
 
-ancient Celtic, Greek, and other cultures, it represents the interconnectedness of life, death, and
+**Vibe Tags:**
 
-rebirth, or mind, body, and spirit. Often linked to motion and evolution, it’s a popular design for
+**Swag Score:** 
 
-its minimalist yet profound meaning, reflecting personal transformation or harmony.
 
-About Triskele
+---
 
-The triskele, a three-spiral or three-legged symbol, has ancient origins dating back to the
+### Connections
 
-Neolithic period, with early examples found in Malta (around 3000 BCE) and Ireland
+**Ancestor:** Irish
 
-(Newgrange, circa 3200 BCE). Its name derives from the Greek "tris" (three) and "skelos" (leg).
+**Trait Synergies:**
 
-In Celtic culture, it symbolized motion, cycles, and the triad of life, death, and rebirth. The Isle
+**Trait Conflicts:** 
 
-of Man adopted a three-legged triskele (triskelion) as its emblem by the 13th century, linked to
+---
 
-its Viking heritage. In ancient Greece, it appeared on coins and shields, representing power or
+### Attribution & Sources
 
-the sun’s rotation. Its use spread across Europe, often tied to spiritual or tribal significance,
+**Date Added:** August 10, 2024
 
-evolving into a enduring symbol of continuity and energy.
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Stylized Dharma Wheel
 
-**SName:** Stylized Dharma Wheel
+### Visual Properties
 
+**Name:** Stylized Dharma Wheel
+
+**Image Files:**
 ![Stylized Dharma Wheel](../images/tattoos__z125/modern_buddhist_Stylized%20Dharma%20Wheel.webp)
 
-**Brief Visual Description:** Dharmachakra; looks like a sailing wheel, in light brown.
+**Trait Category:**
+
+**Visual Description:** Dharmachakra; looks like a sailing wheel, in light brown.
 
 **Dominant Colors:** Light brown.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Dharma Wheel (Dharmachakra), a key Buddhist symbol
+### Cultural Context
 
-representing the Buddha’s teachings and the path to enlightenment. With eight spokes
+**Source Type:**
 
-symbolizing the Noble Eightfold Path (right view, intention, speech, action, livelihood, effort,
+**Cultural Origin:** Dharma Wheel (Dharmachakra), a key Buddhist symbol representing the Buddha’s teachings and the path to enlightenment. With eight spokes symbolizing the Noble Eightfold Path (right view, intention, speech, action, livelihood, effort, mindfulness, and concentration), it signifies the "Wheel of Law" turning to spread wisdom.
 
-mindfulness, and concentration), it signifies the "Wheel of Law" turning to spread wisdom.
+**Era:** Modern
 
-**Team Anecdotes:**
+**Scene Association:**
 
-**Date Created/Uploaded:** August 10, 2024
+**Geographic Roots:**
 
-**Who Introduced the Trait:** Jani
+**Why This Matters:**
 
-**Trait Conflicts:**
+**Notable Figures:**
 
-**Ancestor (if applicable):** Buddhist
+---
 
-**Archetype (if applicable):**
+### Mibera Integration
 
-**Swag Score (if applicable):**
+**Archetype:** 
 
-**Ancient / Modern:** Modern
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Buddhist
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://univers-bouddha.com/en-us/blogs/bouddha-blog/la-roue-du-dharma-symbole-histoire-sig
 
-**nification#:** ~:text=THE%20MEANING%20OF%20THE%20WHEEL,means%20the%20Wheel%2
-
-0of%20Law.
+**Summary:** 
 
 ---
 
 ## Sami Flag
 
+### Visual Properties
+
 **Name:** Sami Flag
 
+**Image Files:**
 ![Sami Flag](../images/tattoos__z125/modern_sami_Sami%20Flag.webp)
 
-**Brief Visual Description:** Sami flag with airbrush texture. Red on the left, blue on the right, 2
+**Trait Category:**
 
-stripes in the middle- one green, one yellow, and topped with a circle- half in blue (left) and half
-
-in red (right).
+**Visual Description:** Sami flag with airbrush texture. Red on the left, blue on the right, 2 stripes in the middle- one green, one yellow, and topped with a circle- half in blue (left) and half in red (right).
 
 **Dominant Colors:** Red, blue, green, yellow.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Indigenous peoples of the Nordic countries and the Kola
+### Cultural Context
 
-Peninsula of the Russian Federation.
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** Indigenous peoples of the Nordic countries and the Kola Peninsula of the Russian Federation.
 
-**Date Created/Uploaded:** August 10, 2024
+**Era:** Modern
 
-**Who Introduced the Trait:** Jani
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
 
-**Ancestor (if applicable):** Sami
+**Why This Matters:**
 
-**Archetype (if applicable):**
+**Notable Figures:**
 
-**Swag Score (if applicable):**
+---
 
-**Ancient / Modern:** Modern
+### Mibera Integration
 
-**Research Summary:**
+**Archetype:** 
 
-The Sámi flag, adopted on August 15, 1986, by the 13th Nordic Sámi Conference in Åre,
+**Archetype Alignment:** 
 
-Sweden, represents the Sámi people across northern Norway, Sweden, Finland, and Russia.
+**Vibe Tags:**
 
-Designed by Astrid Båhl, it features a red, blue, green, and yellow color scheme inspired by
+**Swag Score:** 
 
-traditional Sámi clothing (gákti), with a central circle split into red (sun) and blue (moon), drawn
 
-from shaman drums and the poem "Sons of the Sun" by Anders Fjellner. It symbolizes the
+---
 
-Sámi’s identity, nature, and heritage, with February 6, Sámi National Day, marked by its official
+### Connections
 
-use in Norway since 2003.
+**Ancestor:** Sami
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 10, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Without Fear Without Hate
 
+### Visual Properties
+
 **Name:** Without Fear Without Hate
 
+**Image Files:**
 ![Without Fear Without Hate](../images/tattoos__z125/modern_punjabi_Without%20Fear%20Without%20Hate.webp)
 
-**Brief Visual Description:** Script written in Gurmukhi, “Nirbhau-Nirvair” ( ) meaning
+**Trait Category:**
 
-ਿਨਰਭਉਿਨਰਵੈਰੁ
-
-‘without fear, without hate’ in black.
+**Visual Description:** Script written in Gurmukhi, “Nirbhau-Nirvair” ( ) meaning ਿਨਰਭਉਿਨਰਵੈਰੁ ‘without fear, without hate’ in black.
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Sikhism / the Punjabis
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** Sikhism / the Punjabis
 
-**Who Introduced the Trait:** Jani
+**Era:** Modern
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Punjabi
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Modern
+---
 
-**Research Summary:**
+### Mibera Integration
 
-"Without Fear Without Hate" is a phrase rooted in the Sikh spiritual tradition, derived from the
+**Archetype:** 
 
-Mool Mantra in the Guru Granth Sahib, composed by Guru Nanak Dev Ji. The terms Nirbhau
+**Archetype Alignment:** 
 
-(without fear) and Nirvair (without hate) describe the divine attributes of God—fearless and free
+**Vibe Tags:**
 
-from enmity—offering a guiding principle for Sikhs to live with courage, compassion, and peace.
+**Swag Score:** 
 
-In modern contexts, the phrase has inspired personal mantras and fashion lines, like the
 
-"Without Fear Without Hate" streetwear brand, reflecting a bold, fearless identity. It also
+---
 
-resonates with individuals, such as a blogger in 2021 who tattooed it to embrace self-growth
+### Connections
 
-and authenticity, aligning with its message of overcoming fear and hate in daily life.
+**Ancestor:** Punjabi
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## Minimal Temple of Obodas
 
+### Visual Properties
+
 **Name:** Minimal Temple of Obodas
 
+**Image Files:**
 ![Minimal Temple of Obodas](../images/tattoos__z125/ancient_arabic_Minimal%20Temple%20of%20Obodas.webp)
 
-**Brief Visual Description:** Simple line art of buildings, resembling a city.
+**Trait Category:**
+
+**Visual Description:** Simple line art of buildings, resembling a city.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** King Obodas
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created/Uploaded:** August 9, 2024
+**Cultural Origin:** King Obodas
 
-**Who Introduced the Trait:** Jani
+**Era:** Ancient
 
-**Trait Conflicts:**
+**Scene Association:**
 
-**Ancestor (if applicable):** Arabic
+**Geographic Roots:**
 
-**Archetype (if applicable):**
+**Why This Matters:**
 
-**Swag Score (if applicable):**
+**Notable Figures:**
 
-**Ancient / Modern:** Ancient
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** Arabic
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** August 9, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
 
 **Sources:**
-
 - https://madainproject.com/avdat
 
-**summary:**
-
-a significant Nabataean city in the Negev Desert, flourishing from the 3rd century BCE to the 7th
-
-century CE. It was a key stop on the Incense Route after Petra, inhabited by Nabataeans,
-
-Romans, and Byzantines. Founded as a seasonal camp for Nabataean caravans, it featured
-
-structures like the Temple of Oboda, dedicated to the deified King Obodas I, and two
-
-Byzantine-era basilicas, including the Northern Basilica with inscriptions from the 6th–7th
-
-centuries CE.
+**Summary:** a significant Nabataean city in the Negev Desert, flourishing from the 3rd century BCE to the 7th century CE. It was a key stop on the Incense Route after Petra, inhabited by Nabataeans, Romans, and Byzantines. Founded as a seasonal camp for Nabataean caravans, it featured structures like the Temple of Oboda, dedicated to the deified King Obodas I, and two Byzantine-era basilicas, including the Northern Basilica with inscriptions from the 6th–7th centuries CE.
 
 ---
 
 ## No Tattoos
 
+### Visual Properties
+
 **Name:** No Tattoos
 
+**Image Files:**
 ![No Tattoos](../images/tattoos__z125/No%20tattoos.webp)
 
-**Brief Visual Description:** Represents the absence of tattoos on a Mibera character.
+**Trait Category:**
 
-**Dominant Colors:** N/A
+**Visual Description:** Represents the absence of tattoos on a Mibera character.
 
-**Reasoning for Inclusion within Mibera:** Default option for characters without body art.
+**Dominant Colors:** 
 
 ---
 
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:** 
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** Default option for characters without body art. ---
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** 
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

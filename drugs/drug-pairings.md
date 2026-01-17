@@ -6,6 +6,8 @@
 
 ## Ephedra x Dextroamphetamine
 
+### Pairing
+
 **Ancient Drug:** Ephedra
 
 **Modern Drug:** Dextroamphetamine
@@ -14,8 +16,11 @@
 
 **Associated Molecules:** C10H15NO, C9H13N
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Enhanced focus, alertness, and energy.
 
 - Euphoria.
@@ -26,11 +31,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ephedra x Methamphetamine
+
+### Pairing
 
 **Ancient Drug:** Ephedra
 
@@ -40,8 +52,11 @@
 
 **Associated Molecules:** C10H15NO, C10H15N
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Enhanced focus, alertness, and energy.
 
 - Euphoria.
@@ -52,11 +67,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Kwao Krua x Estrogen
+
+### Pairing
 
 **Ancient Drug:** Kwao Krua
 
@@ -66,8 +88,11 @@
 
 **Associated Molecules:** C20H22O5, C18H24O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Promote collagen production
 
 - Promote female secondary sexual characteristics
@@ -75,18 +100,23 @@
 - Promotes skin hydration
 
 **Similar (-effects):**
-
 - Breast tenderness
 
 - Bloating
 
 - Regulate / dysregulate periods
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Khat x M-Cat
+
+### Pairing
 
 **Ancient Drug:** Khat
 
@@ -96,8 +126,11 @@
 
 **Associated Molecules:** C9H11NO , C11H15NO
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Increased focus and alertness
 
 - Increased energy and sociability
@@ -105,18 +138,23 @@
 - Euphoria
 
 **Similar (-effects):**
-
 - Heavy after-effect or a “crash” once the effect wears off
 
 - Anxiety / paranoia
 
 - Rapid heart-rate
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ayahuasca x DMT
+
+### Pairing
 
 **Ancient Drug:** Ayahuasca
 
@@ -126,8 +164,11 @@
 
 **Associated Molecules:** C12H16N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Vivid visual and auditory hallucinations
 
 - Euphoria
@@ -135,18 +176,23 @@
 - Altered perception of time and reality (neutral)
 
 **Similar (-effects):**
-
 - Increased heart rate
 
 - Nausea that may lead to vomiting
 
 - Pupil dilation
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ancestral Trance x LSD
+
+### Pairing
 
 **Ancient Drug:** Ancestral Trance
 
@@ -156,23 +202,31 @@
 
 **Associated Molecules:** C20H25N3O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Vivid hallucinations
 
 - Heightened emotional states
 
 **Similar (-effects):**
-
 - Altered perceptions
 
 - Distorted sense of reality and especially time
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Mushroom x Psicaletin
+
+### Pairing
 
 **Ancient Drug:** Mushroom
 
@@ -182,8 +236,11 @@
 
 **Associated Molecules:** C12H17N2O4P, C14H18N2O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Visual and auditory hallucinations
 
 - Euphoria
@@ -193,16 +250,21 @@
 - Kaleidoscopic variations in the depth of vision
 
 **Similar (-effects):**
-
 - Distortion of tactile sensations
 
 - Lack of ability to focus / concentrate
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ethylene x NOS
+
+### Pairing
 
 **Ancient Drug:** Ethylene
 
@@ -212,21 +274,29 @@
 
 **Associated Molecules:** C2H4, N2O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Asphyxiant / anaesthetic
 
 **Similar (-effects):**
-
 - Flammable
 
 - Dissociative in higher dose / intake amount
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Nutmeg x MMDA
+
+### Pairing
 
 **Ancient Drug:** Nutmeg
 
@@ -236,8 +306,11 @@
 
 **Associated Molecules:** C11H12O3, C11H15NO3
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Euphoria
 
 - Deliriant
@@ -248,11 +321,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Tobacco x Nicotine
+
+### Pairing
 
 **Ancient Drug:** Tobacco
 
@@ -262,21 +342,29 @@
 
 **Associated Molecules:** C10H14N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stimulant
 
 - Relaxation
 
 **Similar (-effects):**
-
 - Addiction
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Coca x Cocaine
+
+### Pairing
 
 **Ancient Drug:** Coca
 
@@ -286,25 +374,33 @@
 
 **Associated Molecules:** C17H21NO4
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stimulant
 
 - Hallucinations
 
 **Similar (-effects):**
-
 - Addiction
 
 - Anxiety
 
 - Paranoia
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Euphoria x Sober
+
+### Pairing
 
 **Ancient Drug:** Euphoria
 
@@ -314,21 +410,29 @@
 
 **Associated Molecules:** C8H11NO2, C10H12N2O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Promotes feelings of happiness / pleasure
 
 - Enhanced focus, attention, and goal-directed behavior
 
 **Similar (-effects):**
-
 - In too much doses can cause psychosis / paranoia
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Sugarcane x Ethanol
+
+### Pairing
 
 **Ancient Drug:** Sugarcane
 
@@ -338,21 +442,29 @@
 
 **Associated Molecules:** C12H22O11, CH3CH2OH
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Relaxation / increased energy
 
 - Mild euphoria
 
 **Similar (-effects):**
-
 - Short-term and long-term physical illness upon excessive consumption
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Sassafras x MDMA
+
+### Pairing
 
 **Ancient Drug:** Sassafras
 
@@ -362,19 +474,29 @@
 
 **Associated Molecules:** C10H10O2, C11H15NO2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Euphoria
 
 - Relaxation
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Sassafras x MDA
+
+### Pairing
 
 **Ancient Drug:** Sassafras
 
@@ -384,19 +506,29 @@
 
 **Associated Molecules:** C10H10O2, C10H13NO2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Euphoria
 
 - Relaxation
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Lithium x Lamotrigine
+
+### Pairing
 
 **Ancient Drug:** Lithium
 
@@ -406,21 +538,29 @@
 
 **Associated Molecules:** Li2CO3, C9H7CI2N5
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stabilizes mood
 
 - Reduces manic and depressive episodes
 
 **Similar (-effects):**
-
 - Dehydration
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## St. John's Wort x Sertraline
+
+### Pairing
 
 **Ancient Drug:** St. John’s Wort
 
@@ -430,8 +570,11 @@
 
 **Associated Molecules:** C30H16O8, C17H17CI2N
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Mood elevation
 
 - Reduced anxiety
@@ -440,11 +583,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Sakae Naa x Kratom
+
+### Pairing
 
 **Ancient Drug:** Sakae Naa
 
@@ -454,19 +604,29 @@
 
 **Associated Molecules:** C20H20O8, C23H30N2O4
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stimulation
 
 - Increased energy, alertness, and sociability
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Brahmi x Piracetam
+
+### Pairing
 
 **Ancient Drug:** Brahmi
 
@@ -476,19 +636,29 @@
 
 **Associated Molecules:** C41H68O13, C6H10N2O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Subtle cognitive enhancement (improved attention, verbal fluency, and mental clarity)
 
 - Mild calming effect
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Yohimbe x Sildenafil
+
+### Pairing
 
 **Ancient Drug:** Yohimbe
 
@@ -498,19 +668,29 @@
 
 **Associated Molecules:** C21H26N2O3, C22H30N6O4S
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Improved reaction to sexual stimulation
 
 - Muscle relaxation
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Bhang x THC Edibles
+
+### Pairing
 
 **Ancient Drug:** Bhang
 
@@ -520,19 +700,29 @@
 
 **Associated Molecules:** C21H30O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stimulant
 
 - Relaxation
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Nymphaea Caerulea x Poppers
+
+### Pairing
 
 **Ancient Drug:** Nymphaea Caerulea
 
@@ -542,8 +732,11 @@
 
 **Associated Molecules:** C17H17NO2, C5H11ONO
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Euphoria
 
 - Relaxation
@@ -554,11 +747,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ethanol x Alcohol
+
+### Pairing
 
 **Ancient Drug:** Ethanol
 
@@ -568,14 +768,16 @@
 
 **Associated Molecules:** CH3CH2OH
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Relaxation
 
 - Mild euphoria
 
 **Similar (-effects):**
-
 - In higher doses can cause impairment to motor skills and judgment
 
 - Intoxication
@@ -584,11 +786,17 @@
 
 - Unconsciousness
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Tea x Caffeine
+
+### Pairing
 
 **Ancient Drug:** Tea
 
@@ -598,8 +806,11 @@
 
 **Associated Molecules:** C8H10N4O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Enhanced alertness and focus
 
 - Mild euphoria
@@ -607,14 +818,19 @@
 - Reduced sleepiness
 
 **Similar (-effects):**
-
 - Addiction
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Coffee x Caffeine
+
+### Pairing
 
 **Ancient Drug:** Coffee
 
@@ -624,8 +840,11 @@
 
 **Associated Molecules:** C8H10N4O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Enhanced alertness and focus
 
 - Mild euphoria
@@ -633,14 +852,19 @@
 - Reduced sleepiness
 
 **Similar (-effects):**
-
 - Addiction
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Iboga x Ibogaine
+
+### Pairing
 
 **Ancient Drug:** Iboga
 
@@ -650,19 +874,27 @@
 
 **Associated Molecules:** C20H26N2O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Intense, long-lasting hallucinations.
 
 **Similar (-effects):**
-
 - Nausea that may lead to vomiting and tremors
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ashwagandha x Testosterone
+
+### Pairing
 
 **Ancient Drug:** Ashwagandha
 
@@ -672,17 +904,27 @@
 
 **Associated Molecules:** C28H40O8, C19H28O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Enhanced mood, focus, and cognitive function with chronic use.
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Kykeon x Shroom Tea
+
+### Pairing
 
 **Ancient Drug:** Kykeon
 
@@ -692,8 +934,11 @@
 
 **Associated Molecules:** C33H35N5O5, C19H28O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Psychoactive effects
 
 - Induced visionary experiences
@@ -701,14 +946,19 @@
 - Muscular relaxation / tension
 
 **Similar (-effects):**
-
 - Lack of ability to focus
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Weed x Weed
+
+### Pairing
 
 **Ancient Drug:** Weed
 
@@ -718,21 +968,29 @@
 
 **Associated Molecules:** C21H30O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stimulant
 
 - Psychedelic
 
 **Similar (-effects):**
-
 - Depressant
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Peyote x 2C-B
+
+### Pairing
 
 **Ancient Drug:** Peyote
 
@@ -742,8 +1000,11 @@
 
 **Associated Molecules:** C11H17NO3, C10H14BrNO2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Psychedelic
 
 - Heightened emotional sensitivity
@@ -752,11 +1013,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Grayanotoxin x Ketamine
+
+### Pairing
 
 **Ancient Drug:** Grayanotoxin
 
@@ -766,21 +1034,29 @@
 
 **Associated Molecules:** C20H34O5, C13H16CINO
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Mild Hallucinations
 
 **Similar (-effects):**
-
 - Dizziness / Nausea
 
 - Confusion / Dissociation
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Sober x Clear Pill
+
+### Pairing
 
 **Ancient Drug:** Sober
 
@@ -790,21 +1066,29 @@
 
 **Associated Molecules:** C10H12N2O, C8H11NO2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Promotes feelings of happiness / pleasure
 
 - Enhanced focus, attention, and goal-directed behavior
 
 **Similar (-effects):**
-
 - In too much doses can cause psychosis / paranoia
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Kava x CBD
+
+### Pairing
 
 **Ancient Drug:** Kava
 
@@ -814,19 +1098,29 @@
 
 **Associated Molecules:** C14H16O3, C21H30O2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Euphoria
 
 - Relaxation
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Mandrake x Xanax
+
+### Pairing
 
 **Ancient Drug:** Mandrake
 
@@ -836,21 +1130,29 @@
 
 **Associated Molecules:** C17H21NO4, C17H13CIN4
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Sedative
 
 **Similar (-effects):**
-
 - Delirium
 
 - Drowsiness
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Mimosa Tenuiflora x DMT
+
+### Pairing
 
 **Ancient Drug:** Mimosa Tenuiflora
 
@@ -860,21 +1162,29 @@
 
 **Associated Molecules:** C12H16N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Vivid visual and auditory hallucinations
 
 - Euphoria
 
 **Similar (-effects):**
-
 - Unprepared settings can cause anxiety, panic, or disorientation
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Ololiuqui x LSD
+
+### Pairing
 
 **Ancient Drug:** Ololiuqui
 
@@ -884,21 +1194,29 @@
 
 **Associated Molecules:** C20H25N3O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Visual hallucinations
 
 - Dream-like states
 
 **Similar (-effects):**
-
 - Altered perceptions
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Pituri x Chewing Tobacco
+
+### Pairing
 
 **Ancient Drug:** Pituri
 
@@ -908,21 +1226,29 @@
 
 **Associated Molecules:** C10H14N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Stimulant
 
 **Similar (-effects):**
-
 - Narcotic
 
 - Addictive
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Acacia x DMT
+
+### Pairing
 
 **Ancient Drug:** Acacia
 
@@ -932,23 +1258,31 @@
 
 **Associated Molecules:** C12H16N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - VIsual and auditory hallucinations
 
 - Euphoria
 
 **Similar (-effects):**
-
 - In higher doses can cause anxiety
 
 - Disorientation
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Arundo Donax x DMT
+
+### Pairing
 
 **Ancient Drug:** Arundo Donax
 
@@ -958,23 +1292,31 @@
 
 **Associated Molecules:** C12H16N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - VIsual and auditory hallucinations
 
 - Euphoria
 
 **Similar (-effects):**
-
 - In higher doses can cause anxiety
 
 - Disorientation
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Henbane x Scopolamine
+
+### Pairing
 
 **Ancient Drug:** Henbane
 
@@ -984,19 +1326,27 @@
 
 **Associated Molecules:** C17H21NO4
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Hallucinations
 
 **Similar (-effects):**
-
 - Delirium
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Tabernaemontana x Ibogaine
+
+### Pairing
 
 **Ancient Drug:** Tabernaemontana
 
@@ -1006,21 +1356,29 @@
 
 **Associated Molecules:** C21H26N2O3, C20H26N2O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Psychoactive
 
 - Stimulant
 
 **Similar (-effects):**
-
 - Delirium at high doses
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Syrian Rue x Iproniazid
+
+### Pairing
 
 **Ancient Drug:** Syrian Rue
 
@@ -1030,8 +1388,11 @@
 
 **Associated Molecules:** C13H14N2O, C9H13N3O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Mild sedation
 
 - Relaxation
@@ -1040,11 +1401,18 @@
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Bufotenine x Bufotenin
+
+### Pairing
 
 **Ancient Drug:** Bufotenine
 
@@ -1054,21 +1422,29 @@
 
 **Associated Molecules:** C12H16N2O
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Mild euphoria
 
 - Altered perception of time
 
 **Similar (-effects):**
-
 - Overdose can lead to severe hypertension, seizures, or serotonin syndrome
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Pyschotria Viridis x Datura
+
+### Pairing
 
 **Ancient Drug:** Psychotria Viridis
 
@@ -1078,19 +1454,27 @@
 
 **Associated Molecules:** C12H16N2, C17H23NO3
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Vivid hallucinations
 
 **Similar (-effects):**
-
 - Psychological distress
 
-**General Connection Context:**
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Datura x Benadryl
+
+### Pairing
 
 **Ancient Drug:** Datura
 
@@ -1100,15 +1484,27 @@
 
 **Associated Molecules:** C17H23NO3, C17H21NO
 
+---
+
+### Shared Effects
+
 **Similar (+effects):**
+
 
 **Similar (-effects):**
 
-**General Connection Context:**
+
+---
+
+### Context
+
+**General Connection Context:** ---
 
 ---
 
 ## Mucuna Pruriens x DMT
+
+### Pairing
 
 **Ancient Drug:** Mucuna Pruriens
 
@@ -1118,15 +1514,22 @@
 
 **Associated Molecules:** C9H11NO4, C12H16N2
 
-**Similar (+effects):**
+---
 
+### Shared Effects
+
+**Similar (+effects):**
 - Mood elevation
 
 - Enhanced mental clarity due to increased dopamine
 
 **Similar (-effects):**
 
-**General Connection Context:**
 
 ---
 
+### Context
+
+**General Connection Context:** ---
+
+---

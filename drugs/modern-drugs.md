@@ -6,45 +6,43 @@
 
 ## Shroom Tea
 
+### Identity
+
 **Name:** Shroom Tea
 
 **Associated Molecule:** C12H17N2O4P
 
-**Image Files:** acidhouse_greekAncients_shroom tea.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Mexico
 
-**Ancestor (if applicable):** Greek
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 1,2
+**Archetype:** Acidhouse
 
-SS2_acidhouse_Cubensis.png SS2_acidhouse_Golden Teacher.png
+**Ancestor:** Greek
 
-SS2_acidhouse_Liberty Caps.png SS2_acidhouse_Mexicana.png
+**Swag Score:** 1,2
 
-SS2_acidhouse_Penis Envy.png SS2_acidhouse_Subaeruginosa.png
+---
 
-SS1_acidhouse_Bear Alchemist Tool.png
+### Visual
 
-**Ancient / Modern:** Modern
+**Image Files:** acidhouse_greekAncients_shroom tea.PNG
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Visual and auditory hallucinations, kaleidoscopic variations in the
+### Effects & Properties
+
+**General Effects:** Visual and auditory hallucinations, kaleidoscopic variations in the
 
 depth of vision, muscular relaxation and or tension, distortion of tactile sensations, lack of ability
 
 to focus / concentrate, altered mood and perception of time.
 
-**How the molecule appears in nature (existence):** C12H17N2O4P (Psilocybin) is produced by
+**How the Molecule Appears in Nature (Existence):** C12H17N2O4P (Psilocybin) is produced by
 
 over 200 species of fungi, primarily in the genus Psilocybe. These mushrooms grow worldwide
 
@@ -70,49 +68,72 @@ causes blue-green staining. The stems vary from 4-12cm tall, slender, and a silk
 
 texture.
 
-**Sources:**
+**How the Molecule Appears in Nature (Physical):** 
 
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
+**Sources:**
 - https://www.erowid.org/psychoactives/faqs/faq_natural_high_australia.shtml#PITURI
 
 ---
 
 ## LSD
 
+### Identity
+
 **Name:** LSD
 
 **Associated Molecule:** C20H25N3O
 
-**Image Files:** freetekno_aboriginals_haitians_LSD.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Switzerland
 
-**Ancestor (if applicable):** Aboriginals, Haitians
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Freetekno
 
-SS4_freetekno_LSD Made Me A Prostitute.png SS4_LSD My Problem Child.png
+**Ancestor:** Aboriginals, Haitians
 
-SS4_freetekno_Sheet Of Acid.png SS4_freetekno_Tihkal.png
+**Swag Score:** 4
 
-**Ancient / Modern:** Modern
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Altered perceptions, vivid hallucinations, and heightened
+**Image Files:** freetekno_aboriginals_haitians_LSD.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Altered perceptions, vivid hallucinations, and heightened
 
 emotional states. Often accompanied by changes in thought patterns and a distorted sense of
 
 time.
 
-**How the molecule appears in nature (existence):** LSD doesn’t occur in nature, it is best
+**How the Molecule Appears in Nature (Existence):** LSD doesn’t occur in nature, it is best
 
 known and most researched psychedelic. It is the standard against which all other psychedelics
 
@@ -122,53 +143,69 @@ in liquid form.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.dea.gov/factsheets/lsd
-
 - https://www.erowid.org/chemicals/lsd/lsd.shtml
 
 ---
 
 ## Weed
 
+### Identity
+
 **Name:** Weed
 
 **Associated Molecule:** C21H30O2
 
-**Image Files:** chicagodetroit_rastafarians_weed.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
-
-**Area of Origin:**
-
-**Ancestor (if applicable):** Rastafarians
-
-**Archetype (if applicable):** Chicago Detroit
-
-**Swag Score (if applicable):** 1, 2, 3
-
-SS3_chicagodetroit_Weed Nug.png SS1_chicagodetroit_Cotton Candy Bong.PNG
-
-SS1_chicagodetroit_joint.png SS1_chicagodetroit_Vape Pen.png
-
-SS2_chicagodetroit_Colorful Bong.PNG SS3_chicagodetroit_Vape Bag.png
-
-SS3_chicagodetroit_Blunt.png SS3_chicagodetroit_Normal Bong.PNG
-
-SS3_chicagodetroit_Swisher Sweets.PNG
-
 **Ancient / Modern:** both (?)
 
-**General Real World Trait History:**
+**Area of Origin:** 
 
-**General effects of the drug:** Intoxicant, stimulant, psychedelic, depressant.
+---
 
-**How the molecule appears in nature (existence):** Cannabis produces psychoactive
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Ancestor:** Rastafarians
+
+**Swag Score:** 1, 2, 3
+
+---
+
+### Visual
+
+**Image Files:** chicagodetroit_rastafarians_weed.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Intoxicant, stimulant, psychedelic, depressant.
+
+**How the Molecule Appears in Nature (Existence):** Cannabis produces psychoactive
 
 cannabinoid chemicals such as THC and CBD. It is the most widely used (still mostly) illegal
 
@@ -200,49 +237,71 @@ they near maturity the leaves may become significantly more purple.
 
 lower level of THC than sativas or indicas.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/cannabis/cannabis.shtml
-
 - https://www.erowid.org/plants/cannabis/cannabis_info6.shtml
 
 ---
 
 ## Nicotine
 
+### Identity
+
 **Name:** Nicotine
 
 **Associated Molecule:** C10H14N2
 
-**Image Files:** chicagodetroit_nativeAmerican_aboriginal_nicotine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Americas
 
-**Ancestor (if applicable):** Native American, Aboriginal
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 2,3
+**Archetype:** Chicago Detroit
 
-SS2_freetekno_Rolling Tobacco Tin.png SS3_milady_Remilia Cig Pack.png
+**Ancestor:** Native American, Aboriginal
 
-SS2_acidhouse_Chillum.png SS3_chicagodetroit_Swisher Sweets.PNG
+**Swag Score:** 2,3
 
-**Ancient / Modern:** Modern
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Stimulation / relaxation, short-term use may enhance memory and
+**Image Files:** chicagodetroit_nativeAmerican_aboriginal_nicotine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulation / relaxation, short-term use may enhance memory and
 
 attention. Addiction upon long-term usage.
 
-**How the molecule appears in nature (existence):** Native to the Americas, tobacco has a long
+**How the Molecule Appears in Nature (Existence):** Native to the Americas, tobacco has a long
 
 history of use as a shamanic inebriant and stimulant. Nicotine is a naturally occurring stimulant
 
@@ -256,49 +315,67 @@ How the molecule appears in nature (physical appearances): Annual or bi-annual g
 
 1-3 meters tall with large sticky leaves.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/tobacco/tobacco.shtml
-
 - https://www.erowid.org/chemicals/nicotine/nicotine.shtml
 
 ---
 
 ## 2C-B
 
+### Identity
+
 **Name:** 2C-B
 
 **Associated Molecule:** C10H14BrNO2
 
-**Image Files:** freetekno_nativeAmerican_2C-B.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 2,3,4
+**Archetype:** Freetekno
 
-SS3_freetekno_Peyote Rattle.png SS3_freetekno_Peyote Feather Fan.png
+**Ancestor:** Native American
 
-SS2_freetekno_Peyote.png SS3_freetekno_Peyote Patterned.PNG
+**Swag Score:** 2,3,4
 
-SS3_freetekno_Peyote Patterned__z85.PNG SS4_freetekno_Peyote Hat.png
+---
 
-SS4_freetekno_Peyote Feather.png
+### Visual
 
-**Ancient / Modern:** Modern
+**Image Files:** freetekno_nativeAmerican_2C-B.PNG
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Depending on the dose, the drug can induce altered perceptions,
+### Effects & Properties
+
+**General Effects:** Depending on the dose, the drug can induce altered perceptions,
 
 vivid visual hallucinations, heightened emotional states, changes in thought patterns and a mild
 
@@ -306,7 +383,7 @@ distortion of time. It can also cause euphoria, increased sociability and intros
 
 dissociative experiences.
 
-**How the molecule appears in nature (existence):** 2C-B does not occur in nature, it is a
+**How the Molecule Appears in Nature (Existence):** 2C-B does not occur in nature, it is a
 
 synthetic compound created through chemical synthesis, derived from phenylethylamine
 
@@ -314,43 +391,67 @@ precursors with bromine and methoxy groups added to the aromatic ring.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/2cb/2cb.shtml
-
 - https://nida.nih.gov/research-topics/psychedelic-dissociative-drugs
 
 ---
 
 ## Kava
 
+### Identity
+
 **Name:** Kava
 
 **Associated Molecule:** C14H16O3
 
-**Image Files:** acidhouse_polynesian_aboriginal_kava.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Pacific Polynesia
 
-**Ancestor (if applicable):** Polynesian, Aboriginal
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Acidhouse
 
-SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
+**Ancestor:** Polynesian, Aboriginal
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Small amounts produce euphoria, large amounts produce
+### Visual
+
+**Image Files:** acidhouse_polynesian_aboriginal_kava.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Small amounts produce euphoria, large amounts produce
 
 extreme relaxation, lethargy and eventually sleep. Visual and auditory hallucination lasts for 2-3
 
@@ -360,7 +461,7 @@ usually not noticed when used the first few times (like marijuana). It also prod
 
 the mouth.
 
-**How the molecule appears in nature (existence):** The plant grows in cool, moist highlands or
+**How the Molecule Appears in Nature (Existence):** The plant grows in cool, moist highlands or
 
 wet forests up to 300 meters above sea level. It grows best where summer temperatures are
 
@@ -378,49 +479,69 @@ to 4 meters tall with heart-shaped leaves up to 16cm long and short spikes risin
 
 of the leaf stem. The spikes are densely covered with flowers.
 
-**History:** Kava is used by the Samoans as part of the religious ceremonies and by the Fijians for
+**How the Molecule Appears in Nature (Physical):** 
 
-guests as part of their ceremonies welcoming special guests and friends.
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
 
 **Sources:**
-
 - https://www.erowid.org/psychoactives/faqs/faq_natural_high_australia.shtml#PITURI
-
 - https://www.erowid.org/plants/kava/kava.shtml
 
 ---
 
 ## NOS
 
+### Identity
+
 **Name:** NOS
 
 **Associated Molecule:** N2O
 
-**Image Files:** acidhouse_pythia_NOS.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** England
 
-**Ancestor (if applicable):** Pythia
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Acidhouse
 
-SS4_acidhouse_Spiral Bera Balloon.png SS4_acidhouse_Whippet Cracker.png
+**Ancestor:** Pythia
 
-**Ancient / Modern:** Modern
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Dissociative anaesthetic gas.
+### Visual
 
-**How the molecule appears in nature (existence):** Nitrous Oxide is an anaesthetic gas best
+**Image Files:** acidhouse_pythia_NOS.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Dissociative anaesthetic gas.
+
+**How the Molecule Appears in Nature (Existence):** Nitrous Oxide is an anaesthetic gas best
 
 known for its use in dentistry and as a whipped cream propellant. It is widely available and its
 
@@ -432,45 +553,68 @@ oceans, and wetlands.
 
 How the molecule appears in nature (physical appearances): gas form.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/nitrous/nitrous.shtml
-
 - https://www.epa.gov/ghgemissions/overview-greenhouse-gases#nitrous-oxide
-
 - https://www.erowid.org/chemicals/nitrous/nitrous_timeline.php
 
 ---
 
 ## Lamotrigine
 
+### Identity
+
 **Name:** Lamotrigine
 
 **Associated Molecule:** C9H7CI2N5
 
-**Image Files:** acidhouse_irishDruids_lamotrigine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** UK
 
-**Ancestor (if applicable):** Irish Druids
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Acidhouse
 
-SS4_acidhouse_ancient_irishDruids_spodumene.PNG
+**Ancestor:** Irish Druids
 
-**Ancient / Modern:** Modern
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Lamotrigine is an anticonvulsant and mood-stabilizing medication
+### Visual
+
+**Image Files:** acidhouse_irishDruids_lamotrigine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Lamotrigine is an anticonvulsant and mood-stabilizing medication
 
 primarily used to treat epilepsy (to control seizures) and bipolar disorder (to prevent mood
 
@@ -478,105 +622,152 @@ swings, particularly depressive episodes). Common side effects include dehydrati
 
 headache, nausea, and in some cases skin rashes.
 
-**How the molecule appears in nature (existence):** Lamotrigine does not occur naturally and is
+**How the Molecule Appears in Nature (Existence):** Lamotrigine does not occur naturally and is
 
 purely a synthetic compound.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Lamotrigine
-
 - https://www.drugs.com/monograph/lamotrigine.html
-
 - https://medlineplus.gov/druginfo/meds/a695007.html
 
 ---
 
 ## Sildenafil
 
+### Identity
+
 **Name:** Sildenafil
 
 **Associated Molecule:** C22H30N6O4S
 
-**Image Files:** chicagodetroit_gabon_sildenafil.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** UK
 
-**Ancestor (if applicable):** Gabon
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_Yohimbe Bark.PNG
+**Ancestor:** Gabon
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Increased cGMP levels, smooth muscle relaxation, enhanced
+### Visual
+
+**Image Files:** chicagodetroit_gabon_sildenafil.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Increased cGMP levels, smooth muscle relaxation, enhanced
 
 bloodflow. In ED, it facilitates penile erection by improving blood flow in response to sexual
 
 stimulation. In PAH, it reduces pulmonary artery pressure by relaxing blood vessels in the lungs.
 
-**How the molecule appears in nature (existence):** Sildenafil does not occur naturally. It was
+**How the Molecule Appears in Nature (Existence):** Sildenafil does not occur naturally. It was
 
 developed by Pfizer through chemical synthesis.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.chemspider.com/Chemical-Structure.5023.html
-
 - https://www.drugs.com/monograph/sildenafil-erectile-dysfunction.html
 
 ---
 
 ## Alcohol
 
+### Identity
+
 **Name:** Alcohol
 
 **Associated Molecule:** CH3CH2OH
 
-**Image Files:** chicagodetroit_sicanje_alcohol.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** China
 
-**Ancestor (if applicable):** Sicanje
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Chicago Detroit
 
-SS2_chicagodetroit_glass of whiskey.PNG
+**Ancestor:** Sicanje
 
-**Ancient / Modern:** Modern
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Alcohol is a central nervous system depressant. In small
+### Visual
+
+**Image Files:** chicagodetroit_sicanje_alcohol.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Alcohol is a central nervous system depressant. In small
 
 amounts, it produces relaxation, lowered inhibitions and mild euphoria. In higher doses, it
 
 impairs motor skills, judgment, and can cause intoxication, nausea, or unconsciousness.
 
-**How the molecule appears in nature (existence):** Alcohol occurs naturally through
+**How the Molecule Appears in Nature (Existence):** Alcohol occurs naturally through
 
 fermentation, where microorganisms like yeast convert sugars into ethanol and CO2. It’s found
 
@@ -586,49 +777,72 @@ How the molecule appears in nature (physical appearances): Clear, colorless liqu
 
 temperature with a slightly sweet, alcoholic odor and a burning taste.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/alcohol/alcohol.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol
-
 - https://www.britannica.com/science/ethanol
 
 ---
 
 ## Grayanotoxin
 
+### Identity
+
 **Name:** Grayanotoxin
 
 **Associated Molecule:** C20H34O5
 
-**Image Files:** milady_nepal_turkey_grayanotoxin.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Turkey
 
-**Ancestor (if applicable):** Nepal, Turkey
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_ancient_nepal_turkey_Mad Honey.png SS3_milady_Handheld Sickle.png
+**Ancestor:** Nepal, Turkey
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Induces dizziness, confusion, and in higher doses, mild
+### Visual
+
+**Image Files:** milady_nepal_turkey_grayanotoxin.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Induces dizziness, confusion, and in higher doses, mild
 
 hallucinations or delirium.
 
-**How the molecule appears in nature (existence):** Traditionally used in Turkey and Nepal as
+**How the Molecule Appears in Nature (Existence):** Traditionally used in Turkey and Nepal as
 
 mad honey for gastrointestinal issues, hypertension, pain relief, and as an aphrodisiac.
 
@@ -650,41 +864,66 @@ greenish-brown. In Mad Honey it appears as reddish-brown to amber liquid with a 
 
 pungent taste, very distinct from regular honey due to its association with Rhododendron nectar.
 
-**Sources:**
+**How the Molecule Appears in Nature (Physical):** 
 
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
+**Sources:**
 - https://pubchem.ncbi.nlm.nih.gov/compound/Grayanotoxin#section=SMILES
 
 ---
 
 ## M-Cat
 
+### Identity
+
 **Name:** M-Cat
 
 **Associated Molecule:** C11H15NO
 
-**Image Files:** freetekno_ethiopians_M-CAT.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** France
 
-**Ancestor (if applicable):** Ethiopians
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_ethiopian_Khat Pipe.png
+**Ancestor:** Ethiopians
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** M-Cat / Mephedrone acts as a central nervous system stimulant
+### Visual
+
+**Image Files:** freetekno_ethiopians_M-CAT.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** M-Cat / Mephedrone acts as a central nervous system stimulant
 
 by increasing levels of dopamine, serotonin, and norepinephrine in the brain through reuptake
 
@@ -694,123 +933,136 @@ alertness. However, it can also cause adverse effects such as anxiety, paranoia,
 
 rate, sweating, and in high doses can lead to seizures or cardiovascular issues.
 
-**How the molecule appears in nature (existence):** M-cat does not occur in nature.
+**How the Molecule Appears in Nature (Existence):** M-cat does not occur in nature.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/4_methylmethcathinone/4_methylmethcathinone.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Mephedrone
 
 ---
 
 ## Bufotenine
 
+### Identity
+
 **Name:** Bufotenine
 
 **Associated Molecule:** C12H16N2O
 
-**Image Files:** acidhouse_nativeAmerican_bufotenine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Central & South America
 
-**Ancestor (if applicable):** Native Americans
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2,4
+**Archetype:** Acidhouse
 
-SS2_freetekno_ancient_mayan_Ayahuasca.png
+**Ancestor:** Native Americans
 
-SS2_freetekno_mayan_Ayahuasca Bowl.png SS4_freetekno_Tihkal.png
+**Swag Score:** 2,4
 
-**Ancient / Modern:** Ancient
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:**
+**Image Files:** acidhouse_nativeAmerican_bufotenine.PNG
 
-**- Low doses:** Mild euphoria, visual distortions, enhanced colors, and altered perception of
+---
 
-time.
+### Effects & Properties
 
-**- Moderate to high doses:** Vasoconstriction, increased blood pressure, and in high doses
+**General Effects:** 
 
-potential cardiovascular strain.
+**How the Molecule Appears in Nature (Existence):** 
 
-**- Toxicity:** Overdose can lead to severe hypertension, seizures, or serotonin syndrome,
+**How the Molecule Appears in Nature (Physical):** 
 
-though fatalities are rather rare.
+---
 
-**How the molecule appears in nature (existence):**
+### History
 
-**- Toads:** Found in the skin and venom of certain toad species, notably the Colorado River
+**General Real World Trait History:** 
 
-toad.
+---
 
-**- Plants:** Present in seeds, leaves, or bark of plants like Anadenanthera peregrina and
+### Attribution
 
-Anadenanthera colubrina, as well as in some Piptadenia species.
+**Date Added:** January 12, 2025
 
-**- Fungi:** Found in trace amounts in certain psychoactive mushrooms, such as Amanita.
+**Introduced By:** 
 
-**- Other sources:** Detected in small amounts in some marine organism and human urine.
+**Team Notes:** 
 
-How the molecule appears in nature (physical appearances): Crystalline or powdery,
+---
 
-sometimes with a slight yellowish tint depending on purity or storage conditions. In toads,
-
-bufotenine is part of a milky, viscous venom secretion that dries to a crusty residue. In plants, it
-
-is extracted from seeds or bark as a fine powder or resin, often mixed with other alkaloids.
+### Sources
 
 **Sources:**
-
 - https://www.erowid.org/chemicals/bufotenin/bufotenin.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Bufotenine
-
 - https://en.wikipedia.org/wiki/Bufotenin
 
 ---
 
 ## MDA
 
+### Identity
+
 **Name:** MDA
 
 **Associated Molecule:** C10H13NO2
 
-**Image Files:** milady_nativeAmerican_MDA.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Germany
 
-**Ancestor (if applicable):** Native Americans
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Milady
 
-SS4_milady_acidhouse_MDMA Handbook.png SS4_freetekno_Pihkal.png
+**Ancestor:** Native Americans
 
-**Ancient / Modern:** Modern
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Euphoria, increased empathy, heightened sensory perception,
+### Visual
+
+**Image Files:** milady_nativeAmerican_MDA.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Euphoria, increased empathy, heightened sensory perception,
 
 mild to moderate hallucinations, and increased energy. Physically, it can increase heart rate,
 
@@ -818,51 +1070,75 @@ elevate blood pressure, pupil dilation, jaw clenching, sweating, and in some cas
 
 Potential risks include anxiety, paranoia, dehydration, and hyperthermia.
 
-**How the molecule appears in nature (existence):** MDA does not occur naturally.
+**How the Molecule Appears in Nature (Existence):** MDA does not occur naturally.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/mda/mda.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/3_4-Methylenedioxyamphetamine
 
 ---
 
 ## Chewing Tobacco
 
+### Identity
+
 **Name:** Chewing Tobacco
 
 **Associated Molecule:** C10H14N2
 
-**Image Files:** chicagodetroit_hindu_nativeAmerican_chewing tobacco.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Americas
 
-**Ancestor (if applicable):** Native americans, Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Chicago Detroit
 
-SS2_freetekno_Rolling Tobacco Tin.png
+**Ancestor:** Native americans, Hindu
 
-**Ancient / Modern:** Modern
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Stimulation / relaxation, short-term use may enhance memory and
+### Visual
+
+**Image Files:** chicagodetroit_hindu_nativeAmerican_chewing tobacco.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulation / relaxation, short-term use may enhance memory and
 
 attention. Addiction upon long-term usage.
 
-**How the molecule appears in nature (existence):** Native to the Americas, tobacco has a long
+**How the Molecule Appears in Nature (Existence):** Native to the Americas, tobacco has a long
 
 history of use as a shamanic inebriant and stimulant. Nicotine is a naturally occurring stimulant
 
@@ -876,45 +1152,67 @@ How the molecule appears in nature (physical appearances): Annual or bi-annual g
 
 1-3 meters tall with large sticky leaves.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/tobacco/tobacco.shtml
-
 - https://www.erowid.org/chemicals/nicotine/nicotine.shtml
 
 ---
 
 ## Caffeine
 
+### Identity
+
 **Name:** Caffeine
 
 **Associated Molecule:** C8H10N4O2
 
-**Image Files:** milady_ethiopian_arabs_traveller_chinese_japanese_caffeine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Ethiopia, China, Mesoamerica
 
-**Ancestor (if applicable):** Ethiopian, Arabs, Traveller, Chinese, Japanese
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3,1
+**Archetype:** Milady
 
-SS3_milady_ancient_chinese_japanese_Tea.PNG
+**Ancestor:** Ethiopian, Arabs, Traveller, Chinese, Japanese
 
-SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG SS1_Monster Ultra.png
+**Swag Score:** 3,1
 
-**Ancient / Modern:** Modern
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Enhanced alertness, improved focus, mild euphoria, and reduced
+**Image Files:** milady_ethiopian_arabs_traveller_chinese_japanese_caffeine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Enhanced alertness, improved focus, mild euphoria, and reduced
 
 sleepiness. It can improve cognitive performance and reaction time in low to moderate doses
 
@@ -922,7 +1220,7 @@ sleepiness. It can improve cognitive performance and reaction time in low to mod
 
 some cases jitteriness or tremors.
 
-**How the molecule appears in nature (existence):** Caffeine is synthesized by plants as a
+**How the Molecule Appears in Nature (Existence):** Caffeine is synthesized by plants as a
 
 secondary metabolite to protect against insects and pathogens. It is present in seeds, leaves,
 
@@ -942,89 +1240,134 @@ dark brown, roasted seed matrix; in tea it is in dried green or black leaves, in
 
 reddish seeds. These forms are not pure caffeine but contain it as a component.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/caffeine/caffeine.shtml
-
 - https://www.britannica.com/science/caffeine
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine
 
 ---
 
 ## Sober
 
+### Identity
+
 **Name:** Sober
 
 **Associated Molecule:** C10H12N2O
 
-**Image Files:** milady_mongolian_sober.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
-
-**Area of Origin:**
-
-**Ancestor (if applicable):** Mongolian
-
-**Archetype (if applicable):** Milady
-
-**Swag Score (if applicable):** 2
-
-SS2_milady_sober water.PNG
-
 **Ancient / Modern:** Ancient
 
-**General Real World Trait History:**
+**Area of Origin:** 
 
-**General effects of the drug:** Promotes feelings of happiness, production of melatonin,
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Ancestor:** Mongolian
+
+**Swag Score:** 2
+
+---
+
+### Visual
+
+**Image Files:** milady_mongolian_sober.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Promotes feelings of happiness, production of melatonin,
 
 increased appetite, and mitigates anxiety and stress.
 
-**How the molecule appears in nature (existence):**
+**How the Molecule Appears in Nature (Existence):** How the molecule appears in nature (physical appearances):
 
-How the molecule appears in nature (physical appearances):
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
 
 **Sources:**
-
 - https://www.webmd.com/depression/video/video-serotonin-effects
-
 - https://www.healthline.com/health/mental-health/serotonin
 
 ---
 
 ## Kwoa Krua
 
+### Identity
+
 **Name:** Kwao Krua
 
 **Associated Molecule:** C20H22O5
 
-**Image Files:** milady_thai_kwao krua.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Thailand, Myanmar
 
-**Ancestor (if applicable):** Thai
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Milady
 
-SS2_milady_ancient_thai_kwao krua.PNG
+**Ancestor:** Thai
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Menopausal symptom relief, maintaining bone density in
+### Visual
+
+**Image Files:** milady_thai_kwao krua.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Menopausal symptom relief, maintaining bone density in
 
 estrogen-deficient models, promoting collagen production, skin elasticity, and wrinkle reduction.
 
@@ -1034,7 +1377,7 @@ doses may promote estrogen-sensitive tumors. Mild side effects include breast te
 
 bloating, headaches, and irregular periods.
 
-**How the molecule appears in nature (existence):** The substances are unique to Puerarie
+**How the Molecule Appears in Nature (Existence):** The substances are unique to Puerarie
 
 mirifica.
 
@@ -1044,45 +1387,67 @@ resemble potatoes in their raw form, with a brownish exterior and whitish interi
 
 powdered, the roots appear as light brown to beige with an earthy odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://biologyinsights.com/pueraria-mirifica-applications-side-effects-safety/
-
 - https://www.healthline.com/nutrition/pueraria-mirifica
 
 ---
 
 ## DMT
 
+### Identity
+
 **Name:** DMT
 
 **Associated Molecule:** C12H16N2
 
-**Image Files:** acidhouse_mayan_aboriginal_nativeAmerican_DMT.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** South America
 
-**Ancestor (if applicable):** Mayan, Aboriginal, Native American
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2,4
+**Archetype:** Acidhouse
 
-SS2_freetekno_ancient_mayan_Ayahuasca.png
+**Ancestor:** Mayan, Aboriginal, Native American
 
-SS2_freetekno_mayan_Ayahuasca Bowl.png SS4_freetekno_Tihkal.png
+**Swag Score:** 2,4
 
-**Ancient / Modern:** Modern
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Vivid visual and auditory hallucinations, altered sense of time and
+**Image Files:** acidhouse_mayan_aboriginal_nativeAmerican_DMT.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid visual and auditory hallucinations, altered sense of time and
 
 reality, euphoria, and profound spiritual or mystical experiences. Physically it can increase heart
 
@@ -1090,7 +1455,7 @@ rate and blood pressure, pupil dilation, and in some cases nausea. In higher dos
 
 unprepared settings can cause anxiety, panic, or disorientation.
 
-**How the molecule appears in nature (existence):** In plants, DMT likely serves as a defense
+**How the Molecule Appears in Nature (Existence):** In plants, DMT likely serves as a defense
 
 against herbivores or pathogens. In humans its endogenous presence is under study with
 
@@ -1118,45 +1483,68 @@ animals but is extracted as a powder or resin from plant material (Mimosa tenuif
 
 yields a reddish-brown extract, in Ayahuasca it is part of a dark, bitter liquid brew).
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/dmt/dmt.shtml
-
 - https://erowid.org/chemicals/dmt/dmt_info2.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/N_N-Dimethyltryptamine
 
 ---
 
 ## Sugarcane
 
+### Identity
+
 **Name:** Sugarcane
 
 **Associated Molecule:** C12H22O11
 
-**Image Files:** chicagodetroit_hindu_sugarcane.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** New Guinea
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Increased energy. Rapidly increasing blood sugar due to its high
+### Visual
+
+**Image Files:** chicagodetroit_hindu_sugarcane.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Increased energy. Rapidly increasing blood sugar due to its high
 
 glycemic index, causes a quick rise in blood glucose, stimulating insulin release. Moderate
 
@@ -1168,7 +1556,7 @@ resistance, and metabolic syndrome. Dental caries are also a significant concern
 
 sucrose’s fermentation by oral bacteria.
 
-**How the molecule appears in nature (existence):** Sugarcane stalks contain 12-20% sucrose
+**How the Molecule Appears in Nature (Existence):** Sugarcane stalks contain 12-20% sucrose
 
 by weight, making it a primary commercial source. The plant, native to Southeast Asia, is
 
@@ -1182,41 +1570,66 @@ green to brownish and segmented. Sugarcane juice is a cloudy, sweet liquid (10-1
 
 that turns brownish when processed into molasses or raw sugar.
 
-**Sources:**
+**How the Molecule Appears in Nature (Physical):** 
 
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
+**Sources:**
 - https://pubchem.ncbi.nlm.nih.gov/compound/Sucrose
 
 ---
 
 ## Kykeon
 
+### Identity
+
 **Name:** Kykeon
 
 **Associated Molecule:** C33H35N5O5
 
-**Image Files:** acidhouse_greekAncients_kykeon.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Greece
 
-**Ancestor (if applicable):** Greek
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 5
+**Archetype:** Acidhouse
 
-SS5_acidhouse_ancient_greek_Ancient Mead.png
+**Ancestor:** Greek
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 5
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Kykeon may produce mild psychoactive effects at high doses, and
+### Visual
+
+**Image Files:** acidhouse_greekAncients_kykeon.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Kykeon may produce mild psychoactive effects at high doses, and
 
 could theoretically induce visionary experiences. Common side effects include nausea,
 
@@ -1226,7 +1639,7 @@ ergotism, a serious condition with symptoms like severe vasoconstriction, convul
 
 hallucinations, or psychosis.
 
-**How the molecule appears in nature (existence):** Found in ergot sclerotia on grasses like rye,
+**How the Molecule Appears in Nature (Existence):** Found in ergot sclerotia on grasses like rye,
 
 wheat, and barley, with concentrations varying. The fungus thrives in damp conditions,
 
@@ -1244,47 +1657,68 @@ Kykeon itself is a liquid beverage, likely cloudy or brownish due to barley and 
 
 resemble a grain-based porridge or drink, not a pure chemical.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/ergot/ergot.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ergotamine
-
 - https://www.historicmysteries.com/kykeon/
 
 ---
 
 ## Methamphetamine
 
+### Identity
+
 **Name:** Methamphetamine
 
 **Associated Molecule:** C10H15N
 
-**Image Files:** milady_chinese_palestinian_methamphetamine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Japan
 
-**Ancestor (if applicable):** Chinese, Palestinian
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 1,3
+**Archetype:** Milady
 
-SS3_milady_ancient_chinese_palestinian_ephedra.PNG
+**Ancestor:** Chinese, Palestinian
 
-SS1_chicagodetroit_Crack Pipe.png
+**Swag Score:** 1,3
 
-**Ancient / Modern:** Modern
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Intense euphoria, heightened alertness, increased energy,
+**Image Files:** milady_chinese_palestinian_methamphetamine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Intense euphoria, heightened alertness, increased energy,
 
 enhanced focus, and feelings of confidence or invincibility. Users may experience talkativeness,
 
@@ -1294,53 +1728,75 @@ hyperthermia, pupil dilation, reduced appetite, and in some cases, tremors or ja
 
 Common side effects include anxiety, agitation, paranoia, and insomnia.
 
-**How the molecule appears in nature (existence):** Methamphetamine does not occur
+**How the Molecule Appears in Nature (Existence):** Methamphetamine does not occur
 
 naturally.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/chemicals/meth/meth.shtml
-
 - https://erowid.org/chemicals/meth/meth_testing.shtml
-
 - https://www.drugs.com/monograph/methamphetamine.html
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Methamphetamine
 
 ---
 
 ## Clear Pill
 
+### Identity
+
 **Name:** Clear Pill
 
 **Associated Molecule:** C8H11NO2
 
-**Image Files:** milady_satanists_clear pill.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 10, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** England
 
-**Ancestor (if applicable):** Satanist
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_satanists_clear pill.PNG
+**Ancestor:** Satanist
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** In the brain, dopamine mediates reward, pleasure, and
+### Visual
+
+**Image Files:** milady_satanists_clear pill.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** In the brain, dopamine mediates reward, pleasure, and
 
 motivation, contributing to feelings of satisfaction. It enhances focus, attention, and
 
@@ -1350,7 +1806,7 @@ blood pressure, heart rate, and kidney function by acting as a vasodilator or va
 
 Excessive dopamine can cause agitation, paranoia, or psychosis.
 
-**How the molecule appears in nature (existence):** In animals, dopamine regulates
+**How the Molecule Appears in Nature (Existence):** In animals, dopamine regulates
 
 neurological and physiological processes, In plants, its role is less clear but may involve
 
@@ -1380,47 +1836,69 @@ visible as it exists in trace amounts within tissues or fluids. In its pure form
 
 to off-white crystalline powder.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 10, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Dopamine
-
 - https://www.drugs.com/monograph/dopamine.html
-
 - https://www.britannica.com/science/dopamine
-
 - https://www.healthline.com/health/dopamine-effects
 
 ---
 
 ## Euphoria
 
+### Identity
+
 **Name:** Euphoria
 
 **Associated Molecule:** C8H11NO2
 
-**Image Files:** chicagodetroit_mongolian_euphoria.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
-
-**Area of Origin:**
-
-**Ancestor (if applicable):** Mongolian
-
-**Archetype (if applicable):** Chicago detroit
-
-**Swag Score (if applicable):** 5
-
-SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
-
 **Ancient / Modern:** Modern
 
-**General Real World Trait History:**
+**Area of Origin:** 
 
-**General effects of the drug:** In the brain, dopamine mediates reward, pleasure, and
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago detroit
+
+**Ancestor:** Mongolian
+
+**Swag Score:** 5
+
+---
+
+### Visual
+
+**Image Files:** chicagodetroit_mongolian_euphoria.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** In the brain, dopamine mediates reward, pleasure, and
 
 motivation, contributing to feelings of satisfaction. It enhances focus, attention, and
 
@@ -1430,7 +1908,7 @@ blood pressure, heart rate, and kidney function by acting as a vasodilator or va
 
 Excessive dopamine can cause agitation, paranoia, or psychosis.
 
-**How the molecule appears in nature (existence):** In animals, dopamine regulates
+**How the Molecule Appears in Nature (Existence):** In animals, dopamine regulates
 
 neurological and physiological processes, In plants, its role is less clear but may involve
 
@@ -1460,47 +1938,69 @@ visible as it exists in trace amounts within tissues or fluids. In its pure form
 
 to off-white crystalline powder.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Dopamine
-
 - https://www.drugs.com/monograph/dopamine.html
-
 - https://www.britannica.com/science/dopamine
-
 - https://www.healthline.com/health/dopamine-effects
 
 ---
 
 ## Sertraline
 
+### Identity
+
 **Name:** Sertraline
 
 **Associated Molecule:** C17H17CI2N
 
-**Image Files:** freetekno_greek_sertraline.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** The US
 
-**Ancestor (if applicable):** Greek
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Freetekno
 
-SS4_freetekno_ancient_greek_st. john's wort.PNG
+**Ancestor:** Greek
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Treats major depressive disorder, generalized anxiety disorder,
+### Visual
+
+**Image Files:** freetekno_greek_sertraline.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Treats major depressive disorder, generalized anxiety disorder,
 
 panic disorder, social anxiety disorder, obsessive-compulsive disorder, and post-traumatic stress
 
@@ -1512,51 +2012,74 @@ reduces anxiety, and fewer intrusive thoughts after 4-8 weeks of treatment (with
 
 Physically can cause nausea, diarrhea, insomnia, headache, fatigue, and sexual dysfunction.
 
-**How the molecule appears in nature (existence):** Sertraline does not occur naturally, it is
+**How the Molecule Appears in Nature (Existence):** Sertraline does not occur naturally, it is
 
 manufactured in laboratories through chemical synthesis.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Sertraline
-
 - https://www.drugs.com/sertraline.html
-
 - https://medlineplus.gov/druginfo/meds/a697048.html
 
 ---
 
 ## Acacia
 
+### Identity
+
 **Name:** Acacia
 
 **Associated Molecule:** C12H16N2
 
-**Image Files:** acidhouse_aboriginals_acacia.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Australia, Africa
 
-**Ancestor (if applicable):** Aboriginal
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Acidhouse
 
-SS2_acidhouse_ancient_aboriginal_acacia.PNG
+**Ancestor:** Aboriginal
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Vivid visual and auditory hallucinations, altered sense of time and
+### Visual
+
+**Image Files:** acidhouse_aboriginals_acacia.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid visual and auditory hallucinations, altered sense of time and
 
 reality, euphoria, and profound spiritual or mystical experiences. Physically it can increase heart
 
@@ -1564,7 +2087,7 @@ rate and blood pressure, pupil dilation, and in some cases nausea. In higher dos
 
 unprepared settings can cause anxiety, panic, or disorientation.
 
-**How the molecule appears in nature (existence):** In plants, DMT likely serves as a defense
+**How the Molecule Appears in Nature (Existence):** In plants, DMT likely serves as a defense
 
 against herbivores or pathogens. In humans its endogenous presence is under study with
 
@@ -1592,49 +2115,72 @@ animals but is extracted as a powder or resin from plant material (Mimosa tenuif
 
 yields a reddish-brown extract, in Ayahuasca it is part of a dark, bitter liquid brew).
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/dmt/dmt.shtml
-
 - https://erowid.org/chemicals/dmt/dmt_info2.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/N_N-Dimethyltryptamine
 
 ---
 
 ## Nymphaea Caerulea
 
+### Identity
+
 **Name:** Nymphaea Caerulea
 
 **Associated Molecule:** C17H17NO2
 
-**Image Files:** chicagodetroit_greek_nymphaea caerulea.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Egypt
 
-**Ancestor (if applicable):** Greek
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
+**Ancestor:** Greek
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild sedation, relaxation, and a subtle euphoria. It induces
+### Visual
+
+**Image Files:** chicagodetroit_greek_nymphaea caerulea.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild sedation, relaxation, and a subtle euphoria. It induces
 
 calmness, enhances mood and senses without hallucinations.
 
-**How the molecule appears in nature (existence):** Native to the Nile River region and East
+**How the Molecule Appears in Nature (Existence):** Native to the Nile River region and East
 
 Africa, this aquatic plant grows in ponds and wetlands.
 
@@ -1644,45 +2190,68 @@ floating on water, with vibrant blue to purple flowers and yellow at the centers
 
 rhizomatous roots. Dried flowers are blue to grayish-blue with a mild floral odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/lotus/lotus.shtml
-
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC5638439/
-
 - https://en.wikipedia.org/wiki/Nymphaea_nouchali_var._caerulea
 
 ---
 
 ## Ethylene
 
+### Identity
+
 **Name:** Ethylene
 
 **Associated Molecule:** C2H4
 
-**Image Files:** acidhouse_pythia_ethylene.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** England
 
-**Ancestor (if applicable):** Pythia
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Acidhouse
 
-SS4_acidhouse_Spiral Bera Balloon.png SS4_acidhouse_Whippet Cracker.png
+**Ancestor:** Pythia
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** At high concentrations can act as a simple asphyxiant by
+### Visual
+
+**Image Files:** acidhouse_pythia_ethylene.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** At high concentrations can act as a simple asphyxiant by
 
 displacing oxygen, potentially causing dizziness or unconsciousness. Inhalation of high
 
@@ -1690,7 +2259,7 @@ concentrations may also cause mild central nervous system depression, though it�
 
 industrial accidents. Ethylene is flammable.
 
-**How the molecule appears in nature (existence):** Ethylene acts as a signaling molecule in
+**How the Molecule Appears in Nature (Existence):** Ethylene acts as a signaling molecule in
 
 plants, coordinating developmental processes and stress responses.
 
@@ -1698,49 +2267,72 @@ How the molecule appears in nature (physical appearances): Ethylene is invisible
 
 as a gas by ripening fruits, senescing leaves, or stressed plants.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/ethylene/ethylene.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ethylene
-
 - https://www.britannica.com/science/ethylene
 
 ---
 
 ## Henbane
 
+### Identity
+
 **Name:** Henbane
 
 **Associated Molecule:** C17H21NO4
 
-**Image Files:** freetekno_greek_henbane.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Southern Europe, Western Asia, North Africa
 
-**Ancestor (if applicable):** Greek
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_greek_henbane.PNG
+**Ancestor:** Greek
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** In low doses can treat motion sickness, postoperative nausea,
+### Visual
+
+**Image Files:** freetekno_greek_henbane.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** In low doses can treat motion sickness, postoperative nausea,
 
 and irritable bowel syndrome. High doses can cause sedation, delirium, and vivid hallucinations.
 
-**How the molecule appears in nature (existence):** Henbane is an annual or biennial herb
+**How the Molecule Appears in Nature (Existence):** Henbane is an annual or biennial herb
 
 native to Europe, North Africa, and Western Asia, thriving in disturbed soils, roadsides, and
 
@@ -1766,45 +2358,68 @@ enclosed in a calyx). Dried henbane appears as grayish-green to brownish herbal 
 
 a strong, unpleasant, acrid odor. Seeds are small, dark, and disc-shaped.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/henbane/henbane.shtml
-
 - https://botanicalinstitute.org/henbane/
-
 - https://en.wikipedia.org/wiki/Hyoscyamus_niger
 
 ---
 
 ## Xanax
 
+### Identity
+
 **Name:** Xanax
 
 **Associated Molecule:** C17H13CIN4
 
-**Image Files:** freetekno_hindu_xanax.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 5
+**Archetype:** Freetekno
 
-SS5_freetekno_Baggie Of Pills.png
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 5
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Induces calmness, relaxation, and mild sedation. At higher doses
+### Visual
+
+**Image Files:** freetekno_hindu_xanax.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Induces calmness, relaxation, and mild sedation. At higher doses
 
 can cause drowsiness, euphoria, or a sense of detachment. Physically it reduces muscle
 
@@ -1812,49 +2427,72 @@ tension, slows reaction times, and in some cases invokes dizziness or coordinati
 
 It may also cause dry mouth or mild nausea.
 
-**How the molecule appears in nature (existence):** Xanax does not occur naturally.
+**How the Molecule Appears in Nature (Existence):** Xanax does not occur naturally.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Alprazolam
-
 - https://www.drugs.com/alprazolam.html
-
 - https://medlineplus.gov/druginfo/meds/a684001.html
 
 ---
 
 ## Ibogaine
 
+### Identity
+
 **Name:** Ibogaine
 
 **Associated Molecule:** C20H26N2O
 
-**Image Files:** chicagodetroit_gabon_ibogaine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Congo, Gabon
 
-**Ancestor (if applicable):** Gabon
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_ancient_gabon_iboga.PNG
+**Ancestor:** Gabon
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Ibogaine induces intense, long-lasting hallucinations, often
+### Visual
+
+**Image Files:** chicagodetroit_gabon_ibogaine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Ibogaine induces intense, long-lasting hallucinations, often
 
 described as dream-like or introspective visions. Physically it can increase heart rate and blood
 
@@ -1862,7 +2500,7 @@ pressure, and may invoke nausea, vomiting, and tremors. Ibogaine is highly toxic
 
 with risks including cardiac arrhythmias and seizures.
 
-**How the molecule appears in nature (existence):** Found primarily in the root bark of
+**How the Molecule Appears in Nature (Existence):** Found primarily in the root bark of
 
 Tabernanthe iboga, the plant grows in tropical rainforest and is harvested for its psychoactive
 
@@ -1876,45 +2514,68 @@ appears as reddish-brown to dark brown fibrous material, often ground into powde
 
 consumption.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/chemicals/ibogaine/ibogaine.shtml
-
 - https://www.erowid.org/plants/iboga/iboga.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ibogaine
 
 ---
 
 ## Iproniazid
 
+### Identity
+
 **Name:** Iproniazid
 
 **Associated Molecule:** C9H13N3O
 
-**Image Files:** freetekno_nativeAmerican_iproniazid.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_sufi_syrian rue.PNG
+**Ancestor:** Native American
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Iproniazid produces mood elevation, increased energy, and mild
+### Visual
+
+**Image Files:** freetekno_nativeAmerican_iproniazid.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Iproniazid produces mood elevation, increased energy, and mild
 
 euphoria. It does not cause acute euphoria or hallucinations but gradually improves emotional
 
@@ -1922,53 +2583,75 @@ stability. Physically it might lead to dry mouth, dizziness, or insomnia due to 
 
 monoamine levels. It can also lead to weight gain or sexual dysfunction.
 
-**How the molecule appears in nature (existence):** Does not occur in nature.
+**How the Molecule Appears in Nature (Existence):** Does not occur in nature.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Iproniazid
-
 - https://www.drugs.com/drug-class/monoamine-oxidase-inhibitors.html
 
 ---
 
 ## Tobacoo
 
+### Identity
+
 **Name:** Tobacco
 
 **Associated Molecule:** C10H14N2
 
-**Image Files:** chicagodetroit_hindu_tobacco.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Americas
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 2, 3
+**Archetype:** Chicago Detroit
 
-SS2_ancient_arabs_nutmeg.PNG SS3_milady_Remilia Cig Pack.png
+**Ancestor:** Hindu
 
-SS2_acidhouse_Chillum.png SS3_chicagodetroit_Swisher Sweets.PNG
+**Swag Score:** 2, 3
 
-**Ancient / Modern:** Ancient
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Stimulation / relaxation, short-term use may enhance memory and
+**Image Files:** chicagodetroit_hindu_tobacco.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulation / relaxation, short-term use may enhance memory and
 
 attention. Addiction upon long-term usage.
 
-**How the molecule appears in nature (existence):** Native to the Americas, tobacco has a long
+**How the Molecule Appears in Nature (Existence):** Native to the Americas, tobacco has a long
 
 history of use as a a shamanic inebriant and stimulant. Nicotine is a naturally occurring
 
@@ -1982,43 +2665,67 @@ How the molecule appears in nature (physical appearances): Annual or bi-annual g
 
 1-3 meters tall with large sticky leaves.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/tobacco/tobacco.shtml
-
 - https://www.erowid.org/chemicals/nicotine/nicotine.shtml
 
 ---
 
 ## Testosterone
 
+### Identity
+
 **Name:** Testosterone
 
 **Associated Molecule:** C19H28O2
 
-**Image Files:** milady_hindu_testosterone.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Germany, Switzerland
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_hindu_ashwagandha.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Promotes male secondary sexual characteristics like facial hair,
+### Visual
+
+**Image Files:** milady_hindu_testosterone.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Promotes male secondary sexual characteristics like facial hair,
 
 deep voice, muscle and bone growth, and libido. Testosterone can also enhance mood,
 
@@ -2026,7 +2733,7 @@ confidence, and aggression in some individuals. Side effects include acne, hair 
 
 aggression, and mood swings.
 
-**How the molecule appears in nature (existence):** In humans and animals, it is synthesized
+**How the Molecule Appears in Nature (Existence):** In humans and animals, it is synthesized
 
 primarily in the testes for men and ovaries for women. In mammals, testosterone regulates
 
@@ -2040,49 +2747,73 @@ the body, existing in trace amounts in blood and tissues. It is extracted synthe
 
 cholesterol or plant sterols.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Testosterone
-
 - https://www.drugs.com/mtm/testosterone-topical.html
 
 ---
 
 ## Tabernaemontana
 
+### Identity
+
 **Name:** Tabernaemontana
 
 **Associated Molecule:** C21H26N2O3
 
-**Image Files:** freetekno_gabon_tabernaemontana.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** South America, Africa
 
-**Ancestor (if applicable):** Gabon
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Freetekno
 
-SS4_freetekno_ancient_gabon_tabernaemontana.PNG
+**Ancestor:** Gabon
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild psychoactive properties, calming and stimulant effects,
+### Visual
+
+**Image Files:** freetekno_gabon_tabernaemontana.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild psychoactive properties, calming and stimulant effects,
 
 depending on preparation and species. May cause lowered blood pressure, reduced heart rate,
 
 and mild sedation on lower doses.
 
-**How the molecule appears in nature (existence):** Found in species like Tabernaemontana
+**How the Molecule Appears in Nature (Existence):** Found in species like Tabernaemontana
 
 divaricata (widely distributed in Asia), Tabernaemontana pandacaqui (Southeast Asia, Pacific
 
@@ -2098,49 +2829,73 @@ or leaves appear as brown to reddish-brown fibrous material, often ground into p
 
 usage.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/tabernaemontana/tabernaemontana.shtml
-
 - https://en.wikipedia.org/wiki/Tabernaemontana
 
 ---
 
 ## Coca
 
+### Identity
+
 **Name:** Coca
 
 **Associated Molecule:** C17H21NO4
 
-**Image Files:** chicagodetroit_ballroomScene_coca.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** South America
 
-**Ancestor (if applicable):** Ballroom
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
+**Ancestor:** Ballroom
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Stimulant. Physically can increase heart rate, reduce appetite,
+### Visual
+
+**Image Files:** chicagodetroit_ballroomScene_coca.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulant. Physically can increase heart rate, reduce appetite,
 
 dilated pupils, and elevated blood pressure. High doses may cause tremors, agitation, or
 
 seizures. It is highly addictive and can also cause anxiety, paranoia, and hallucinations.
 
-**How the molecule appears in nature (existence):** Native to South America, the plant is a
+**How the Molecule Appears in Nature (Existence):** Native to South America, the plant is a
 
 shrub cultivated in tropical and subtropical regions. Naturally, it serves as a chemical defense
 
@@ -2156,91 +2911,138 @@ leaves, small white flowers, and red berries. Dried coca leaves are dark green t
 
 a mild, earthy odor when used for chewing or tea.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/coca/coca.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Cocaine
 
 ---
 
 ## MDMA
 
+### Identity
+
 **Name:** MDMA
 
 **Associated Molecule:** C11H15NO2
 
-**Image Files:** milady_nativeAmerican_MDMA.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Germany
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Milady
 
-SS4_milady_acidhouse_MDMA Handbook.png SS4_freetekno_Pihkal.png
+**Ancestor:** Native American
 
-**Ancient / Modern:** Modern
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Euphoria, emotional warmth, empathy, increased sociability,
+### Visual
+
+**Image Files:** milady_nativeAmerican_MDMA.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Euphoria, emotional warmth, empathy, increased sociability,
 
 heightened sensory perception, and enhanced emotional connection.
 
-**How the molecule appears in nature (existence):** MDMA does not occur naturally.
+**How the Molecule Appears in Nature (Existence):** MDMA does not occur naturally.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/chemicals/mdma/mdma.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/MDMA
-
 - https://www.drugs.com/illicit/mdma.html
 
 ---
 
 ## Sassafras
 
+### Identity
+
 **Name:** Sassafras
 
 **Associated Molecule:** C10H10O2
 
-**Image Files:** milady_nativeAmerican_sassafras.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** North America
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_ancient_nativeAmerican_Sassafras.PNG
+**Ancestor:** Native American
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Stimulant, anti-inflammatory, metabolite, relaxation.
+### Visual
 
-**How the molecule appears in nature (existence):** Traditionally, sassafras root bark or leaves
+**Image Files:** milady_nativeAmerican_sassafras.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulant, anti-inflammatory, metabolite, relaxation.
+
+**How the Molecule Appears in Nature (Existence):** Traditionally, sassafras root bark or leaves
 
 were used in Native American and early American medicine for fever, colds, and rheumatism, as
 
@@ -2254,101 +3056,147 @@ leaves, yellow flowers, and brownish root bark. Dried root bark appears as reddi
 
 dark brown
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Safrole
-
 - https://erowid.org/plants/sassafras/sassafras.shtml
-
 - https://en.wikipedia.org/wiki/Safrole
 
 ---
 
 ## Piracetam
 
+### Identity
+
 **Name:** Piracetam
 
 **Associated Molecule:** C6H10N2O2
 
-**Image Files:** chicagodetroit_hindu_piracetam.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Belgium
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Produces subtle cognitive enhancement, such as improved
+### Visual
+
+**Image Files:** chicagodetroit_hindu_piracetam.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Produces subtle cognitive enhancement, such as improved
 
 attention, verbal fluency, and mental clarity. Effects are often cumulative, requiring days to
 
 weeks for noticeable benefits.
 
-**How the molecule appears in nature (existence):** Piracetam does not occur naturally and
+**How the Molecule Appears in Nature (Existence):** Piracetam does not occur naturally and
 
 was first synthesized in 1964 by UCB Pharma in Belgium.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Piracetam
-
 - https://www.drugs.com/medical-answers/piracetam-3570384/
-
 - https://medlineplus.gov/druginfo/meds/a604001.html
 
 ---
 
 ## Psychotaria Viridis
 
+### Identity
+
 **Name:** Psychotria Viridis
 
 **Associated Molecule:** C12H16N2
 
-**Image Files:** freetekno_nativeAmericans_mayan_psychotria viridis.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Amazon Basin
 
-**Ancestor (if applicable):** Native American, Mayan
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 1
+**Archetype:** Freetekno
 
-SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
+**Ancestor:** Native American, Mayan
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 1
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Vivid hallucinations, altered perception of time and space, and
+### Visual
+
+**Image Files:** freetekno_nativeAmericans_mayan_psychotria viridis.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid hallucinations, altered perception of time and space, and
 
 emotional introspection. The effects are rapid and intense. Risks include psychological distress,
 
 and a rare psychotic episode in predisposed individuals.
 
-**How the molecule appears in nature (existence):** Native to Central and South America, the
+**How the Molecule Appears in Nature (Existence):** Native to Central and South America, the
 
 shrub contains DMT in its leaves at concentrations of 0.1–0.61% by dry weight, with higher
 
@@ -2362,45 +3210,68 @@ How the molecule appears in nature (physical appearances): The plant is a shrub 
 
 berries. Dried leaves are grayish or reddish brown.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/psychotria/psychotria.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Dimethyltryptamine
-
 - https://en.wikipedia.org/wiki/Psychotria_viridis
 
 ---
 
 ## Khat
 
+### Identity
+
 **Name:** Khat
 
 **Associated Molecule:** C9H11NO
 
-**Image Files:** freetekno_ethiopian_khat.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Ethiopia, South Arabia
 
-**Ancestor (if applicable):** Ethiopian
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_ethiopian_Khat Pipe.png
+**Ancestor:** Ethiopian
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Euphoria, increased alertness, heightened energy, talkativeness,
+### Visual
+
+**Image Files:** freetekno_ethiopian_khat.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Euphoria, increased alertness, heightened energy, talkativeness,
 
 and improved concentration. Effects begin within 1 hour of chewing khat leaves and typically
 
@@ -2408,7 +3279,7 @@ last for 3-6 hours. Users may experience a sense of well-being and reduced fatig
 
 a “crash” with low mood and lethargy.
 
-**How the molecule appears in nature (existence):** Native to East Africa and the Arabian
+**How the Molecule Appears in Nature (Existence):** Native to East Africa and the Arabian
 
 Peninsula, the plant grows in humid mountainous regions. Khat is chewed recreationally in East
 
@@ -2422,45 +3293,70 @@ tree (up to 25 meters) with oval green leaves, reddish young stems, and small wh
 
 Dried leaves are brownish and less potent due to cathinone degradation.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/khat/khat.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Cathinone
-
 - https://erowid.org/plants/khat/khat_info1.shtml
 
 ---
 
 ## Pituri
 
+### Identity
+
 **Name:** Pituri
 
 **Associated Molecule:** C10H14N2
 
-**Image Files:** chicagodetroit_aboriginal_pituri.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Australia
 
-**Ancestor (if applicable):** Aboriginal
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Chicago Detroit
 
-SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
+**Ancestor:** Aboriginal
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 2
 
-**General effects of the drug:** Stimulant, narcotic, deliriant (in large quantities).
+---
 
-**How the molecule appears in nature (existence):** Used by Aboriginal Australians and traded
+### Visual
+
+**Image Files:** chicagodetroit_aboriginal_pituri.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulant, narcotic, deliriant (in large quantities).
+
+**How the Molecule Appears in Nature (Existence):** Used by Aboriginal Australians and traded
 
 across Australia. It grows in the arid regions of central Australia from WA, across NT and SA to
 
@@ -2474,49 +3370,72 @@ white corolla, with a purple-striped tube, and five lobes. The fruit is a black 
 
 contains two seeds in a dark pulp.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
-- https://www.erowid.org/psychoactives/faqs/faq_natural_high_australia.shtml#PITURI (outdated
-
-language)
+- https://www.erowid.org/psychoactives/faqs/faq_natural_high_australia.shtml#PITURI
 
 ---
 
 ## Ancestral Trance
 
+### Identity
+
 **Name:** Ancestral Trance
 
 **Associated Molecule:** C20H25N3O
 
-**Image Files:** freetekno_orthodoxJews_aboriginal_haitians_ancestral trance.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
-
-**Area of Origin:**
-
-**Ancestor (if applicable):** Orthodox Jews, Aboriginal, Haitians
-
-**Archetype (if applicable):** Freetekno
-
-**Swag Score (if applicable):** 5
-
-SS5_freetekno_orthodoxJews_aboriginal_haitians_ancestral trance vortex.PNG
-
 **Ancient / Modern:** Ancient
 
-**General Real World Trait History:**
+**Area of Origin:** 
 
-**General effects of the drug:** Altered perceptions, vivid hallucinations, and heightened
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Ancestor:** Orthodox Jews, Aboriginal, Haitians
+
+**Swag Score:** 5
+
+---
+
+### Visual
+
+**Image Files:** freetekno_orthodoxJews_aboriginal_haitians_ancestral trance.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Altered perceptions, vivid hallucinations, and heightened
 
 emotional states. Often accompanied by changes in thought patterns and a distorted sense of
 
 time.
 
-**How the molecule appears in nature (existence):** LSD doesn’t occur in nature, it is best
+**How the Molecule Appears in Nature (Existence):** LSD doesn’t occur in nature, it is best
 
 known and most researched psychedelic. It is the standard against which all other psychedelics
 
@@ -2526,93 +3445,141 @@ in liquid form.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.dea.gov/factsheets/lsd
-
 - https://www.erowid.org/chemicals/lsd/lsd.shtml
 
 ---
 
 ## Ketamine
 
+### Identity
+
 **Name:** Ketamine
 
 **Associated Molecule:** C13H16CINO
 
-**Image Files:** milady_nepal_turkey_ketamine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Nepal, Turkey
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 1, 3
+**Archetype:** Milady
 
-SS3_milady_ancient_nepal_turkey_Mad Honey.png SS3_Ibiza.PNG SS1_horsey.png
+**Ancestor:** Nepal, Turkey
 
-**Ancient / Modern:** Modern
+**Swag Score:** 1, 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Dissociation, mild hallucination, dream-like states.
+### Visual
 
-**How the molecule appears in nature (existence):** Ketamine doesn’t occur in nature, it was
+**Image Files:** milady_nepal_turkey_ketamine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Dissociation, mild hallucination, dream-like states.
+
+**How the Molecule Appears in Nature (Existence):** Ketamine doesn’t occur in nature, it was
 
 first synthesized in 1962 by Parke-Davis.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/ketamine/ketamine.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ketamine
 
 ---
 
 ## Estrogen
 
+### Identity
+
 **Name:** Estrogen
 
 **Associated Molecule:** C18H24O2
 
-**Image Files:** milady_thai_estrogen.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Thai
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Milady
 
-SS2_milady_ancient_thai_kwao krua.PNG
+**Ancestor:** Thai
 
-**Ancient / Modern:** Modern
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Promotes female secondary sexual characteristics, regulates the
+### Visual
+
+**Image Files:** milady_thai_estrogen.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Promotes female secondary sexual characteristics, regulates the
 
 menstrual cycle, and supports pregnancy. Increases fat storage, promotes skin hydration, and
 
 may cause breast tenderness or fluid retention.
 
-**How the molecule appears in nature (existence):** In humans and animals it is synthesized in
+**How the Molecule Appears in Nature (Existence):** In humans and animals it is synthesized in
 
 the ovaries (women) and testes (men), and adrenal glands from cholesterol via enzymes like
 
@@ -2622,51 +3589,74 @@ How the molecule appears in nature (physical appearances): Estrogen is not visib
 
 body, existing in trace amounts in blood and tissues.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Estradiol
-
 - https://www.drugs.com/answers/support-group/estrogen/questions/
-
 - https://www.drugs.com/estradiol.html
 
 ---
 
 ## Datura
 
+### Identity
+
 **Name:** Datura
 
 **Associated Molecule:** C17H23NO3
 
-**Image Files:** milady_nativeAmerican_datura.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Central & South America, India
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Milady
 
-SS4_milady_ancient_nativeAmerican_datura.PNG
+**Ancestor:** Native American
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Vivid hallucinations, disorientation, visual distortions, and
+### Visual
+
+**Image Files:** milady_nativeAmerican_datura.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid hallucinations, disorientation, visual distortions, and
 
 amnesia. Datura is highly toxic, with risks including severe delirium, agitation, seizures, and
 
 coma.
 
-**How the molecule appears in nature (existence):** Datura has been used in traditional
+**How the Molecule Appears in Nature (Existence):** Datura has been used in traditional
 
 medicine and rituals for its sedative and hallucinogenic properties, particularly in Native
 
@@ -2682,45 +3672,68 @@ purple flowers, and spiky seed pods. Dried leaves or seeds appear as grayish-gre
 
 brownish material, with a bitter, unpleasant odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/datura/datura.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Hyoscyamine#section=Use-and-Manufacturing
-
 - https://en.wikipedia.org/wiki/Datura
 
 ---
 
 ## Tea
 
+### Identity
+
 **Name:** Tea
 
 **Associated Molecule:** C8H10N4O2
 
-**Image Files:** milady_chinese_japanese_tea.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** China
 
-**Ancestor (if applicable):** Chinese, japanese
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_ancient_chinese_japanese_Tea.PNG
+**Ancestor:** Chinese, japanese
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Enhanced alertness, improved focus, mild euphoria, and reduced
+### Visual
+
+**Image Files:** milady_chinese_japanese_tea.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Enhanced alertness, improved focus, mild euphoria, and reduced
 
 sleepiness. It can improve cognitive performance and reaction time in low to moderate doses
 
@@ -2728,7 +3741,7 @@ sleepiness. It can improve cognitive performance and reaction time in low to mod
 
 some cases jitteriness or tremors.
 
-**How the molecule appears in nature (existence):** Caffeine is synthesized by plants as a
+**How the Molecule Appears in Nature (Existence):** Caffeine is synthesized by plants as a
 
 secondary metabolite to protect against insects and pathogens. It is present in seeds, leaves,
 
@@ -2748,45 +3761,68 @@ dark brown, roasted seed matrix; in tea it is in dried green or black leaves, in
 
 reddish seeds. These forms are not pure caffeine but contain it as a component.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/caffeine/caffeine.shtml
-
 - https://www.britannica.com/science/caffeine
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine
 
 ---
 
 ## Poppers
 
+### Identity
+
 **Name:** Poppers
 
 **Associated Molecule:** C5H11ONO
 
-**Image Files:** chicagodetroit_stonewall_poppers.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** France
 
-**Ancestor (if applicable):**
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
+**Ancestor:** 
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Rapid, short-lived “rush” of euphoria, warmth, and
+### Visual
+
+**Image Files:** chicagodetroit_stonewall_poppers.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Rapid, short-lived “rush” of euphoria, warmth, and
 
 lightheadedness when inhaled. Enhances sensory perception, particularly tactile and sexual
 
@@ -2794,57 +3830,80 @@ sensations, and induces a brief sense of exhilaration. Effects onset within seco
 
 between 1-5 minutes.
 
-**How the molecule appears in nature (existence):** Poppers does not occur naturally, it is
+**How the Molecule Appears in Nature (Existence):** Poppers does not occur naturally, it is
 
 synthesized from amyl alcohol and sodium nitrite in laboratory settings.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/chemicals/inhalants/inhalants.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Amyl-nitrite
-
 - https://en.wikipedia.org/wiki/Poppers
 
 ---
 
 ## Cocaine
 
+### Identity
+
 **Name:** Cocaine
 
 **Associated Molecule:** C17H21NO4
 
-**Image Files:** chicagodetroit_ballroomScene_cocaine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** South America
 
-**Ancestor (if applicable):** Ballroom
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 5
+**Archetype:** Chicago Detroit
 
-SS5_chicagodetroit_cocaine baggie.png
+**Ancestor:** Ballroom
 
-**Ancient / Modern:** Modern
+**Swag Score:** 5
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Stimulant. Physically can increase heart rate, reduce appetite,
+### Visual
+
+**Image Files:** chicagodetroit_ballroomScene_cocaine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stimulant. Physically can increase heart rate, reduce appetite,
 
 dilated pupils, and elevated blood pressure. High doses may cause tremors, agitation, or
 
 seizures. It is highly addictive and can also cause anxiety, paranoia, and hallucinations.
 
-**How the molecule appears in nature (existence):** Native to South America, the plant is a
+**How the Molecule Appears in Nature (Existence):** Native to South America, the plant is a
 
 shrub cultivated in tropical and subtropical regions. Naturally, it serves as a chemical defense
 
@@ -2860,47 +3919,71 @@ leaves, small white flowers, and red berries. Dried coca leaves are dark green t
 
 a mild, earthy odor when used for chewing or tea.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/coca/coca.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Cocaine
 
 ---
 
 ## Yohimbine
 
+### Identity
+
 **Name:** Yohimbe
 
 **Associated Molecule:** C21H26N2O3
 
-**Image Files:** chicagodetroit_gabon_yohimbine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Congo, Cameroon
 
-**Ancestor (if applicable):** Gabon
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_Yohimbe Bark.PNG
+**Ancestor:** Gabon
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild stimulation, increased alertness, and heightened arousal.
+### Visual
+
+**Image Files:** chicagodetroit_gabon_yohimbine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild stimulation, increased alertness, and heightened arousal.
 
 May enhance mood and energy.
 
-**How the molecule appears in nature (existence):** Traditionally, yohimbe bark is used in
+**How the Molecule Appears in Nature (Existence):** Traditionally, yohimbe bark is used in
 
 African medicine for sexual enhancement, energy, and fever treatment. Native to Central and
 
@@ -2912,51 +3995,73 @@ leaves, small yellowish flowers, and grayish-brown bark. Dried Yohimbe bark appe
 
 reddish-brown to dark brown strips or powder with bitter, earthy odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/yohimbe/yohimbe.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Yohimbine
-
 - https://www.drugs.com/npp/yohimbe.html
-
 - https://en.wikipedia.org/wiki/Yohimbine
 
 ---
 
 ## St John's Wort
 
+### Identity
+
 **Name:** St John’s Wort
 
 **Associated Molecule:** C30H16O8
 
-**Image Files:** freetekno_greek_st. john’s wort.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
-
-**Area of Origin:**
-
-**Ancestor (if applicable):** Greek
-
-**Archetype (if applicable):** Freetekno
-
-**Swag Score (if applicable):** 4
-
-SS4_freetekno_ancient_greek_st. john's wort.PNG
-
 **Ancient / Modern:** Ancient
 
-**General Real World Trait History:**
+**Area of Origin:** 
 
-**General effects of the drug:** Mood elevation, reduced anxiety, and improved emotional
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Ancestor:** Greek
+
+**Swag Score:** 4
+
+---
+
+### Visual
+
+**Image Files:** freetekno_greek_st. john’s wort.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mood elevation, reduced anxiety, and improved emotional
 
 well-being. Effects are subtle, requiring consistent use over weeks for noticeable benefits.
 
-**How the molecule appears in nature (existence):** Native to Europe, Asia, and North Africa,
+**How the Molecule Appears in Nature (Existence):** Native to Europe, Asia, and North Africa,
 
 this perennial herb grows in temperate regions, often as a weed in meadows or roadsides. St.
 
@@ -2970,53 +4075,72 @@ structure with perforated leaves, yellow flowers, and green leaves. Dried St. Jo
 
 appears as yellowish-green to brownish herbal material with a slightly bitter, earthy odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/herbs/sjwort/sjwort.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Hypericin
-
 - https://www.webmd.com/vitamins/ai/ingredientmono-329/st-johns-wort
 
 ---
 
 ## Psilacetin
 
+### Identity
+
 **Name:** Psilacetin
 
 **Associated Molecule:** C14H18N2O2
 
-**Image Files:** acidhouse_irishDruids_buddhists_sami_psilacetin.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Switzerland
 
-**Ancestor (if applicable):** Irish Druids, Buddhist, Sami
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Acidhouse
 
-SS2_acidhouse_Cubensis.png SS2_acidhouse_Golden Teacher.png
+**Ancestor:** Irish Druids, Buddhist, Sami
 
-SS2_acidhouse_Liberty Caps.png SS2_acidhouse_Mexicana.png
+**Swag Score:** 4
 
-SS2_acidhouse_Penis Envy.png SS2_acidhouse_Subaeruginosa.png
+---
 
-**Ancient / Modern:** Modern
+### Visual
 
-**General Real World Trait History:**
+**Image Files:** acidhouse_irishDruids_buddhists_sami_psilacetin.PNG
 
-**General effects of the drug:** Vivid visual and auditory hallucinations, euphoria, and altered
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid visual and auditory hallucinations, euphoria, and altered
 
 perception of time and space.
 
-**How the molecule appears in nature (existence):** Psilacetin is a synthetic compound and
+**How the Molecule Appears in Nature (Existence):** Psilacetin is a synthetic compound and
 
 does not occur naturally. Used primarily recreationally for psychedelic experiences in spiritual or
 
@@ -3024,45 +4148,69 @@ social settings.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.drugs.com/illicit/psilacetin.html
-
 - https://erowid.org/chemicals/4_aco_dmt/4_aco_dmt.shtml
 
 ---
 
 ## THC Edibles
 
+### Identity
+
 **Name:** THC Edibles
 
 **Associated Molecule:** C21H30O2
 
-**Image Files:** chicagodetroit_hindu_THC edibles.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_Weed Nug.png
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Intoxicant, stimulant, psychedelic, depressant.
+### Visual
 
-**How the molecule appears in nature (existence):** Cannabis produces psychoactive
+**Image Files:** chicagodetroit_hindu_THC edibles.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Intoxicant, stimulant, psychedelic, depressant.
+
+**How the Molecule Appears in Nature (Existence):** Cannabis produces psychoactive
 
 cannabinoid chemicals such as THC and CBD. It is the most widely used (still mostly) illegal
 
@@ -3094,49 +4242,73 @@ they near maturity the leaves may become significantly more purple.
 
 lower level of THC than sativas or indicas.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/cannabis/cannabis.shtml
-
 - https://www.erowid.org/plants/cannabis/cannabis_info6.shtml
 
 ---
 
 ## Scopolamine
 
+### Identity
+
 **Name:** Scopolamine
 
 **Associated Molecule:** C17H21NO4
 
-**Image Files:** freetekno_greek_arabs_scopolamine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Europe, Middle East
 
-**Ancestor (if applicable):** Greek, Arabs
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_greek_arabs_mandrake.PNG
+**Ancestor:** Greek, Arabs
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Delirium, hallucinations, confusion, and disorienting. Physically
+### Visual
+
+**Image Files:** freetekno_greek_arabs_scopolamine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Delirium, hallucinations, confusion, and disorienting. Physically
 
 can cause dry mouth, blurred vision, pupil dilation, rapid heartbeat, urinary retention,
 
 constipation, and hyperthermia.
 
-**How the molecule appears in nature (existence):** Scopolamine occurs naturally in Datura and
+**How the Molecule Appears in Nature (Existence):** Scopolamine occurs naturally in Datura and
 
 Henbane.
 
@@ -3166,49 +4338,72 @@ seed capsules.
 
 - Belladona, a 1-2 meter tall perennial herb that produces small red to black berries.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/datura/datura.shtml
-
 - https://www.erowid.org/plants/belladonna/belladonna.shtml
-
 - https://www.drugs.com/mtm/scopolamine.html
 
 ---
 
 ## Ephedra
 
+### Identity
+
 **Name:** Ephedra
 
 **Associated Molecule:** C10H15NO
 
-**Image Files:** milady_chinese_palestinian_ephedra.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** China
 
-**Ancestor (if applicable):** Chinese, Palestinian
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_ancient_chinese_palestinian_ephedra.PNG
+**Ancestor:** Chinese, Palestinian
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild to moderate stimulation, increased alertness, energy, and
+### Visual
+
+**Image Files:** milady_chinese_palestinian_ephedra.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild to moderate stimulation, increased alertness, energy, and
 
 focus. Users may experience improved concentration and reduced fatigue.
 
-**How the molecule appears in nature (existence):** Native to Asia (especially China and
+**How the Molecule Appears in Nature (Existence):** Native to Asia (especially China and
 
 Mongolia), these shrubs grow in arid regions. Traditionally, Ephedra (Ma Huang) is used in
 
@@ -3222,51 +4417,74 @@ green to yellowish-stems, resembling thin twigs and small, scale-like leaves. Dr
 
 appears as greenish-brown to grayish stems.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/ephedra/ephedra.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ephedrine
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ephedrine
 
 ---
 
 ## Ethanol
 
+### Identity
+
 **Name:** Ethanol
 
 **Associated Molecule:** CH3CH2OH
 
-**Image Files:** chicagodetroit_sicanje_ethanol.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Persia
 
-**Ancestor (if applicable):** Sicanje
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
+**Ancestor:** Sicanje
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Alcohol is a central nervous system depressant. In small
+### Visual
+
+**Image Files:** chicagodetroit_sicanje_ethanol.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Alcohol is a central nervous system depressant. In small
 
 amounts, it produces relaxation, lowered inhibitions and mild euphoria. In higher doses, it
 
 impairs motor skills, judgment, and can cause intoxication, nausea, or unconsciousness.
 
-**How the molecule appears in nature (existence):** Alcohol occurs naturally through
+**How the Molecule Appears in Nature (Existence):** Alcohol occurs naturally through
 
 fermentation, where microorganisms like yeast convert sugars into ethanol and CO2. It’s found
 
@@ -3276,49 +4494,72 @@ How the molecule appears in nature (physical appearances): Clear, colorless liqu
 
 temperature with a slightly sweet, alcoholic odor and a burning taste.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/alcohol/alcohol.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol
-
 - https://www.britannica.com/science/ethanol
 
 ---
 
 ## Syrian Rue
 
+### Identity
+
 **Name:** Syrian Rue
 
 **Associated Molecule:** C13H14N2O
 
-**Image Files:** freetekno_sufi_syrian rue.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Persia, India
 
-**Ancestor (if applicable):** Sufi
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_sufi_syrian rue.PNG
+**Ancestor:** Sufi
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild sedation, relaxation; used traditionally for its antidepressant,
+### Visual
+
+**Image Files:** freetekno_sufi_syrian rue.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild sedation, relaxation; used traditionally for its antidepressant,
 
 anxiolytic, and antimicrobial properties.
 
-**How the molecule appears in nature (existence):** Native to arid and semi-arid regions of the
+**How the Molecule Appears in Nature (Existence):** Native to arid and semi-arid regions of the
 
 Middle East, Central Asia, and the Mediterranean, Syrian Rue is used in traditional medicine for
 
@@ -3334,45 +4575,68 @@ green leaves, white to yellow flowers, and small round seed capsules. Dried seed
 
 black, spherical, and bitter.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/syrian_rue/syrian_rue.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Harmine
-
 - https://www.drugs.com/npp/syrian-rue.html
 
 ---
 
 ## Mimosa Tenuiflora
 
+### Identity
+
 **Name:** Mimosa Tenuiflora
 
 **Associated Molecule:** C12H16N2
 
-**Image Files:** acidhouse_mayan_Mimosa Tenuiflora.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Brazil
 
-**Ancestor (if applicable):** Mayan
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 1
+**Archetype:** Acidhouse
 
-SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
+**Ancestor:** Mayan
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 1
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Vivid visual and auditory hallucinations, altered sense of time and
+### Visual
+
+**Image Files:** acidhouse_mayan_Mimosa Tenuiflora.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid visual and auditory hallucinations, altered sense of time and
 
 reality, euphoria, and profound spiritual or mystical experiences. Physically it can increase heart
 
@@ -3380,7 +4644,7 @@ rate and blood pressure, pupil dilation, and in some cases nausea. In higher dos
 
 unprepared settings can cause anxiety, panic, or disorientation.
 
-**How the molecule appears in nature (existence):** In plants, DMT likely serves as a defense
+**How the Molecule Appears in Nature (Existence):** In plants, DMT likely serves as a defense
 
 against herbivores or pathogens. In humans its endogenous presence is under study with
 
@@ -3408,49 +4672,72 @@ animals but is extracted as a powder or resin from plant material (Mimosa tenuif
 
 yields a reddish-brown extract, in Ayahuasca it is part of a dark, bitter liquid brew).
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/dmt/dmt.shtml
-
 - https://erowid.org/chemicals/dmt/dmt_info2.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/N_N-Dimethyltryptamine
 
 ---
 
 ## MMDA
 
+### Identity
+
 **Name:** MMDA
 
 **Associated Molecule:** C11H15NO3
 
-**Image Files:** acidhouse_arabs_MMDA.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Arabs
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2, 4
+**Archetype:** Acidhouse
 
-SS2_ancient_arabs_nutmeg.PNG SS4_freetekno_Pihkal.png
+**Ancestor:** Arabs
 
-**Ancient / Modern:** Modern
+**Swag Score:** 2, 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Euphoria, emotional openness, vivid sensory perception, mild
+### Visual
+
+**Image Files:** acidhouse_arabs_MMDA.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Euphoria, emotional openness, vivid sensory perception, mild
 
 visual hallucinations.
 
-**How the molecule appears in nature (existence):** MMDA does not occur naturally. Primarily
+**How the Molecule Appears in Nature (Existence):** MMDA does not occur naturally. Primarily
 
 used recreationally, it is used in psychedelic communities for its entactogenic and
 
@@ -3458,43 +4745,67 @@ sensory-enhancing effects, often compared to MDMA.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/chemicals/mdma/mdma.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/MMDA
 
 ---
 
 ## Iboga
 
+### Identity
+
 **Name:** Iboga
 
 **Associated Molecule:** C20H26N2O
 
-**Image Files:** chicagodetroit_gabon_iboga.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Congo, Gabon
 
-**Ancestor (if applicable):** Gabon
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_chicagodetroit_ancient_gabon_iboga.PNG
+**Ancestor:** Gabon
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Ibogaine induces intense, long-lasting hallucinations, often
+### Visual
+
+**Image Files:** chicagodetroit_gabon_iboga.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Ibogaine induces intense, long-lasting hallucinations, often
 
 described as dream-like or introspective visions. Physically it can increase heart rate and blood
 
@@ -3502,7 +4813,7 @@ pressure, and may invoke nausea, vomiting, and tremors. Ibogaine is highly toxic
 
 with risks including cardiac arrhythmias and seizures.
 
-**How the molecule appears in nature (existence):** Found primarily in the root bark of
+**How the Molecule Appears in Nature (Existence):** Found primarily in the root bark of
 
 Tabernanthe iboga, the plant grows in tropical rainforest and is harvested for its psychoactive
 
@@ -3516,49 +4827,72 @@ appears as reddish-brown to dark brown fibrous material, often ground into powde
 
 consumption.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/chemicals/ibogaine/ibogaine.shtml
-
 - https://www.erowid.org/plants/iboga/iboga.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ibogaine
 
 ---
 
 ## Nutmeg
 
+### Identity
+
 **Name:** Nutmeg
 
 **Associated Molecule:** C11H12O3
 
-**Image Files:** acidhouse_arabs_nutmeg.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** New Guinea, East Indies
 
-**Ancestor (if applicable):** Arabs
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Acidhouse
 
-SS2_ancient_arabs_nutmeg.PNG
+**Ancestor:** Arabs
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Deliriant, mild euphoria, relaxation, and occasional visual
+### Visual
+
+**Image Files:** acidhouse_arabs_nutmeg.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Deliriant, mild euphoria, relaxation, and occasional visual
 
 distortions. Effects are subtle and often described as cannabis-like.
 
-**How the molecule appears in nature (existence):** Native to the Moluccas (spice island) in
+**How the Molecule Appears in Nature (Existence):** Native to the Moluccas (spice island) in
 
 Indonesia, this tree produces nutmeg seeds and mace (seed aril).
 
@@ -3568,55 +4902,72 @@ in a red lacy mace aril within a hard shell. Ground nutmeg is a light brown powd
 
 spicy aroma.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/nutmeg/nutmeg.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Myristicin
-
 - https://www.webmd.com/vitamins/ai/ingredientmono-788/nutmeg-and-mace
 
 ---
 
 ## Peyote
 
+### Identity
+
 **Name:** Peyote
 
 **Associated Molecule:** C11H17NO3
 
-**Image Files:** freetekno_nativeAmerican_peyote.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Mexico
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 2, 3, 4
+**Archetype:** Freetekno
 
-SS3_freetekno_Peyote Rattle.png SS3_freetekno_Peyote Feather Fan.png
+**Ancestor:** Native American
 
-SS2_freetekno_Peyote.png SS3_freetekno_Peyote Patterned.PNG
+**Swag Score:** 2, 3, 4
 
-SS3_freetekno_Peyote Patterned__z85.PNG SS4_freetekno_Peyote Hat.png
+---
 
-SS4_freetekno_Peyote Feather.png
+### Visual
 
-**Ancient / Modern:** Ancient
+**Image Files:** freetekno_nativeAmerican_peyote.PNG
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Psychedelic, vivid visual hallucinations, heightened emotional
+### Effects & Properties
+
+**General Effects:** Psychedelic, vivid visual hallucinations, heightened emotional
 
 sensitivity.
 
-**How the molecule appears in nature (existence):** Native to the Chihuahuan Desert (southern
+**How the Molecule Appears in Nature (Existence):** Native to the Chihuahuan Desert (southern
 
 Texas, northern Mexico), this cactus contains mescaline in its crowns or “buttons” and grows in
 
@@ -3630,49 +4981,73 @@ spines, and small pink or white flowers. Fresh or dried peyote “buttons” are
 
 grayish-green and bitter.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/peyote/peyote.shtml
-
 - https://www.erowid.org/plants/peyote/peyote_faq.shtml
 
 ---
 
 ## Brahmi
 
+### Identity
+
 **Name:** Brahmi
 
 **Associated Molecule:** C41H68O13
 
-**Image Files:** chicagodetroit_hindu_brahmi.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** India
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Chicago Detroit
 
-SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Enhances cognitive function, memory, and focus with chronic use.
+### Visual
+
+**Image Files:** chicagodetroit_hindu_brahmi.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Enhances cognitive function, memory, and focus with chronic use.
 
 Also produces mild calming effects, reducing anxiety, and stress without sedation. Effects are
 
 subtle, requiring 4-12 weeks for noticeable benefits.
 
-**How the molecule appears in nature (existence):** Native to wetlands of India, Southeast Asia,
+**How the Molecule Appears in Nature (Existence):** Native to wetlands of India, Southeast Asia,
 
 and Australia, this creeping herb grows in marshes and muddy shores.
 
@@ -3682,47 +5057,71 @@ succulent green leaves, white to pale purple flowers, and a creeping structure. 
 
 appears as greenish-brown to brown with a mild earthy odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Bacopa_monnieri
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Bacoside-A
 
 ---
 
 ## Sakae Na
 
+### Identity
+
 **Name:** Sakae Na
 
 **Associated Molecule:** C20H20O8
 
-**Image Files:** milady_thai_sakae naa.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Southeast Asia
 
-**Ancestor (if applicable):** Thai
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Milady
 
-Ss4_milady_ancient_thai_sakae naa.PNG
+**Ancestor:** Thai
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild to moderate stimulation, increased alertness, focus, and
+### Visual
+
+**Image Files:** milady_thai_sakae naa.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild to moderate stimulation, increased alertness, focus, and
 
 sociability, often compared to a caffeine-like “rush”.
 
-**How the molecule appears in nature (existence):** Native to Southeast Asia (Vietnam,
+**How the Molecule Appears in Nature (Existence):** Native to Southeast Asia (Vietnam,
 
 Cambodia, Laos, Myanmar, Thailand), the tree grows in wet, open areas like riverbanks.
 
@@ -3740,49 +5139,72 @@ four-angled seeds. Dried leaves are greenish-brown to brown and often ground int
 
 powder.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/sakae_naa/
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Combretol
-
 - https://kratomtimes.com/kratom-vs-sakae-naa/
 
 ---
 
 ## Ololiuqui
 
+### Identity
+
 **Name:** Ololiuqui
 
 **Associated Molecule:** C20H25N3O
 
-**Image Files:** acidhouse_mayan_ololiuqui.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Central and South America
 
-**Ancestor (if applicable):** Mayan
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 1
+**Archetype:** Acidhouse
 
-SS1_acidhouse_ancient_mayan_ololiuqui.PNG
+**Ancestor:** Mayan
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 1
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild to moderate visual hallucinations, calmness, and dream-like
+### Visual
+
+**Image Files:** acidhouse_mayan_ololiuqui.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild to moderate visual hallucinations, calmness, and dream-like
 
 states.
 
-**How the molecule appears in nature (existence):** Native to Central and South America, this
+**How the Molecule Appears in Nature (Existence):** Native to Central and South America, this
 
 perennial vine grows in tropical and subtropical regions. Traditionally used by Mesoamerican
 
@@ -3796,55 +5218,74 @@ heart-shaped green leaves, white to pale purple trumpet-shaped flowers, and smal
 
 black round seeds. Dried seeds are hard, dark, and bitter.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/ololiuqui/ololiuqui.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Ergine
-
 - https://en.wikipedia.org/wiki/Ipomoea_corymbosa
 
 ---
 
 ## Mushrooms
 
+### Identity
+
 **Name:** Mushrooms
 
 **Associated Molecule:** C12H17N2O4P
 
-**Image Files:** acidhouse_irishDruids_buddhists_sami_mushrooms.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Mexico
 
-**Ancestor (if applicable):** Irish druids, Buddhist, Sami
+---
 
-**Archetype (if applicable):** acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** acidhouse
 
-SS2_acidhouse_Cubensis.png SS2_acidhouse_Golden Teacher.png
+**Ancestor:** Irish druids, Buddhist, Sami
 
-SS2_acidhouse_Liberty Caps.png SS2_acidhouse_Mexicana.png
+**Swag Score:** 2
 
-SS2_acidhouse_Penis Envy.png SS2_acidhouse_Subaeruginosa.png
+---
 
-**Ancient / Modern:** Ancient
+### Visual
 
-**General Real World Trait History:**
+**Image Files:** acidhouse_irishDruids_buddhists_sami_mushrooms.PNG
 
-**General effects of the drug:** Visual and auditory hallucinations, kaleidoscopic variations in the
+---
+
+### Effects & Properties
+
+**General Effects:** Visual and auditory hallucinations, kaleidoscopic variations in the
 
 depth of vision, muscular relaxation and or tension, distortion of tactile sensations, lack of ability
 
 to focus / concentrate, altered mood and perception of time.
 
-**How the molecule appears in nature (existence):** C12H17N2O4P (Psilocybin) is produced by
+**How the Molecule Appears in Nature (Existence):** C12H17N2O4P (Psilocybin) is produced by
 
 over 200 species of fungi, primarily in the genus Psilocybe. These mushrooms grow worldwide
 
@@ -3870,47 +5311,72 @@ causes blue-green staining. The stems vary from 4-12cm tall, slender, and a silk
 
 texture.
 
-**Sources:**
+**How the Molecule Appears in Nature (Physical):** 
 
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
+**Sources:**
 - https://www.erowid.org/psychoactives/faqs/faq_natural_high_australia.shtml#PITURI
 
 ---
 
 ## Ashwagandha
 
+### Identity
+
 **Name:** Ashwagandha
 
 **Associated Molecule:** C28H40O8
 
-**Image Files:** milady_hindu_ashwagandha.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** India, Middle East, parts of North Africa
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_hindu_ashwagandha.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild calming effects, reducing anxiety and stress without
+### Visual
+
+**Image Files:** milady_hindu_ashwagandha.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild calming effects, reducing anxiety and stress without
 
 sedation. Enhances mood, focus, and cognitive function with chronic use. Effects are subtle,
 
 requiring 2-8 weeks for noticeable benefits.
 
-**How the molecule appears in nature (existence):** Native to India, the Middle East, and parts
+**How the Molecule Appears in Nature (Existence):** Native to India, the Middle East, and parts
 
 of Africa, this small shrub grows in arid and semi-arid regions. Used in Ayurvedic medicine for
 
@@ -3924,49 +5390,72 @@ leaves, small greenish-yellow flowers, and red-orange berries encased in papery 
 
 roots are light brown to tan, often ground into a beige to brownish powder.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.drugs.com/npp/ashwagandha.html
-
 - https://www.webmd.com/vitamins/ai/ingredientmono-953/ashwagandha
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Withanolide-A
 
 ---
 
 ## Benadryl
 
+### Identity
+
 **Name:** Benadryl
 
 **Associated Molecule:** C17H21NO
 
-**Image Files:** milady_nativeAmerican_benadryl.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** USA
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Milady
 
-SS4_milady_ancient_nativeAmerican_datura.PNG
+**Ancestor:** Native American
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild sedation, drowsiness, and reduced alertness, making it
+### Visual
+
+**Image Files:** milady_nativeAmerican_benadryl.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild sedation, drowsiness, and reduced alertness, making it
 
 effective for insomnia.
 
-**How the molecule appears in nature (existence):** Benadryl does not occur naturally, it was
+**How the Molecule Appears in Nature (Existence):** Benadryl does not occur naturally, it was
 
 first synthesized in 1943 by George Rievschl and is produced in laboratories. Widely available
 
@@ -3974,47 +5463,70 @@ as an over-the-counter medication as for now, for allergies, insomnia, and motio
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Diphenhydramine
-
 - https://www.drugs.com/diphenhydramine.html
-
 - https://www.webmd.com/drugs/2/drug-1428/diphenhydramine-oral/details
 
 ---
 
 ## Bhang
 
+### Identity
+
 **Name:** Bhang
 
 **Associated Molecule:** C21H30O2
 
-**Image Files:** chicagodetroit_hindu_bhang.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** India
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Chicago Detroit
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Chicago Detroit
 
-SS3_Bhang.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Anti-inflammatory, relaxation, reduce anxiety.
+### Visual
 
-**How the molecule appears in nature (existence):** Native to South Asia, Bhang grows in
+**Image Files:** chicagodetroit_hindu_bhang.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Anti-inflammatory, relaxation, reduce anxiety.
+
+**How the Molecule Appears in Nature (Existence):** Native to South Asia, Bhang grows in
 
 temperate and tropical regions. Bhang is used in cultural and religious contexts as a drink,
 
@@ -4024,49 +5536,72 @@ How the molecule appears in nature (physical appearances): Green serrated leaves
 
 resinous buds, and small seeds.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Bhang
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Cannabidiol
-
 - https://www.drugs.com/cannabidiol.html
 
 ---
 
 ## Kratom
 
+### Identity
+
 **Name:** Kratom
 
 **Associated Molecule:** C23H30N2O4
 
-**Image Files:** milady_thai_kratom.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Thailand
 
-**Ancestor (if applicable):** Thai
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_freetekno_thai_Kratom.PNG
+**Ancestor:** Thai
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** At low doses, produces stimulation, increased energy, alertness,
+### Visual
+
+**Image Files:** milady_thai_kratom.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** At low doses, produces stimulation, increased energy, alertness,
 
 and sociability. At higher doses, it induces sedation, euphoria, and opioid-like analgesia.
 
-**How the molecule appears in nature (existence):** Native to Southeast Asia (Thailand,
+**How the Molecule Appears in Nature (Existence):** Native to Southeast Asia (Thailand,
 
 Malaysia, Indonesia, etc) this tree grows in tropical forests. Traditionally chewed or brewed as
 
@@ -4080,45 +5615,68 @@ kratom leaves are green to brownish-green, often ground into a fine green or bro
 
 an earthy, bitter taste and odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://erowid.org/plants/kratom/kratom.shtml
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Mitragynine
-
 - https://www.drugs.com/kratom.html
 
 ---
 
 ## Coffee
 
+### Identity
+
 **Name:** Coffee
 
 **Associated Molecule:** C8H10N4O2
 
-**Image Files:** milady_ethiopian_arabs_traveller_coffee.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Ethiopia
 
-**Ancestor (if applicable):** Ethiopian, Arabs, Traveller
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
+**Ancestor:** Ethiopian, Arabs, Traveller
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Enhanced alertness, improved focus, mild euphoria, and reduced
+### Visual
+
+**Image Files:** milady_ethiopian_arabs_traveller_coffee.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Enhanced alertness, improved focus, mild euphoria, and reduced
 
 sleepiness. It can improve cognitive performance and reaction time in low to moderate doses
 
@@ -4126,7 +5684,7 @@ sleepiness. It can improve cognitive performance and reaction time in low to mod
 
 some cases jitteriness or tremors.
 
-**How the molecule appears in nature (existence):** Caffeine is synthesized by plants as a
+**How the Molecule Appears in Nature (Existence):** Caffeine is synthesized by plants as a
 
 secondary metabolite to protect against insects and pathogens. It is present in seeds, leaves,
 
@@ -4146,47 +5704,70 @@ dark brown, roasted seed matrix; in tea it is in dried green or black leaves, in
 
 reddish seeds. These forms are not pure caffeine but contain it as a component.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/caffeine/caffeine.shtml
-
 - https://www.britannica.com/science/caffeine
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine
 
 ---
 
 ## CBD
 
+### Identity
+
 **Name:** CBD
 
 **Associated Molecule:** C21H30O2
 
-**Image Files:** acidhouse_chinese_nativeAmerican_CBD.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Central Asia, Indian subcontinent
 
-**Ancestor (if applicable):** Chinese, Native American
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Acidhouse
 
-SS3_chicagodetroit_Weed Nug.png
+**Ancestor:** Chinese, Native American
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Intoxicant, stimulant, psychedelic, depressant.
+### Visual
 
-**How the molecule appears in nature (existence):** Cannabis produces psychoactive
+**Image Files:** acidhouse_chinese_nativeAmerican_CBD.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Intoxicant, stimulant, psychedelic, depressant.
+
+**How the Molecule Appears in Nature (Existence):** Cannabis produces psychoactive
 
 cannabinoid chemicals such as THC and CBD. It is the most widely used (still mostly) illegal
 
@@ -4218,95 +5799,143 @@ they near maturity the leaves may become significantly more purple.
 
 lower level of THC than sativas or indicas.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/cannabis/cannabis.shtml
-
 - https://www.erowid.org/plants/cannabis/cannabis_info6.shtml
 
 ---
 
 ## Dextroamphetamine
 
+### Identity
+
 **Name:** Dextroamphetamine
 
 **Associated Molecule:** C9H13N
 
-**Image Files:** milady_chinese_palestinian_dextroamphetamine.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Modern
 
 **Area of Origin:** Germany
 
-**Ancestor (if applicable):** Chinese, Palestinian
+---
 
-**Archetype (if applicable):** Milady
+### Mibera Integration
 
-**Swag Score (if applicable):** 3
+**Archetype:** Milady
 
-SS3_milady_ancient_chinese_palestinian_ephedra.PNG
+**Ancestor:** Chinese, Palestinian
 
-**Ancient / Modern:** Modern
+**Swag Score:** 3
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Enhances focus, alertness, and energy, with mild euphoria at
+### Visual
+
+**Image Files:** milady_chinese_palestinian_dextroamphetamine.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Enhances focus, alertness, and energy, with mild euphoria at
 
 therapeutic doses. Recreational doses can induce intense euphoria, increased confidence, and
 
 talkativeness..
 
-**How the molecule appears in nature (existence):** Dextroamphetamine does not occur
+**How the Molecule Appears in Nature (Existence):** Dextroamphetamine does not occur
 
 naturally and is a synthetic compound.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Dextroamphetamine
-
 - https://www.drugs.com/mtm/dextroamphetamine.html
 
 ---
 
 ## Arundo Donax
 
+### Identity
+
 **Name:** Arundo Donax
 
 **Associated Molecule:** C12H16N2
 
-**Image Files:** acidhouse_nativeAmerican_arundo donax.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Mediterranean Basin, Middle East
 
-**Ancestor (if applicable):** Native American
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 1
+**Archetype:** Acidhouse
 
-SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
+**Ancestor:** Native American
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 1
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Diuretic, sudorific, and inti-inflammatory. Induces mild visual
+### Visual
+
+**Image Files:** acidhouse_nativeAmerican_arundo donax.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Diuretic, sudorific, and inti-inflammatory. Induces mild visual
 
 distortions and altered perception.
 
-**How the molecule appears in nature (existence):** Native to the Mediterranean but invasive
+**How the Molecule Appears in Nature (Existence):** Native to the Mediterranean but invasive
 
 globally, including California, this grass grows in riparian areas, reaching 9-30 feet tall. Arundo
 
@@ -4318,47 +5947,71 @@ bamboo-like stems, pale green to blue-green leaves (up to 2 feet long), and plum
 
 brown flowerheads. Dried plant material is light brown to grayish-green with a grassy odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://en.wikipedia.org/wiki/Arundo_donax
-
 - https://www.erowid.org/plants/arundo_donax/arundo_donax.shtml
 
 ---
 
 ## Mucana Pruriens
 
+### Identity
+
 **Name:** Mucana Pruriens
 
 **Associated Molecule:** C9H11NO4
 
-**Image Files:** acidhouse_hindu_mucana pruriens.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** South America, Africa, Asia
 
-**Ancestor (if applicable):** Hindu
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 2
+**Archetype:** Acidhouse
 
-SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
+**Ancestor:** Hindu
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 2
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Mild mood elevation, improved motivation, and enhanced mental
+### Visual
+
+**Image Files:** acidhouse_hindu_mucana pruriens.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Mild mood elevation, improved motivation, and enhanced mental
 
 clarity due to increased dopamine. The effects are subtle.
 
-**How the molecule appears in nature (existence):** Native to tropical regions of Africa, Asia,
+**How the Molecule Appears in Nature (Existence):** Native to tropical regions of Africa, Asia,
 
 and Caribbean, this climbing legume grows in forests and disturbed areas. Traditionally used in
 
@@ -4372,49 +6025,72 @@ covered in irritating hairs. Dried seeds are dark brown to black, shiny, and gro
 
 brownish powder.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/plants/mucuna_pruriens/mucuna_pruriens.shtml
-
 - https://en.wikipedia.org/wiki/Mucuna_pruriens
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Levodopa
 
 ---
 
 ## Lithium
 
+### Identity
+
 **Name:** Lithium
 
 **Associated Molecule:** Li2CO3
 
-**Image Files:** acidhouse_irishDruids_lithium.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Sweden
 
-**Ancestor (if applicable):** Irish Druids
+---
 
-**Archetype (if applicable):** Acidhouse
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Acidhouse
 
-SS4_acidhouse_ancient_irishDruids_spodumene.PNG
+**Ancestor:** Irish Druids
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** Stabilizes mood, reducing manic and depressive episodes in
+### Visual
+
+**Image Files:** acidhouse_irishDruids_lithium.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Stabilizes mood, reducing manic and depressive episodes in
 
 bipolar disorder. May cause mild tremor, increased thirst, frequent urination, and weight gain.
 
-**How the molecule appears in nature (existence):** Lithium carbonate is a synthetic compound
+**How the Molecule Appears in Nature (Existence):** Lithium carbonate is a synthetic compound
 
 and does not occur naturally in its pharmaceutical form. However, lithium (the metal) is found in
 
@@ -4422,53 +6098,72 @@ trace amounts in minerals and human tissues.
 
 How the molecule appears in nature (physical appearances):
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Lithium-carbonate
-
 - https://www.drugs.com/lithium.html
-
 - https://www.webmd.com/drugs/2/drug-5887-795/lithium-carbonate-oral/lithium-controlled-releas
-
-e-oral/details
 
 ---
 
 ## Ayahuasca
 
+### Identity
+
 **Name:** Ayahuasca
 
 **Associated Molecule:** C12H16N2
 
-**Image Files:** freetekno_mayan_ayahuasca.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Amazon Basin
 
-**Ancestor (if applicable):** Mayan
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Freetekno
 
-SS2_freetekno_mayan_Ayahuasca Bowl.png
+**Ancestor:** Mayan
 
-SS2_freetekno_ancient_mayan_Ayahuasca.png
+**Swag Score:** 4
 
-**Ancient / Modern:** Ancient
+---
 
-**General Real World Trait History:**
+### Visual
 
-**General effects of the drug:** Vivid visual and auditory hallucinations, altered perception of time
+**Image Files:** freetekno_mayan_ayahuasca.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** Vivid visual and auditory hallucinations, altered perception of time
 
 and reality, increased heart rate, pupil dilation, and possible vomiting.
 
-**How the molecule appears in nature (existence):** Traditionally used in Amazonian shamanic
+**How the Molecule Appears in Nature (Existence):** Traditionally used in Amazonian shamanic
 
 rituals for healing, divination, and spiritual growth. Recreationally consumed for psychedelic
 
@@ -4484,51 +6179,74 @@ is a woody vine with brown bark and green leaves. Ayahuasca brew is a brown to r
 
 liquid, often thick, with a bitter earthy taste and odor.
 
+**How the Molecule Appears in Nature (Physical):** 
+
+---
+
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
 **Sources:**
-
 - https://www.erowid.org/chemicals/ayahuasca/ayahuasca.shtml
-
 - https://en.wikipedia.org/wiki/Ayahuasca
-
 - https://pubchem.ncbi.nlm.nih.gov/compound/Dimethyltryptamine
 
 ---
 
 ## Mandrake
 
+### Identity
+
 **Name:** Mandrake
 
 **Associated Molecule:** C17H21NO4
 
-**Image Files:** freetekno_greek_arabs_mandrake.PNG
-
-**Team Anecdotes:**
-
-**Date Created/Uploaded:** January 12, 2025
-
-**Who Introduced the Trait:**
+**Ancient / Modern:** Ancient
 
 **Area of Origin:** Europe, Middle East
 
-**Ancestor (if applicable):** Greek, Arabs
+---
 
-**Archetype (if applicable):** Freetekno
+### Mibera Integration
 
-**Swag Score (if applicable):** 4
+**Archetype:** Freetekno
 
-SS3_freetekno_ancient_greek_arabs_mandrake.PNG
+**Ancestor:** Greek, Arabs
 
-**Ancient / Modern:** Ancient
+**Swag Score:** 4
 
-**General Real World Trait History:**
+---
 
-**General effects of the drug:** At high doses induces delirium, vivid hallucinations, confusion,
+### Visual
+
+**Image Files:** freetekno_greek_arabs_mandrake.PNG
+
+---
+
+### Effects & Properties
+
+**General Effects:** At high doses induces delirium, vivid hallucinations, confusion,
 
 and disorientation. Medically can be used to treat motion sickness, postoperative nausea, and
 
 irritable bowel syndrome.
 
-**How the molecule appears in nature (existence):** Native to the Mediterranean and Middle
+**How the Molecule Appears in Nature (Existence):** Native to the Mediterranean and Middle
 
 East, this herb grows in dry sunny areas. Historically, mandrake was used in European and
 
@@ -4542,13 +6260,31 @@ human figure (hence its mythical status). Dried roots or leaves are brown to gra
 
 earthy bitter odor.
 
-**Sources:**
-
-- https://erowid.org/plants/mandrake/mandrake.shtml
-
-- https://pubchem.ncbi.nlm.nih.gov/compound/Scopolamine
-
-- https://en.wikipedia.org/wiki/Mandrake
+**How the Molecule Appears in Nature (Physical):** 
 
 ---
 
+### History
+
+**General Real World Trait History:** 
+
+---
+
+### Attribution
+
+**Date Added:** January 12, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+---
+
+### Sources
+
+**Sources:**
+- https://erowid.org/plants/mandrake/mandrake.shtml
+- https://pubchem.ncbi.nlm.nih.gov/compound/Scopolamine
+- https://en.wikipedia.org/wiki/Mandrake
+
+---

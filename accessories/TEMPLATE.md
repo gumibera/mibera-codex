@@ -52,7 +52,6 @@
 
 **Swag Score:**
 
-**Swag Justification:**
 
 ---
 
@@ -82,16 +81,6 @@
 ---
 
 # Field Reference Guide
-
-## Swag Score Scale
-
-| Score | Meaning |
-|-------|---------|
-| 1 | Basic / Generic - minimal cultural significance |
-| 2 | Decent - recognizable but common |
-| 3 | Solid - good cultural alignment, respectable |
-| 4 | Fire - strong cultural resonance, standout piece |
-| 5 | Legendary - iconic, deep cultural significance, grail status |
 
 ## Vibe Tags Glossary
 

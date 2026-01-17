@@ -53,7 +53,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -133,7 +132,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -211,7 +209,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -289,7 +286,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -367,7 +363,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -445,7 +440,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -524,7 +518,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -602,7 +595,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -680,7 +672,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -758,7 +749,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -837,7 +827,6 @@ SS4_Bera Ski.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -915,7 +904,6 @@ SS3_Teddy Ski Mask.PNG
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -993,7 +981,6 @@ SS4_pink bera ski.PNG
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1071,7 +1058,6 @@ SS4_pink bera ski.PNG
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1149,7 +1135,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1229,7 +1214,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -1308,7 +1292,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -1386,7 +1369,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1464,7 +1446,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1542,7 +1523,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -1620,7 +1600,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1698,7 +1677,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1776,7 +1754,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Swag Score:** 4 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1854,7 +1831,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1932,7 +1908,6 @@ SS5_henlo mask.PNG
 
 **Swag Score:** 5
 
-**Swag Justification:**
 
 ---
 
@@ -2010,7 +1985,6 @@ SS5_henlo mask.PNG
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -2088,7 +2062,6 @@ SS5_henlo mask.PNG
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2166,7 +2139,6 @@ SS5_Founders Mask.PNG
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2244,7 +2216,6 @@ SS5_Founders Mask.PNG
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 

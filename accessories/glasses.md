@@ -53,7 +53,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -131,7 +130,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -209,7 +207,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -287,7 +284,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -367,7 +363,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -445,7 +440,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -523,7 +517,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -601,7 +594,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -679,7 +671,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -757,7 +748,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -835,7 +825,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -913,7 +902,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -991,7 +979,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1069,7 +1056,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1147,7 +1133,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1225,7 +1210,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1303,7 +1287,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1381,7 +1364,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1459,7 +1441,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1537,7 +1518,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1615,7 +1595,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1693,7 +1672,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1771,7 +1749,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1849,7 +1826,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -1927,7 +1903,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2005,7 +1980,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2083,7 +2057,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2161,7 +2134,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2239,7 +2211,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2317,7 +2288,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2395,7 +2365,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2473,7 +2442,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2551,7 +2519,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2629,7 +2596,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2707,7 +2673,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2785,7 +2750,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 
@@ -2863,7 +2827,6 @@
 
 **Swag Score:** 
 
-**Swag Justification:**
 
 ---
 

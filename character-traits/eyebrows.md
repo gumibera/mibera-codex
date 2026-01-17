@@ -6,243 +6,657 @@
 
 ## concerned thick
 
-EYEBROWS
+### Visual Properties
 
 **Name:** concerned thick
 
+**Image Files:**
 ![Concerned Thick](../images/eyebrows__z95/Concerned%20Thick.webp)
 
-**Brief Visual Description:** thicker pair of tilted eyebrows slightly curved downwards
+**Trait Category:**
+
+**Visual Description:** thicker pair of tilted eyebrows slightly curved downwards
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## intense
 
-EYEBROWS
+### Visual Properties
 
 **Name:** intense
 
+**Image Files:**
 ![Intense](../images/eyebrows__z95/Intense.webp)
 
-**Brief Visual Description:** thick pair of eyebrows, almost straight in shape and slightly arched
+**Trait Category:**
 
-upwards at the outer ends.
+**Visual Description:** thick pair of eyebrows, almost straight in shape and slightly arched upwards at the outer ends.
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## anxious thick
 
-EYEBROWS
+### Visual Properties
 
 **Name:** anxious thick
 
+**Image Files:**
 ![Anxious Thick](../images/eyebrows__z95/Anxious%20Thick.webp)
 
-**Brief Visual Description:** thicker pair of eyebrows, arched with a slight upward tilt at the inner
+**Trait Category:**
 
-ends.
+**Visual Description:** thicker pair of eyebrows, arched with a slight upward tilt at the inner ends.
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## concerned
 
-EYEBROWS
+### Visual Properties
 
 **Name:** Concerned
 
+**Image Files:**
 ![Concerned](../images/eyebrows__z95/Concerned.webp)
 
-**Brief Visual Description:** thinner pair of tilted eyebrows slightly curved downwards
+**Trait Category:**
+
+**Visual Description:** thinner pair of tilted eyebrows slightly curved downwards
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## short
 
-EYEBROWS
+### Visual Properties
 
 **Name:** short
 
+**Image Files:**
 ![Short](../images/eyebrows__z95/Short.webp)
 
-**Brief Visual Description:** short thick eyebrows that’s thicker at the inner side and grows thinner
+**Trait Category:**
 
-towards the end. Slightly arched upwards on the outer ends..
+**Visual Description:** short thick eyebrows that’s thicker at the inner side and grows thinner towards the end. Slightly arched upwards on the outer ends..
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal
 
-EYEBROWS
+### Visual Properties
 
 **Name:** normal
 
+**Image Files:**
 ![Normal](../images/eyebrows__z95/Normal.webp)
 
-**Brief Visual Description:** thin eyebrows, slightly curved with no arch..
+**Trait Category:**
+
+**Visual Description:** thin eyebrows, slightly curved with no arch..
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal thick
 
-EYEBROWS
+### Visual Properties
 
 **Name:** normal thick
 
+**Image Files:**
 ![Normal Thick](../images/eyebrows__z95/Normal%20Thick.webp)
 
-**Brief Visual Description:** thicker eyebrows, slightly curved with no arch..
+**Trait Category:**
+
+**Visual Description:** thicker eyebrows, slightly curved with no arch..
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:**
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## anxious
 
+### Visual Properties
+
 **Name:** Anxious
 
+**Image Files:**
 ![Anxious](../images/eyebrows__z95/Anxious.webp)
 
-**Brief Visual Description:** Thin pair of eyebrows, arched with a slight upward tilt at the inner
+**Trait Category:**
 
-ends.
+**Visual Description:** Thin pair of eyebrows, arched with a slight upward tilt at the inner ends.
 
 **Dominant Colors:** Black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stern
 
-EYEBROWS
+### Visual Properties
 
 **Name:** stern
 
+**Image Files:**
 ![Stern](../images/eyebrows__z95/Stern.webp)
 
-**Brief Visual Description:** a pair of straight, slightly angled downward eyebrows. Shape is flat
+**Trait Category:**
 
-and rigid.
+**Visual Description:** a pair of straight, slightly angled downward eyebrows. Shape is flat and rigid.
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** July 30, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
 
 ---
 
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 30, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

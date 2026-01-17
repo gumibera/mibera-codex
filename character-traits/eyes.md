@@ -6,2345 +6,6424 @@
 
 ## stoned brown
 
-EYES
+### Visual Properties
 
 **Name:** stoned brown
 
+**Image Files:**
 ![Stoned Brown](../images/eyes__z69/Stoned%20Brown__w9.webp)
 
-**Brief Visual Description:** Brown eyes. The whites of the eyes are red, eyelids partially lowered.
+**Trait Category:**
+
+**Visual Description:** Brown eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:**
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasy sky
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy sky
 
+**Image Files:**
 ![Ecstasy Sky](../images/eyes__z69/Ecstasy%20Sky__w8.webp)
 
-**Brief Visual Description:** sky-blue eyes with heavily dilated pupils.
+**Trait Category:**
+
+**Visual Description:** sky-blue eyes with heavily dilated pupils.
 
 **Dominant Colors:** Lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Jani
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno brown
 
-EYES
+### Visual Properties
 
 **Name:** hypno brown
 
+**Image Files:**
 ![Hypno Brown](../images/eyes__z69/Hypno%20Brown__w7.webp)
 
-**Brief Visual Description:** brown eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** brown eyes with prominent white spirals.
 
 **Dominant Colors:** black and white, brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal lilac
 
-EYES
+### Visual Properties
 
 **Name:** Normal Lilac
 
 **Image Files:**
 
-- https://discord.com/channels/1133935527855399053/1245166789822775469/12471887811536
 
-52876 (found on Discord but not Google Drive)
+**Trait Category:**
 
-**Brief Visual Description:** Normal eyes with a purple hue.
+**Visual Description:** Normal eyes with a purple hue.
 
 **Dominant Colors:** Lilac
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+---
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+### Cultural Context
 
-be Mibera, but still close enough to Milady to be recognized as such.
+**Source Type:**
 
-**General Real World Trait History:** Not applicable
+**Cultural Origin:** 
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Gumi
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal leaf
 
-EYES
+### Visual Properties
 
 **Name:** normal leaf
 
+**Image Files:**
 ![Normal Leaf](../images/eyes__z69/Normal%20Leaf__w25.webp)
 
-**Brief Visual Description:** normal leafy-green eyes
+**Trait Category:**
+
+**Visual Description:** normal leafy-green eyes
 
 **Dominant Colors:** green
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+---
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+### Cultural Context
 
-be Mibera, but still close enough to Milady to be recognized as such.
+**Source Type:**
 
-**General Real World Trait History:** Not applicable
+**Cultural Origin:** 
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Gumi
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal sky
 
-EYES
+### Visual Properties
 
 **Name:** normal (sky)
 
+**Image Files:**
 ![Normal Sky](../images/eyes__z69/Normal%20Sky__w25.webp)
 
-**Brief Visual Description:** normal eyes in a sky-blue.
+**Trait Category:**
 
-**Dominant Colors:**
+**Visual Description:** normal eyes in a sky-blue.
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+**Dominant Colors:** 
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+---
 
-be Mibera, but still close enough to Milady to be recognized as such.
+### Cultural Context
 
-**General Real World Trait History:** Not applicable
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Era:** 
 
-**Who Introduced the Trait:** Gumi
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal gold
 
-EYES
+### Visual Properties
 
 **Name:** normal gold
 
+**Image Files:**
 ![Normal Gold](../images/eyes__z69/Normal%20Gold__w25.webp)
 
-**Brief Visual Description:** normal eyes, brighter than brown.
+**Trait Category:**
 
-**Dominant Colors:**
+**Visual Description:** normal eyes, brighter than brown.
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+**Dominant Colors:** 
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+---
 
-be Mibera, but still close enough to Milady to be recognized as such.
+### Cultural Context
 
-**General Real World Trait History:** Not applicable
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Era:** 
 
-**Who Introduced the Trait:** Gumi
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal grey
 
-EYES
+### Visual Properties
 
 **Name:** normal grey
 
+**Image Files:**
 ![Normal Grey](../images/eyes__z69/Normal%20Grey__w25.webp)
 
-**Brief Visual Description:** normal eyes in grey.
+**Trait Category:**
 
-**Dominant Colors:**
+**Visual Description:** normal eyes in grey.
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+**Dominant Colors:** 
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+---
 
-be Mibera, but still close enough to Milady to be recognized as such.
+### Cultural Context
 
-**General Real World Trait History:** Not applicable
+**Source Type:**
 
-**Team Anecdotes:**
+**Cultural Origin:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Era:** 
 
-**Who Introduced the Trait:** Gumi
+**Scene Association:**
 
-**Trait Conflicts:**
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal ocean
 
-EYES
+### Visual Properties
 
 **Name:** normal ocean
 
+**Image Files:**
 ![Normal Ocean](../images/eyes__z69/Normal%20Ocean__w25.webp)
 
-**Brief Visual Description:** normal eyes in bright ocean blue.
+**Trait Category:**
+
+**Visual Description:** normal eyes in bright ocean blue.
 
 **Dominant Colors:** teal-blue
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+---
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+### Cultural Context
 
-be Mibera, but still close enough to Milady to be recognized as such.
+**Source Type:**
 
-**General Real World Trait History:** Not applicable
+**Cultural Origin:** 
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Gumi
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## normal brown
 
-EYES
+### Visual Properties
 
 **Name:** normal brown
 
+**Image Files:**
 ![Normal Ocean](../images/eyes__z69/Normal%20Ocean__w25.webp)
 
-**Brief Visual Description:** normal eyes in earthy brown.
+**Trait Category:**
+
+**Visual Description:** normal eyes in earthy brown.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:** The normal eyes were primarily constructed the way
+---
 
-they were to have more direct visual coherency with the Milady Maker eyes. Different enough to
+### Cultural Context
 
-be Mibera, but still close enough to Milady to be recognized as such.
+**Source Type:**
 
-**General Real World Trait History:** Not applicable
+**Cultural Origin:** 
 
-**Team Anecdotes:**
+**Era:** 
 
-**Date Created / Uploaded:** June 3, 2024
+**Scene Association:**
 
-**Who Introduced the Trait:** Gumi
+**Geographic Roots:**
 
-**Trait Conflicts:**
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** The normal eyes were primarily constructed the way they were to have more direct visual coherency with the Milady Maker eyes. Different enough to be Mibera, but still close enough to Milady to be recognized as such.
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart leaf
 
-EYES
+### Visual Properties
 
 **Name:** heart leaf
 
+**Image Files:**
 ![Heart Leaf](../images/eyes__z69/Heart%20Leaf__w15.webp)
 
-**Brief Visual Description:** eyes with heart-shaped pupils in leafy green.
+**Trait Category:**
+
+**Visual Description:** eyes with heart-shaped pupils in leafy green.
 
 **Dominant Colors:** leafy green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart brown
 
-EYES
+### Visual Properties
 
 **Name:** heart brown
 
+**Image Files:**
 ![Heart Brown](../images/eyes__z69/Heart%20Brown__w15.webp)
 
-**Brief Visual Description:** eyes with heart-shaped pupils in brown.
+**Trait Category:**
+
+**Visual Description:** eyes with heart-shaped pupils in brown.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle forest
 
-EYES
+### Visual Properties
 
 **Name:** sparkle forest
 
+**Image Files:**
 ![Sparkle Forest](../images/eyes__z69/Sparkle%20Forest__w15.webp)
 
-**Brief Visual Description:** deep-green eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** deep-green eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** deep green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright brown
 
-EYES
+### Visual Properties
 
 **Name:** bright brown
 
+**Image Files:**
 ![Bright Brown](../images/eyes__z69/Bright%20Brown__w13.webp)
 
-**Brief Visual Description:** brown eyes with a large white four pointed star within the pupil
+**Trait Category:**
+
+**Visual Description:** brown eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle brown
 
-EYES
+### Visual Properties
 
 **Name:** sparkle brown
 
+**Image Files:**
 ![Sparkle Brown](../images/eyes__z69/Sparkle%20Brown__w15.webp)
 
-**Brief Visual Description:** Brown eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** Brown eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart ocean
 
-EYES
+### Visual Properties
 
 **Name:** heart ocean
 
+**Image Files:**
 ![Heart Ocean](../images/eyes__z69/Heart%20Ocean__w15.webp)
 
-**Brief Visual Description:** eyes with heart-shaped pupils in dark teal..
+**Trait Category:**
 
-**Dominant Colors:**
+**Visual Description:** eyes with heart-shaped pupils in dark teal..
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**General Real World Trait History:** Not applicable
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created / Uploaded:** June 3, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:** 
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle leaf
 
-EYES
+### Visual Properties
 
 **Name:** sparkle leaf
 
+**Image Files:**
 ![Sparkle Leaf](../images/eyes__z69/Sparkle%20Leaf__w15.webp)
 
-**Brief Visual Description:** leafy-green eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** leafy-green eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** leafy green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart grey
 
+### Visual Properties
+
 **Name:** Heart Grey
 
+**Image Files:**
 ![Heart Grey](../images/eyes__z69/Heart%20Grey__w15.webp)
 
-**Brief Visual Description:** Eyes with heart-shaped pupils in grey.
+**Trait Category:**
+
+**Visual Description:** Eyes with heart-shaped pupils in grey.
 
 **Dominant Colors:** Grey
 
-**Reasoning for Inclusion within Mibera:** There are grey eyes within the original milady
+---
 
-collection.
+### Cultural Context
 
-https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Eye+Color%22,%22
+**Source Type:**
 
-**values%22:** %5B%22grey%22%5D%7D%5D
+**Cultural Origin:** 
 
-Hearts in order to visually convey a love-pilled aesthetic.
+**Era:** 
 
-**General Real World Trait History:** Not applicable
+**Scene Association:**
 
-**Team Anecdotes:**
+**Geographic Roots:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Why This Matters:**
 
-**Who Introduced the Trait:** Gumi
+**Notable Figures:**
 
-**Trait Conflicts:**
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** There are grey eyes within the original milady collection. https://opensea.io/collection/milady?traits=%5B%7B%22traitType%22:%22Eye+Color%22,%22
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright gold
 
-EYES
+### Visual Properties
 
 **Name:** bright gold
 
+**Image Files:**
 ![Bright Gold](../images/eyes__z69/Bright%20Gold__w13.webp)
 
-**Brief Visual Description:** golden eyes with a large white four pointed star within the pupil
+**Trait Category:**
+
+**Visual Description:** golden eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** golden
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart lilac
 
-EYES
+### Visual Properties
 
 **Name:** heart lilac
 
+**Image Files:**
 ![Heart Lilac](../images/eyes__z69/Heart%20Lilac__w15.webp)
 
-**Brief Visual Description:** eyes with heart-shaped pupils in lilac
+**Trait Category:**
+
+**Visual Description:** eyes with heart-shaped pupils in lilac
 
 **Dominant Colors:** lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle lilac
 
-EYES
+### Visual Properties
 
 **Name:** sparkle lilac
 
+**Image Files:**
 ![Sparkle Lilac](../images/eyes__z69/Sparkle%20Lilac__w15.webp)
 
-**Brief Visual Description:** lilac eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** lilac eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle gold
 
-EYES
+### Visual Properties
 
 **Name:** sparkle gold
 
+**Image Files:**
 ![Sparkle Gold](../images/eyes__z69/Sparkle%20Gold__w15.webp)
 
-**Brief Visual Description:** golden eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** golden eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** gold
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart gold
 
-EYES
+### Visual Properties
 
 **Name:** heart gold
 
+**Image Files:**
 ![Heart Gold](../images/eyes__z69/Heart%20Gold__w15.webp)
 
-**Brief Visual Description:** eyes with heart-shaped pupils in matte gold.
+**Trait Category:**
+
+**Visual Description:** eyes with heart-shaped pupils in matte gold.
 
 **Dominant Colors:** gold
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle sky
 
-EYES
+### Visual Properties
 
 **Name:** sparkle sky
 
+**Image Files:**
 ![Sparkle Sky](../images/eyes__z69/Sparkle%20Sky__w15.webp)
 
-**Brief Visual Description:** sky-blue eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** sky-blue eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** sky blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle grey
 
-EYES
+### Visual Properties
 
 **Name:** sparkle grey
 
+**Image Files:**
 ![Sparkle Grey](../images/eyes__z69/Sparkle%20Grey__w15.webp)
 
-**Brief Visual Description:** grey eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** grey eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sparkle ocean
 
-EYES
+### Visual Properties
 
 **Name:** sparkle ocean
 
+**Image Files:**
 ![Sparkle Ocean](../images/eyes__z69/Sparkle%20Ocean__w15.webp)
 
-**Brief Visual Description:** teal eyes with three white dots between the iris and pupil.
+**Trait Category:**
+
+**Visual Description:** teal eyes with three white dots between the iris and pupil.
 
 **Dominant Colors:** dark teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright lilac
 
-EYES
+### Visual Properties
 
 **Name:** bright lilac
 
+**Image Files:**
 ![Bright Lilac](../images/eyes__z69/Bright%20Lilac__w13.webp)
 
-**Brief Visual Description:** bright purple eyes with a large white four pointed star within the pupil
+**Trait Category:**
+
+**Visual Description:** bright purple eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** lilac purple
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright leaf
 
-EYES
+### Visual Properties
 
 **Name:** bright leaf
 
+**Image Files:**
 ![Bright Leaf](../images/eyes__z69/Bright%20Leaf__w13.webp)
 
-**Brief Visual Description:** bright leafy green eyes with a large white four pointed star within the
+**Trait Category:**
 
-pupil
+**Visual Description:** bright leafy green eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** leafy green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## heart sky
 
-EYES
+### Visual Properties
 
 **Name:** heart sky
 
+**Image Files:**
 ![Heart Sky](../images/eyes__z69/Heart%20Sky__w14.webp)
 
-**Brief Visual Description:** eyes with heart-shaped pupils in blue.
+**Trait Category:**
+
+**Visual Description:** eyes with heart-shaped pupils in blue.
 
 **Dominant Colors:** blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright sky
 
-EYES
+### Visual Properties
 
 **Name:** bright sky
 
+**Image Files:**
 ![Bright Sky](../images/eyes__z69/Bright%20Sky__w13.webp)
 
-**Brief Visual Description:** blue eyes with a large white four pointed star within the pupil
+**Trait Category:**
+
+**Visual Description:** blue eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright grey
 
-EYES
+### Visual Properties
 
 **Name:** bright grey
 
+**Image Files:**
 ![Bright Grey](../images/eyes__z69/Bright%20Grey__w13.webp)
 
-**Brief Visual Description:** grey eyes with a large white four pointed star within the pupil
+**Trait Category:**
+
+**Visual Description:** grey eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## bright ocean
 
-EYES
+### Visual Properties
 
 **Name:** bright ocean
 
+**Image Files:**
 ![Bright Ocean](../images/eyes__z69/Bright%20Ocean__w13.webp)
 
-**Brief Visual Description:** teal eyes with a large white four pointed star within the pupil
+**Trait Category:**
+
+**Visual Description:** teal eyes with a large white four pointed star within the pupil
 
 **Dominant Colors:** shades of teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stoned gold
 
-EYES
+### Visual Properties
 
 **Name:** stoned gold
 
+**Image Files:**
 ![Stoned Gold](../images/eyes__z69/Stoned%20Gold__w9.webp)
 
-**Brief Visual Description:** golden eyes. The whites of the eyes are red, eyelids partially
+**Trait Category:**
 
-lowered.
+**Visual Description:** golden eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** gold, red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy ocean
 
-EYES
+### Visual Properties
 
 **Name:** sleepy ocean
 
+**Image Files:**
 ![Sleepy Ocean](../images/eyes__z69/Sleepy%20Ocean__w9.webp)
 
-**Brief Visual Description:** tired eyes with vibrant teal iris
+**Trait Category:**
+
+**Visual Description:** tired eyes with vibrant teal iris
 
 **Dominant Colors:** shades of teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stoned lilac
 
-EYES
+### Visual Properties
 
 **Name:** stoned lilac
 
+**Image Files:**
 ![Stoned Lilac](../images/eyes__z69/Stoned%20Lilac__w9.webp)
 
-**Brief Visual Description:** bright-purple eyes. The whites of the eyes are red, eyelids partially
+**Trait Category:**
 
-lowered.
+**Visual Description:** bright-purple eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** bright purple, red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy gold
 
-EYES
+### Visual Properties
 
 **Name:** sleepy gold
 
+**Image Files:**
 ![Sleepy Gold](../images/eyes__z69/Sleepy%20Gold__w9.webp)
 
-**Brief Visual Description:** tired eyes with golden iris.
+**Trait Category:**
+
+**Visual Description:** tired eyes with golden iris.
 
 **Dominant Colors:** shades of gold, black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasy ocean
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy ocean
 
+**Image Files:**
 ![Ecstasy Ocean](../images/eyes__z69/Ecstasy%20Ocean__w8.webp)
 
-**Brief Visual Description:** teal eyes with heavily dilated pupils.
+**Trait Category:**
+
+**Visual Description:** teal eyes with heavily dilated pupils.
 
 **Dominant Colors:** black, teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stoned grey
 
-EYES
+### Visual Properties
 
 **Name:** stoned grey
 
+**Image Files:**
 ![Stoned Grey](../images/eyes__z69/Stoned%20Grey__w9.webp)
 
-**Brief Visual Description:** grey eyes. The whites of the eyes are red, eyelids partially lowered.
+**Trait Category:**
+
+**Visual Description:** grey eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** grey, red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy leaf
 
-EYES
+### Visual Properties
 
 **Name:** sleepy leaf
 
+**Image Files:**
 ![Sleepy Leaf](../images/eyes__z69/Sleepy%20Leaf__w9.webp)
 
-**Brief Visual Description:** tired eyes with leafy green iris.
+**Trait Category:**
+
+**Visual Description:** tired eyes with leafy green iris.
 
 **Dominant Colors:** leafy green, black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stoned sky
 
-EYES
+### Visual Properties
 
 **Name:** stoned sky
 
+**Image Files:**
 ![Stoned Sky](../images/eyes__z69/Stoned%20Sky__w9.webp)
 
-**Brief Visual Description:** bright-blue eyes. The whites of the eyes are red, eyelids partially
+**Trait Category:**
 
-lowered.
+**Visual Description:** bright-blue eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** blue, red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy grey
 
-EYES
+### Visual Properties
 
 **Name:** sleepy grey
 
+**Image Files:**
 ![Sleepy Grey](../images/eyes__z69/Sleepy%20Grey__w9.webp)
 
-**Brief Visual Description:** tired eyes with grey iris.
+**Trait Category:**
+
+**Visual Description:** tired eyes with grey iris.
 
 **Dominant Colors:** grey, black.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy sky
 
-EYES
+### Visual Properties
 
 **Name:** sleepy sky
 
+**Image Files:**
 ![Sleepy Grey](../images/eyes__z69/Sleepy%20Grey__w9.webp)
 
-**Brief Visual Description:** tired eyes with grey iris
+**Trait Category:**
+
+**Visual Description:** tired eyes with grey iris
 
 **Dominant Colors:** shades of grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole ocean
 
-EYES
+### Visual Properties
 
 **Name:** pinhole ocean
 
+**Image Files:**
 ![Pinhole Ocean](../images/eyes__z69/Pinhole%20Ocean__w7.webp)
 
-**Brief Visual Description:** teal eyes with constricted pupils, or usually known as pinpoint pupils.
+**Trait Category:**
+
+**Visual Description:** teal eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** dark teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stoned leaf
 
-EYES
+### Visual Properties
 
 **Name:** stoned leaf
 
+**Image Files:**
 ![Stoned Leaf](../images/eyes__z69/Stoned%20Leaf__w9.webp)
 
-**Brief Visual Description:** leafy-green eyes. The whites of the eyes are red, eyelids partially
+**Trait Category:**
 
-lowered.
+**Visual Description:** leafy-green eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** green, red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy brown
 
-EYES
+### Visual Properties
 
 **Name:** sleepy brown
 
+**Image Files:**
 ![Sleepy Brown](../images/eyes__z69/Sleepy%20Brown__w9.webp)
 
-**Brief Visual Description:** tired eyes with brown iris.
+**Trait Category:**
+
+**Visual Description:** tired eyes with brown iris.
 
 **Dominant Colors:** brown, black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno leaf
 
-EYES
+### Visual Properties
 
 **Name:** hypno leaf
 
+**Image Files:**
 ![Hypno Leaf](../images/eyes__z69/Hypno%20Leaf__w7.webp)
 
-**Brief Visual Description:** leafy green eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** leafy green eyes with prominent white spirals.
 
 **Dominant Colors:** black and white, green.
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasy grey
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy grey
 
+**Image Files:**
 ![Ecstasy Grey](../images/eyes__z69/Ecstasy%20Grey__w8.webp)
 
-**Brief Visual Description:** grey eyes with heavily dilated pupils.
+**Trait Category:**
+
+**Visual Description:** grey eyes with heavily dilated pupils.
 
 **Dominant Colors:** grey, black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## stoned ocean
 
-EYES
+### Visual Properties
 
 **Name:** stoned ocean
 
+**Image Files:**
 ![Stoned Ocean](../images/eyes__z69/Stoned%20Ocean__w9.webp)
 
-**Brief Visual Description:** teal eyes. The whites of the eyes are red, eyelids partially lowered.
+**Trait Category:**
+
+**Visual Description:** teal eyes. The whites of the eyes are red, eyelids partially lowered.
 
 **Dominant Colors:** bright teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## sleepy lilac
 
-EYES
+### Visual Properties
 
 **Name:** sleepy lilac
 
+**Image Files:**
 ![Sleepy Lilac](../images/eyes__z69/Sleepy%20Lilac__w9.webp)
 
-**Brief Visual Description:** tired eyes with bright purple iris
+**Trait Category:**
+
+**Visual Description:** tired eyes with bright purple iris
 
 **Dominant Colors:** bright purple / lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasty brown
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy brown
 
+**Image Files:**
 ![Ecstasy Brown](../images/eyes__z69/Ecstasy%20Brown__w8.webp)
 
-**Brief Visual Description:** brown eyes with heavily dilated pupils.
+**Trait Category:**
+
+**Visual Description:** brown eyes with heavily dilated pupils.
 
 **Dominant Colors:** brown, black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasy leaf
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy leaf
 
+**Image Files:**
 ![Ecstasy Leaf](../images/eyes__z69/Ecstasy%20Leaf__w8.webp)
 
-**Brief Visual Description:** green eyes with heavily dilated pupils
+**Trait Category:**
+
+**Visual Description:** green eyes with heavily dilated pupils
 
 **Dominant Colors:** green, black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno grey
 
-EYES
+### Visual Properties
 
 **Name:** hypno grey
 
+**Image Files:**
 ![Hypno Grey](../images/eyes__z69/Hypno%20Grey__w7.webp)
 
-**Brief Visual Description:** grey eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** grey eyes with prominent white spirals.
 
 **Dominant Colors:** black and white, grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole lilac
 
-EYES
+### Visual Properties
 
 **Name:** pinhole lilac
 
+**Image Files:**
 ![Pinhole Lilac](../images/eyes__z69/Pinhole%20Lilac__w7.webp)
 
-**Brief Visual Description:** lilac eyes with constricted pupils, or usually known as pinpoint pupils.
+**Trait Category:**
+
+**Visual Description:** lilac eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed grey
 
-EYES
+### Visual Properties
 
 **Name:** crossed grey
 
+**Image Files:**
 ![Crossed Grey](../images/eyes__z69/Crossed%20Grey__w6.webp)
 
-**Brief Visual Description:** crossed eyes with bright grey iris
+**Trait Category:**
+
+**Visual Description:** crossed eyes with bright grey iris
 
 **Dominant Colors:** grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed leaf
 
-EYES
+### Visual Properties
 
 **Name:** crossed leaf
 
+**Image Files:**
 ![Crossed Leaf](../images/eyes__z69/Crossed%20Leaf__w6.webp)
 
-**Brief Visual Description:** crossed eyes with bright green iris.
+**Trait Category:**
+
+**Visual Description:** crossed eyes with bright green iris.
 
 **Dominant Colors:** bright green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crying gold
 
-EYES
+### Visual Properties
 
 **Name:** crying gold
 
+**Image Files:**
 ![Crying Gold](../images/eyes__z69/Crying%20Gold__w6.webp)
 
-**Brief Visual Description:** golden eyes with tears in the corners.
+**Trait Category:**
+
+**Visual Description:** golden eyes with tears in the corners.
 
 **Dominant Colors:** golden
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## cying ocean
 
-EYES
+### Visual Properties
 
 **Name:** crying ocean
 
+**Image Files:**
 ![Crying Ocean](../images/eyes__z69/Crying%20Ocean__w6.webp)
 
-**Brief Visual Description:** teal eyes with tears in the corners.
+**Trait Category:**
+
+**Visual Description:** teal eyes with tears in the corners.
 
 **Dominant Colors:** teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole grey
 
-EYES
+### Visual Properties
 
 **Name:** pinhole grey
 
+**Image Files:**
 ![Pinhole Grey](../images/eyes__z69/Pinhole%20Grey__w7.webp)
 
-**Brief Visual Description:** grey eyes with constricted pupils, or usually known as pinpoint pupils.
+**Trait Category:**
+
+**Visual Description:** grey eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** matte grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasy lilac
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy lilac
 
+**Image Files:**
 ![Ecstasy Lilac](../images/eyes__z69/Ecstasy%20Lilac__w8.webp)
 
-**Brief Visual Description:** purple eyes with heavily dilated pupils.
+**Trait Category:**
+
+**Visual Description:** purple eyes with heavily dilated pupils.
 
 **Dominant Colors:** purple, black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crying sky
 
-EYES
+### Visual Properties
 
 **Name:** crying sky
 
+**Image Files:**
 ![Crying Sky](../images/eyes__z69/Crying%20Sky__w6.webp)
 
-**Brief Visual Description:** sky-blue eyes with tears in the corners.
+**Trait Category:**
 
-**Dominant Colors:**
+**Visual Description:** sky-blue eyes with tears in the corners.
 
-**Reasoning for Inclusion within Mibera:**
+**Dominant Colors:** 
 
-**General Real World Trait History:** Not applicable
+---
 
-**Team Anecdotes:**
+### Cultural Context
 
-**Date Created / Uploaded:** June 3, 2024
+**Source Type:**
 
-**Who Introduced the Trait:** Gumi
+**Cultural Origin:** 
 
-**Trait Conflicts:**
+**Era:** 
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno sky
 
-EYES
+### Visual Properties
 
 **Name:** hypno sky
 
+**Image Files:**
 ![Hypno Sky](../images/eyes__z69/Hypno%20Sky__w7.webp)
 
-**Brief Visual Description:** blue eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** blue eyes with prominent white spirals.
 
 **Dominant Colors:** black and white, blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## ecstasy gold
 
-EYES
+### Visual Properties
 
 **Name:** ecstasy gold
 
+**Image Files:**
 ![Ecstasy Gold](../images/eyes__z69/Ecstasy%20Gold__w8.webp)
 
-**Brief Visual Description:** golden eyes with heavily dilated pupils.
+**Trait Category:**
+
+**Visual Description:** golden eyes with heavily dilated pupils.
 
 **Dominant Colors:** gold, black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crying grey
 
-EYES
+### Visual Properties
 
 **Name:** crying grey
 
+**Image Files:**
 ![Crying Grey](../images/eyes__z69/Crying%20Grey__w6.webp)
 
-**Brief Visual Description:** grey eyes with tears in the corners.
+**Trait Category:**
+
+**Visual Description:** grey eyes with tears in the corners.
 
 **Dominant Colors:** grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno ocean
 
-EYES
+### Visual Properties
 
 **Name:** hypno ocean
 
+**Image Files:**
 ![Hypno Ocean](../images/eyes__z69/Hypno%20Ocean__w7.webp)
 
-**Brief Visual Description:** teal eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** teal eyes with prominent white spirals.
 
 **Dominant Colors:** black and white, teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole sky
 
-EYES
+### Visual Properties
 
 **Name:** pinhole sky
 
+**Image Files:**
 ![Pinhole Sky](../images/eyes__z69/Pinhole%20Sky__w7.webp)
 
-**Brief Visual Description:** sky-blue eyes with constricted pupils, or usually known as pinpoint
+**Trait Category:**
 
-pupils.
+**Visual Description:** sky-blue eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** sky-blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole gold
 
-EYES
+### Visual Properties
 
 **Name:** pinhole gold
 
+**Image Files:**
 ![Pinhole Gold](../images/eyes__z69/Pinhole%20Gold__w7.webp)
 
-**Brief Visual Description:** golden eyes with constricted pupils, or usually known as pinpoint
+**Trait Category:**
 
-pupils.
+**Visual Description:** golden eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** matte golden
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno gold
 
-EYES
+### Visual Properties
 
 **Name:** hypno gold
 
+**Image Files:**
 ![Hypno Gold](../images/eyes__z69/Hypno%20Gold__w7.webp)
 
-**Brief Visual Description:** golden brown eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** golden brown eyes with prominent white spirals.
 
 **Dominant Colors:** golden-brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed ocean
 
-EYES
+### Visual Properties
 
 **Name:** crossed ocean
 
+**Image Files:**
 ![Crossed Ocean](../images/eyes__z69/Crossed%20Ocean__w6.webp)
 
-**Brief Visual Description:** crossed eyes with bright teal iris.
+**Trait Category:**
+
+**Visual Description:** crossed eyes with bright teal iris.
 
 **Dominant Colors:** bright teal
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crying lilac
 
-EYES
+### Visual Properties
 
 **Name:** crying lilac
 
+**Image Files:**
 ![Crying Lilac](../images/eyes__z69/Crying%20Lilac__w6.webp)
 
-**Brief Visual Description:** lilac eyes with tears in the corners.
+**Trait Category:**
+
+**Visual Description:** lilac eyes with tears in the corners.
 
 **Dominant Colors:** purple / lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed sky
 
-EYES
+### Visual Properties
 
 **Name:** crossed sky
 
+**Image Files:**
 ![Crossed Sky](../images/eyes__z69/Crossed%20Sky__w6.webp)
 
-**Brief Visual Description:** crossed eyes with sky-blue iris.
+**Trait Category:**
+
+**Visual Description:** crossed eyes with sky-blue iris.
 
 **Dominant Colors:** sky-blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole brown
 
-EYES
+### Visual Properties
 
 **Name:** pinhole brown
 
+**Image Files:**
 ![Pinhole Brown](../images/eyes__z69/Pinhole%20Brown__w7.webp)
 
-**Brief Visual Description:** brown eyes with constricted pupils, or usually known as pinpoint
+**Trait Category:**
 
-pupils.
+**Visual Description:** brown eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed gold
 
-EYES
+### Visual Properties
 
 **Name:** crossed gold
 
+**Image Files:**
 ![Crossed Gold](../images/eyes__z69/Crossed%20Gold__w6.webp)
 
-**Brief Visual Description:** crossed eyes with golden iris.
+**Trait Category:**
+
+**Visual Description:** crossed eyes with golden iris.
 
 **Dominant Colors:** gold
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## pinhole leaf
 
-EYES
+### Visual Properties
 
 **Name:** pinhole leaf
 
+**Image Files:**
 ![Pinhole Leaf](../images/eyes__z69/Pinhole%20Leaf__w7.webp)
 
-**Brief Visual Description:** leafy green eyes with constricted pupils, or usually known as pinpoint
+**Trait Category:**
 
-pupils.
+**Visual Description:** leafy green eyes with constricted pupils, or usually known as pinpoint pupils.
 
 **Dominant Colors:** green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crying leaf
 
-EYES
+### Visual Properties
 
 **Name:** crying leaf
 
+**Image Files:**
 ![Crying Leaf](../images/eyes__z69/Crying%20Leaf__w6.webp)
 
-**Brief Visual Description:** green eyes with tears in the corners.
+**Trait Category:**
+
+**Visual Description:** green eyes with tears in the corners.
 
 **Dominant Colors:** bright green
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed brown
 
-EYES
+### Visual Properties
 
 **Name:** crossed brown
 
+**Image Files:**
 ![Crossed Brown](../images/eyes__z69/Crossed%20Brown__w6.webp)
 
-**Brief Visual Description:** crossed eyes with brown iris.
+**Trait Category:**
+
+**Visual Description:** crossed eyes with brown iris.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## hypno lilac
 
-EYES
+### Visual Properties
 
 **Name:** hypno lilac
 
+**Image Files:**
 ![Hypno Lilac](../images/eyes__z69/Hypno%20Lilac__w7.webp)
 
-**Brief Visual Description:** purple eyes with prominent white spirals.
+**Trait Category:**
+
+**Visual Description:** purple eyes with prominent white spirals.
 
 **Dominant Colors:** black and white, purple lilac
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## blind
 
-EYES
+### Visual Properties
 
 **Name:** blind
 
+**Image Files:**
 ![Blind](../images/eyes__z69/Blind__w4.webp)
 
-**Brief Visual Description:** complete white portraying a pair of blind eyes.
+**Trait Category:**
+
+**Visual Description:** complete white portraying a pair of blind eyes.
 
 **Dominant Colors:** white
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## whirlpool
 
-EYES
+### Visual Properties
 
 **Name:** whirlpool
 
+**Image Files:**
 ![Whirlpool](../images/eyes__z69/Whirlpool__w5.webp)
 
-**Brief Visual Description:** bright blue eyes showcasing (or holding) whirlpools inside of them.
+**Trait Category:**
+
+**Visual Description:** bright blue eyes showcasing (or holding) whirlpools inside of them.
 
 **Dominant Colors:** bright blue
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## true love
 
-EYES
+### Visual Properties
 
 **Name:** true love
 
+**Image Files:**
 ![True Love](../images/eyes__z69/True%20Love__w5.webp)
 
-**Brief Visual Description:** pink iris with hearty details showcasing eyes that seem to be in love.
+**Trait Category:**
+
+**Visual Description:** pink iris with hearty details showcasing eyes that seem to be in love.
 
 **Dominant Colors:** pink
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crossed lilac
 
-EYES
+### Visual Properties
 
 **Name:** crossed lilac
 
+**Image Files:**
 ![Crossed Lilac](../images/eyes__z69/Crossed%20Lilac__w6.webp)
 
-**Brief Visual Description:** crossed eyes with lilac iris.
+**Trait Category:**
+
+**Visual Description:** crossed eyes with lilac iris.
 
 **Dominant Colors:** lilac purple
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## angelic
 
-EYES
+### Visual Properties
 
 **Name:** angelic
 
+**Image Files:**
 ![Angelic](../images/eyes__z69/Angelic__w4.webp)
 
-**Brief Visual Description:** iridescent eyes, perhaps showcasing one’s angelic nature.
+**Trait Category:**
+
+**Visual Description:** iridescent eyes, perhaps showcasing one’s angelic nature.
 
 **Dominant Colors:** gold, yellow, turquoise
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## crying brown
 
-EYES
+### Visual Properties
 
 **Name:** crying brown
 
+**Image Files:**
 ![Crying Brown](../images/eyes__z69/Crying%20Brown__w6.webp)
 
-**Brief Visual Description:** Brown eyes with tears in the corners.
+**Trait Category:**
+
+**Visual Description:** Brown eyes with tears in the corners.
 
 **Dominant Colors:** brown
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## teddy
 
-EYES
+### Visual Properties
 
 **Name:** teddy
 
+**Image Files:**
 ![Teddy](../images/eyes__z69/Teddy__w5.webp)
 
-**Brief Visual Description:** eyes in steady teddy’s style
+**Trait Category:**
+
+**Visual Description:** eyes in steady teddy’s style
 
 **Dominant Colors:** black, grey
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## clocks
 
-EYES
+### Visual Properties
 
 **Name:** clocks
 
+**Image Files:**
 ![Time](../images/eyes__z69/Time__w5.webp)
 
-**Brief Visual Description:** a pair of bright yellow eyes showing a clock from each one of them.
+**Trait Category:**
+
+**Visual Description:** a pair of bright yellow eyes showing a clock from each one of them.
 
 **Dominant Colors:** bright yellow
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## honey swirl
 
-EYES
+### Visual Properties
 
 **Name:** honey swirl
 
+**Image Files:**
 ![Honey Swirl](../images/eyes__z69/Honey%20Swirl__w5.webp)
 
-**Brief Visual Description:** a pair of swirly yellow eyes that look like they’re made up of honey.
+**Trait Category:**
+
+**Visual Description:** a pair of swirly yellow eyes that look like they’re made up of honey.
 
 **Dominant Colors:** yellow
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## demonic
 
-EYES
+### Visual Properties
 
 **Name:** demonic
 
+**Image Files:**
 ![Demonic](../images/eyes__z69/Demonic__w4.webp)
 
-**Brief Visual Description:** plain red eyes with no visible iris. Somewhat demonic and soulless.
+**Trait Category:**
+
+**Visual Description:** plain red eyes with no visible iris. Somewhat demonic and soulless.
 
 **Dominant Colors:** red
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## henlo
 
-EYES
+### Visual Properties
 
 **Name:** henlo
 
+**Image Files:**
 ![henlo](../images/eyes__z69/henlo__w1.webp)
 
-**Brief Visual Description:** a pair of ‘henlo’ eyes.
+**Trait Category:**
+
+**Visual Description:** a pair of ‘henlo’ eyes.
 
 **Dominant Colors:** black, white
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
 
 ---
 
 ## meta eyes
 
-EYES
+### Visual Properties
 
 **Name:** meta eyes
 
+**Image Files:**
 ![Meta eyes](../images/eyes__z69/Meta%20eyes__w3.webp)
 
-**Brief Visual Description:** "eyes" written in sloppy black text instead of actual eyes
+**Trait Category:**
+
+**Visual Description:** "eyes" written in sloppy black text instead of actual eyes
 
 **Dominant Colors:** black
 
-**Reasoning for Inclusion within Mibera:**
+---
 
-**General Real World Trait History:** Not applicable
+### Cultural Context
 
-**Team Anecdotes:**
+**Source Type:**
 
-**Date Created / Uploaded:** June 3, 2024
+**Cultural Origin:** 
 
-**Who Introduced the Trait:** Gumi
+**Era:** 
 
-**Trait Conflicts:**
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
 
 ---
 
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Swag Score:** 
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+**Trait Synergies:**
+
+**Trait Conflicts:** ---
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 3, 2024
+
+**Introduced By:** Gumi
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---

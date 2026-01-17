@@ -53,7 +53,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -134,7 +133,6 @@
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -212,7 +210,6 @@
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -290,7 +287,6 @@
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -368,7 +364,6 @@
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -446,7 +441,6 @@
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-**Swag Justification:**
 
 ---
 
@@ -524,7 +518,6 @@
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -602,7 +595,6 @@
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -680,7 +672,6 @@
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -758,7 +749,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -836,7 +826,6 @@
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -914,7 +903,6 @@
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-**Swag Justification:**
 
 ---
 
@@ -992,7 +980,6 @@
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-**Swag Justification:**
 
 ---
 
@@ -1070,7 +1057,6 @@
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -1148,7 +1134,6 @@
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1226,7 +1211,6 @@
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -1304,7 +1288,6 @@
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1382,7 +1365,6 @@
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -1461,7 +1443,6 @@
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -1539,7 +1520,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1618,7 +1598,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1698,7 +1677,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1776,7 +1754,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1854,7 +1831,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -1934,7 +1910,6 @@
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -2012,7 +1987,6 @@
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2090,7 +2064,6 @@
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2168,7 +2141,6 @@
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -2246,7 +2218,6 @@
 
 **Swag Score:** 2 - https://discord.com/channels/1133935527855399053/1138982309106819182/11552839704523 61298
 
-**Swag Justification:**
 
 ---
 
@@ -2324,7 +2295,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2402,7 +2372,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2480,7 +2449,6 @@
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2558,7 +2526,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2636,7 +2603,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2714,7 +2680,6 @@
 
 **Swag Score:** 5 - https://discord.com/channels/1133935527855399053/1150328747908677654/11869669704159 80575 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2792,7 +2757,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2870,7 +2834,6 @@
 
 **Swag Score:** 5
 
-**Swag Justification:**
 
 ---
 
@@ -2948,7 +2911,6 @@
 
 **Swag Score:** 5
 
-**Swag Justification:**
 
 ---
 
@@ -3027,7 +2989,6 @@
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3105,7 +3066,6 @@
 
 **Swag Score:** 5
 
-**Swag Justification:**
 
 ---
 

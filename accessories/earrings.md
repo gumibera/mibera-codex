@@ -53,7 +53,6 @@ SS3_golden hoop.PNG
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -132,7 +131,6 @@ SS3_dopamine.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -210,7 +208,6 @@ SS3_acidhouse_Beramilia.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -288,7 +285,6 @@ SS3_milady_Strawberry.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -367,7 +363,6 @@ SS3_purple lolipop.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -446,7 +441,6 @@ SS1_green lolipop.png
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -525,7 +519,6 @@ SS3_green gummy bear.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -603,7 +596,6 @@ SS3_freetekno_Spiral 3.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -681,7 +673,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -759,7 +750,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -837,7 +827,6 @@ SS3_rainbow ring.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -915,7 +904,6 @@ SS3_milady_Meta Earrings.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -993,7 +981,6 @@ SS3_freetekno_Paperclip 2.png
 
 **Swag Score:** 3 - https://discord.com/channels/1133935527855399053/1167452819809378386/11678043915464 29450 - https://boho-magic.com/blogs/news/safety-pin-earring-symbolism ---
 
-**Swag Justification:**
 
 ---
 
@@ -1071,7 +1058,6 @@ SS3_rainbow.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1149,7 +1135,6 @@ SS3_capsule.PNG
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1227,7 +1212,6 @@ SS3_marijuana leaf.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1307,7 +1291,6 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1386,7 +1369,6 @@ SS3_pyramid.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1464,7 +1446,6 @@ SS3_serotonin.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1542,7 +1523,6 @@ SS3_lightning bolt.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1620,7 +1600,6 @@ SS3_bera heart.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1698,7 +1677,6 @@ SS3_red gummy bear.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -1776,7 +1754,6 @@ SS3_dog bone.PNG
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1857,7 +1834,6 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -1936,7 +1912,6 @@ SS3_milady_Chrome Kitty.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2014,7 +1989,6 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -2092,7 +2066,6 @@ SS3_acidhouse_ufo.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -2172,7 +2145,6 @@ SS3_baddie double gold.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -2250,7 +2222,6 @@ SS1_baddie double blue.png
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -2328,7 +2299,6 @@ SS3_spiky pink.png
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -2406,7 +2376,6 @@ SS3_milady_orange slice.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2484,7 +2453,6 @@ SS2_purple blossom.png
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -2562,7 +2530,6 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -2641,7 +2608,6 @@ SS2_grateful dead forest green.png
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -2719,7 +2685,6 @@ SS3_Gumball.PNG
 
 **Swag Score:** 3
 
-**Swag Justification:**
 
 ---
 
@@ -2798,7 +2763,6 @@ SS2_red lolipop.png
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -2877,7 +2841,6 @@ SS2_bera flower.png
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -2955,7 +2918,6 @@ SS4_acidhouse_Triskelion.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -3035,7 +2997,6 @@ SS2_milady_lemon slice.png
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3113,7 +3074,6 @@ SS4_industrial.png
 
 **Swag Score:** 4 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3191,7 +3151,6 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -3269,7 +3228,6 @@ SS4_grateful dead magenta.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -3347,7 +3305,6 @@ SS4_freetekno_stars.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -3425,7 +3382,6 @@ SS2_golden cuff.PNG
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3503,7 +3459,6 @@ SS2_smol ring.PNG
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3581,7 +3536,6 @@ SS2_Black Ring.PNG
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3659,7 +3613,6 @@ SS4_grateful dead yellow.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -3737,7 +3690,6 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 **Swag Score:** 4 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3815,7 +3767,6 @@ SS4_adderall.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -3893,7 +3844,6 @@ SS4_toothy.png
 
 **Swag Score:** 4 ---
 
-**Swag Justification:**
 
 ---
 
@@ -3971,7 +3921,6 @@ SS2_pearl.png
 
 **Swag Score:** 2
 
-**Swag Justification:**
 
 ---
 
@@ -4050,7 +3999,6 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 **Swag Score:** 4
 
-**Swag Justification:**
 
 ---
 
@@ -4129,7 +4077,6 @@ SS2_alien.png
 
 **Swag Score:** 2 ---
 
-**Swag Justification:**
 
 ---
 
@@ -4207,7 +4154,6 @@ SS5_freetekno_Paperclip 1.png
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -4285,7 +4231,6 @@ SS5_freetekno_multiple.png
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -4363,7 +4308,6 @@ SS5_tribal bera.png
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -4441,7 +4385,6 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 **Swag Score:** 5
 
-**Swag Justification:**
 
 ---
 
@@ -4519,7 +4462,6 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 **Swag Score:** 5
 
-**Swag Justification:**
 
 ---
 
@@ -4600,7 +4542,6 @@ SS1_acidhouse_Day Glowstick.png
 
 **Swag Score:** 1
 
-**Swag Justification:**
 
 ---
 
@@ -4678,7 +4619,6 @@ SS1_peace heart.png
 
 **Swag Score:** 1 ---
 
-**Swag Justification:**
 
 ---
 
@@ -4756,7 +4696,6 @@ SS5_rainbow spiky ball.png
 
 **Swag Score:** 5 ---
 
-**Swag Justification:**
 
 ---
 
@@ -4834,7 +4773,6 @@ SS3_experimental.png
 
 **Swag Score:** 3 ---
 
-**Swag Justification:**
 
 ---
 

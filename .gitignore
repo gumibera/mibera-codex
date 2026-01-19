@@ -26,3 +26,7 @@ npm-debug.log*
 
 # Images
 all-images/
+
+# Mireveal image folders (hosted externally)
+mireveals/*/webp/
+mireveals/*/webp_part*/

@@ -11,7 +11,7 @@
 **Name:** queasy
 
 **Image Files:**
-![queasy](../images/mouth__z90/queasy__w5.webp)
+![queasy](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/queasy__w5.webp)
 
 **Trait Category:**
 
@@ -84,7 +84,7 @@
 **Name:** tongue
 
 **Image Files:**
-![tongue](../images/mouth__z90/tongue__w8.webp)
+![tongue](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/tongue__w8.webp)
 
 **Trait Category:**
 
@@ -157,7 +157,7 @@
 **Name:** normal
 
 **Image Files:**
-![normal](../images/mouth__z90/normal__w10.webp)
+![normal](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/normal__w10.webp)
 
 **Trait Category:**
 
@@ -230,7 +230,7 @@
 **Name:** smile
 
 **Image Files:**
-![smile](../images/mouth__z90/smile__w10.webp)
+![smile](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/smile__w10.webp)
 
 **Trait Category:**
 
@@ -303,7 +303,7 @@
 **Name:** Content
 
 **Image Files:**
-![content](../images/mouth__z90/content__w9.webp)
+![content](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/content__w9.webp)
 
 **Trait Category:**
 
@@ -376,7 +376,7 @@
 **Name:** sad
 
 **Image Files:**
-![sad](../images/mouth__z90/sad__w8.webp)
+![sad](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/sad__w8.webp)
 
 **Trait Category:**
 
@@ -449,7 +449,7 @@
 **Name:** blunt
 
 **Image Files:**
-![blunt](../images/mouth__z90/blunt__w6.webp)
+![blunt](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/blunt__w6.webp)
 
 **Trait Category:**
 
@@ -522,7 +522,7 @@
 **Name:** cig
 
 **Image Files:**
-![cig](../images/mouth__z90/cig__w6.webp)
+![cig](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/cig__w6.webp)
 
 **Trait Category:**
 
@@ -595,7 +595,7 @@
 **Name:** toothpick
 
 **Image Files:**
-![toothpick](../images/mouth__z90/toothpick__w5.webp)
+![toothpick](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/toothpick__w5.webp)
 
 **Trait Category:**
 
@@ -668,7 +668,7 @@
 **Name:** blehhh
 
 **Image Files:**
-![blehhh](../images/mouth__z90/blehhh__w5.webp)
+![blehhh](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/blehhh__w5.webp)
 
 **Trait Category:**
 
@@ -741,7 +741,7 @@
 **Name:** gasp
 
 **Image Files:**
-![gasp](../images/mouth__z90/gasp__w4.webp)
+![gasp](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/gasp__w4.webp)
 
 **Trait Category:**
 
@@ -814,7 +814,7 @@
 **Name:** grit
 
 **Image Files:**
-![grit](../images/mouth__z90/grit__w4.webp)
+![grit](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/grit__w4.webp)
 
 **Trait Category:**
 
@@ -887,7 +887,7 @@
 **Name:** chuffed
 
 **Image Files:**
-![chuffed](../images/mouth__z90/chuffed__w3.webp)
+![chuffed](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/chuffed__w3.webp)
 
 **Trait Category:**
 
@@ -960,7 +960,7 @@
 **Name:** belch
 
 **Image Files:**
-![belch](../images/mouth__z90/belch__w3.webp)
+![belch](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/belch__w3.webp)
 
 **Trait Category:**
 
@@ -1033,7 +1033,7 @@
 **Name:** drool
 
 **Image Files:**
-![drool](../images/mouth__z90/drool__w3.webp)
+![drool](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/drool__w3.webp)
 
 **Trait Category:**
 
@@ -1106,7 +1106,7 @@
 **Name:** gurn
 
 **Image Files:**
-![gurn](../images/mouth__z90/gurn__w2.webp)
+![gurn](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/gurn__w2.webp)
 
 **Trait Category:**
 
@@ -1179,7 +1179,7 @@
 **Name:** heart
 
 **Image Files:**
-![heart](../images/mouth__z90/heart__w2.webp)
+![heart](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/heart__w2.webp)
 
 **Trait Category:**
 
@@ -1252,7 +1252,7 @@
 **Name:** acid
 
 **Image Files:**
-![acid](../images/mouth__z90/acid__w2.webp)
+![acid](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/acid__w2.webp)
 
 **Trait Category:**
 
@@ -1325,7 +1325,7 @@
 **Name:** biting lip
 
 **Image Files:**
-![biting lip](../images/mouth__z90/biting lip__w2.webp)
+![biting lip](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/biting lip__w2.webp)
 
 **Trait Category:**
 
@@ -1398,7 +1398,7 @@
 **Name:** meta mouth
 
 **Image Files:**
-![meta mouth](../images/mouth__z90/meta mouth__w1.webp)
+![meta mouth](https://mibera.fsn1.your-objectstorage.com/components/mouth__z90/meta mouth__w1.webp)
 
 **Trait Category:**
 

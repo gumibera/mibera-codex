@@ -9,7 +9,7 @@
 **Name:** Simple White
 
 **Image Files:**
-![Simple White](../images/simple/simples%20for%20shadows/151_simple%20white.webp)
+![Simple White](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/151_simple%20white.webp)
 
 **Visual Description:** A basic solid white t-shirt.
 
@@ -32,7 +32,7 @@
 **Name:** Simple Yellow
 
 **Image Files:**
-![Simple Yellow](../images/simple/simples%20for%20shadows/152_simple%20yellow.webp)
+![Simple Yellow](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/152_simple%20yellow.webp)
 
 **Visual Description:** A basic solid yellow t-shirt.
 
@@ -55,7 +55,7 @@
 **Name:** Simple Black
 
 **Image Files:**
-![Simple Black](../images/simple/simples%20for%20shadows/145_simple%20black.webp)
+![Simple Black](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/145_simple%20black.webp)
 
 **Visual Description:** A basic solid black t-shirt.
 
@@ -78,7 +78,7 @@
 **Name:** Simple Purple
 
 **Image Files:**
-![Simple Purple](../images/simple/simples%20for%20shadows/149_simple%20purple.webp)
+![Simple Purple](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/149_simple%20purple.webp)
 
 **Visual Description:** A basic solid purple t-shirt.
 
@@ -101,7 +101,7 @@
 **Name:** Simple Brown
 
 **Image Files:**
-![Simple Brown](../images/simple/simples%20for%20shadows/147_simple%20brown.webp)
+![Simple Brown](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/147_simple%20brown.webp)
 
 **Visual Description:** A basic solid brown t-shirt.
 
@@ -124,7 +124,7 @@
 **Name:** Simple Green
 
 **Image Files:**
-![Simple Green](../images/simple/simples%20for%20shadows/148_simple%20green.webp)
+![Simple Green](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/148_simple%20green.webp)
 
 **Visual Description:** A basic solid green t-shirt.
 
@@ -147,7 +147,7 @@
 **Name:** Simple Blue
 
 **Image Files:**
-![Simple Blue](../images/simple/simples%20for%20shadows/146_simple%20blue.webp)
+![Simple Blue](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/146_simple%20blue.webp)
 
 **Visual Description:** A basic solid blue t-shirt.
 
@@ -170,7 +170,7 @@
 **Name:** Simple Red
 
 **Image Files:**
-![Simple Red](../images/simple/simples%20for%20shadows/150_simple%20red.webp)
+![Simple Red](https://mibera.fsn1.your-objectstorage.com/components/simple/simples%20for%20shadows/150_simple%20red.webp)
 
 **Visual Description:** A basic solid red t-shirt.
 

@@ -11,7 +11,7 @@
 **Name:** Blue Velvet Suit
 
 **Image Files:**
-![Blue Velvet Suit](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Blue%20Velvet%20Suit.webp)
+![Blue Velvet Suit](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_Blue%20Velvet%20Suit.webp)
 
 **Garment Type:**
 
@@ -92,7 +92,7 @@
 **Name:** Keith Haring Shirt
 
 **Image Files:**
-![Keith Harding Shirt](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Keith%20Harding%20Shirt.webp)
+![Keith Harding Shirt](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_Keith%20Harding%20Shirt.webp)
 
 **Garment Type:**
 
@@ -173,7 +173,7 @@
 **Name:** Green Baggy Jacket
 
 **Image Files:**
-![Green Baggy Jacket](../images/shirts__z50%20(LONG)/SS3_milady_Green%20Baggy%20Jacket.webp)
+![Green Baggy Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_milady_Green%20Baggy%20Jacket.webp)
 
 **Garment Type:**
 
@@ -254,7 +254,7 @@
 **Name:** Heavens Gate
 
 **Image Files:**
-![Heavens Gate](../images/shirts__z50%20(LONG)/SS3_Heavens%20Gate.webp)
+![Heavens Gate](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_Heavens%20Gate.webp)
 
 **Garment Type:**
 
@@ -334,7 +334,7 @@
 **Name:** Magenta Suit
 
 **Image Files:**
-![Magenta Suit](../images/shirts__z50%20(LONG)/SS3_milady_Magenta%20Suit.webp)
+![Magenta Suit](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_milady_Magenta%20Suit.webp)
 
 **Garment Type:**
 
@@ -414,7 +414,7 @@
 **Name:** Seoul Olympics
 
 **Image Files:**
-![Seoul Olympics](../images/shirts__z50%20(LONG)/SS3_acidhouse_Seoul%20Olympics.webp)
+![Seoul Olympics](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_acidhouse_Seoul%20Olympics.webp)
 
 **Garment Type:**
 
@@ -495,7 +495,7 @@
 **Name:** Aphexkitty
 
 **Image Files:**
-![aphexkitty](../images/shirts__z50%20(LONG)/SS3_aphexkitty.webp)
+![aphexkitty](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_aphexkitty.webp)
 
 **Garment Type:**
 
@@ -575,7 +575,7 @@
 **Name:** Tracksuit 1
 
 **Image Files:**
-![Tracksuit 1](../images/shirts__z50%20(LONG)/SS3_acidhouse_Tracksuit%201.webp)
+![Tracksuit 1](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_acidhouse_Tracksuit%201.webp)
 
 **Garment Type:**
 
@@ -656,7 +656,7 @@
 **Name:** Aum Cult
 
 **Image Files:**
-![Aum Cult](../images/shirts__z50%20(LONG)/SS3_Aum%20Cult.webp)
+![Aum Cult](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_Aum%20Cult.webp)
 
 **Garment Type:**
 
@@ -737,7 +737,7 @@
 **Name:** Cool
 
 **Image Files:**
-![Cool](../images/shirts__z50%20(LONG)/SS3_milady_Cool.webp)
+![Cool](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_milady_Cool.webp)
 
 **Garment Type:**
 
@@ -817,7 +817,7 @@
 **Name:** Headstrong
 
 **Image Files:**
-![Headstrong](../images/shirts__z50%20(LONG)/SS3_acidhouse_Headstrong.webp)
+![Headstrong](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_acidhouse_Headstrong.webp)
 
 **Garment Type:**
 
@@ -897,7 +897,7 @@
 **Name:** Shiny Cult
 
 **Image Files:**
-![Shiny cult](../images/shirts__z50%20(LONG)/SS3_freetekno_Shiny%20cult.webp)
+![Shiny cult](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_freetekno_Shiny%20cult.webp)
 
 **Garment Type:**
 
@@ -977,7 +977,7 @@
 **Name:** Fruits Remilia Hoodie
 
 **Image Files:**
-![Fruits Remilia Hoodie](../images/shirts__z50%20(LONG)/SS3_milady_Fruits%20Remilia%20Hoodie.webp)
+![Fruits Remilia Hoodie](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_milady_Fruits%20Remilia%20Hoodie.webp)
 
 **Garment Type:**
 
@@ -1057,7 +1057,7 @@
 **Name:** William Gibson Jacket
 
 **Image Files:**
-![William Gibson Jacket](../images/shirts__z50%20(LONG)/SS4_freetekno_William%20Gibson%20Jacket.webp)
+![William Gibson Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_freetekno_William%20Gibson%20Jacket.webp)
 
 **Garment Type:**
 
@@ -1137,7 +1137,7 @@
 **Name:** Tight Leather Jacket
 
 **Image Files:**
-![Tight Leather Jacket](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Tight%20Leather%20Jacket.webp)
+![Tight Leather Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_Tight%20Leather%20Jacket.webp)
 
 **Garment Type:**
 
@@ -1217,7 +1217,7 @@
 **Name:** Dark Green Suit
 
 **Image Files:**
-![Dark Green Suit](../images/shirts__z50%20(LONG)/SS2_milady_Dark%20Green%20Suit.webp)
+![Dark Green Suit](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS2_milady_Dark%20Green%20Suit.webp)
 
 **Garment Type:**
 
@@ -1297,7 +1297,7 @@
 **Name:** Gola
 
 **Image Files:**
-![Gola](../images/shirts__z50%20(LONG)/SS3_acidhouse_Gola.webp)
+![Gola](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_acidhouse_Gola.webp)
 
 **Garment Type:**
 
@@ -1378,7 +1378,7 @@
 **Name:** Jani Jacket
 
 **Image Files:**
-![Jani Jacket](../images/shirts__z50%20(LONG)/SS4_chicagodetroit_Jani%20Jacket.webp)
+![Jani Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_chicagodetroit_Jani%20Jacket.webp)
 
 **Garment Type:**
 
@@ -1458,7 +1458,7 @@
 **Name:** Kraftwerk
 
 **Image Files:**
-![Kraftwerk](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Kraftwerk.webp)
+![Kraftwerk](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_Kraftwerk.webp)
 
 **Garment Type:**
 
@@ -1539,7 +1539,7 @@
 **Name:** Black Turtleneck
 
 **Image Files:**
-![Black Turtleneck](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_Black%20Turtleneck.webp)
+![Black Turtleneck](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS2_chicagodetroit_Black%20Turtleneck.webp)
 
 **Garment Type:**
 
@@ -1620,7 +1620,7 @@
 **Name:** Dark Suit
 
 **Image Files:**
-![Dark Suit](../images/shirts__z50%20(LONG)/SS5_Dark%20Suit.webp)
+![Dark Suit](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS5_Dark%20Suit.webp)
 
 **Garment Type:**
 
@@ -1700,7 +1700,7 @@
 **Name:** Chicago Bears Long
 
 **Image Files:**
-![Chicago Bears Long](../images/shirts__z50%20(LONG)/SS4_chicagodetroit_Chicago%20Bears%20Long.webp)
+![Chicago Bears Long](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_chicagodetroit_Chicago%20Bears%20Long.webp)
 
 **Garment Type:**
 
@@ -1780,7 +1780,7 @@
 **Name:** Bitcoin Jacket
 
 **Image Files:**
-![Bitcoin Jacket](../images/shirts__z50%20(LONG)/SS5_acidhouse_Bitcoin%20Jacket.webp)
+![Bitcoin Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS5_acidhouse_Bitcoin%20Jacket.webp)
 
 **Garment Type:**
 
@@ -1860,7 +1860,7 @@
 **Name:** Trippy
 
 **Image Files:**
-![Trippy](../images/shirts__z50%20(LONG)/SS5_acidhouse_Trippy.webp)
+![Trippy](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS5_acidhouse_Trippy.webp)
 
 **Garment Type:**
 
@@ -1940,7 +1940,7 @@
 **Name:** Henlo Jersey
 
 **Image Files:**
-![Henlo](../images/shirts__z50%20(LONG)/SS3_Henlo.webp)
+![Henlo](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_Henlo.webp)
 
 **Garment Type:**
 
@@ -2020,7 +2020,7 @@
 **Name:** 80s Detroit Jersey
 
 **Image Files:**
-![80s Detroit Jersey](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Detroit%20Jersey.webp)
+![80s Detroit Jersey](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Detroit%20Jersey.webp)
 
 **Garment Type:**
 
@@ -2100,7 +2100,7 @@
 **Name:** Chicago Jersey
 
 **Image Files:**
-![80s Chicago Jersey](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Chicago%20Jersey.webp)
+![80s Chicago Jersey](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_80s%20Chicago%20Jersey.webp)
 
 **Garment Type:**
 
@@ -2180,7 +2180,7 @@
 **Name:** Arc Jersey
 
 **Image Files:**
-![arc jersey](../images/shirts__z50%20(LONG)/SS3_arc%20jersey.webp)
+![arc jersey](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_arc%20jersey.webp)
 
 **Garment Type:**
 
@@ -2260,7 +2260,7 @@
 **Name:** Mibera Spiral Hockey
 
 **Image Files:**
-![Mibera Spiral Hockey](../images/shirts__z50%20(LONG)/SS2_Mibera%20Spiral%20Hockey.webp)
+![Mibera Spiral Hockey](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS2_Mibera%20Spiral%20Hockey.webp)
 
 **Garment Type:**
 
@@ -2340,7 +2340,7 @@
 **Name:** Baby Bera Hockey
 
 **Image Files:**
-![Baby Bera Hockey](../images/shirts__z50%20(LONG)/SS4_milady_Baby%20Bera%20Hockey.webp)
+![Baby Bera Hockey](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_milady_Baby%20Bera%20Hockey.webp)
 
 **Garment Type:**
 
@@ -2420,7 +2420,7 @@
 **Name:** Baby Bera Jacket
 
 **Image Files:**
-![Babybera Jacket](../images/shirts__z50%20(LONG)/SS3_Babybera%20Jacket.webp)
+![Babybera Jacket](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_Babybera%20Jacket.webp)
 
 **Garment Type:**
 
@@ -2501,7 +2501,7 @@
 **Name:** Sun Kigu
 
 **Image Files:**
-![Sun Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Sun%20Kigu.webp)
+![Sun Kigu](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU)/SS5_milady_Sun%20Kigu.webp)
 
 **Garment Type:**
 
@@ -2581,7 +2581,7 @@
 **Name:** Polar Kigu
 
 **Image Files:**
-![Polar Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Polar%20Kigu.webp)
+![Polar Kigu](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU)/SS5_milady_Polar%20Kigu.webp)
 
 **Garment Type:**
 
@@ -2661,7 +2661,7 @@
 **Name:** Brown Kigu
 
 **Image Files:**
-![Brown Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Brown%20Kigu.webp)
+![Brown Kigu](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU)/SS5_milady_Brown%20Kigu.webp)
 
 **Garment Type:**
 
@@ -2741,7 +2741,7 @@
 **Name:** Panda Kigu
 
 **Image Files:**
-![Panda Kigu](../images/shirts__z50%20(KIGU)/SS5_milady_Panda%20Kigu.webp)
+![Panda Kigu](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU)/SS5_milady_Panda%20Kigu.webp)
 
 **Garment Type:**
 
@@ -2821,7 +2821,7 @@
 **Name:** Cute Kigu
 
 **Image Files:**
-![cute kigu](../images/shirts__z50%20(KIGU)/SS4_milady_cute%20kigu.webp)
+![cute kigu](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU)/SS4_milady_cute%20kigu.webp)
 
 **Garment Type:**
 
@@ -2901,7 +2901,7 @@
 **Name:** Fable
 
 **Image Files:**
-![Fable](../images/shirts__z50%20(KIGU)/SS5_Fable.webp)
+![Fable](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(KIGU)/SS5_Fable.webp)
 
 **Garment Type:**
 
@@ -3062,7 +3062,7 @@
 **Name:** Chinese
 
 **Image Files:**
-![Chinese](../images/shirts__z50%20(LONG)/SS3_acidhouse_Chinese.webp)
+![Chinese](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_acidhouse_Chinese.webp)
 
 **Garment Type:**
 
@@ -3142,7 +3142,7 @@
 **Name:** Silver Mongolian
 
 **Image Files:**
-![Silver Mongolian__w6](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Silver%20Mongolian__w6.webp)
+![Silver Mongolian__w6](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_Silver%20Mongolian__w6.webp)
 
 **Garment Type:**
 
@@ -3222,7 +3222,7 @@
 **Name:** Orthodox Robe
 
 **Image Files:**
-![Orthodox Robe](../images/shirts__z50%20(ROBES)/SS5_Orthodox%20Robe.webp)
+![Orthodox Robe](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(ROBES)/SS5_Orthodox%20Robe.webp)
 
 **Garment Type:**
 
@@ -3303,7 +3303,7 @@
 **Name:** Peyote Patterned
 
 **Image Files:**
-![Peyote Patterned](../images/shirts__z50%20(LONG)/SS3_freetekno_Peyote%20Patterned.webp)
+![Peyote Patterned](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_freetekno_Peyote%20Patterned.webp)
 
 **Garment Type:**
 
@@ -3384,7 +3384,7 @@
 **Name:** Rasta
 
 **Image Files:**
-![Rasta](../images/shirts__z50%20(LONG)/SS3_chicagodetroit_Rasta.webp)
+![Rasta](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS3_chicagodetroit_Rasta.webp)
 
 **Garment Type:**
 
@@ -3464,7 +3464,7 @@
 **Name:** Black Niqab
 
 **Image Files:**
-![Black Niqab](../images/shirts__z50%20(ROBES)/SS5_milady_Black%20Niqab.webp)
+![Black Niqab](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(ROBES)/SS5_milady_Black%20Niqab.webp)
 
 **Garment Type:**
 
@@ -3545,7 +3545,7 @@
 **Name:** Sufi
 
 **Image Files:**
-![Sufi](../images/shirts__z50%20(LONG)/SS4_freetekno_Sufi.webp)
+![Sufi](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_freetekno_Sufi.webp)
 
 **Garment Type:**
 
@@ -3626,7 +3626,7 @@
 **Name:** Buddhist Techno
 
 **Image Files:**
-![buddhist techno](../images/shirts__z50%20(LONG)/SS4_acidhouse_buddhist%20techno.webp)
+![buddhist techno](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_acidhouse_buddhist%20techno.webp)
 
 **Garment Type:**
 
@@ -3707,7 +3707,7 @@
 **Name:** Tassles
 
 **Image Files:**
-![tassles](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_tassles.webp)
+![tassles](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS2_chicagodetroit_tassles.webp)
 
 **Garment Type:**
 
@@ -3788,7 +3788,7 @@
 **Name:** Sadhu
 
 **Image Files:**
-![Sadhu](../images/shirts__z50%20(LONG)/SS2_chicagodetroit_Sadhu.webp)
+![Sadhu](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS2_chicagodetroit_Sadhu.webp)
 
 **Garment Type:**
 
@@ -3868,7 +3868,7 @@
 **Name:** Modern Sami
 
 **Image Files:**
-![Modern Sami](../images/shirts__z50%20(LONG)/SS2_acidhouse_Modern%20Sami.webp)
+![Modern Sami](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS2_acidhouse_Modern%20Sami.webp)
 
 **Garment Type:**
 
@@ -3948,7 +3948,7 @@
 **Name:** Light Blue Flowery
 
 **Image Files:**
-![Light Blue Flowery](../images/shirts__z50%20(LONG)/SS4_milady_Light%20Blue%20Flowery.webp)
+![Light Blue Flowery](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS4_milady_Light%20Blue%20Flowery.webp)
 
 **Garment Type:**
 
@@ -4028,7 +4028,7 @@
 **Name:** Dark Blue Flowery
 
 **Image Files:**
-![Dark Blue Flowery](../images/shirts__z50%20(LONG)/SS5_milady_Dark%20Blue%20Flowery.webp)
+![Dark Blue Flowery](https://mibera.fsn1.your-objectstorage.com/components/shirts__z50%20(LONG)/SS5_milady_Dark%20Blue%20Flowery.webp)
 
 **Garment Type:**
 

@@ -11,7 +11,7 @@
 **Name:** Wartime
 
 **Image Files:**
-![Wartime](../images/face%20accessories__z60/SS4_milady_wartime.webp)
+![Wartime](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_wartime.webp)
 
 **Accessory Type:**
 
@@ -91,7 +91,7 @@
 **Name:** Dots
 
 **Image Files:**
-![Dots](../images/face%20accessories__z60/SS3_milady_Dots.webp)
+![Dots](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_Dots.webp)
 
 **Accessory Type:**
 
@@ -168,7 +168,7 @@
 **Name:** Crafty
 
 **Image Files:**
-![Crafty](../images/face%20accessories__z60/SS2_freetekno_crafty.webp)
+![Crafty](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_freetekno_crafty.webp)
 
 **Accessory Type:**
 
@@ -245,7 +245,7 @@
 **Name:** Teardrops
 
 **Image Files:**
-![Teardrops](../images/face%20accessories__z60/SS3_milady_teardrops.webp)
+![Teardrops](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_teardrops.webp)
 
 **Accessory Type:**
 
@@ -322,7 +322,7 @@
 **Name:** Cross
 
 **Image Files:**
-![Cross](../images/face%20accessories__z60/SS3_milady_Cross.webp)
+![Cross](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_Cross.webp)
 
 **Accessory Type:**
 
@@ -399,7 +399,7 @@
 **Name:** Fluoro Pink
 
 **Image Files:**
-![Fluoro Pink](../images/face%20accessories__z60/SS3_freetekno_Fluoro Pink.webp)
+![Fluoro Pink](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Pink.webp)
 
 **Accessory Type:**
 
@@ -476,7 +476,7 @@
 **Name:** Red Forehead
 
 **Image Files:**
-![Red Forehead](../images/face%20accessories__z60/SS3_milady_modern_nepal_Red Forehead.webp)
+![Red Forehead](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_modern_nepal_Red Forehead.webp)
 
 **Accessory Type:**
 
@@ -553,7 +553,7 @@
 **Name:** Bleeding
 
 **Image Files:**
-![Bleeding](../images/face%20accessories__z60/SS3_milady_bleeding.webp)
+![Bleeding](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_bleeding.webp)
 
 **Accessory Type:**
 
@@ -630,7 +630,7 @@
 **Name:** Star Face
 
 **Image Files:**
-![Star Face](../images/face%20accessories__z60/SS3_acidhouse_star.webp)
+![Star Face](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_acidhouse_star.webp)
 
 **Accessory Type:**
 
@@ -707,7 +707,7 @@
 **Name:** Blush
 
 **Image Files:**
-![Blush](../images/face%20accessories__z60/SS1_milady_blush.webp)
+![Blush](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_blush.webp)
 
 **Accessory Type:**
 
@@ -784,7 +784,7 @@
 **Name:** Tyson
 
 **Image Files:**
-![Tyson](../images/face%20accessories__z60/SS3_Milady_tyson.webp)
+![Tyson](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_Milady_tyson.webp)
 
 **Accessory Type:**
 
@@ -861,7 +861,7 @@
 **Name:** Fluoro Blue
 
 **Image Files:**
-![Fluoro Blue](../images/face%20accessories__z60/SS3_freetekno_Fluoro Blue.webp)
+![Fluoro Blue](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Blue.webp)
 
 **Accessory Type:**
 
@@ -938,7 +938,7 @@
 **Name:** Fluoro Green
 
 **Image Files:**
-![Fluoro Green](../images/face%20accessories__z60/SS3_freetekno_Fluoro Green.webp)
+![Fluoro Green](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_Fluoro Green.webp)
 
 **Accessory Type:**
 
@@ -1015,7 +1015,7 @@
 **Name:** Bindi
 
 **Image Files:**
-![Bindi](../images/face%20accessories__z60/SS1_milady_modern_nepal_Bindi.webp)
+![Bindi](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_modern_nepal_Bindi.webp)
 
 **Accessory Type:**
 
@@ -1092,7 +1092,7 @@
 **Name:** Mibera Smiley
 
 **Image Files:**
-![Mibera Smiley](../images/face%20accessories__z60/SS3_freetekno_mibera smiley.webp)
+![Mibera Smiley](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_freetekno_mibera smiley.webp)
 
 **Accessory Type:**
 
@@ -1169,7 +1169,7 @@
 **Name:** Star
 
 **Image Files:**
-![Star](../images/face%20accessories__z60/SS2_Milady_Star.webp)
+![Star](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_Milady_Star.webp)
 
 **Accessory Type:**
 
@@ -1246,7 +1246,7 @@
 **Name:** Hand
 
 **Image Files:**
-![Hand](../images/face%20accessories__z60/SS3_milady_hand.webp)
+![Hand](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS3_milady_hand.webp)
 
 **Accessory Type:**
 
@@ -1323,7 +1323,7 @@
 **Name:** Oil
 
 **Image Files:**
-![Oil](../images/face%20accessories__z60/SS2_freetekno_Oil.webp)
+![Oil](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_freetekno_Oil.webp)
 
 **Accessory Type:**
 
@@ -1401,7 +1401,7 @@
 **Name:** Heart
 
 **Image Files:**
-![Heart](../images/face%20accessories__z60/SS2_milady_Heart.webp)
+![Heart](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_Heart.webp)
 
 **Accessory Type:**
 
@@ -1478,7 +1478,7 @@
 **Name:** Hindu Swastika
 
 **Image Files:**
-![Hindu Swastika](../images/face%20accessories__z60/SS4_Hindu swastika.webp)
+![Hindu Swastika](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_Hindu swastika.webp)
 
 **Accessory Type:**
 
@@ -1556,7 +1556,7 @@
 **Name:** Chulym 2
 
 **Image Files:**
-![Chulym 2](../images/face%20accessories__z60/SS4_milady_chulym 2.webp)
+![Chulym 2](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_chulym 2.webp)
 
 **Accessory Type:**
 
@@ -1635,7 +1635,7 @@
 **Name:** Indian Paint
 
 **Image Files:**
-![Indian Paint](../images/face%20accessories__z60/SS4_chicagodetroit_ancient_indian_Indian.webp)
+![Indian Paint](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_chicagodetroit_ancient_indian_Indian.webp)
 
 **Accessory Type:**
 
@@ -1712,7 +1712,7 @@
 **Name:** Crescent
 
 **Image Files:**
-![Crescent](../images/face%20accessories__z60/SS4_milady_Crescent.webp)
+![Crescent](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_Crescent.webp)
 
 **Accessory Type:**
 
@@ -1789,7 +1789,7 @@
 **Name:** Chulym
 
 **Image Files:**
-![Chulym](../images/face%20accessories__z60/SS4_milady_chulym.webp)
+![Chulym](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_chulym.webp)
 
 **Accessory Type:**
 
@@ -1868,7 +1868,7 @@
 **Name:** Mononoke
 
 **Image Files:**
-![Mononoke](../images/face%20accessories__z60/SS4_milady_Mononoke.webp)
+![Mononoke](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS4_milady_Mononoke.webp)
 
 **Accessory Type:**
 
@@ -1945,7 +1945,7 @@
 **Name:** Pride
 
 **Image Files:**
-![Pride](../images/face%20accessories__z60/SS2_milady_pride.webp)
+![Pride](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_pride.webp)
 
 **Accessory Type:**
 
@@ -2022,7 +2022,7 @@
 **Name:** Trans Flag
 
 **Image Files:**
-![Trans Flag](../images/face%20accessories__z60/SS2_milady_trans flag.webp)
+![Trans Flag](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_milady_trans flag.webp)
 
 **Accessory Type:**
 
@@ -2099,7 +2099,7 @@
 **Name:** Tear Drop
 
 **Image Files:**
-![Tear Drop](../images/face%20accessories__z60/SS2_Milady_tear drop.webp)
+![Tear Drop](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_Milady_tear drop.webp)
 
 **Accessory Type:**
 
@@ -2176,7 +2176,7 @@
 **Name:** Fluoro White
 
 **Image Files:**
-![Fluoro White](../images/face%20accessories__z60/SS2_freetekno_Fluoro White.webp)
+![Fluoro White](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS2_freetekno_Fluoro White.webp)
 
 **Accessory Type:**
 
@@ -2253,7 +2253,7 @@
 **Name:** Whiskers
 
 **Image Files:**
-![Whiskers](../images/face%20accessories__z60/SS1_milady_Whiskers.webp)
+![Whiskers](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_Whiskers.webp)
 
 **Accessory Type:**
 
@@ -2330,7 +2330,7 @@
 **Name:** Small Bandage
 
 **Image Files:**
-![Small Bandage](../images/face%20accessories__z60/SS1_milady_small bandage.webp)
+![Small Bandage](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_small bandage.webp)
 
 **Accessory Type:**
 
@@ -2407,7 +2407,7 @@
 **Name:** Mibera
 
 **Image Files:**
-![Mibera](../images/face%20accessories__z60/SS5_milady_Mibera.webp)
+![Mibera](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_milady_Mibera.webp)
 
 **Accessory Type:**
 
@@ -2484,7 +2484,7 @@
 **Name:** Bandaid
 
 **Image Files:**
-![Bandaid](../images/face%20accessories__z60/SS1_milady_bandaid.webp)
+![Bandaid](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_milady_bandaid.webp)
 
 **Accessory Type:**
 
@@ -2561,7 +2561,7 @@
 **Name:** Clean Bandage
 
 **Image Files:**
-![Clean Bandage](../images/face%20accessories__z60/SS1_chicagodetroit_clean bandage.webp)
+![Clean Bandage](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_chicagodetroit_clean bandage.webp)
 
 **Accessory Type:**
 
@@ -2638,7 +2638,7 @@
 **Name:** Joker
 
 **Image Files:**
-![Joker](../images/face%20accessories__z60/SS5_joker.webp)
+![Joker](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_joker.webp)
 
 **Accessory Type:**
 
@@ -2715,7 +2715,7 @@
 **Name:** Septum
 
 **Image Files:**
-![Septum](../images/face%20accessories__z60/SS1_freetekno_Septum.webp)
+![Septum](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_freetekno_Septum.webp)
 
 **Accessory Type:**
 
@@ -2792,7 +2792,7 @@
 **Name:** Aboriginal Red
 
 **Image Files:**
-![Aboriginal Red](../images/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Red.webp)
+![Aboriginal Red](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Red.webp)
 
 **Accessory Type:**
 
@@ -2869,7 +2869,7 @@
 **Name:** Ethiopian
 
 **Image Files:**
-![Ethiopian](../images/face%20accessories__z60/SS5_chicagodetroit_ancient_ethiopian_Ethiopian.webp)
+![Ethiopian](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_chicagodetroit_ancient_ethiopian_Ethiopian.webp)
 
 **Accessory Type:**
 
@@ -2947,7 +2947,7 @@
 **Name:** Bandage
 
 **Image Files:**
-![Bandage](../images/face%20accessories__z60/SS1_chicagodetroit_bandage.webp)
+![Bandage](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS1_chicagodetroit_bandage.webp)
 
 **Accessory Type:**
 
@@ -3024,7 +3024,7 @@
 **Name:** Aboriginal Orange
 
 **Image Files:**
-![Aboriginal Orange](../images/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Orange.webp)
+![Aboriginal Orange](https://mibera.fsn1.your-objectstorage.com/components/face%20accessories__z60/SS5_freetekno_ancient_aboriginal_Aboriginal Orange.webp)
 
 **Accessory Type:**
 

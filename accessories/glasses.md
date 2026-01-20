@@ -11,7 +11,7 @@
 **Name:** Omega
 
 **Image Files:**
-![Omega](../images/glasses__z140/acidhouse_Omega.webp)
+![Omega](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Omega.webp)
 
 **Accessory Type:**
 
@@ -88,7 +88,7 @@
 **Name:** Tekno 2
 
 **Image Files:**
-![Tekno 2](../images/glasses__z140/freetekno_Tekno 2.webp)
+![Tekno 2](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Tekno 2.webp)
 
 **Accessory Type:**
 
@@ -165,7 +165,7 @@
 **Name:** Cyber Punk 1
 
 **Image Files:**
-![Cyber Punk 1](../images/glasses__z140/freetekno_Cyber Punk 1.webp)
+![Cyber Punk 1](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Cyber Punk 1.webp)
 
 **Accessory Type:**
 
@@ -242,7 +242,7 @@
 **Name:** Rayban
 
 **Image Files:**
-![Rayban](../images/glasses__z140/chicagodetroit_Rayban.webp)
+![Rayban](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Rayban.webp)
 
 **Accessory Type:**
 
@@ -321,7 +321,7 @@
 **Name:** Magenta Glow
 
 **Image Files:**
-![Magenta Glow](../images/glasses__z140/chicagodetroit_Magenta Glow.webp)
+![Magenta Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Magenta Glow.webp)
 
 **Accessory Type:**
 
@@ -398,7 +398,7 @@
 **Name:** mottega blue
 
 **Image Files:**
-![Mottega Blue](../images/glasses__z140/milady_Mottega Blue.webp)
+![Mottega Blue](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Mottega Blue.webp)
 
 **Accessory Type:**
 
@@ -475,7 +475,7 @@
 **Name:** Harajuku
 
 **Image Files:**
-![Harajuku](../images/glasses__z140/milady_Harajuku.webp)
+![Harajuku](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Harajuku.webp)
 
 **Accessory Type:**
 
@@ -552,7 +552,7 @@
 **Name:** Red Glow
 
 **Image Files:**
-![Red Glow](../images/glasses__z140/chicagodetroit_Red Glow.webp)
+![Red Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Red Glow.webp)
 
 **Accessory Type:**
 
@@ -629,7 +629,7 @@
 **Name:** Black Scifi
 
 **Image Files:**
-![Black Scifi](../images/glasses__z140/chicagodetroit_Black Scifi.webp)
+![Black Scifi](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Black Scifi.webp)
 
 **Accessory Type:**
 
@@ -706,7 +706,7 @@
 **Name:** Red Sunglasses
 
 **Image Files:**
-![Red Sunglasses](../images/glasses__z140/chicagodetroit_Red Sunglasses.webp)
+![Red Sunglasses](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Red Sunglasses.webp)
 
 **Accessory Type:**
 
@@ -783,7 +783,7 @@
 **Name:** Sunnies
 
 **Image Files:**
-![Sunnies](../images/glasses__z140/acidhouse_Sunnies.webp)
+![Sunnies](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Sunnies.webp)
 
 **Accessory Type:**
 
@@ -860,7 +860,7 @@
 **Name:** Cyber Punk 2
 
 **Image Files:**
-![Cyber Punk 2](../images/glasses__z140/freetekno_Cyber Punk 2.webp)
+![Cyber Punk 2](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Cyber Punk 2.webp)
 
 **Accessory Type:**
 
@@ -937,7 +937,7 @@
 **Name:** Round
 
 **Image Files:**
-![Round](../images/glasses__z140/acidhouse_Round.webp)
+![Round](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Round.webp)
 
 **Accessory Type:**
 
@@ -1014,7 +1014,7 @@
 **Name:** Purple Glow
 
 **Image Files:**
-![Purple Glow](../images/glasses__z140/chicagodetroit_Purple Glow.webp)
+![Purple Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Purple Glow.webp)
 
 **Accessory Type:**
 
@@ -1091,7 +1091,7 @@
 **Name:** YY
 
 **Image Files:**
-![YY](../images/glasses__z140/milady_YY.webp)
+![YY](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_YY.webp)
 
 **Accessory Type:**
 
@@ -1168,7 +1168,7 @@
 **Name:** Reflections
 
 **Image Files:**
-![Reflections](../images/glasses__z140/chicagodetroit_Reflections.webp)
+![Reflections](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Reflections.webp)
 
 **Accessory Type:**
 
@@ -1245,7 +1245,7 @@
 **Name:** Star Goggles
 
 **Image Files:**
-![Star Goggles](../images/glasses__z140/freetekno_Star Goggles.webp)
+![Star Goggles](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Star Goggles.webp)
 
 **Accessory Type:**
 
@@ -1322,7 +1322,7 @@
 **Name:** black white sunglasses
 
 **Image Files:**
-![Black White Sunglasses](../images/glasses__z140/chicagodetroit_Black White Sunglasses.webp)
+![Black White Sunglasses](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Black White Sunglasses.webp)
 
 **Accessory Type:**
 
@@ -1399,7 +1399,7 @@
 **Name:** tactical
 
 **Image Files:**
-![Tactical](../images/glasses__z140/milady_Tactical.webp)
+![Tactical](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Tactical.webp)
 
 **Accessory Type:**
 
@@ -1476,7 +1476,7 @@
 **Name:** tekno 1
 
 **Image Files:**
-![Tekno 1](../images/glasses__z140/freetekno_Tekno 1.webp)
+![Tekno 1](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Tekno 1.webp)
 
 **Accessory Type:**
 
@@ -1553,7 +1553,7 @@
 **Name:** Mottega Yellow
 
 **Image Files:**
-![Mottega Yellow](../images/glasses__z140/milady_Mottega Yellow.webp)
+![Mottega Yellow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Mottega Yellow.webp)
 
 **Accessory Type:**
 
@@ -1630,7 +1630,7 @@
 **Name:** 3D
 
 **Image Files:**
-![3D](../images/glasses__z140/chicacodetroit_3D.webp)
+![3D](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicacodetroit_3D.webp)
 
 **Accessory Type:**
 
@@ -1707,7 +1707,7 @@
 **Name:** Squad
 
 **Image Files:**
-![Squad](../images/glasses__z140/acidhouse_Squad.webp)
+![Squad](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Squad.webp)
 
 **Accessory Type:**
 
@@ -1784,7 +1784,7 @@
 **Name:** snow goggles 2
 
 **Image Files:**
-![Snow Goggles 2](../images/glasses__z140/Snow Goggles 2.webp)
+![Snow Goggles 2](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/Snow Goggles 2.webp)
 
 **Accessory Type:**
 
@@ -1861,7 +1861,7 @@
 **Name:** Sick Sunglasses
 
 **Image Files:**
-![Sick Sunglasses](../images/glasses__z140/chicagodetroit_Sick Sunglasses.webp)
+![Sick Sunglasses](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Sick Sunglasses.webp)
 
 **Accessory Type:**
 
@@ -1938,7 +1938,7 @@
 **Name:** Colorful
 
 **Image Files:**
-![Colorful](../images/glasses__z140/milady_Colorful.webp)
+![Colorful](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Colorful.webp)
 
 **Accessory Type:**
 
@@ -2015,7 +2015,7 @@
 **Name:** Swimming Goggles
 
 **Image Files:**
-![Swimming Goggles](../images/glasses__z140/acidhouse_Swimming Goggles.webp)
+![Swimming Goggles](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/acidhouse_Swimming Goggles.webp)
 
 **Accessory Type:**
 
@@ -2092,7 +2092,7 @@
 **Name:** prescription
 
 **Image Files:**
-![Prescription](../images/glasses__z140/chicagodetroit_Prescription.webp)
+![Prescription](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Prescription.webp)
 
 **Accessory Type:**
 
@@ -2169,7 +2169,7 @@
 **Name:** spy
 
 **Image Files:**
-![Spy](../images/glasses__z140/milady_Spy.webp)
+![Spy](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Spy.webp)
 
 **Accessory Type:**
 
@@ -2246,7 +2246,7 @@
 **Name:** 96
 
 **Image Files:**
-![96](../images/glasses__z140/chicagodetroit_96.webp)
+![96](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_96.webp)
 
 **Accessory Type:**
 
@@ -2323,7 +2323,7 @@
 **Name:** snow goggles 1
 
 **Image Files:**
-![Snow Goggles 1](../images/glasses__z140/Snow Goggles 1.webp)
+![Snow Goggles 1](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/Snow Goggles 1.webp)
 
 **Accessory Type:**
 
@@ -2400,7 +2400,7 @@
 **Name:** scifi
 
 **Image Files:**
-![Scifi](../images/glasses__z140/milady_Scifi.webp)
+![Scifi](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/milady_Scifi.webp)
 
 **Accessory Type:**
 
@@ -2477,7 +2477,7 @@
 **Name:** big 80s
 
 **Image Files:**
-![Big 80s](../images/glasses__z140/chicagodetroit_Big 80s.webp)
+![Big 80s](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Big 80s.webp)
 
 **Accessory Type:**
 
@@ -2554,7 +2554,7 @@
 **Name:** Blue Glow
 
 **Image Files:**
-![Blue Glow](../images/glasses__z140/chicagodetroit_Blue Glow.webp)
+![Blue Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Blue Glow.webp)
 
 **Accessory Type:**
 
@@ -2631,7 +2631,7 @@
 **Name:** Stars
 
 **Image Files:**
-![Stars](../images/glasses__z140/freetekno_Stars.webp)
+![Stars](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/freetekno_Stars.webp)
 
 **Accessory Type:**
 
@@ -2708,7 +2708,7 @@
 **Name:** Green Glow
 
 **Image Files:**
-![Green Glow](../images/glasses__z140/chicagodetroit_Green Glow.webp)
+![Green Glow](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/chicagodetroit_Green Glow.webp)
 
 **Accessory Type:**
 
@@ -2785,7 +2785,7 @@
 **Name:** d2 edamame
 
 **Image Files:**
-![D2 Edamame](../images/glasses__z140/d2 edamame.webp)
+![D2 Edamame](https://mibera.fsn1.your-objectstorage.com/components/glasses__z140/d2 edamame.webp)
 
 **Accessory Type:**
 

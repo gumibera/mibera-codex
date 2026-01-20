@@ -90,7 +90,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Nose Ring with Chain
 
 **Image Files:**
-![Nose Ring with Chain](../images/Masks/SS3_milady_Nose Ring With Chain.webp)
+![Nose Ring with Chain](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_milady_Nose Ring With Chain.webp)
 
 **Accessory Type:**
 
@@ -167,7 +167,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Black Mask
 
 **Image Files:**
-![Black Mask](../images/Masks/SS2_freetekno_Black Mask.webp)
+![Black Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS2_freetekno_Black Mask.webp)
 
 **Accessory Type:**
 
@@ -244,7 +244,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Cypherpunk 3
 
 **Image Files:**
-![Cypherpunk 3](../images/Masks/SS3_Cypherpunk 3.webp)
+![Cypherpunk 3](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Cypherpunk 3.webp)
 
 **Accessory Type:**
 
@@ -321,7 +321,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Velvet
 
 **Image Files:**
-![Velvet](../images/Masks/SS3_Velvet.webp)
+![Velvet](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Velvet.webp)
 
 **Accessory Type:**
 
@@ -398,7 +398,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Golden Anonymous
 
 **Image Files:**
-![Golden Anonymous](../images/Masks/SS4_chicagodetroit_Golden Anonymous.webp)
+![Golden Anonymous](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_Golden Anonymous.webp)
 
 **Accessory Type:**
 
@@ -476,7 +476,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Venetian Black
 
 **Image Files:**
-![Venetian Black](../images/Masks/SS4_Venetian Black.webp)
+![Venetian Black](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_Venetian Black.webp)
 
 **Accessory Type:**
 
@@ -553,7 +553,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Green Mask
 
 **Image Files:**
-![Green Mask](../images/Masks/SS4_chicagodetroit_Green Mask.webp)
+![Green Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_Green Mask.webp)
 
 **Accessory Type:**
 
@@ -630,7 +630,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Homemade Bee Mask
 
 **Image Files:**
-![Homemade Bee Mask](../images/Masks/SS3_milady_Homemade Bee Mask.webp)
+![Homemade Bee Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_milady_Homemade Bee Mask.webp)
 
 **Accessory Type:**
 
@@ -707,7 +707,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 **Name:** Plastic Bag Mask
 
 **Image Files:**
-![Plastic Bag Mask](../images/Masks/SS4_chicagodetroit_modern_irish_Plastic Bag Mask.webp)
+![Plastic Bag Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_modern_irish_Plastic Bag Mask.webp)
 
 **Accessory Type:**
 
@@ -1016,7 +1016,7 @@ SS4_pink bera ski.PNG
 **Name:** White Anonymous
 
 **Image Files:**
-![White Anonymous](../images/Masks/SS4_chicagodetroit_White Anonymous.webp)
+![White Anonymous](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_chicagodetroit_White Anonymous.webp)
 
 **Accessory Type:**
 
@@ -1172,7 +1172,7 @@ SS4_acidhouse_Kim Jong Mask.png
 **Name:** Silver Mask
 
 **Image Files:**
-![Silver Mask](../images/Masks/SS1_freetekno_Silver Mask.webp)
+![Silver Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_freetekno_Silver Mask.webp)
 
 **Accessory Type:**
 
@@ -1250,7 +1250,7 @@ SS4_acidhouse_Kim Jong Mask.png
 **Name:** Surgical Mask
 
 **Image Files:**
-![Surgical Mask](../images/Masks/SS1_acidhouse_Surgical Mask.webp)
+![Surgical Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_acidhouse_Surgical Mask.webp)
 
 **Accessory Type:**
 
@@ -1404,7 +1404,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Name:** Cyberphunk 1
 
 **Image Files:**
-![Cypherpunk 1](../images/Masks/SS4_Cypherpunk 1.webp)
+![Cypherpunk 1](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_Cypherpunk 1.webp)
 
 **Accessory Type:**
 
@@ -1481,7 +1481,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Name:** Cyberphunk 2
 
 **Image Files:**
-![Cypherpunk 2](../images/Masks/SS1_Cypherpunk 2.webp)
+![Cypherpunk 2](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_Cypherpunk 2.webp)
 
 **Accessory Type:**
 
@@ -1558,7 +1558,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Name:** MF Doom
 
 **Image Files:**
-![MF Doom](../images/Masks/SS4_freetekno_MF doom.webp)
+![MF Doom](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS4_freetekno_MF doom.webp)
 
 **Accessory Type:**
 
@@ -1635,7 +1635,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 **Name:** venetian gold
 
 **Image Files:**
-![Venetian Gold](../images/Masks/SS5_Venetian Gold.webp)
+![Venetian Gold](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS5_Venetian Gold.webp)
 
 **Accessory Type:**
 
@@ -1789,7 +1789,7 @@ SS4_freetekno_Bear Mask.PNG
 **Name:** CFang Face (mask)
 
 **Image Files:**
-![CFang Face](../images/Masks/SS1_milady_Cfang Face.webp)
+![CFang Face](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS1_milady_Cfang Face.webp)
 
 **Accessory Type:**
 
@@ -1943,7 +1943,7 @@ SS5_henlo mask.PNG
 **Name:** White Mask
 
 **Image Files:**
-![White Mask](../images/Masks/SS2_chicagodetroit_White Mask.webp)
+![White Mask](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS2_chicagodetroit_White Mask.webp)
 
 **Accessory Type:**
 
@@ -2020,7 +2020,7 @@ SS5_henlo mask.PNG
 **Name:** Chulym Beekeeper Hat
 
 **Image Files:**
-![Chulym Beekeeper Hat](../images/Masks/SS3_Chulym Beekeeper Hat.webp)
+![Chulym Beekeeper Hat](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS3_Chulym Beekeeper Hat.webp)
 
 **Accessory Type:**
 
@@ -2174,7 +2174,7 @@ SS5_Founders Mask.PNG
 **Name:** Faceless Galaxy
 
 **Image Files:**
-![Faceless Galaxy](../images/Masks/SS5_acidhouse_Faceless Galaxy.webp)
+![Faceless Galaxy](https://mibera.fsn1.your-objectstorage.com/components/Masks/SS5_acidhouse_Faceless Galaxy.webp)
 
 **Accessory Type:**
 

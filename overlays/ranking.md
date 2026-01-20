@@ -8,7 +8,7 @@
 
 **Rank:** A
 
-![Rank A](../images/Ranking/A.webp)
+![Rank A](https://mibera.fsn1.your-objectstorage.com/components/Ranking/A.webp)
 
 **Shape:** Hexagonal
 
@@ -22,7 +22,7 @@
 
 **Rank:** B
 
-![Rank B](../images/Ranking/B.webp)
+![Rank B](https://mibera.fsn1.your-objectstorage.com/components/Ranking/B.webp)
 
 **Shape:** Circle
 
@@ -38,7 +38,7 @@
 
 **Rank:** C
 
-![Rank C](../images/Ranking/C.webp)
+![Rank C](https://mibera.fsn1.your-objectstorage.com/components/Ranking/C.webp)
 
 **Shape:** Circle
 
@@ -52,7 +52,7 @@
 
 **Rank:** D
 
-![Rank D](../images/Ranking/D.webp)
+![Rank D](https://mibera.fsn1.your-objectstorage.com/components/Ranking/D.webp)
 
 **Shape:** Circle
 
@@ -66,7 +66,7 @@
 
 **Rank:** F
 
-![Rank F](../images/Ranking/F.webp)
+![Rank F](https://mibera.fsn1.your-objectstorage.com/components/Ranking/F.webp)
 
 **Shape:** Panda
 
@@ -80,7 +80,7 @@
 
 **Rank:** S
 
-![Rank S](../images/Ranking/S.webp)
+![Rank S](https://mibera.fsn1.your-objectstorage.com/components/Ranking/S.webp)
 
 **Shape:** Star
 
@@ -94,7 +94,7 @@
 
 **Rank:** SS
 
-![Rank SS](../images/Ranking/SS.webp)
+![Rank SS](https://mibera.fsn1.your-objectstorage.com/components/Ranking/SS.webp)
 
 **Shape:** Heart
 
@@ -108,7 +108,7 @@
 
 **Rank:** SSS
 
-![Rank SSS](../images/Ranking/SSS.webp)
+![Rank SSS](https://mibera.fsn1.your-objectstorage.com/components/Ranking/SSS.webp)
 
 **Shape:** Bear Head
 

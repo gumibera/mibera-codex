@@ -11,7 +11,7 @@
 **Name:** concerned thick
 
 **Image Files:**
-![Concerned Thick](../images/eyebrows__z95/Concerned%20Thick.webp)
+![Concerned Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Concerned%20Thick.webp)
 
 **Trait Category:**
 
@@ -84,7 +84,7 @@
 **Name:** intense
 
 **Image Files:**
-![Intense](../images/eyebrows__z95/Intense.webp)
+![Intense](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Intense.webp)
 
 **Trait Category:**
 
@@ -157,7 +157,7 @@
 **Name:** anxious thick
 
 **Image Files:**
-![Anxious Thick](../images/eyebrows__z95/Anxious%20Thick.webp)
+![Anxious Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Anxious%20Thick.webp)
 
 **Trait Category:**
 
@@ -230,7 +230,7 @@
 **Name:** Concerned
 
 **Image Files:**
-![Concerned](../images/eyebrows__z95/Concerned.webp)
+![Concerned](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Concerned.webp)
 
 **Trait Category:**
 
@@ -303,7 +303,7 @@
 **Name:** short
 
 **Image Files:**
-![Short](../images/eyebrows__z95/Short.webp)
+![Short](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Short.webp)
 
 **Trait Category:**
 
@@ -376,7 +376,7 @@
 **Name:** normal
 
 **Image Files:**
-![Normal](../images/eyebrows__z95/Normal.webp)
+![Normal](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal.webp)
 
 **Trait Category:**
 
@@ -449,7 +449,7 @@
 **Name:** normal thick
 
 **Image Files:**
-![Normal Thick](../images/eyebrows__z95/Normal%20Thick.webp)
+![Normal Thick](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Normal%20Thick.webp)
 
 **Trait Category:**
 
@@ -522,7 +522,7 @@
 **Name:** Anxious
 
 **Image Files:**
-![Anxious](../images/eyebrows__z95/Anxious.webp)
+![Anxious](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Anxious.webp)
 
 **Trait Category:**
 
@@ -595,7 +595,7 @@
 **Name:** stern
 
 **Image Files:**
-![Stern](../images/eyebrows__z95/Stern.webp)
+![Stern](https://mibera.fsn1.your-objectstorage.com/components/eyebrows__z95/Stern.webp)
 
 **Trait Category:**
 

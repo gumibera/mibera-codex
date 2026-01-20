@@ -11,7 +11,7 @@
 **Name:** Clay
 
 **Image Files:**
-![Clay](../images/body__z40/clay__z80.webp)
+![Clay](https://mibera.fsn1.your-objectstorage.com/components/body__z40/clay__z80.webp)
 
 **Trait Category:**
 
@@ -84,7 +84,7 @@
 **Name:** umber
 
 **Image Files:**
-![Umber](../images/body__z40/umber__z80.webp)
+![Umber](https://mibera.fsn1.your-objectstorage.com/components/body__z40/umber__z80.webp)
 
 **Trait Category:**
 
@@ -157,7 +157,7 @@
 **Name:** ivory (z80)
 
 **Image Files:**
-![Ivory](../images/body__z40/ivory__z80.webp)
+![Ivory](https://mibera.fsn1.your-objectstorage.com/components/body__z40/ivory__z80.webp)
 
 **Trait Category:**
 
@@ -230,7 +230,7 @@
 **Name:** Bronze
 
 **Image Files:**
-![Bronze](../images/body__z40/bronze__z80.webp)
+![Bronze](https://mibera.fsn1.your-objectstorage.com/components/body__z40/bronze__z80.webp)
 
 **Trait Category:**
 
@@ -303,7 +303,7 @@
 **Name:** sable
 
 **Image Files:**
-![Sable](../images/body__z40/sable__z80.webp)
+![Sable](https://mibera.fsn1.your-objectstorage.com/components/body__z40/sable__z80.webp)
 
 **Trait Category:**
 
@@ -376,7 +376,7 @@
 **Name:** mahogany
 
 **Image Files:**
-![Mahogany](../images/body__z40/mahogany__z80.webp)
+![Mahogany](https://mibera.fsn1.your-objectstorage.com/components/body__z40/mahogany__z80.webp)
 
 **Trait Category:**
 
@@ -449,7 +449,7 @@
 **Name:** beige
 
 **Image Files:**
-![Beige](../images/body__z40/beige__z80.webp)
+![Beige](https://mibera.fsn1.your-objectstorage.com/components/body__z40/beige__z80.webp)
 
 **Trait Category:**
 
@@ -522,7 +522,7 @@
 **Name:** pale
 
 **Image Files:**
-![Pale](../images/body__z40/pale__z80.webp)
+![Pale](https://mibera.fsn1.your-objectstorage.com/components/body__z40/pale__z80.webp)
 
 **Trait Category:**
 
@@ -595,7 +595,7 @@
 **Name:** pink
 
 **Image Files:**
-![Pink](../images/body__z40/pink__z80.webp)
+![Pink](https://mibera.fsn1.your-objectstorage.com/components/body__z40/pink__z80.webp)
 
 **Trait Category:**
 
@@ -741,7 +741,7 @@ honey__w2.PNG honey__w2.PNG
 **Name:** ebony
 
 **Image Files:**
-![Ebony](../images/body__z40/ebony__z80.webp)
+![Ebony](https://mibera.fsn1.your-objectstorage.com/components/body__z40/ebony__z80.webp)
 
 **Trait Category:**
 
@@ -814,7 +814,7 @@ honey__w2.PNG honey__w2.PNG
 **Name:** tan
 
 **Image Files:**
-![Tan](../images/body__z40/tan__z80.webp)
+![Tan](https://mibera.fsn1.your-objectstorage.com/components/body__z40/tan__z80.webp)
 
 **Trait Category:**
 

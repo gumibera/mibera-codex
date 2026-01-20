@@ -10,7 +10,7 @@
 
 **Name:** Aquarius
 
-![Sun Aquarius](../images/Sun/Sun%20Aquarius.webp)
+![Sun Aquarius](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Aquarius.webp)
 
 **Date Range:** January 20 - February 18
 
@@ -24,7 +24,7 @@
 
 **Name:** Aries
 
-![Sun Aries](../images/Sun/Sun%20Aries.webp)
+![Sun Aries](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Aries.webp)
 
 **Date Range:** March 21 - April 19
 
@@ -38,7 +38,7 @@
 
 **Name:** Cancer
 
-![Sun Cancer](../images/Sun/Sun%20Cancer.webp)
+![Sun Cancer](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Cancer.webp)
 
 **Date Range:** June 22 - July 22
 
@@ -52,7 +52,7 @@
 
 **Name:** Capricorn
 
-![Sun Capricorn](../images/Sun/Sun%20Capricorn.webp)
+![Sun Capricorn](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Capricorn.webp)
 
 **Date Range:** December 22 - January 19
 
@@ -66,7 +66,7 @@
 
 **Name:** Gemini
 
-![Sun Gemini](../images/Sun/Sun%20Gemini.webp)
+![Sun Gemini](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Gemini.webp)
 
 **Date Range:** May 21 - June 20
 
@@ -80,7 +80,7 @@
 
 **Name:** Leo
 
-![Sun Leo](../images/Sun/Sun%20Leo.webp)
+![Sun Leo](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Leo.webp)
 
 **Date Range:** July 23 - August 22
 
@@ -94,7 +94,7 @@
 
 **Name:** Libra
 
-![Sun Libra](../images/Sun/Sun%20Libra.webp)
+![Sun Libra](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Libra.webp)
 
 **Date Range:** September 23 - October 22
 
@@ -108,7 +108,7 @@
 
 **Name:** Pisces
 
-![Sun Pisces](../images/Sun/Sun%20Pisces.webp)
+![Sun Pisces](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Pisces.webp)
 
 **Date Range:** February 19 - March 20
 
@@ -122,7 +122,7 @@
 
 **Name:** Sagittarius
 
-![Sun Sagittarius](../images/Sun/Sun%20Sagittarius.webp)
+![Sun Sagittarius](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Sagittarius.webp)
 
 **Date Range:** November 22 - December 21
 
@@ -136,7 +136,7 @@
 
 **Name:** Scorpio
 
-![Sun Scorpio](../images/Sun/Sun%20Scorpio.webp)
+![Sun Scorpio](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Scorpio.webp)
 
 **Date Range:** October 23 - November 21
 
@@ -150,7 +150,7 @@
 
 **Name:** Taurus
 
-![Sun Taurus](../images/Sun/Sun%20Taurus.webp)
+![Sun Taurus](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Taurus.webp)
 
 **Date Range:** April 20 - May 20
 
@@ -164,7 +164,7 @@
 
 **Name:** Virgo
 
-![Sun Virgo](../images/Sun/Sun%20Virgo.webp)
+![Sun Virgo](https://mibera.fsn1.your-objectstorage.com/components/Sun/Sun%20Virgo.webp)
 
 **Date Range:** August 23 - September 22
 
@@ -180,7 +180,7 @@
 
 **Name:** Aquarius
 
-![Moon Aquarius](../images/Moon/Moon%20Aquarius.webp)
+![Moon Aquarius](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Aquarius.webp)
 
 **Glyph:** ♒
 
@@ -192,7 +192,7 @@
 
 **Name:** Aries
 
-![Moon Aries](../images/Moon/Moon%20Aries.webp)
+![Moon Aries](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Aries.webp)
 
 **Glyph:** ♈
 
@@ -204,7 +204,7 @@
 
 **Name:** Cancer
 
-![Moon Cancer](../images/Moon/Moon%20Cancer.webp)
+![Moon Cancer](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Cancer.webp)
 
 **Glyph:** ♋
 
@@ -216,7 +216,7 @@
 
 **Name:** Capricorn
 
-![Moon Capricorn](../images/Moon/Moon%20Capricorn.webp)
+![Moon Capricorn](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Capricorn.webp)
 
 **Glyph:** ♑
 
@@ -228,7 +228,7 @@
 
 **Name:** Gemini
 
-![Moon Gemini](../images/Moon/Moon%20Gemini.webp)
+![Moon Gemini](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Gemini.webp)
 
 **Glyph:** ♊
 
@@ -240,7 +240,7 @@
 
 **Name:** Leo
 
-![Moon Leo](../images/Moon/Moon%20Leo.webp)
+![Moon Leo](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Leo.webp)
 
 **Glyph:** ♌
 
@@ -252,7 +252,7 @@
 
 **Name:** Libra
 
-![Moon Libra](../images/Moon/Moon%20Libra.webp)
+![Moon Libra](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Libra.webp)
 
 **Glyph:** ♎
 
@@ -264,7 +264,7 @@
 
 **Name:** Pisces
 
-![Moon Pisces](../images/Moon/Moon%20Pisces.webp)
+![Moon Pisces](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Pisces.webp)
 
 **Glyph:** ♓
 
@@ -276,7 +276,7 @@
 
 **Name:** Sagittarius
 
-![Moon Sagittarius](../images/Moon/Moon%20Sagittarius.webp)
+![Moon Sagittarius](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Sagittarius.webp)
 
 **Glyph:** ♐
 
@@ -288,7 +288,7 @@
 
 **Name:** Scorpio
 
-![Moon Scorpio](../images/Moon/Moon%20Scorpio.webp)
+![Moon Scorpio](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Scorpio.webp)
 
 **Glyph:** ♏
 
@@ -300,7 +300,7 @@
 
 **Name:** Taurus
 
-![Moon Taurus](../images/Moon/Moon%20Taurus.webp)
+![Moon Taurus](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Taurus.webp)
 
 **Glyph:** ♉
 
@@ -312,7 +312,7 @@
 
 **Name:** Virgo
 
-![Moon Virgo](../images/Moon/Moon%20Virgo.webp)
+![Moon Virgo](https://mibera.fsn1.your-objectstorage.com/components/Moon/Moon%20Virgo.webp)
 
 **Glyph:** ♍
 
@@ -326,7 +326,7 @@
 
 **Name:** Aquarius
 
-![Rising Aquarius](../images/Rising/Rising%20Aquarius.webp)
+![Rising Aquarius](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Aquarius.webp)
 
 **Glyph:** ♒
 
@@ -338,7 +338,7 @@
 
 **Name:** Aries
 
-![Rising Aries](../images/Rising/Rising%20Aries.webp)
+![Rising Aries](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Aries.webp)
 
 **Glyph:** ♈
 
@@ -350,7 +350,7 @@
 
 **Name:** Cancer
 
-![Rising Cancer](../images/Rising/Rising%20Cancer.webp)
+![Rising Cancer](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Cancer.webp)
 
 **Glyph:** ♋
 
@@ -362,7 +362,7 @@
 
 **Name:** Capricorn
 
-![Rising Capricorn](../images/Rising/Rising%20Capricorn.webp)
+![Rising Capricorn](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Capricorn.webp)
 
 **Glyph:** ♑
 
@@ -374,7 +374,7 @@
 
 **Name:** Gemini
 
-![Rising Gemini](../images/Rising/Rising%20Gemini.webp)
+![Rising Gemini](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Gemini.webp)
 
 **Glyph:** ♊
 
@@ -386,7 +386,7 @@
 
 **Name:** Leo
 
-![Rising Leo](../images/Rising/Rising%20Leo.webp)
+![Rising Leo](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Leo.webp)
 
 **Glyph:** ♌
 
@@ -398,7 +398,7 @@
 
 **Name:** Libra
 
-![Rising Libra](../images/Rising/Rising%20Libra.webp)
+![Rising Libra](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Libra.webp)
 
 **Glyph:** ♎
 
@@ -410,7 +410,7 @@
 
 **Name:** Pisces
 
-![Rising Pisces](../images/Rising/Rising%20Pisces.webp)
+![Rising Pisces](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Pisces.webp)
 
 **Glyph:** ♓
 
@@ -422,7 +422,7 @@
 
 **Name:** Sagittarius
 
-![Rising Sagittarius](../images/Rising/Rising%20Sagittarius.webp)
+![Rising Sagittarius](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Sagittarius.webp)
 
 **Glyph:** ♐
 
@@ -434,7 +434,7 @@
 
 **Name:** Scorpio
 
-![Rising Scorpio](../images/Rising/Rising%20Scorpio.webp)
+![Rising Scorpio](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Scorpio.webp)
 
 **Glyph:** ♏
 
@@ -446,7 +446,7 @@
 
 **Name:** Taurus
 
-![Rising Taurus](../images/Rising/Rising%20Taurus.webp)
+![Rising Taurus](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Taurus.webp)
 
 **Glyph:** ♉
 
@@ -458,7 +458,7 @@
 
 **Name:** Virgo
 
-![Rising Virgo](../images/Rising/Rising%20Virgo.webp)
+![Rising Virgo](https://mibera.fsn1.your-objectstorage.com/components/Rising/Rising%20Virgo.webp)
 
 **Glyph:** ♍
 

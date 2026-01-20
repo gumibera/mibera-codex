@@ -8,7 +8,7 @@
 
 **Name:** Air
 
-![Air](../images/Elements/Air.webp)
+![Air](https://mibera.fsn1.your-objectstorage.com/components/Elements/Air.webp)
 
 **Mibera Geography Associations:**
 
@@ -22,7 +22,7 @@
 
 **Name:** Earth
 
-![Earth](../images/Elements/Earth.webp)
+![Earth](https://mibera.fsn1.your-objectstorage.com/components/Elements/Earth.webp)
 
 **Mibera Geography Associations:**
 
@@ -36,7 +36,7 @@
 
 **Name:** Fire
 
-![Fire](../images/Elements/Fire.webp)
+![Fire](https://mibera.fsn1.your-objectstorage.com/components/Elements/Fire.webp)
 
 **Mibera Geography Associations:**
 
@@ -50,7 +50,7 @@
 
 **Name:** Water
 
-![Water](../images/Elements/Water.webp)
+![Water](https://mibera.fsn1.your-objectstorage.com/components/Elements/Water.webp)
 
 **Mibera Geography Associations:**
 

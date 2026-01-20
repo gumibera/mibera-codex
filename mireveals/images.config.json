@@ -1,5 +1,9 @@
 {
   "baseUrl": "https://mibera.fsn1.your-objectstorage.com",
+  "components": {
+    "path": "components",
+    "format": "webp"
+  },
   "reveals": {
     "1.1": {
       "path": "mireveal1.1",

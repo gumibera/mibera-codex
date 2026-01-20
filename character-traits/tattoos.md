@@ -11,7 +11,7 @@
 **Name:** Reindeer
 
 **Image Files:**
-![Reindeer](../images/tattoos__z125/ancient_sami_Reindeer.webp)
+![Reindeer](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_sami_Reindeer.webp)
 
 **Trait Category:**
 
@@ -84,7 +84,7 @@
 **Name:** Sharaku
 
 **Image Files:**
-![Sharaku](../images/tattoos__z125/ancient_japanese_Sharaku.webp)
+![Sharaku](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_japanese_Sharaku.webp)
 
 **Trait Category:**
 
@@ -157,7 +157,7 @@
 **Name:** Oracle
 
 **Image Files:**
-![Oracle](../images/tattoos__z125/modern_pythia_Oracle.webp)
+![Oracle](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_pythia_Oracle.webp)
 
 **Trait Category:**
 
@@ -230,7 +230,7 @@
 **Name:** Rilakkuma
 
 **Image Files:**
-![Rilakkuma](../images/tattoos__z125/modern_japanese_Rilakkuma.webp)
+![Rilakkuma](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_japanese_Rilakkuma.webp)
 
 **Trait Category:**
 
@@ -303,7 +303,7 @@
 **Name:** Nepalese Flag
 
 **Image Files:**
-![Nepalese Flag](../images/tattoos__z125/modern_nepal_Nepalese%20Flag.webp)
+![Nepalese Flag](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_nepal_Nepalese%20Flag.webp)
 
 **Trait Category:**
 
@@ -376,7 +376,7 @@
 **Name:** Star and Crescent Hand
 
 **Image Files:**
-![Star and Crescent Hand](../images/tattoos__z125/modern_turkey_Star%20and%20Crescent%20Hand.webp)
+![Star and Crescent Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_turkey_Star%20and%20Crescent%20Hand.webp)
 
 **Trait Category:**
 
@@ -449,7 +449,7 @@
 **Name:** Caria Tyche
 
 **Image Files:**
-![Caria Tyche](../images/tattoos__z125/ancient_greek_Caria%20Tyche.webp)
+![Caria Tyche](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_greek_Caria%20Tyche.webp)
 
 **Trait Category:**
 
@@ -522,7 +522,7 @@
 **Name:** Uwu Baphomet
 
 **Image Files:**
-![uwu baphomet](../images/tattoos__z125/modern_satanist_uwu%20baphomet.webp)
+![uwu baphomet](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_satanist_uwu%20baphomet.webp)
 
 **Trait Category:**
 
@@ -596,7 +596,7 @@
 **Name:** Milady Eyes Hand
 
 **Image Files:**
-![Milady Eyes Hand](../images/tattoos__z125/Milady%20Eyes%20Hand.webp)
+![Milady Eyes Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Milady%20Eyes%20Hand.webp)
 
 **Trait Category:**
 
@@ -671,7 +671,7 @@
 **Name:** Inverted Pentagram
 
 **Image Files:**
-![Inverted Pentagram](../images/tattoos__z125/ancient_Satanist_Inverted%20Pentagram.webp)
+![Inverted Pentagram](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_Satanist_Inverted%20Pentagram.webp)
 
 **Trait Category:**
 
@@ -744,7 +744,7 @@
 **Name:** Cursed Milady
 
 **Image Files:**
-![Cursed Milady](../images/tattoos__z125/Cursed%20Milady.webp)
+![Cursed Milady](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Cursed%20Milady.webp)
 
 **Trait Category:**
 
@@ -817,7 +817,7 @@
 **Name:** Beloved
 
 **Image Files:**
-![Beloved](../images/tattoos__z125/modern_greek_Beloved.webp)
+![Beloved](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_greek_Beloved.webp)
 
 **Trait Category:**
 
@@ -890,7 +890,7 @@
 **Name:** Stupa
 
 **Image Files:**
-![Stupa](../images/tattoos__z125/ancient_nepal_Stupa.webp)
+![Stupa](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_nepal_Stupa.webp)
 
 **Trait Category:**
 
@@ -963,7 +963,7 @@
 **Name:** Filipino Tribal
 
 **Image Files:**
-![Filipino Tribal](../images/tattoos__z125/Filipino%20Tribal.webp)
+![Filipino Tribal](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Filipino%20Tribal.webp)
 
 **Trait Category:**
 
@@ -1036,7 +1036,7 @@
 **Name:** Enso
 
 **Image Files:**
-![Enso](../images/tattoos__z125/ancient_buddhist_Enso.webp)
+![Enso](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_buddhist_Enso.webp)
 
 **Trait Category:**
 
@@ -1109,7 +1109,7 @@
 **Name:** Straight Edge
 
 **Image Files:**
-![Straight Edge](../images/tattoos__z125/Straight%20Edge.webp)
+![Straight Edge](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Straight%20Edge.webp)
 
 **Trait Category:**
 
@@ -1184,7 +1184,7 @@
 **Name:** Whirling Dervish
 
 **Image Files:**
-![Whirling Dervish](../images/tattoos__z125/ancient_sufi_Whirling%20Dervish.webp)
+![Whirling Dervish](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_sufi_Whirling%20Dervish.webp)
 
 **Trait Category:**
 
@@ -1257,7 +1257,7 @@
 **Name:** Sugar Skull
 
 **Image Files:**
-![Sugar Skull](../images/tattoos__z125/Sugar%20Skull.webp)
+![Sugar Skull](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Sugar%20Skull.webp)
 
 **Trait Category:**
 
@@ -1330,7 +1330,7 @@
 **Name:** Lineart Lotus
 
 **Image Files:**
-![Lineart Lotus](../images/tattoos__z125/modern_hindu_Lineart%20Lotus.webp)
+![Lineart Lotus](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_hindu_Lineart%20Lotus.webp)
 
 **Trait Category:**
 
@@ -1403,7 +1403,7 @@
 **Name:** Ottoman Tughra
 
 **Image Files:**
-![Ottoman Tughra](../images/tattoos__z125/ancient_turkey_Ottoman%20Tughra.webp)
+![Ottoman Tughra](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_turkey_Ottoman%20Tughra.webp)
 
 **Trait Category:**
 
@@ -1476,7 +1476,7 @@
 **Name:** Heart with Wings
 
 **Image Files:**
-![Heart with Wings](../images/tattoos__z125/modern_sufi_Heart%20with%20Wings.webp)
+![Heart with Wings](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sufi_Heart%20with%20Wings.webp)
 
 **Trait Category:**
 
@@ -1549,7 +1549,7 @@
 **Name:** Ber Tsetseg
 
 **Image Files:**
-![Ber Tsetseg](../images/tattoos__z125/modern_mongolian_Ber%20Tsetseg.webp)
+![Ber Tsetseg](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_mongolian_Ber%20Tsetseg.webp)
 
 **Trait Category:**
 
@@ -1622,7 +1622,7 @@
 **Name:** Sicanje
 
 **Image Files:**
-![Sicanje](../images/tattoos__z125/modern_sicanje_Sicanje.webp)
+![Sicanje](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sicanje_Sicanje.webp)
 
 **Trait Category:**
 
@@ -1695,7 +1695,7 @@
 **Name:** Stylized Dragon
 
 **Image Files:**
-![Stylized Dragon](../images/tattoos__z125/modern_chinese_Stylized%20Dragon.webp)
+![Stylized Dragon](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_chinese_Stylized%20Dragon.webp)
 
 **Trait Category:**
 
@@ -1768,7 +1768,7 @@
 **Name:** Indus Valley Civilization Oxen
 
 **Image Files:**
-![Indus Valley Civilization Oxen](../images/tattoos__z125/ancient_punjabi_Indus%20Valley%20Civilization%20Oxen.webp)
+![Indus Valley Civilization Oxen](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_punjabi_Indus%20Valley%20Civilization%20Oxen.webp)
 
 **Trait Category:**
 
@@ -1841,7 +1841,7 @@
 **Name:** Stylized Quetzalcoatl
 
 **Image Files:**
-![Stylized Quetzalcoatl](../images/tattoos__z125/modern_mayan_Stylized%20Quetzalcoatl.webp)
+![Stylized Quetzalcoatl](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_mayan_Stylized%20Quetzalcoatl.webp)
 
 **Trait Category:**
 
@@ -1914,7 +1914,7 @@
 **Name:** Om
 
 **Image Files:**
-![Om](../images/tattoos__z125/ancient_hindu_Om.webp)
+![Om](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_hindu_Om.webp)
 
 **Trait Category:**
 
@@ -1987,7 +1987,7 @@
 **Name:** Pythia Bust
 
 **Image Files:**
-![Pythia Bust](../images/tattoos__z125/ancient_pythia_Pythia%20Bust.webp)
+![Pythia Bust](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_pythia_Pythia%20Bust.webp)
 
 **Trait Category:**
 
@@ -2060,7 +2060,7 @@
 **Name:** Jaguar
 
 **Image Files:**
-![Jaguar](../images/tattoos__z125/ancient_mayan_Jaguar.webp)
+![Jaguar](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_mayan_Jaguar.webp)
 
 **Trait Category:**
 
@@ -2134,7 +2134,7 @@
 **Name:** Dragon
 
 **Image Files:**
-![Dragon](../images/tattoos__z125/ancient_chinese_Dragon.webp)
+![Dragon](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_chinese_Dragon.webp)
 
 **Trait Category:**
 
@@ -2207,7 +2207,7 @@
 **Name:** Barbed Wire
 
 **Image Files:**
-![Barbed Wire](../images/tattoos__z125/Barbed%20Wire.webp)
+![Barbed Wire](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Barbed%20Wire.webp)
 
 **Trait Category:**
 
@@ -2280,7 +2280,7 @@
 **Name:** From the Full Moon Fell Nokomis
 
 **Image Files:**
-![modern_native american_From the Full Moon fell Nokomis](../images/tattoos__z125/modern_native%20american_From%20the%20Full%20Moon%20fell%20Nokomis.webp)
+![modern_native american_From the Full Moon fell Nokomis](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_native%20american_From%20the%20Full%20Moon%20fell%20Nokomis.webp)
 
 **Trait Category:**
 
@@ -2353,7 +2353,7 @@
 **Name:** Picture Cave
 
 **Image Files:**
-![ancient_native american_Picture Cave](../images/tattoos__z125/ancient_native%20american_Picture%20Cave.webp)
+![ancient_native american_Picture Cave](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_native%20american_Picture%20Cave.webp)
 
 **Trait Category:**
 
@@ -2426,7 +2426,7 @@
 **Name:** Time
 
 **Image Files:**
-![Time](../images/tattoos__z125/ancient_mongolian_Time.webp)
+![Time](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_mongolian_Time.webp)
 
 **Trait Category:**
 
@@ -2499,7 +2499,7 @@
 **Name:** Ge Ez Love
 
 **Image Files:**
-![ez love](../images/tattoos__z125/ancient_ethiopian_ge_ez%20love.webp)
+![ez love](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_ethiopian_ge_ez%20love.webp)
 
 **Trait Category:**
 
@@ -2572,7 +2572,7 @@
 **Name:** Grateful Dead Mushroom
 
 **Image Files:**
-![Grateful Dead Mushroom](../images/tattoos__z125/Grateful%20Dead%20Mushroom.webp)
+![Grateful Dead Mushroom](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/Grateful%20Dead%20Mushroom.webp)
 
 **Trait Category:**
 
@@ -2645,7 +2645,7 @@
 **Name:** Semilunar
 
 **Image Files:**
-![Semilunar](../images/tattoos__z125/modern_arabic_Semilunar.webp)
+![Semilunar](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_arabic_Semilunar.webp)
 
 **Trait Category:**
 
@@ -2718,7 +2718,7 @@
 **Name:** Triskele Hand
 
 **Image Files:**
-![ancient_irish druids_Triskele Hand](../images/tattoos__z125/ancient_irish%20druids_Triskele%20Hand.webp)
+![ancient_irish druids_Triskele Hand](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_irish%20druids_Triskele%20Hand.webp)
 
 **Trait Category:**
 
@@ -2791,7 +2791,7 @@
 **Name:** Stylized Dharma Wheel
 
 **Image Files:**
-![Stylized Dharma Wheel](../images/tattoos__z125/modern_buddhist_Stylized%20Dharma%20Wheel.webp)
+![Stylized Dharma Wheel](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_buddhist_Stylized%20Dharma%20Wheel.webp)
 
 **Trait Category:**
 
@@ -2864,7 +2864,7 @@
 **Name:** Sami Flag
 
 **Image Files:**
-![Sami Flag](../images/tattoos__z125/modern_sami_Sami%20Flag.webp)
+![Sami Flag](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_sami_Sami%20Flag.webp)
 
 **Trait Category:**
 
@@ -2937,7 +2937,7 @@
 **Name:** Without Fear Without Hate
 
 **Image Files:**
-![Without Fear Without Hate](../images/tattoos__z125/modern_punjabi_Without%20Fear%20Without%20Hate.webp)
+![Without Fear Without Hate](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/modern_punjabi_Without%20Fear%20Without%20Hate.webp)
 
 **Trait Category:**
 
@@ -3010,7 +3010,7 @@
 **Name:** Minimal Temple of Obodas
 
 **Image Files:**
-![Minimal Temple of Obodas](../images/tattoos__z125/ancient_arabic_Minimal%20Temple%20of%20Obodas.webp)
+![Minimal Temple of Obodas](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/ancient_arabic_Minimal%20Temple%20of%20Obodas.webp)
 
 **Trait Category:**
 
@@ -3083,7 +3083,7 @@
 **Name:** No Tattoos
 
 **Image Files:**
-![No Tattoos](../images/tattoos__z125/No%20tattoos.webp)
+![No Tattoos](https://mibera.fsn1.your-objectstorage.com/components/tattoos__z125/No%20tattoos.webp)
 
 **Trait Category:**
 

@@ -24,8 +24,9 @@ scripts/link-validation-report.json
 *.log
 npm-debug.log*
 
-# Images
+# Images (hosted externally)
 all-images/
+images/
 
 # Mireveal image folders (hosted externally)
 mireveals/*/webp/

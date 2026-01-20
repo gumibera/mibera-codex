@@ -11,7 +11,7 @@
 **Name:** Bera Headband
 
 **Image Files:**
-![Bera Headband](../images/hats__z160/SS3_milady_Bera%20Headband.webp)
+![Bera Headband](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Bera%20Headband.webp)
 
 **Accessory Type:**
 
@@ -88,7 +88,7 @@
 **Name:** Catboy Ears
 
 **Image Files:**
-![Catboy Ears](../images/hats__z160/SS3_milady_Catboy%20Ears.webp)
+![Catboy Ears](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Catboy%20Ears.webp)
 
 **Accessory Type:**
 
@@ -165,7 +165,7 @@
 **Name:** Trucker Mibera
 
 **Image Files:**
-![Trucker Mibera](../images/hats__z160/SS3_milady_Trucker%20Mibera.webp)
+![Trucker Mibera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Trucker%20Mibera.webp)
 
 **Accessory Type:**
 
@@ -242,7 +242,7 @@
 **Name:** Got Autism
 
 **Image Files:**
-![SS3 Got Autism](../images/hats__z160/SS3_Got%20Autism.webp)
+![SS3 Got Autism](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Got%20Autism.webp)
 
 **Accessory Type:**
 
@@ -319,7 +319,7 @@
 **Name:** Jake
 
 **Image Files:**
-![Jake](../images/hats__z160/SS3_acidhouse_Jake.webp)
+![Jake](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Jake.webp)
 
 **Accessory Type:**
 
@@ -397,7 +397,7 @@
 **Name:** Green Turban
 
 **Image Files:**
-![Green Turban](../images/hats__z160/SS3_milady_Green%20Turban.webp)
+![Green Turban](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Green%20Turban.webp)
 
 **Accessory Type:**
 
@@ -474,7 +474,7 @@
 **Name:** Resilient
 
 **Image Files:**
-![Resilient](../images/hats__z160/SS3_freetekno_Resilient.webp)
+![Resilient](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_freetekno_Resilient.webp)
 
 **Accessory Type:**
 
@@ -552,7 +552,7 @@
 **Name:** Alien Head Band
 
 **Image Files:**
-![Alien Head Band](../images/hats__z160/SS3_milady_Alien%20Head%20Band.webp)
+![Alien Head Band](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Alien%20Head%20Band.webp)
 
 **Accessory Type:**
 
@@ -629,7 +629,7 @@
 **Name:** WAGMI
 
 **Image Files:**
-![WAGMI](../images/hats__z160/SS3_milady_WAGMI.webp)
+![WAGMI](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_WAGMI.webp)
 
 **Accessory Type:**
 
@@ -706,7 +706,7 @@
 **Name:** I Have Mibera
 
 **Image Files:**
-![SS3 I Have Mibera](../images/hats__z160/SS3_I%20Have%20Mibera.webp)
+![SS3 I Have Mibera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_I%20Have%20Mibera.webp)
 
 **Accessory Type:**
 
@@ -783,7 +783,7 @@
 **Name:** Spiral Tribe
 
 **Image Files:**
-![Spiral Tribe](../images/hats__z160/SS3_milady_Spiral%20Tribe.webp)
+![Spiral Tribe](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Spiral%20Tribe.webp)
 
 **Accessory Type:**
 
@@ -860,7 +860,7 @@
 **Name:** Cozy Sonic
 
 **Image Files:**
-![Cozy Sonic](../images/hats__z160/SS3_acidhouse_Cozy%20Sonic.webp)
+![Cozy Sonic](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Cozy%20Sonic.webp)
 
 **Accessory Type:**
 
@@ -937,7 +937,7 @@
 **Name:** beret
 
 **Image Files:**
-![Beret](../images/hats__z160/SS3_milady_Beret.webp)
+![Beret](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Beret.webp)
 
 **Accessory Type:**
 
@@ -1014,7 +1014,7 @@
 **Name:** Midsommar
 
 **Image Files:**
-![ancient irishDruid Midsommar](../images/hats__z160/SS3_milady_ancient_irishDruid_Midsommar.webp)
+![ancient irishDruid Midsommar](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_ancient_irishDruid_Midsommar.webp)
 
 **Accessory Type:**
 
@@ -1091,7 +1091,7 @@
 **Name:** Remiliaco
 
 **Image Files:**
-![Remiliaco](../images/hats__z160/SS3_acidhouse_Remiliaco.webp)
+![Remiliaco](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remiliaco.webp)
 
 **Accessory Type:**
 
@@ -1168,7 +1168,7 @@
 **Name:** Tweed Peak Cap
 
 **Image Files:**
-![Tweed Peak Cap](../images/hats__z160/SS3_milady_Tweed%20Peak%20Cap.webp)
+![Tweed Peak Cap](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Tweed%20Peak%20Cap.webp)
 
 **Accessory Type:**
 
@@ -1246,7 +1246,7 @@
 **Name:** Remcon
 
 **Image Files:**
-![Remcon](../images/hats__z160/SS3_acidhouse_Remcon.webp)
+![Remcon](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remcon.webp)
 
 **Accessory Type:**
 
@@ -1325,7 +1325,7 @@
 **Name:** Russian
 
 **Image Files:**
-![Russian](../images/hats__z160/SS3_milady_Russian.webp)
+![Russian](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Russian.webp)
 
 **Accessory Type:**
 
@@ -1403,7 +1403,7 @@
 **Name:** Baddies Blue
 
 **Image Files:**
-![SS3 Baddies Blue](../images/hats__z160/SS3_Baddies%20Blue.webp)
+![SS3 Baddies Blue](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Baddies%20Blue.webp)
 
 **Accessory Type:**
 
@@ -1480,7 +1480,7 @@
 **Name:** No World As Fucked As Mine
 
 **Image Files:**
-![modern traveller No World As Fucked As Mine](../images/hats__z160/SS3_acidhouse_modern_traveller_No%20World%20As%20Fucked%20As%20Mine.webp)
+![modern traveller No World As Fucked As Mine](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_modern_traveller_No%20World%20As%20Fucked%20As%20Mine.webp)
 
 **Accessory Type:**
 
@@ -1558,7 +1558,7 @@
 **Name:** Camo
 
 **Image Files:**
-![Camo](../images/hats__z160/SS3_milady_Camo.webp)
+![Camo](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Camo.webp)
 
 **Accessory Type:**
 
@@ -1636,7 +1636,7 @@
 **Name:** Ethiopian Headdress
 
 **Image Files:**
-![Ethiopian Headdress](../images/hats__z160/SS3_milady_Ethiopian%20Headdress.webp)
+![Ethiopian Headdress](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Ethiopian%20Headdress.webp)
 
 **Accessory Type:**
 
@@ -1714,7 +1714,7 @@
 **Name:** McDonalds 2
 
 **Image Files:**
-![Mcdonalds 2](../images/hats__z160/SS3_milady_Mcdonalds%202.webp)
+![Mcdonalds 2](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Mcdonalds%202.webp)
 
 **Accessory Type:**
 
@@ -1791,7 +1791,7 @@
 **Name:** American Union
 
 **Image Files:**
-![American Union](../images/hats__z160/SS3_milady_American%20Union.webp)
+![American Union](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_American%20Union.webp)
 
 **Accessory Type:**
 
@@ -1869,7 +1869,7 @@
 **Name:** Straw farmer
 
 **Image Files:**
-![Straw Farmers](../images/hats__z160/SS3_acidhouse_Straw%20Farmers.webp)
+![Straw Farmers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Straw%20Farmers.webp)
 
 **Accessory Type:**
 
@@ -1946,7 +1946,7 @@
 **Name:** Amanita
 
 **Image Files:**
-![amanita](../images/hats__z160/SS3_milady_amanita.webp)
+![amanita](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_amanita.webp)
 
 **Accessory Type:**
 
@@ -2023,7 +2023,7 @@
 **Name:** Sudan Sufi
 
 **Image Files:**
-![Sudan Sufi](../images/hats__z160/SS3_milady_Sudan%20Sufi.webp)
+![Sudan Sufi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Sudan%20Sufi.webp)
 
 **Accessory Type:**
 
@@ -2100,7 +2100,7 @@
 **Name:** THJ Globe
 
 **Image Files:**
-![SS3 THJ Globe](../images/hats__z160/SS3_THJ%20Globe.webp)
+![SS3 THJ Globe](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_THJ%20Globe.webp)
 
 **Accessory Type:**
 
@@ -2177,7 +2177,7 @@
 **Name:** Orange
 
 **Image Files:**
-![Orange](../images/hats__z160/SS3_milady_Orange.webp)
+![Orange](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Orange.webp)
 
 **Accessory Type:**
 
@@ -2254,7 +2254,7 @@
 **Name:** I Eat Ass
 
 **Image Files:**
-![I Eat Ass](../images/hats__z160/SS3_chicagodetroit_I%20Eat%20Ass.webp)
+![I Eat Ass](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_I%20Eat%20Ass.webp)
 
 **Accessory Type:**
 
@@ -2331,7 +2331,7 @@
 **Name:** Baddies Pink
 
 **Image Files:**
-![SS3 Baddies Pink](../images/hats__z160/SS3_Baddies%20Pink.webp)
+![SS3 Baddies Pink](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Baddies%20Pink.webp)
 
 **Accessory Type:**
 
@@ -2408,7 +2408,7 @@
 **Name:** McDonalds 1
 
 **Image Files:**
-![Mcdonalds 1](../images/hats__z160/SS3_chicagodetroit_Mcdonalds%201.webp)
+![Mcdonalds 1](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Mcdonalds%201.webp)
 
 **Accessory Type:**
 
@@ -2485,7 +2485,7 @@
 **Name:** Remillia Embroidered
 
 **Image Files:**
-![Remilia Embroidered](../images/hats__z160/SS3_acidhouse_Remilia%20Embroidered.webp)
+![Remilia Embroidered](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Remilia%20Embroidered.webp)
 
 **Accessory Type:**
 
@@ -2564,7 +2564,7 @@
 **Name:** Hat With Feathers
 
 **Image Files:**
-![ancient mongolian Hat With Feathers](../images/hats__z160/SS4_acidhouse_ancient_mongolian_Hat%20With%20Feathers.webp)
+![ancient mongolian Hat With Feathers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_ancient_mongolian_Hat%20With%20Feathers.webp)
 
 **Accessory Type:**
 
@@ -2642,7 +2642,7 @@
 **Name:** Orthodox Fur Small
 
 **Image Files:**
-![modern orthodoxjew Orthodox Fur Small](../images/hats__z160/SS3_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Small.webp)
+![modern orthodoxjew Orthodox Fur Small](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Small.webp)
 
 **Accessory Type:**
 
@@ -2720,7 +2720,7 @@
 **Name:** Wide Brim
 
 **Image Files:**
-![Wide Brim](../images/hats__z160/SS3_chicagodetroit_Wide%20Brim.webp)
+![Wide Brim](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Wide%20Brim.webp)
 
 **Accessory Type:**
 
@@ -2797,7 +2797,7 @@
 **Name:** Bitcoin 2
 
 **Image Files:**
-![Bitcoin 2](../images/hats__z160/SS4_acidhouse_Bitcoin%202.webp)
+![Bitcoin 2](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_Bitcoin%202.webp)
 
 **Accessory Type:**
 
@@ -2874,7 +2874,7 @@
 **Name:** Cincinnati Reds
 
 **Image Files:**
-![C](../images/hats__z160/SS3_freetekno_C.webp)
+![C](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_freetekno_C.webp)
 
 **Accessory Type:**
 
@@ -2952,7 +2952,7 @@
 **Name:** Head Tube
 
 **Image Files:**
-![Head Tube](../images/hats__z160/SS3_chicagodetroit_Head%20Tube.webp)
+![Head Tube](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Head%20Tube.webp)
 
 **Accessory Type:**
 
@@ -3029,7 +3029,7 @@
 **Name:** Sailor
 
 **Image Files:**
-![Sailor](../images/hats__z160/SS3_milady_Sailor.webp)
+![Sailor](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Sailor.webp)
 
 **Accessory Type:**
 
@@ -3106,7 +3106,7 @@
 **Name:** Modern Irish
 
 **Image Files:**
-![Modern Irish](../images/hats__z160/SS2_acidhouse_Modern%20Irish.webp)
+![Modern Irish](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Modern%20Irish.webp)
 
 **Accessory Type:**
 
@@ -3184,7 +3184,7 @@
 **Name:** Aum Headwear
 
 **Image Files:**
-![modern japanese Aum Headwear](../images/hats__z160/SS3_acidhouse_modern_japanese_Aum%20Headwear.webp)
+![modern japanese Aum Headwear](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_modern_japanese_Aum%20Headwear.webp)
 
 **Accessory Type:**
 
@@ -3261,7 +3261,7 @@
 **Name:** Working Like a Dog
 
 **Image Files:**
-![Workin Like A Dog](../images/hats__z160/SS2_acidhouse_Workin%20Like%20A%20Dog.webp)
+![Workin Like A Dog](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Workin%20Like%20A%20Dog.webp)
 
 **Accessory Type:**
 
@@ -3339,7 +3339,7 @@
 **Name:** Cute Bera
 
 **Image Files:**
-![SS3 Cute Bera](../images/hats__z160/SS3_Cute%20Bera.webp)
+![SS3 Cute Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Cute%20Bera.webp)
 
 **Accessory Type:**
 
@@ -3416,7 +3416,7 @@
 **Name:** Flower Hat
 
 **Image Files:**
-![SS2 Flower Hat](../images/hats__z160/SS2_Flower%20Hat.webp)
+![SS2 Flower Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Flower%20Hat.webp)
 
 **Accessory Type:**
 
@@ -3493,7 +3493,7 @@
 **Name:** Maid Head
 
 **Image Files:**
-![Maid Head](../images/hats__z160/SS2_milady_Maid%20Head.webp)
+![Maid Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Maid%20Head.webp)
 
 **Accessory Type:**
 
@@ -3570,7 +3570,7 @@
 **Name:** Peyote Hat
 
 **Image Files:**
-![Peyote Hat](../images/hats__z160/SS4_freetekno_Peyote%20Hat.webp)
+![Peyote Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_Peyote%20Hat.webp)
 
 **Accessory Type:**
 
@@ -3648,7 +3648,7 @@
 **Name:** Bera Bucket
 
 **Image Files:**
-![Bera Bucket](../images/hats__z160/SS3_milady_Bera%20Bucket.webp)
+![Bera Bucket](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_milady_Bera%20Bucket.webp)
 
 **Accessory Type:**
 
@@ -3725,7 +3725,7 @@
 **Name:** Sami Hat
 
 **Image Files:**
-![ancient Sami Hat](../images/hats__z160/SS3_acidhouse_ancient_Sami%20Hat.webp)
+![ancient Sami Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_ancient_Sami%20Hat.webp)
 
 **Accessory Type:**
 
@@ -3802,7 +3802,7 @@
 **Name:** Stylized Fashion
 
 **Image Files:**
-![Stylized Fashion](../images/hats__z160/SS3_chicagodetroit_Stylized%20Fashion.webp)
+![Stylized Fashion](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Stylized%20Fashion.webp)
 
 **Accessory Type:**
 
@@ -3879,7 +3879,7 @@
 **Name:** CPAP
 
 **Image Files:**
-![CPAP](../images/hats__z160/SS4_freetekno_CPAP.webp)
+![CPAP](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_CPAP.webp)
 
 **Accessory Type:**
 
@@ -3956,7 +3956,7 @@
 **Name:** Undiagnosed
 
 **Image Files:**
-![SS2 Undiagnosed](../images/hats__z160/SS2_Undiagnosed.webp)
+![SS2 Undiagnosed](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Undiagnosed.webp)
 
 **Accessory Type:**
 
@@ -4033,7 +4033,7 @@
 **Name:** THJ Bees
 
 **Image Files:**
-![SS4 THJ Bees](../images/hats__z160/SS4_THJ%20Bees.webp)
+![SS4 THJ Bees](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_THJ%20Bees.webp)
 
 **Accessory Type:**
 
@@ -4110,7 +4110,7 @@
 **Name:** Forehead Kiss
 
 **Image Files:**
-![Forehead Kiss](../images/hats__z160/SS2_milady_Forehead%20Kiss.webp)
+![Forehead Kiss](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Forehead%20Kiss.webp)
 
 **Accessory Type:**
 
@@ -4187,7 +4187,7 @@
 **Name:** Shoulder Orange
 
 **Image Files:**
-![Shoulder Orange](../images/hats__z160/SS2_milady_Shoulder%20Orange.webp)
+![Shoulder Orange](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Shoulder%20Orange.webp)
 
 **Accessory Type:**
 
@@ -4264,7 +4264,7 @@
 **Name:** BM2C
 
 **Image Files:**
-![SS2 BM2C](../images/hats__z160/SS2_BM2C.webp)
+![SS2 BM2C](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_BM2C.webp)
 
 **Accessory Type:**
 
@@ -4341,7 +4341,7 @@
 **Name:** Peyote Feather
 
 **Image Files:**
-![Peyote Feather](../images/hats__z160/SS4_freetekno_Peyote%20Feather.webp)
+![Peyote Feather](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_Peyote%20Feather.webp)
 
 **Accessory Type:**
 
@@ -4418,7 +4418,7 @@
 **Name:** No Cap
 
 **Image Files:**
-![SS2 No Cap](../images/hats__z160/SS2_No%20Cap.webp)
+![SS2 No Cap](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_No%20Cap.webp)
 
 **Accessory Type:**
 
@@ -4495,7 +4495,7 @@
 **Name:** Egg on Head
 
 **Image Files:**
-![SS2 Egg on Head](../images/hats__z160/SS2_Egg%20on%20Head.webp)
+![SS2 Egg on Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Egg%20on%20Head.webp)
 
 **Accessory Type:**
 
@@ -4572,7 +4572,7 @@
 **Name:** Ethiopian Flat
 
 **Image Files:**
-![Ethiopian Flat](../images/hats__z160/SS2_milady_Ethiopian%20Flat.webp)
+![Ethiopian Flat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Ethiopian%20Flat.webp)
 
 **Accessory Type:**
 
@@ -4649,7 +4649,7 @@
 **Name:** Aboriginal Flag
 
 **Image Files:**
-![Aboriginal Flag](../images/hats__z160/SS2_freetekno_Aboriginal%20Flag.webp)
+![Aboriginal Flag](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_Aboriginal%20Flag.webp)
 
 **Accessory Type:**
 
@@ -4727,7 +4727,7 @@
 **Name:** Rice Paddy
 
 **Image Files:**
-![Rice Paddy](../images/hats__z160/SS4_acidhouse_Rice%20Paddy.webp)
+![Rice Paddy](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_Rice%20Paddy.webp)
 
 **Accessory Type:**
 
@@ -4804,7 +4804,7 @@
 **Name:** Raiders
 
 **Image Files:**
-![Raiders](../images/hats__z160/SS4_chicagodetroit_Raiders.webp)
+![Raiders](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Raiders.webp)
 
 **Accessory Type:**
 
@@ -4881,7 +4881,7 @@
 **Name:** Fez
 
 **Image Files:**
-![Fez](../images/hats__z160/SS2_milady_Fez.webp)
+![Fez](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Fez.webp)
 
 **Accessory Type:**
 
@@ -4958,7 +4958,7 @@
 **Name:** Den Hopium
 
 **Image Files:**
-![SS2 Den Hopium](../images/hats__z160/SS2_Den%20Hopium.webp)
+![SS2 Den Hopium](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Den%20Hopium.webp)
 
 **Accessory Type:**
 
@@ -5035,7 +5035,7 @@
 **Name:** Bera
 
 **Image Files:**
-![Bera](../images/hats__z160/SS4_milady_Bera.webp)
+![Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Bera.webp)
 
 **Accessory Type:**
 
@@ -5112,7 +5112,7 @@
 **Name:** Cowboy
 
 **Image Files:**
-![Cowboy](../images/hats__z160/SS4_milady_Cowboy.webp)
+![Cowboy](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Cowboy.webp)
 
 **Accessory Type:**
 
@@ -5189,7 +5189,7 @@
 **Name:** Lee Scratch 2
 
 **Image Files:**
-![Lee Scratch 2](../images/hats__z160/SS2_chicagodetroit_Lee%20Scratch%202.webp)
+![Lee Scratch 2](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Lee%20Scratch%202.webp)
 
 **Accessory Type:**
 
@@ -5266,7 +5266,7 @@
 **Name:** Tight Turban
 
 **Image Files:**
-![modern sufi Tight Turban](../images/hats__z160/SS2_chicagodetroit_modern_sufi_Tight%20Turban.webp)
+![modern sufi Tight Turban](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_modern_sufi_Tight%20Turban.webp)
 
 **Accessory Type:**
 
@@ -5344,7 +5344,7 @@
 **Name:** Fruits Remilia Hat
 
 **Image Files:**
-![Fruits Remilia Hat](../images/hats__z160/SS2_milady_Fruits%20Remilia%20Hat.webp)
+![Fruits Remilia Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Fruits%20Remilia%20Hat.webp)
 
 **Accessory Type:**
 
@@ -5421,7 +5421,7 @@
 **Name:** Face Hat with Feathers
 
 **Image Files:**
-![ancient mongolian Face Hat With Feathers](../images/hats__z160/SS4_acidhouse_ancient_mongolian_Face%20Hat%20With%20Feathers.webp)
+![ancient mongolian Face Hat With Feathers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_acidhouse_ancient_mongolian_Face%20Hat%20With%20Feathers.webp)
 
 **Accessory Type:**
 
@@ -5499,7 +5499,7 @@
 **Name:** Wire Cat Ears
 
 **Image Files:**
-![SS2 Wire Cat Ears](../images/hats__z160/SS2_Wire%20Cat%20Ears.webp)
+![SS2 Wire Cat Ears](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Wire%20Cat%20Ears.webp)
 
 **Accessory Type:**
 
@@ -5576,7 +5576,7 @@
 **Name:** Marsha’s Flowers
 
 **Image Files:**
-![Marshas Flowers](../images/hats__z160/SS4_chicagodetroit_Marshas%20Flowers.webp)
+![Marshas Flowers](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Marshas%20Flowers.webp)
 
 **Accessory Type:**
 
@@ -5654,7 +5654,7 @@
 **Name:** Yayo
 
 **Image Files:**
-![SS2 Yayo](../images/hats__z160/SS2_Yayo.webp)
+![SS2 Yayo](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Yayo.webp)
 
 **Accessory Type:**
 
@@ -5731,7 +5731,7 @@
 **Name:** Tez Watermelon
 
 **Image Files:**
-![SS4 tez watermelon](../images/hats__z160/SS4_tez%20watermelon.webp)
+![SS4 tez watermelon](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_tez%20watermelon.webp)
 
 **Accessory Type:**
 
@@ -5808,7 +5808,7 @@
 **Name:** Make Milady Fun Again
 
 **Image Files:**
-![SS2 Make Milady Fun Again](../images/hats__z160/SS2_Make%20Milady%20Fun%20Again.webp)
+![SS2 Make Milady Fun Again](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Make%20Milady%20Fun%20Again.webp)
 
 **Accessory Type:**
 
@@ -5885,7 +5885,7 @@
 **Name:** OBB Lid
 
 **Image Files:**
-![SS2 OBB Lid](../images/hats__z160/SS2_OBB%20Lid.webp)
+![SS2 OBB Lid](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_OBB%20Lid.webp)
 
 **Accessory Type:**
 
@@ -5962,7 +5962,7 @@
 **Name:** Crowley
 
 **Image Files:**
-![modern satanist Crawley](../images/hats__z160/SS4_freetekno_modern_satanist_Crawley.webp)
+![modern satanist Crawley](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_modern_satanist_Crawley.webp)
 
 **Accessory Type:**
 
@@ -6040,7 +6040,7 @@
 **Name:** Butterfly Beanie
 
 **Image Files:**
-![SS4 Butterfly Beanie](../images/hats__z160/SS4_Butterfly%20Beanie.webp)
+![SS4 Butterfly Beanie](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_Butterfly%20Beanie.webp)
 
 **Accessory Type:**
 
@@ -6117,7 +6117,7 @@
 **Name:** Orthodox Fur Large
 
 **Image Files:**
-![modern orthodoxjew Orthodox Fur Large](../images/hats__z160/SS4_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Large.webp)
+![modern orthodoxjew Orthodox Fur Large](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_modern_orthodoxjew_Orthodox%20Fur%20Large.webp)
 
 **Accessory Type:**
 
@@ -6195,7 +6195,7 @@
 **Name:** Pythia Robe
 
 **Image Files:**
-![ancient pythia Pythia Robe](../images/hats__z160/SS4_chicagodetroit_ancient_pythia_Pythia%20Robe.webp)
+![ancient pythia Pythia Robe](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_ancient_pythia_Pythia%20Robe.webp)
 
 **Accessory Type:**
 
@@ -6274,7 +6274,7 @@
 **Name:** Bitcoin 1
 
 **Image Files:**
-![Bitcoin 1](../images/hats__z160/SS3_acidhouse_Bitcoin%201.webp)
+![Bitcoin 1](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_acidhouse_Bitcoin%201.webp)
 
 **Accessory Type:**
 
@@ -6351,7 +6351,7 @@
 **Name:** Bear Down
 
 **Image Files:**
-![Bear Down](../images/hats__z160/SS2_acidhouse_Bear%20Down.webp)
+![Bear Down](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Bear%20Down.webp)
 
 **Accessory Type:**
 
@@ -6428,7 +6428,7 @@
 **Name:** Duct Tape
 
 **Image Files:**
-![duct tape](../images/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
+![duct tape](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
 
 **Accessory Type:**
 
@@ -6505,7 +6505,7 @@
 **Name:** Mibera Pacifier
 
 **Image Files:**
-![Mibera Pacifier](../images/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
+![Mibera Pacifier](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
 
 **Accessory Type:**
 
@@ -6582,7 +6582,7 @@
 **Name:** Vaneck Intern
 
 **Image Files:**
-![vaneck intern](../images/hats__z160/SS2_freetekno_vaneck%20intern.webp)
+![vaneck intern](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_vaneck%20intern.webp)
 
 **Accessory Type:**
 
@@ -6659,7 +6659,7 @@
 **Name:** Aitoshi
 
 **Image Files:**
-![Aitoshi](../images/hats__z160/SS2_acidhouse_Aitoshi.webp)
+![Aitoshi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Aitoshi.webp)
 
 **Accessory Type:**
 
@@ -6736,7 +6736,7 @@
 **Name:** Blue Bow Hat
 
 **Image Files:**
-![SS2 Blue Bow Hat](../images/hats__z160/SS2_Blue%20Bow%20Hat.webp)
+![SS2 Blue Bow Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Blue%20Bow%20Hat.webp)
 
 **Accessory Type:**
 
@@ -6813,7 +6813,7 @@
 **Name:** McDonalds 3
 
 **Image Files:**
-![mcdonalds 3](../images/hats__z160/mcdonalds%203.webp)
+![mcdonalds 3](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/mcdonalds%203.webp)
 
 **Accessory Type:**
 
@@ -6890,7 +6890,7 @@
 **Name:** Party Hat Red
 
 **Image Files:**
-![SS4 Party Hat Red](../images/hats__z160/SS4_Party%20Hat%20Red.webp)
+![SS4 Party Hat Red](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_Party%20Hat%20Red.webp)
 
 **Accessory Type:**
 
@@ -6967,7 +6967,7 @@
 **Name:** Party Hat Blue
 
 **Image Files:**
-![SS5 Party Hat Blue](../images/hats__z160/SS5_Party%20Hat%20Blue.webp)
+![SS5 Party Hat Blue](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Party%20Hat%20Blue.webp)
 
 **Accessory Type:**
 
@@ -7044,7 +7044,7 @@
 **Name:** backwards
 
 **Image Files:**
-![Backwards](../images/hats__z160/SS2_milady_Backwards.webp)
+![Backwards](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Backwards.webp)
 
 **Accessory Type:**
 
@@ -7122,7 +7122,7 @@
 **Name:** Spiky Lee Scratch
 
 **Image Files:**
-![Lee Scratch](../images/hats__z160/SS5_chicagodetroit_Lee%20Scratch.webp)
+![Lee Scratch](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_chicagodetroit_Lee%20Scratch.webp)
 
 **Accessory Type:**
 
@@ -7199,7 +7199,7 @@
 **Name:** FBI Hat
 
 **Image Files:**
-![FBI Hat](../images/hats__z160/SS5_milady_FBI%20Hat.webp)
+![FBI Hat](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_milady_FBI%20Hat.webp)
 
 **Accessory Type:**
 
@@ -7276,7 +7276,7 @@
 **Name:** Kingdomly
 
 **Image Files:**
-![SS3 Kingdomly](../images/hats__z160/SS3_Kingdomly.webp)
+![SS3 Kingdomly](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Kingdomly.webp)
 
 **Accessory Type:**
 
@@ -7353,7 +7353,7 @@
 **Name:** Abusive
 
 **Image Files:**
-![SS1 Abusive](../images/hats__z160/SS1_Abusive.webp)
+![SS1 Abusive](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_Abusive.webp)
 
 **Accessory Type:**
 
@@ -7430,7 +7430,7 @@
 **Name:** THJ Dark Gray
 
 **Image Files:**
-![SS5 THJ Dark Gray](../images/hats__z160/SS5_THJ%20Dark%20Gray.webp)
+![SS5 THJ Dark Gray](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_THJ%20Dark%20Gray.webp)
 
 **Accessory Type:**
 
@@ -7507,7 +7507,7 @@
 **Name:** Pink Panels
 
 **Image Files:**
-![Pink Panels](../images/hats__z160/SS1_milady_Pink%20Panels.webp)
+![Pink Panels](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_milady_Pink%20Panels.webp)
 
 **Accessory Type:**
 
@@ -7584,7 +7584,7 @@
 **Name:** FTX Risk Management
 
 **Image Files:**
-![FTX Risk Management](../images/hats__z160/SS1_acidhouse_FTX%20Risk%20Management.webp)
+![FTX Risk Management](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_acidhouse_FTX%20Risk%20Management.webp)
 
 **Accessory Type:**
 
@@ -7661,7 +7661,7 @@
 **Name:** wolf head
 
 **Image Files:**
-![ancient mongolian Wolf Head](../images/hats__z160/SS5_milady_ancient_mongolian_Wolf%20Head.webp)
+![ancient mongolian Wolf Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_milady_ancient_mongolian_Wolf%20Head.webp)
 
 **Accessory Type:**
 
@@ -7738,7 +7738,7 @@
 **Name:** mbga
 
 **Image Files:**
-![SS1 MBGA](../images/hats__z160/SS1_MBGA.webp)
+![SS1 MBGA](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_MBGA.webp)
 
 **Accessory Type:**
 
@@ -7815,7 +7815,7 @@
 **Name:** obb dripping honey
 
 **Image Files:**
-![SS5 OBB Dripping Honey](../images/hats__z160/SS5_OBB%20Dripping%20Honey.webp)
+![SS5 OBB Dripping Honey](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_OBB%20Dripping%20Honey.webp)
 
 **Accessory Type:**
 
@@ -7892,7 +7892,7 @@
 **Name:** regal crown
 
 **Image Files:**
-![SS5 Regal Crown](../images/hats__z160/SS5_Regal%20Crown.webp)
+![SS5 Regal Crown](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Regal%20Crown.webp)
 
 **Accessory Type:**
 
@@ -7969,7 +7969,7 @@
 **Name:** darkfi
 
 **Image Files:**
-![SS3 Darkfi](../images/hats__z160/SS3_Darkfi.webp)
+![SS3 Darkfi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Darkfi.webp)
 
 **Accessory Type:**
 
@@ -8123,7 +8123,7 @@
 **Name:** aori
 
 **Image Files:**
-![SS3 Aori](../images/hats__z160/SS3_Aori.webp)
+![SS3 Aori](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Aori.webp)
 
 **Accessory Type:**
 
@@ -8200,7 +8200,7 @@
 **Name:** ramen finance bowl
 
 **Image Files:**
-![SS3 Ramen Finance Bowl](../images/hats__z160/SS3_Ramen%20Finance%20Bowl.webp)
+![SS3 Ramen Finance Bowl](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Ramen%20Finance%20Bowl.webp)
 
 **Accessory Type:**
 
@@ -8277,7 +8277,7 @@
 **Name:** bozito cave off
 
 **Image Files:**
-![SS4 bozito cave off](../images/hats__z160/SS4_bozito%20cave%20off.webp)
+![SS4 bozito cave off](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_bozito%20cave%20off.webp)
 
 **Accessory Type:**
 
@@ -8354,7 +8354,7 @@
 **Name:** satan
 
 **Image Files:**
-![modern satanist Satan](../images/hats__z160/SS4_freetekno_modern_satanist_Satan.webp)
+![modern satanist Satan](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_modern_satanist_Satan.webp)
 
 **Accessory Type:**
 
@@ -8431,7 +8431,7 @@
 **Name:** los bullas
 
 **Image Files:**
-![SS4 los bullas](../images/hats__z160/SS4_los%20bullas.webp)
+![SS4 los bullas](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_los%20bullas.webp)
 
 **Accessory Type:**
 
@@ -8508,7 +8508,7 @@
 **Name:** devon head
 
 **Image Files:**
-![Devon Head](../images/hats__z160/SS4_freetekno_Devon%20Head.webp)
+![Devon Head](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_freetekno_Devon%20Head.webp)
 
 **Accessory Type:**
 
@@ -8585,7 +8585,7 @@
 **Name:** berahorses bucket
 
 **Image Files:**
-![SS3 Berahorses Bucket](../images/hats__z160/SS3_Berahorses%20Bucket.webp)
+![SS3 Berahorses Bucket](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Berahorses%20Bucket.webp)
 
 **Accessory Type:**
 
@@ -8662,7 +8662,7 @@
 **Name:** yeet bucket
 
 **Image Files:**
-![SS3 Yeet Bucket](../images/hats__z160/SS3_Yeet%20Bucket.webp)
+![SS3 Yeet Bucket](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_Yeet%20Bucket.webp)
 
 **Accessory Type:**
 
@@ -8739,7 +8739,7 @@
 **Name:** reimu syndicate
 
 **Image Files:**
-![SS2 Reimu Syndicate](../images/hats__z160/SS2_Reimu%20Syndicate.webp)
+![SS2 Reimu Syndicate](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_Reimu%20Syndicate.webp)
 
 **Accessory Type:**
 
@@ -8816,7 +8816,7 @@
 **Name:** dread pirates bandana
 
 **Image Files:**
-![Dread Pirates Bandana](../images/hats__z160/SS4_chicagodetroit_Dread%20Pirates%20Bandana.webp)
+![Dread Pirates Bandana](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Dread%20Pirates%20Bandana.webp)
 
 **Accessory Type:**
 
@@ -8893,7 +8893,7 @@
 **Name:** ketamine kneecap up the ra balaclava
 
 **Image Files:**
-![SS4  ketamine kneecap up the ra balaclava ](../images/hats__z160/SS4_%20ketamine%20kneecap%20up%20the%20ra%20balaclava%20.webp)
+![SS4  ketamine kneecap up the ra balaclava ](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_%20ketamine%20kneecap%20up%20the%20ra%20balaclava%20.webp)
 
 **Accessory Type:**
 
@@ -8970,7 +8970,7 @@
 **Name:** indian
 
 **Image Files:**
-![Indian](../images/hats__z160/SS4_chicagodetroit_Indian.webp)
+![Indian](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_chicagodetroit_Indian.webp)
 
 **Accessory Type:**
 
@@ -9047,7 +9047,7 @@
 **Name:** strawberry
 
 **Image Files:**
-![Strawberry](../images/hats__z160/SS2_milady_Strawberry.webp)
+![Strawberry](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_milady_Strawberry.webp)
 
 **Accessory Type:**
 
@@ -9124,7 +9124,7 @@
 **Name:** smokey durag
 
 **Image Files:**
-![SS5 Smokey Durag](../images/hats__z160/SS5_Smokey%20Durag.webp)
+![SS5 Smokey Durag](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Smokey%20Durag.webp)
 
 **Accessory Type:**
 
@@ -9201,7 +9201,7 @@
 **Name:** baby bera
 
 **Image Files:**
-![Baby Bera](../images/hats__z160/SS3_chicagodetroit_Baby%20Bera.webp)
+![Baby Bera](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS3_chicagodetroit_Baby%20Bera.webp)
 
 **Accessory Type:**
 
@@ -9278,7 +9278,7 @@
 **Name:** sunra
 
 **Image Files:**
-![Sunra](../images/hats__z160/SS5_chicagodetroit_Sunra.webp)
+![Sunra](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_chicagodetroit_Sunra.webp)
 
 **Accessory Type:**
 
@@ -9355,7 +9355,7 @@
 **Name:** hamas
 
 **Image Files:**
-![SS5 Hamas](../images/hats__z160/SS5_Hamas.webp)
+![SS5 Hamas](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS5_Hamas.webp)
 
 **Accessory Type:**
 

@@ -12,7 +12,7 @@
 
 **Ancestors:** Aboriginals
 
-![Acacia](../images/Molecule%20%28new%29/acidhouse_aboriginals_acacia.webp)
+![Acacia](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_aboriginals_acacia.webp)
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Ancestors:** Sicanje
 
-![Alcohol](../images/Molecule%20%28new%29/chicagodetroit_sicanje_alcohol.webp)
+![Alcohol](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_sicanje_alcohol.webp)
 
 ---
 
@@ -36,7 +36,7 @@
 
 **Ancestors:** Orthodox Jews, Aboriginal, Haitians
 
-![Ancestral Trance](../images/Molecule%20%28new%29/freetekno_orthodoxJews_aboriginal_haitians_ancestral%20trance.webp)
+![Ancestral Trance](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_orthodoxJews_aboriginal_haitians_ancestral%20trance.webp)
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Ancestors:** Native American
 
-![Arundo Donax](../images/Molecule%20%28new%29/acidhouse_nativeAmerican_arundo%20donax.webp)
+![Arundo Donax](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_nativeAmerican_arundo%20donax.webp)
 
 ---
 
@@ -60,7 +60,7 @@
 
 **Ancestors:** Hindu
 
-![Ashwagandha](../images/Molecule%20%28new%29/milady_hindu_ashwagandha.webp)
+![Ashwagandha](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_hindu_ashwagandha.webp)
 
 ---
 
@@ -72,7 +72,7 @@
 
 **Ancestors:** Mayan
 
-![Ayahuasca](../images/Molecule%20%28new%29/freetekno_mayan_ayahuasca.webp)
+![Ayahuasca](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_mayan_ayahuasca.webp)
 
 ---
 
@@ -84,7 +84,7 @@
 
 **Ancestors:** Native American
 
-![Benadryl](../images/Molecule%20%28new%29/milady_nativeAmerican_benadryl.webp)
+![Benadryl](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_benadryl.webp)
 
 ---
 
@@ -96,7 +96,7 @@
 
 **Ancestors:** Hindu
 
-![Bhang](../images/Molecule%20%28new%29/chicagodetroit_hindu_bhang.webp)
+![Bhang](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_bhang.webp)
 
 ---
 
@@ -108,7 +108,7 @@
 
 **Ancestors:** Hindu
 
-![Brahmi](../images/Molecule%20%28new%29/chicagodetroit_hindu_brahmi.webp)
+![Brahmi](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_brahmi.webp)
 
 ---
 
@@ -120,7 +120,7 @@
 
 **Ancestors:** Native American
 
-![Bufotenine](../images/Molecule%20%28new%29/acidhouse_nativeAmerican_bufotenine.webp)
+![Bufotenine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_nativeAmerican_bufotenine.webp)
 
 ---
 
@@ -132,7 +132,7 @@
 
 **Ancestors:** Ethiopian, Arabs, Traveller, Chinese, Japanese
 
-![Caffeine](../images/Molecule%20%28new%29/milady_ethiopian_arabs_traveller_chinese_japanese_caffeine.webp)
+![Caffeine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_ethiopian_arabs_traveller_chinese_japanese_caffeine.webp)
 
 ---
 
@@ -144,7 +144,7 @@
 
 **Ancestors:** Chinese, Native American
 
-![CBD](../images/Molecule%20%28new%29/acidhouse_chinese_nativeAmerican_CBD.webp)
+![CBD](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_chinese_nativeAmerican_CBD.webp)
 
 ---
 
@@ -156,7 +156,7 @@
 
 **Ancestors:** Hindu, Native American
 
-![Chewing Tobacco](../images/Molecule%20%28new%29/chicagodetroit_hindu_nativeAmerican_chewing%20tobacco.webp)
+![Chewing Tobacco](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_nativeAmerican_chewing%20tobacco.webp)
 
 ---
 
@@ -168,7 +168,7 @@
 
 **Ancestors:** Satanists
 
-![Clear Pill](../images/Molecule%20%28new%29/milady_satanists_clear%20pill.webp)
+![Clear Pill](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_satanists_clear%20pill.webp)
 
 ---
 
@@ -180,7 +180,7 @@
 
 **Ancestors:** Ballroom Scene
 
-![Coca](../images/Molecule%20%28new%29/chicagodetroit_ballroomScene_coca.webp)
+![Coca](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_ballroomScene_coca.webp)
 
 ---
 
@@ -192,7 +192,7 @@
 
 **Ancestors:** Ballroom Scene
 
-![Cocaine](../images/Molecule%20%28new%29/chicagodetroit_ballroomScene_cocaine.webp)
+![Cocaine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_ballroomScene_cocaine.webp)
 
 ---
 
@@ -204,7 +204,7 @@
 
 **Ancestors:** Ethiopian, Arabs, Traveller
 
-![Coffee](../images/Molecule%20%28new%29/milady_ethiopian_arabs_traveller_coffee.webp)
+![Coffee](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_ethiopian_arabs_traveller_coffee.webp)
 
 ---
 
@@ -216,7 +216,7 @@
 
 **Ancestors:** Native American
 
-![Datura](../images/Molecule%20%28new%29/milady_nativeAmerican_datura.webp)
+![Datura](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_datura.webp)
 
 ---
 
@@ -228,7 +228,7 @@
 
 **Ancestors:** Chinese, Palestinian
 
-![Dextroamphetamine](../images/Molecule%20%28new%29/milady_chinese_palestinian_dextroamphetamine.webp)
+![Dextroamphetamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_palestinian_dextroamphetamine.webp)
 
 ---
 
@@ -240,7 +240,7 @@
 
 **Ancestors:** Mayan, Aboriginal, Native American
 
-![DMT](../images/Molecule%20%28new%29/acidhouse_mayan_aboriginal_nativeAmerican_DMT.webp)
+![DMT](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_mayan_aboriginal_nativeAmerican_DMT.webp)
 
 ---
 
@@ -252,7 +252,7 @@
 
 **Ancestors:** Chinese, Palestinian
 
-![Ephedra](../images/Molecule%20%28new%29/milady_chinese_palestinian_ephedra.webp)
+![Ephedra](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_palestinian_ephedra.webp)
 
 ---
 
@@ -264,7 +264,7 @@
 
 **Ancestors:** Thai
 
-![Estrogen](../images/Molecule%20%28new%29/milady_thai_estrogen.webp)
+![Estrogen](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_estrogen.webp)
 
 ---
 
@@ -276,7 +276,7 @@
 
 **Ancestors:** Sicanje
 
-![Ethanol](../images/Molecule%20%28new%29/chicagodetroit_sicanje_ethanol.webp)
+![Ethanol](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_sicanje_ethanol.webp)
 
 ---
 
@@ -288,7 +288,7 @@
 
 **Ancestors:** Pythia
 
-![Ethylene](../images/Molecule%20%28new%29/acidhouse_pythia_ethylene.webp)
+![Ethylene](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_pythia_ethylene.webp)
 
 ---
 
@@ -300,7 +300,7 @@
 
 **Ancestors:** Mongolian
 
-![Euphoria](../images/Molecule%20%28new%29/chicagodetroit_mongolian_euphoria.webp)
+![Euphoria](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_mongolian_euphoria.webp)
 
 ---
 
@@ -312,7 +312,7 @@
 
 **Ancestors:** Nepal, Turkey
 
-![Grayanotoxin](../images/Molecule%20%28new%29/milady_nepal_turkey_grayanotoxin.webp)
+![Grayanotoxin](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nepal_turkey_grayanotoxin.webp)
 
 ---
 
@@ -324,7 +324,7 @@
 
 **Ancestors:** Greek
 
-![Henbane](../images/Molecule%20%28new%29/freetekno_greek_henbane.webp)
+![Henbane](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_henbane.webp)
 
 ---
 
@@ -336,7 +336,7 @@
 
 **Ancestors:** Gabon
 
-![Iboga](../images/Molecule%20%28new%29/chicagodetroit_gabon_iboga.webp)
+![Iboga](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_iboga.webp)
 
 ---
 
@@ -348,7 +348,7 @@
 
 **Ancestors:** Gabon
 
-![Ibogaine](../images/Molecule%20%28new%29/chicagodetroit_gabon_ibogaine.webp)
+![Ibogaine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_ibogaine.webp)
 
 ---
 
@@ -360,7 +360,7 @@
 
 **Ancestors:** Native American
 
-![Iproniazid](../images/Molecule%20%28new%29/freetekno_nativeAmerican_iproniazid.webp)
+![Iproniazid](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmerican_iproniazid.webp)
 
 ---
 
@@ -372,7 +372,7 @@
 
 **Ancestors:** Polynesian, Aboriginal
 
-![Kava](../images/Molecule%20%28new%29/acidhouse_polynesian_aboriginal_kava.webp)
+![Kava](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_polynesian_aboriginal_kava.webp)
 
 ---
 
@@ -384,7 +384,7 @@
 
 **Ancestors:** Nepal, Turkey
 
-![Ketamine](../images/Molecule%20%28new%29/milady_nepal_turkey_ketamine.webp)
+![Ketamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nepal_turkey_ketamine.webp)
 
 ---
 
@@ -396,7 +396,7 @@
 
 **Ancestors:** Ethiopian
 
-![Khat](../images/Molecule%20%28new%29/freetekno_ethiopian_khat.webp)
+![Khat](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_ethiopian_khat.webp)
 
 ---
 
@@ -408,7 +408,7 @@
 
 **Ancestors:** Thai
 
-![Kratom](../images/Molecule%20%28new%29/milady_thai_kratom.webp)
+![Kratom](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_kratom.webp)
 
 ---
 
@@ -420,7 +420,7 @@
 
 **Ancestors:** Thai
 
-![Kwao Krua](../images/Molecule%20%28new%29/milady_thai_kwao%20krua.webp)
+![Kwao Krua](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_kwao%20krua.webp)
 
 ---
 
@@ -432,7 +432,7 @@
 
 **Ancestors:** Greek Ancients
 
-![Kykeon](../images/Molecule%20%28new%29/acidhouse_greekAncients_kykeon.webp)
+![Kykeon](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_greekAncients_kykeon.webp)
 
 ---
 
@@ -444,7 +444,7 @@
 
 **Ancestors:** Irish Druids
 
-![Lamotrigine](../images/Molecule%20%28new%29/acidhouse_irishDruids_lamotrigine.webp)
+![Lamotrigine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_lamotrigine.webp)
 
 ---
 
@@ -456,7 +456,7 @@
 
 **Ancestors:** Irish Druids
 
-![Lithium](../images/Molecule%20%28new%29/acidhouse_irishDruids_lithium.webp)
+![Lithium](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_lithium.webp)
 
 ---
 
@@ -468,7 +468,7 @@
 
 **Ancestors:** Aboriginals, Haitians
 
-![LSD](../images/Molecule%20%28new%29/freetekno_aboriginals_haitians_LSD.webp)
+![LSD](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_aboriginals_haitians_LSD.webp)
 
 ---
 
@@ -480,7 +480,7 @@
 
 **Ancestors:** Ethiopians
 
-![M-CAT](../images/Molecule%20%28new%29/freetekno_ethiopians_M-CAT.webp)
+![M-CAT](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_ethiopians_M-CAT.webp)
 
 ---
 
@@ -492,7 +492,7 @@
 
 **Ancestors:** Greek, Arabs
 
-![Mandrake](../images/Molecule%20%28new%29/freetekno_greek_arabs_mandrake.webp)
+![Mandrake](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_arabs_mandrake.webp)
 
 ---
 
@@ -504,7 +504,7 @@
 
 **Ancestors:** Native American
 
-![MDA](../images/Molecule%20%28new%29/milady_nativeAmerican_MDA.webp)
+![MDA](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_MDA.webp)
 
 ---
 
@@ -516,7 +516,7 @@
 
 **Ancestors:** Native American
 
-![MDMA](../images/Molecule%20%28new%29/milady_nativeAmerican_MDMA.webp)
+![MDMA](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_MDMA.webp)
 
 ---
 
@@ -528,7 +528,7 @@
 
 **Ancestors:** Chinese, Palestinian
 
-![Methamphetamine](../images/Molecule%20%28new%29/milady_chinese_palestinian_methamphetamine.webp)
+![Methamphetamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_palestinian_methamphetamine.webp)
 
 ---
 
@@ -540,7 +540,7 @@
 
 **Ancestors:** Mayan
 
-![Mimosa Tenuiflora](../images/Molecule%20%28new%29/acidhouse_mayan_Mimosa%20Tenuiflora.webp)
+![Mimosa Tenuiflora](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_mayan_Mimosa%20Tenuiflora.webp)
 
 ---
 
@@ -552,7 +552,7 @@
 
 **Ancestors:** Arabs
 
-![MMDA](../images/Molecule%20%28new%29/acidhouse_arabs_MMDA.webp)
+![MMDA](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_arabs_MMDA.webp)
 
 ---
 
@@ -564,7 +564,7 @@
 
 **Ancestors:** Hindu
 
-![Mucuna pruriens](../images/Molecule%20%28new%29/acidhouse_hindu_mucana%20pruriens.webp)
+![Mucuna pruriens](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_hindu_mucana%20pruriens.webp)
 
 ---
 
@@ -576,7 +576,7 @@
 
 **Ancestors:** Irish Druids, Buddhists, Sami
 
-![Mushrooms](../images/Molecule%20%28new%29/acidhouse_irishDruids_buddhists_sami_mushrooms.webp)
+![Mushrooms](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_buddhists_sami_mushrooms.webp)
 
 ---
 
@@ -588,7 +588,7 @@
 
 **Ancestors:** Native American, Aboriginal
 
-![Nicotine](../images/Molecule%20%28new%29/chicagodetroit_nativeAmerican_aboriginal_nicotine.webp)
+![Nicotine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_nativeAmerican_aboriginal_nicotine.webp)
 
 ---
 
@@ -600,7 +600,7 @@
 
 **Ancestors:** Pythia
 
-![NOS](../images/Molecule%20%28new%29/acidhouse_pythia_NOS.webp)
+![NOS](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_pythia_NOS.webp)
 
 ---
 
@@ -612,7 +612,7 @@
 
 **Ancestors:** Arabs
 
-![Nutmeg](../images/Molecule%20%28new%29/acidhouse_arabs_nutmeg.webp)
+![Nutmeg](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_arabs_nutmeg.webp)
 
 ---
 
@@ -624,7 +624,7 @@
 
 **Ancestors:** Greek
 
-![Nymphaea caerulea](../images/Molecule%20%28new%29/chicagodetroit_greek_nymphaea%20caerulea.webp)
+![Nymphaea caerulea](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_greek_nymphaea%20caerulea.webp)
 
 ---
 
@@ -636,7 +636,7 @@
 
 **Ancestors:** Mayan
 
-![Ololiuqui](../images/Molecule%20%28new%29/acidhouse_mayan_ololiuqui.webp)
+![Ololiuqui](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_mayan_ololiuqui.webp)
 
 ---
 
@@ -648,7 +648,7 @@
 
 **Ancestors:** Native American
 
-![Peyote](../images/Molecule%20%28new%29/freetekno_nativeAmerican_peyote.webp)
+![Peyote](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmerican_peyote.webp)
 
 ---
 
@@ -660,7 +660,7 @@
 
 **Ancestors:** Hindu
 
-![Piracetam](../images/Molecule%20%28new%29/chicagodetroit_hindu_piracetam.webp)
+![Piracetam](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_piracetam.webp)
 
 ---
 
@@ -672,7 +672,7 @@
 
 **Ancestors:** Aboriginal
 
-![Pituri](../images/Molecule%20%28new%29/chicagodetroit_aboriginal_pituri.webp)
+![Pituri](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_aboriginal_pituri.webp)
 
 ---
 
@@ -684,7 +684,7 @@
 
 **Ancestors:** Stonewall
 
-![Poppers](../images/Molecule%20%28new%29/chicagodetroit_stonewall_poppers.webp)
+![Poppers](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_stonewall_poppers.webp)
 
 ---
 
@@ -696,7 +696,7 @@
 
 **Ancestors:** Irish Druids, Buddhists, Sami
 
-![Psilacetin](../images/Molecule%20%28new%29/acidhouse_irishDruids_buddhists_sami_psilacetin.webp)
+![Psilacetin](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_irishDruids_buddhists_sami_psilacetin.webp)
 
 ---
 
@@ -708,7 +708,7 @@
 
 **Ancestors:** Native Americans, Mayan
 
-![Psychotria viridis](../images/Molecule%20%28new%29/freetekno_nativeAmericans_mayan_psychotria%20viridis.webp)
+![Psychotria viridis](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmericans_mayan_psychotria%20viridis.webp)
 
 ---
 
@@ -720,7 +720,7 @@
 
 **Ancestors:** Thai
 
-![Sakae Naa](../images/Molecule%20%28new%29/milady_thai_sakae%20naa.webp)
+![Sakae Naa](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_thai_sakae%20naa.webp)
 
 ---
 
@@ -732,7 +732,7 @@
 
 **Ancestors:** Native American
 
-![Sassafras](../images/Molecule%20%28new%29/milady_nativeAmerican_sassafras.webp)
+![Sassafras](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_nativeAmerican_sassafras.webp)
 
 ---
 
@@ -744,7 +744,7 @@
 
 **Ancestors:** Greek, Arabs
 
-![Scopolamine](../images/Molecule%20%28new%29/freetekno_greek_arabs_scopolamine.webp)
+![Scopolamine](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_arabs_scopolamine.webp)
 
 ---
 
@@ -756,7 +756,7 @@
 
 **Ancestors:** Greek
 
-![Sertraline](../images/Molecule%20%28new%29/freetekno_greek_sertraline.webp)
+![Sertraline](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_sertraline.webp)
 
 ---
 
@@ -768,7 +768,7 @@
 
 **Ancestors:** Greek Ancients
 
-![Shroom Tea](../images/Molecule%20%28new%29/acidhouse_greekAncients_shroom%20tea.webp)
+![Shroom Tea](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/acidhouse_greekAncients_shroom%20tea.webp)
 
 ---
 
@@ -780,7 +780,7 @@
 
 **Ancestors:** Gabon
 
-![Sildenafil](../images/Molecule%20%28new%29/chicagodetroit_gabon_sildenafil.webp)
+![Sildenafil](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_sildenafil.webp)
 
 ---
 
@@ -792,7 +792,7 @@
 
 **Ancestors:** Mongolian
 
-![Sober](../images/Molecule%20%28new%29/milady_mongolian_sober.webp)
+![Sober](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_mongolian_sober.webp)
 
 ---
 
@@ -804,7 +804,7 @@
 
 **Ancestors:** Greek
 
-![St. John's Wort](../images/Molecule%20%28new%29/freetekno_greek_st.%20john%27s%20wort.webp)
+![St. John's Wort](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_greek_st.%20john%27s%20wort.webp)
 
 ---
 
@@ -816,7 +816,7 @@
 
 **Ancestors:** Hindu
 
-![Sugarcane](../images/Molecule%20%28new%29/chicagodetroit_hindu_sugarcane.webp)
+![Sugarcane](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_sugarcane.webp)
 
 ---
 
@@ -828,7 +828,7 @@
 
 **Ancestors:** Sufi
 
-![Syrian Rue](../images/Molecule%20%28new%29/freetekno_sufi_syrian%20rue.webp)
+![Syrian Rue](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_sufi_syrian%20rue.webp)
 
 ---
 
@@ -840,7 +840,7 @@
 
 **Ancestors:** Gabon
 
-![Tabernaemontana](../images/Molecule%20%28new%29/freetekno_gabon_tabernaemontana.webp)
+![Tabernaemontana](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_gabon_tabernaemontana.webp)
 
 ---
 
@@ -852,7 +852,7 @@
 
 **Ancestors:** Chinese, Japanese
 
-![Tea](../images/Molecule%20%28new%29/milady_chinese_japanese_tea.webp)
+![Tea](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_chinese_japanese_tea.webp)
 
 ---
 
@@ -864,7 +864,7 @@
 
 **Ancestors:** Hindu
 
-![Testosterone](../images/Molecule%20%28new%29/milady_hindu_testosterone.webp)
+![Testosterone](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/milady_hindu_testosterone.webp)
 
 ---
 
@@ -876,7 +876,7 @@
 
 **Ancestors:** Hindu
 
-![THC Edibles](../images/Molecule%20%28new%29/chicagodetroit_hindu_THC%20edibles.webp)
+![THC Edibles](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_THC%20edibles.webp)
 
 ---
 
@@ -888,7 +888,7 @@
 
 **Ancestors:** Hindu
 
-![Tobacco](../images/Molecule%20%28new%29/chicagodetroit_hindu_tobacco.webp)
+![Tobacco](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_hindu_tobacco.webp)
 
 ---
 
@@ -900,7 +900,7 @@
 
 **Ancestors:** Rastafarians
 
-![Weed](../images/Molecule%20%28new%29/chicagodetroit_rastafarians_weed.webp)
+![Weed](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_rastafarians_weed.webp)
 
 ---
 
@@ -912,7 +912,7 @@
 
 **Ancestors:** Hindu
 
-![Xanax](../images/Molecule%20%28new%29/freetekno_hindu_xanax.webp)
+![Xanax](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_hindu_xanax.webp)
 
 ---
 
@@ -924,7 +924,7 @@
 
 **Ancestors:** Gabon
 
-![Yohimbe](../images/Molecule%20%28new%29/chicagodetroit_gabon_yohimbine.webp)
+![Yohimbe](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/chicagodetroit_gabon_yohimbine.webp)
 
 ---
 
@@ -936,6 +936,6 @@
 
 **Ancestors:** Native American
 
-![2C-B](../images/Molecule%20%28new%29/freetekno_nativeAmerican_2C-B.webp)
+![2C-B](https://mibera.fsn1.your-objectstorage.com/components/Molecule%20%28new%29/freetekno_nativeAmerican_2C-B.webp)
 
 ---

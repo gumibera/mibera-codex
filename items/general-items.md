@@ -19,7 +19,6 @@ SS3_freetekno_LA Rave Flyers.PNG
 
 **Dominant Colors:** Neon yellow.
 
-**Material Impression:**
 
 ---
 
@@ -60,7 +59,6 @@ SS3_freetekno_LA Rave Flyers.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -96,7 +94,6 @@ SS3_freetekno_Scum Manifesto.png
 
 **Dominant Colors:** red
 
-**Material Impression:**
 
 ---
 
@@ -137,7 +134,6 @@ SS3_freetekno_Scum Manifesto.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -173,7 +169,6 @@ SS2_freetekno_Mighty Hulk Toy.png
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -214,7 +209,6 @@ SS2_freetekno_Mighty Hulk Toy.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -251,7 +245,6 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -292,7 +285,6 @@ SS3_milady_ancient_chinese_japanese_Tea.PNG
 
 **Ancestor:** chinese / japanese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -328,7 +320,6 @@ SS3_acidhouse_Flying Saucer.png
 
 **Dominant Colors:** brown
 
-**Material Impression:**
 
 ---
 
@@ -360,7 +351,7 @@ SS3_acidhouse_Flying Saucer.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -369,7 +360,6 @@ SS3_acidhouse_Flying Saucer.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -405,7 +395,6 @@ SS3_freetekno_Peyote Rattle.png
 
 **Dominant Colors:** dark yellow, blue, light yellow
 
-**Material Impression:**
 
 ---
 
@@ -446,7 +435,6 @@ SS3_freetekno_Peyote Rattle.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -483,7 +471,6 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 
 **Dominant Colors:** golden yellow
 
-**Material Impression:**
 
 ---
 
@@ -524,7 +511,6 @@ SS3_acidhouse_Tibetan Singing Bowl.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -562,7 +548,6 @@ SS3_Sacred Mirrors.png
 
 **Dominant Colors:** black, bright orange
 
-**Material Impression:**
 
 ---
 
@@ -594,7 +579,7 @@ SS3_Sacred Mirrors.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -603,7 +588,6 @@ SS3_Sacred Mirrors.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -639,7 +623,6 @@ SS3_Bhang.PNG
 
 **Dominant Colors:** grey
 
-**Material Impression:**
 
 ---
 
@@ -671,7 +654,7 @@ SS3_Bhang.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -680,7 +663,6 @@ SS3_Bhang.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -716,7 +698,6 @@ SS3_milady_Remilia Cig Pack.png
 
 **Dominant Colors:** vibrant blue, white, yellow
 
-**Material Impression:**
 
 ---
 
@@ -748,7 +729,7 @@ SS3_milady_Remilia Cig Pack.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -757,7 +738,6 @@ SS3_milady_Remilia Cig Pack.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -793,7 +773,6 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
 **Dominant Colors:** green, red
 
-**Material Impression:**
 
 ---
 
@@ -834,7 +813,6 @@ SS3_milady_ancient_chinese_palestinian_ephedra.PNG
 
 **Ancestor:** chinese / palestinian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -870,7 +848,6 @@ SS3_Anarchist Cookbook.png
 
 **Dominant Colors:** black, white, red
 
-**Material Impression:**
 
 ---
 
@@ -902,7 +879,7 @@ SS3_Anarchist Cookbook.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -911,7 +888,6 @@ SS3_Anarchist Cookbook.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -947,7 +923,6 @@ SS3_milady_Boo Bear 2.png
 
 **Dominant Colors:** dark brown, bone-white
 
-**Material Impression:**
 
 ---
 
@@ -979,7 +954,7 @@ SS3_milady_Boo Bear 2.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -988,7 +963,6 @@ SS3_milady_Boo Bear 2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1024,7 +998,6 @@ SS3_milady_Boo Bear 1.png
 
 **Dominant Colors:** pale green
 
-**Material Impression:**
 
 ---
 
@@ -1056,7 +1029,7 @@ SS3_milady_Boo Bear 1.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1065,7 +1038,6 @@ SS3_milady_Boo Bear 1.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1101,7 +1073,6 @@ SS3_milady_Boo Bear 3.png
 
 **Dominant Colors:** brown, red, white
 
-**Material Impression:**
 
 ---
 
@@ -1133,7 +1104,7 @@ SS3_milady_Boo Bear 3.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1142,7 +1113,6 @@ SS3_milady_Boo Bear 3.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1178,7 +1148,6 @@ SS3_milady_Boo Bear 4.png
 
 **Dominant Colors:** black, brown
 
-**Material Impression:**
 
 ---
 
@@ -1210,7 +1179,7 @@ SS3_milady_Boo Bear 4.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1219,7 +1188,6 @@ SS3_milady_Boo Bear 4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1255,7 +1223,6 @@ SS3_acidhouse_Watergun 1.png
 
 **Dominant Colors:** orange, bright green
 
-**Material Impression:**
 
 ---
 
@@ -1287,7 +1254,7 @@ SS3_acidhouse_Watergun 1.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1296,7 +1263,6 @@ SS3_acidhouse_Watergun 1.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1332,7 +1298,6 @@ SS3_acidhouse_Watergun 2.png
 
 **Dominant Colors:** orange, bright magenta, purple, lime green
 
-**Material Impression:**
 
 ---
 
@@ -1364,7 +1329,7 @@ SS3_acidhouse_Watergun 2.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1373,7 +1338,6 @@ SS3_acidhouse_Watergun 2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1409,7 +1373,6 @@ SS3_Yohimbe Bark.PNG
 
 **Dominant Colors:** brown
 
-**Material Impression:**
 
 ---
 
@@ -1441,7 +1404,7 @@ SS3_Yohimbe Bark.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1450,7 +1413,6 @@ SS3_Yohimbe Bark.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1486,238 +1448,6 @@ SS3_freetekno_Mibera Psyops Manual.png
 
 **Dominant Colors:** light pale orange, red, black
 
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** freetekno
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 3 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 7, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## kratom dose
-
-### Visual Properties
-
-**Name:** kratom dose
-
-**Image Files:**
-SS3_freetekno_thai_Kratom.PNG
-
-**Item Type:**
-
-**Visual Description:** a white cup with leafy green liquid inside.
-
-**Dominant Colors:** white, green
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** freetekno
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 3 ---
-
-
----
-
-### Connections
-
-**Ancestor:** Thai
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** December 9, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## piper methysticum
-
-### Visual Properties
-
-**Name:** piper methysticum
-
-**Image Files:**
-SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
-
-**Item Type:**
-
-**Visual Description:** a big piece of leaf.
-
-**Dominant Colors:** green
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** acidhouse
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 3 ---
-
-
----
-
-### Connections
-
-**Ancestor:** polynesian / aboriginal
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** December 9, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## club mate
-
-### Visual Properties
-
-**Name:** club mate
-
-**Image Files:**
-SS3_freetekno_Club Mate.png
-
-**Item Type:**
-
-**Visual Description:** a glass bottle of beverage with light orange liquid that appears fizzy, and a blue bottle lid. The beverage is labeled “CLUB-MATE”.
-
-**Dominant Colors:** light orange, blue
-
-**Material Impression:**
 
 ---
 
@@ -1758,7 +1488,231 @@ SS3_freetekno_Club Mate.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 7, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## kratom dose
+
+### Visual Properties
+
+**Name:** kratom dose
+
+**Image Files:**
+SS3_freetekno_thai_Kratom.PNG
+
+**Item Type:**
+
+**Visual Description:** a white cup with leafy green liquid inside.
+
+**Dominant Colors:** white, green
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+
+---
+
+### Connections
+
+**Ancestor:** Thai
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## piper methysticum
+
+### Visual Properties
+
+**Name:** piper methysticum
+
+**Image Files:**
+SS3_acidhouse_polynesian_aboriginal_Piper Methysticum.PNG
+
+**Item Type:**
+
+**Visual Description:** a big piece of leaf.
+
+**Dominant Colors:** green
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+
+---
+
+### Connections
+
+**Ancestor:** polynesian / aboriginal
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## club mate
+
+### Visual Properties
+
+**Name:** club mate
+
+**Image Files:**
+SS3_freetekno_Club Mate.png
+
+**Item Type:**
+
+**Visual Description:** a glass bottle of beverage with light orange liquid that appears fizzy, and a blue bottle lid. The beverage is labeled “CLUB-MATE”.
+
+**Dominant Colors:** light orange, blue
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
 
 **Trait Conflicts:** 
 
@@ -1794,7 +1748,6 @@ SS3_Triskelion Ring.png
 
 **Dominant Colors:** dark silver, yellow
 
-**Material Impression:**
 
 ---
 
@@ -1835,7 +1788,6 @@ SS3_Triskelion Ring.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1872,7 +1824,6 @@ SS3_Rape Sourcebook.PNG
 
 **Dominant Colors:** black, light soft yellow, red
 
-**Material Impression:**
 
 ---
 
@@ -1904,7 +1855,7 @@ SS3_Rape Sourcebook.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1913,7 +1864,6 @@ SS3_Rape Sourcebook.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1949,7 +1899,6 @@ SS3_freetekno_ancient_greek_henbane.PNG
 
 **Dominant Colors:** green, light yellow / white
 
-**Material Impression:**
 
 ---
 
@@ -1990,7 +1939,6 @@ SS3_freetekno_ancient_greek_henbane.PNG
 
 **Ancestor:** greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2026,7 +1974,6 @@ SS3_milady_Beads.png
 
 **Dominant Colors:** brown, red
 
-**Material Impression:**
 
 ---
 
@@ -2067,7 +2014,6 @@ SS3_milady_Beads.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2104,7 +2050,6 @@ SS3_freetekno_Spiral Tribe.png
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -2145,7 +2090,6 @@ SS3_freetekno_Spiral Tribe.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2181,7 +2125,6 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 **Dominant Colors:** shades of yellow
 
-**Material Impression:**
 
 ---
 
@@ -2222,7 +2165,6 @@ SS3_milady_ancient_nepal_turkey_Mad Honey.png
 
 **Ancestor:** nepal / turkey
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2260,7 +2202,6 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -2301,7 +2242,6 @@ SS3_freetekno_ancient_sufi_syrian rue.PNG
 
 **Ancestor:** sufi / syrian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2337,7 +2277,6 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 **Dominant Colors:** glassy white / slight silver
 
-**Material Impression:**
 
 ---
 
@@ -2369,7 +2308,7 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2378,7 +2317,6 @@ SS3_chicagodetroit_Normal Bong.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2414,7 +2352,6 @@ SS3_pythenians oracle.png
 
 **Dominant Colors:** purple, golden
 
-**Material Impression:**
 
 ---
 
@@ -2446,7 +2383,7 @@ SS3_pythenians oracle.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2455,7 +2392,6 @@ SS3_pythenians oracle.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2491,7 +2427,6 @@ SS3_Clandestine Labs.png
 
 **Dominant Colors:** soft blue, black
 
-**Material Impression:**
 
 ---
 
@@ -2523,7 +2458,7 @@ SS3_Clandestine Labs.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2532,7 +2467,6 @@ SS3_Clandestine Labs.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2568,7 +2502,6 @@ SS3_bera pudgy plushie.png
 
 **Dominant Colors:** white, soft pink, brown
 
-**Material Impression:**
 
 ---
 
@@ -2600,7 +2533,7 @@ SS3_bera pudgy plushie.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2609,7 +2542,6 @@ SS3_bera pudgy plushie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2645,7 +2577,6 @@ SS3_milady_Maid Fumo.png
 
 **Dominant Colors:** white, blonde, navy blue, red
 
-**Material Impression:**
 
 ---
 
@@ -2677,7 +2608,7 @@ SS3_milady_Maid Fumo.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2686,7 +2617,6 @@ SS3_milady_Maid Fumo.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2722,7 +2652,6 @@ SS3_Honey Comb.png
 
 **Dominant Colors:** rosegold, white
 
-**Material Impression:**
 
 ---
 
@@ -2754,7 +2683,7 @@ SS3_Honey Comb.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2763,7 +2692,6 @@ SS3_Honey Comb.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2799,7 +2727,6 @@ SS3_acidhouse_Blue Meanie.png
 
 **Dominant Colors:** pale grey / blueish
 
-**Material Impression:**
 
 ---
 
@@ -2831,7 +2758,7 @@ SS3_acidhouse_Blue Meanie.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2840,7 +2767,6 @@ SS3_acidhouse_Blue Meanie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2876,7 +2802,6 @@ SS3_mad scientists.png
 
 **Dominant Colors:** green, beige
 
-**Material Impression:**
 
 ---
 
@@ -2908,7 +2833,7 @@ SS3_mad scientists.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2917,7 +2842,6 @@ SS3_mad scientists.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2953,7 +2877,6 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
 **Dominant Colors:** red orange-ish, green, dark red /.brown
 
-**Material Impression:**
 
 ---
 
@@ -2994,7 +2917,6 @@ SS3_milady_ancient_ethiopian_arabs_coffee beans.PNG
 
 **Ancestor:** ethiopian / arab
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3030,7 +2952,6 @@ SS3_berachain mentioned.PNG
 
 **Dominant Colors:** green, gold, light green, black
 
-**Material Impression:**
 
 ---
 
@@ -3062,7 +2983,7 @@ SS3_berachain mentioned.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3071,7 +2992,6 @@ SS3_berachain mentioned.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3107,7 +3027,6 @@ SS2_The Rose of Paracelsus.png
 
 **Dominant Colors:** black, purple, blue
 
-**Material Impression:**
 
 ---
 
@@ -3148,7 +3067,6 @@ SS2_The Rose of Paracelsus.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3185,7 +3103,6 @@ SS3_milady_satanists_clear pill.PNG
 
 **Dominant Colors:** clear
 
-**Material Impression:**
 
 ---
 
@@ -3217,7 +3134,7 @@ SS3_milady_satanists_clear pill.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3226,7 +3143,6 @@ SS3_milady_satanists_clear pill.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3262,7 +3178,6 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 **Dominant Colors:** clear
 
-**Material Impression:**
 
 ---
 
@@ -3294,7 +3209,7 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3303,7 +3218,6 @@ SS3_acidhouse_Sherlock Glass Pipe.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3339,7 +3253,6 @@ SS3_milady_Buy Bitcoin.png
 
 **Dominant Colors:** beige, black
 
-**Material Impression:**
 
 ---
 
@@ -3371,7 +3284,7 @@ SS3_milady_Buy Bitcoin.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3380,7 +3293,6 @@ SS3_milady_Buy Bitcoin.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3416,7 +3328,6 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -3457,7 +3368,6 @@ SS3_milady_ancient_nativeAmerican_Sassafras.PNG
 
 **Ancestor:** native american
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3493,7 +3403,6 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
 **Dominant Colors:** dark grey, light beige, black
 
-**Material Impression:**
 
 ---
 
@@ -3534,7 +3443,6 @@ SS3_freetekno_ancient_ethiopian_Khat Pipe.png
 
 **Ancestor:** ethiopian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3571,7 +3479,6 @@ SS3_milady_Handheld Sickle.png
 
 **Dominant Colors:** dark grey and dark brown
 
-**Material Impression:**
 
 ---
 
@@ -3612,7 +3519,6 @@ SS3_milady_Handheld Sickle.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3649,7 +3555,6 @@ SS3_milady_hindu_ashwagandha.PNG
 
 **Dominant Colors:** green, red, yellow
 
-**Material Impression:**
 
 ---
 
@@ -3681,7 +3586,7 @@ SS3_milady_hindu_ashwagandha.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3690,7 +3595,6 @@ SS3_milady_hindu_ashwagandha.PNG
 
 **Ancestor:** hindu
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3726,7 +3630,6 @@ SS3_milady_Band Bear 1.png
 
 **Dominant Colors:** black, yellow, blonde
 
-**Material Impression:**
 
 ---
 
@@ -3758,7 +3661,7 @@ SS3_milady_Band Bear 1.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3767,7 +3670,6 @@ SS3_milady_Band Bear 1.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3803,7 +3705,6 @@ SS3_Ooga Booga Bera.png
 
 **Dominant Colors:** yellow, rainbow-coloured
 
-**Material Impression:**
 
 ---
 
@@ -3835,7 +3736,7 @@ SS3_Ooga Booga Bera.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3844,7 +3745,6 @@ SS3_Ooga Booga Bera.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3880,7 +3780,6 @@ SS3_Mascot Jani Bera.png
 
 **Dominant Colors:** yellow, rainbow-coloured
 
-**Material Impression:**
 
 ---
 
@@ -3912,7 +3811,7 @@ SS3_Mascot Jani Bera.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3921,7 +3820,6 @@ SS3_Mascot Jani Bera.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3957,7 +3855,6 @@ SS3_milady_Honey Stick.png
 
 **Dominant Colors:** yellow, rainbow-coloured
 
-**Material Impression:**
 
 ---
 
@@ -3989,7 +3886,7 @@ SS3_milady_Honey Stick.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3998,7 +3895,6 @@ SS3_milady_Honey Stick.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4034,7 +3930,6 @@ SS3_modern_irish_Buckfast Bottle.png
 
 **Dominant Colors:** green, yellow
 
-**Material Impression:**
 
 ---
 
@@ -4075,7 +3970,6 @@ SS3_modern_irish_Buckfast Bottle.png
 
 **Ancestor:** irish
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4111,7 +4005,6 @@ SS3_luca pudgy plushie.png
 
 **Dominant Colors:** yellow, orange, red, white, blue
 
-**Material Impression:**
 
 ---
 
@@ -4143,7 +4036,7 @@ SS3_luca pudgy plushie.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -4152,7 +4045,6 @@ SS3_luca pudgy plushie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4188,7 +4080,6 @@ SS3_THC Bear.PNG
 
 **Dominant Colors:** dark brown, black, white
 
-**Material Impression:**
 
 ---
 
@@ -4220,7 +4111,7 @@ SS3_THC Bear.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -4229,7 +4120,6 @@ SS3_THC Bear.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4265,7 +4155,6 @@ SS3_milady_Remilia Quarterly.png
 
 **Dominant Colors:** green, yellow, black
 
-**Material Impression:**
 
 ---
 
@@ -4297,7 +4186,7 @@ SS3_milady_Remilia Quarterly.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -4306,7 +4195,6 @@ SS3_milady_Remilia Quarterly.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4342,7 +4230,6 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -4383,7 +4270,6 @@ SS3_freetekno_ancient_greek_arabs_mandrake.PNG
 
 **Ancestor:** greek / arabs
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4419,7 +4305,6 @@ SS3_TechGnosis.png
 
 **Dominant Colors:** blue, black, white
 
-**Material Impression:**
 
 ---
 
@@ -4451,7 +4336,7 @@ SS3_TechGnosis.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -4460,7 +4345,6 @@ SS3_TechGnosis.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4496,7 +4380,6 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
 **Dominant Colors:** blue, green
 
-**Material Impression:**
 
 ---
 
@@ -4537,7 +4420,6 @@ SS3_chicagodetroit_ancient_greek_nymphaea caerulea.PNG
 
 **Ancestor:** greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4573,7 +4455,6 @@ SS4_milady_Baby Polar Bear.png
 
 **Dominant Colors:** white
 
-**Material Impression:**
 
 ---
 
@@ -4605,7 +4486,7 @@ SS4_milady_Baby Polar Bear.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -4614,7 +4495,6 @@ SS4_milady_Baby Polar Bear.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4650,7 +4530,6 @@ SS2_milady_Pina Colada.png
 
 **Dominant Colors:** white
 
-**Material Impression:**
 
 ---
 
@@ -4682,7 +4561,7 @@ SS2_milady_Pina Colada.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4691,7 +4570,6 @@ SS2_milady_Pina Colada.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4727,7 +4605,6 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 
 **Dominant Colors:** white, green
 
-**Material Impression:**
 
 ---
 
@@ -4768,7 +4645,6 @@ SS4_milady_ancient_nativeAmerican_datura.PNG
 
 **Ancestor:** native american
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4804,7 +4680,6 @@ SS3_freetekno_Peyote Feather Fan.png
 
 **Dominant Colors:** brown, white, yellow, red
 
-**Material Impression:**
 
 ---
 
@@ -4845,7 +4720,6 @@ SS3_freetekno_Peyote Feather Fan.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4882,7 +4756,6 @@ SS1_chicagodetroit_Vape Pen.png
 
 **Dominant Colors:** shades of yellow
 
-**Material Impression:**
 
 ---
 
@@ -4914,7 +4787,7 @@ SS1_chicagodetroit_Vape Pen.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -4923,7 +4796,6 @@ SS1_chicagodetroit_Vape Pen.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4959,7 +4831,6 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 **Dominant Colors:** black, green, yellow
 
-**Material Impression:**
 
 ---
 
@@ -4991,7 +4862,7 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5000,7 +4871,6 @@ SS4_chicagodetroit_Lee Scratch Mic.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5036,7 +4906,6 @@ SS2_acidhouse_Chillum.png
 
 **Dominant Colors:** dark brown, black
 
-**Material Impression:**
 
 ---
 
@@ -5068,7 +4937,7 @@ SS2_acidhouse_Chillum.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -5077,7 +4946,6 @@ SS2_acidhouse_Chillum.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5113,7 +4981,6 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 **Dominant Colors:** Neon green.
 
-**Material Impression:**
 
 ---
 
@@ -5145,7 +5012,7 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -5154,7 +5021,6 @@ SS3_chicagodetroit_New York Rave Flyers.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5190,7 +5056,6 @@ SS4_milady_Bond Bear 3.png
 
 **Dominant Colors:** black, white, navy.
 
-**Material Impression:**
 
 ---
 
@@ -5222,7 +5087,7 @@ SS4_milady_Bond Bear 3.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5231,7 +5096,6 @@ SS4_milady_Bond Bear 3.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5267,7 +5131,6 @@ SS4_milady_Bond Bear 2.png
 
 **Dominant Colors:** black, white, navy.
 
-**Material Impression:**
 
 ---
 
@@ -5299,7 +5162,7 @@ SS4_milady_Bond Bear 2.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5308,7 +5171,6 @@ SS4_milady_Bond Bear 2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5344,7 +5206,6 @@ SS4_milady_Bond Bear 4.png
 
 **Dominant Colors:** white, black, grey, dirty white
 
-**Material Impression:**
 
 ---
 
@@ -5376,7 +5237,7 @@ SS4_milady_Bond Bear 4.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5385,7 +5246,6 @@ SS4_milady_Bond Bear 4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5421,7 +5281,6 @@ SS4_milady_Bond Bear 1.png
 
 **Dominant Colors:** brown, light grey, black, white
 
-**Material Impression:**
 
 ---
 
@@ -5453,7 +5312,7 @@ SS4_milady_Bond Bear 1.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5462,7 +5321,6 @@ SS4_milady_Bond Bear 1.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5498,7 +5356,6 @@ SS2_acidhouse_Penis Envy.png
 
 **Dominant Colors:** light brown / beige, creamy white
 
-**Material Impression:**
 
 ---
 
@@ -5530,7 +5387,7 @@ SS2_acidhouse_Penis Envy.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -5539,7 +5396,6 @@ SS2_acidhouse_Penis Envy.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5575,7 +5431,6 @@ SS2_ancient_arabs_nutmeg.PNG
 
 **Dominant Colors:** reddish brown, light yellow, green
 
-**Material Impression:**
 
 ---
 
@@ -5616,7 +5471,6 @@ SS2_ancient_arabs_nutmeg.PNG
 
 **Ancestor:** arab
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5652,7 +5506,6 @@ SS4_milady_Chrome Hearts Watch.png
 
 **Dominant Colors:** silver, black, white
 
-**Material Impression:**
 
 ---
 
@@ -5684,7 +5537,7 @@ SS4_milady_Chrome Hearts Watch.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5693,7 +5546,6 @@ SS4_milady_Chrome Hearts Watch.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5729,7 +5581,6 @@ SS4_freetekno_Spiral Fossil.png
 
 **Dominant Colors:** light brown
 
-**Material Impression:**
 
 ---
 
@@ -5770,7 +5621,6 @@ SS4_freetekno_Spiral Fossil.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5807,7 +5657,6 @@ SS3_chicagodetroit_Fan.png
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -5839,7 +5688,7 @@ SS3_chicagodetroit_Fan.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -5848,7 +5697,6 @@ SS3_chicagodetroit_Fan.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5884,7 +5732,6 @@ SS3_acidhouse_Green Glowstick.png
 
 **Dominant Colors:** neon green
 
-**Material Impression:**
 
 ---
 
@@ -5925,7 +5772,6 @@ SS3_acidhouse_Green Glowstick.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5961,7 +5807,6 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
 **Dominant Colors:** white, green
 
-**Material Impression:**
 
 ---
 
@@ -6002,7 +5847,6 @@ SS4_freetekno_ancient_gabon_tabernaemontana.PNG
 
 **Ancestor:** gabon
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6038,7 +5882,6 @@ SS2_milady_Radio.png
 
 **Dominant Colors:** grey, black
 
-**Material Impression:**
 
 ---
 
@@ -6070,7 +5913,7 @@ SS2_milady_Radio.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -6079,7 +5922,6 @@ SS2_milady_Radio.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6115,7 +5957,6 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 
 **Dominant Colors:** purple
 
-**Material Impression:**
 
 ---
 
@@ -6156,7 +5997,6 @@ Ss4_milady_ancient_thai_sakae naa.PNG
 
 **Ancestor:** thai
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6192,7 +6032,6 @@ SS2_freetekno_Male Tears Mug.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -6233,7 +6072,6 @@ SS2_freetekno_Male Tears Mug.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6269,7 +6107,6 @@ SS4_acidhouse_Jewelry.png
 
 **Dominant Colors:** black, teal
 
-**Material Impression:**
 
 ---
 
@@ -6301,7 +6138,7 @@ SS4_acidhouse_Jewelry.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -6310,7 +6147,6 @@ SS4_acidhouse_Jewelry.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6346,7 +6182,6 @@ SS4_milady_Baby Panda Bear.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -6378,7 +6213,7 @@ SS4_milady_Baby Panda Bear.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -6387,7 +6222,6 @@ SS4_milady_Baby Panda Bear.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6423,7 +6257,6 @@ SS4_milady_Baby Bear.png
 
 **Dominant Colors:** brown
 
-**Material Impression:**
 
 ---
 
@@ -6455,7 +6288,7 @@ SS4_milady_Baby Bear.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -6464,7 +6297,6 @@ SS4_milady_Baby Bear.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6500,7 +6332,6 @@ SS2_Come and Take It.png
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -6532,7 +6363,7 @@ SS2_Come and Take It.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -6541,7 +6372,6 @@ SS2_Come and Take It.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6577,7 +6407,6 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
 **Dominant Colors:** green, white
 
-**Material Impression:**
 
 ---
 
@@ -6618,7 +6447,6 @@ SS2_chicagoDetroit_ancient_hindu_brahmi.PNG
 
 **Ancestor:** hindu
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6654,7 +6482,6 @@ SS3_galactic gecko tarot.png
 
 **Dominant Colors:** black, white, pink
 
-**Material Impression:**
 
 ---
 
@@ -6686,7 +6513,7 @@ SS3_galactic gecko tarot.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -6695,7 +6522,6 @@ SS3_galactic gecko tarot.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6731,7 +6557,6 @@ SS2_freetekno_Peyote.png
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -6772,7 +6597,6 @@ SS2_freetekno_Peyote.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6809,7 +6633,6 @@ SS2_acidhouse_Maracas.png
 
 **Dominant Colors:** terracotta
 
-**Material Impression:**
 
 ---
 
@@ -6850,7 +6673,6 @@ SS2_acidhouse_Maracas.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6886,7 +6708,6 @@ SS2_Capitalist Realism.png
 
 **Dominant Colors:** grey, black, white, red
 
-**Material Impression:**
 
 ---
 
@@ -6918,7 +6739,7 @@ SS2_Capitalist Realism.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -6927,7 +6748,6 @@ SS2_Capitalist Realism.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6963,7 +6783,6 @@ SS4_acidhouse_Glove.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -7004,7 +6823,6 @@ SS4_acidhouse_Glove.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7040,7 +6858,6 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 **Dominant Colors:** dark navy, light yellow
 
-**Material Impression:**
 
 ---
 
@@ -7072,7 +6889,7 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -7081,7 +6898,6 @@ SS2_acidhouse_Grateful Dead Tarot Book.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7117,7 +6933,6 @@ SS4_milady_Otyken Honey.png
 
 **Dominant Colors:** light beige
 
-**Material Impression:**
 
 ---
 
@@ -7158,7 +6973,6 @@ SS4_milady_Otyken Honey.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7195,7 +7009,6 @@ SS2_acidhouse_Golden Teacher.png
 
 **Dominant Colors:** creamy white, light brown
 
-**Material Impression:**
 
 ---
 
@@ -7227,7 +7040,7 @@ SS2_acidhouse_Golden Teacher.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -7236,7 +7049,6 @@ SS2_acidhouse_Golden Teacher.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7272,7 +7084,6 @@ SS2_acidhouse_Cubensis.png
 
 **Dominant Colors:** white, light brown
 
-**Material Impression:**
 
 ---
 
@@ -7304,7 +7115,7 @@ SS2_acidhouse_Cubensis.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -7313,7 +7124,6 @@ SS2_acidhouse_Cubensis.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7349,7 +7159,6 @@ SS4_milady_Mog Hand.png
 
 **Dominant Colors:** black, blue, white
 
-**Material Impression:**
 
 ---
 
@@ -7381,7 +7190,7 @@ SS4_milady_Mog Hand.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -7390,7 +7199,6 @@ SS4_milady_Mog Hand.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7426,7 +7234,6 @@ SS2_tomato.PNG
 
 **Dominant Colors:** red, green
 
-**Material Impression:**
 
 ---
 
@@ -7467,7 +7274,6 @@ SS2_tomato.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7503,7 +7309,6 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
 **Dominant Colors:** red, green
 
-**Material Impression:**
 
 ---
 
@@ -7544,7 +7349,6 @@ SS3_chicacgodetroit_ancient_ballroomScene_coca leaves.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7580,7 +7384,6 @@ SS4_milady_Radbro Plushie.png
 
 **Dominant Colors:** green, porcelain, brown
 
-**Material Impression:**
 
 ---
 
@@ -7612,7 +7415,7 @@ SS4_milady_Radbro Plushie.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -7621,7 +7424,6 @@ SS4_milady_Radbro Plushie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7657,7 +7459,6 @@ SS4_LSD My Problem Child.png
 
 **Dominant Colors:** black, golden
 
-**Material Impression:**
 
 ---
 
@@ -7689,7 +7490,7 @@ SS4_LSD My Problem Child.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -7698,7 +7499,6 @@ SS4_LSD My Problem Child.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7734,7 +7534,6 @@ SS2_milady_Remilia Case.png
 
 **Dominant Colors:** black, blue
 
-**Material Impression:**
 
 ---
 
@@ -7775,7 +7574,6 @@ SS2_milady_Remilia Case.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7811,7 +7609,6 @@ SS4_Ccru.png
 
 **Dominant Colors:** green, white
 
-**Material Impression:**
 
 ---
 
@@ -7843,7 +7640,7 @@ SS4_Ccru.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -7852,7 +7649,6 @@ SS4_Ccru.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7888,7 +7684,6 @@ SS4_milady_BERAVE Fan.png
 
 **Dominant Colors:** white, pink, black
 
-**Material Impression:**
 
 ---
 
@@ -7929,7 +7724,6 @@ SS4_milady_BERAVE Fan.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7965,7 +7759,6 @@ SS3_freetekno_UK Rave Flyers.PNG
 
 **Dominant Colors:** Yellow.
 
-**Material Impression:**
 
 ---
 
@@ -8006,7 +7799,6 @@ SS3_freetekno_UK Rave Flyers.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8042,7 +7834,6 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 **Dominant Colors:** gold, blue, pale terracotta..
 
-**Material Impression:**
 
 ---
 
@@ -8074,7 +7865,7 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -8083,7 +7874,6 @@ SS4_acidhouse_Grateful Dead Tarot.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8119,546 +7909,6 @@ SS4_freetekno_90s Brick Phone.png
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** freetekno
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 4 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 10, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## whistle
-
-### Visual Properties
-
-**Name:** whistle
-
-**Image Files:**
-SS2_acidhouse_Whistle.png
-
-**Item Type:**
-
-**Visual Description:** a white whistle blower with red strings dangling down off of it.
-
-**Dominant Colors:** white, red
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** acidhouse
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 2 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 23, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## whippet cracker
-
-### Visual Properties
-
-**Name:** whippet cracker
-
-**Image Files:**
-SS4_acidhouse_Whippet Cracker.png
-
-**Item Type:**
-
-**Visual Description:** a device in black and light grey, and a clear straw looking piece.
-
-**Dominant Colors:** black, grey, clear white
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** acidhouse
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 4 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 10, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## rolling tobacco tin
-
-### Visual Properties
-
-**Name:** rolling tobacco tin
-
-**Image Files:**
-SS2_freetekno_Rolling Tobacco Tin.png
-
-**Item Type:**
-
-**Visual Description:** a tin in yellowish colour, with little text that reads “HAND ROLLING TOBACCO”.
-
-**Dominant Colors:** tin yellow
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** freetekno
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 2
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 7, 2024
-
-**Introduced By:** Jani
-
-**Team Notes:** 
-
-**Sources:**
-- https://discord.com/channels/1133935527855399053/1143685538075902095/11696244849621
-
-**Summary:** 
-
----
-
-## gold apollo ar942
-
-### Visual Properties
-
-**Name:** gold apollo ar942
-
-**Image Files:**
-SS4_Gold Apollo AR942.PNG
-
-**Item Type:**
-
-**Visual Description:** a small black device with a screen and some buttons.
-
-**Dominant Colors:** black, light blue
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 4 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** December 9, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## weed nugh
-
-### Visual Properties
-
-**Name:** weed nug
-
-**Image Files:**
-SS3_chicagodetroit_Weed Nug.png
-
-**Item Type:**
-
-**Visual Description:** a handful of leaves.
-
-**Dominant Colors:** green
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** chicago detroit
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 3 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 7, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## hotdog
-
-### Visual Properties
-
-**Name:** hotdog
-
-**Image Files:**
-SS4_hotdog.PNG
-
-**Item Type:**
-
-**Visual Description:** a hot dog with mustard / yellow sauce.
-
-**Dominant Colors:** brown, dark red, yellow
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** 
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 4 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** March 25, 2025
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## pihkal
-
-### Visual Properties
-
-**Name:** pihkal
-
-**Image Files:**
-SS4_freetekno_Pihkal.png
-
-**Item Type:**
-
-**Visual Description:** a book with black and blue cover, with its title in red that reads “PiHKAL”, and smaller text in white below it that reads “A CHEMICAL LOVE STORY”.
-
-**Dominant Colors:** black, blue, red
-
-**Material Impression:**
 
 ---
 
@@ -8699,7 +7949,531 @@ SS4_freetekno_Pihkal.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## whistle
+
+### Visual Properties
+
+**Name:** whistle
+
+**Image Files:**
+SS2_acidhouse_Whistle.png
+
+**Item Type:**
+
+**Visual Description:** a white whistle blower with red strings dangling down off of it.
+
+**Dominant Colors:** white, red
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 23, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## whippet cracker
+
+### Visual Properties
+
+**Name:** whippet cracker
+
+**Image Files:**
+SS4_acidhouse_Whippet Cracker.png
+
+**Item Type:**
+
+**Visual Description:** a device in black and light grey, and a clear straw looking piece.
+
+**Dominant Colors:** black, grey, clear white
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 10, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## rolling tobacco tin
+
+### Visual Properties
+
+**Name:** rolling tobacco tin
+
+**Image Files:**
+SS2_freetekno_Rolling Tobacco Tin.png
+
+**Item Type:**
+
+**Visual Description:** a tin in yellowish colour, with little text that reads “HAND ROLLING TOBACCO”.
+
+**Dominant Colors:** tin yellow
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 7, 2024
+
+**Introduced By:** Jani
+
+**Team Notes:** 
+
+**Sources:**
+- https://discord.com/channels/1133935527855399053/1143685538075902095/11696244849621
+
+**Summary:** 
+
+---
+
+## gold apollo ar942
+
+### Visual Properties
+
+**Name:** gold apollo ar942
+
+**Image Files:**
+SS4_Gold Apollo AR942.PNG
+
+**Item Type:**
+
+**Visual Description:** a small black device with a screen and some buttons.
+
+**Dominant Colors:** black, light blue
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** December 9, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## weed nugh
+
+### Visual Properties
+
+**Name:** weed nug
+
+**Image Files:**
+SS3_chicagodetroit_Weed Nug.png
+
+**Item Type:**
+
+**Visual Description:** a handful of leaves.
+
+**Dominant Colors:** green
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** chicago detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 3
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 7, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## hotdog
+
+### Visual Properties
+
+**Name:** hotdog
+
+**Image Files:**
+SS4_hotdog.PNG
+
+**Item Type:**
+
+**Visual Description:** a hot dog with mustard / yellow sauce.
+
+**Dominant Colors:** brown, dark red, yellow
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** 
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** March 25, 2025
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## pihkal
+
+### Visual Properties
+
+**Name:** pihkal
+
+**Image Files:**
+SS4_freetekno_Pihkal.png
+
+**Item Type:**
+
+**Visual Description:** a book with black and blue cover, with its title in red that reads “PiHKAL”, and smaller text in white below it that reads “A CHEMICAL LOVE STORY”.
+
+**Dominant Colors:** black, blue, red
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
 
 **Trait Conflicts:** 
 
@@ -8736,7 +8510,6 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 
 **Dominant Colors:** dark green
 
-**Material Impression:**
 
 ---
 
@@ -8777,7 +8550,6 @@ SS2_freetekno_ancient_mayan_Ayahuasca.png
 
 **Ancestor:** mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8814,7 +8586,6 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -8846,7 +8617,7 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -8855,7 +8626,6 @@ SS4_milady_acidhouse_MDMA Handbook.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8891,7 +8661,6 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -8932,7 +8701,6 @@ SS3_chicagodetroit_ancient_hindu_Sugarcane.PNG
 
 **Ancestor:** hindu
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8968,7 +8736,6 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 **Dominant Colors:** clear white, brown.
 
-**Material Impression:**
 
 ---
 
@@ -9000,7 +8767,7 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -9009,7 +8776,6 @@ SS2_chicagodetroit_glass of whiskey.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9045,7 +8811,6 @@ SS4_freetekno_Sheet Of Acid.png
 
 **Dominant Colors:** white, deep purple.
 
-**Material Impression:**
 
 ---
 
@@ -9086,7 +8851,6 @@ SS4_freetekno_Sheet Of Acid.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9122,7 +8886,6 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 
 **Dominant Colors:** dirty white, grey / brownish.
 
-**Material Impression:**
 
 ---
 
@@ -9163,7 +8926,6 @@ SS4_acidhouse_ancient_irishDruids_spodumene.PNG
 
 **Ancestor:** irish druids
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9199,7 +8961,6 @@ SS2_acidhouse_Subaeruginosa.png
 
 **Dominant Colors:** light brown, dark brown
 
-**Material Impression:**
 
 ---
 
@@ -9231,7 +8992,7 @@ SS2_acidhouse_Subaeruginosa.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -9240,7 +9001,6 @@ SS2_acidhouse_Subaeruginosa.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9276,7 +9036,6 @@ SS4_chicagodetroit_Drum.png
 
 **Dominant Colors:** dirty light beige
 
-**Material Impression:**
 
 ---
 
@@ -9317,7 +9076,6 @@ SS4_chicagodetroit_Drum.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9353,7 +9111,6 @@ SS3_chicagodetroit_Blunt.png
 
 **Dominant Colors:** dark brown
 
-**Material Impression:**
 
 ---
 
@@ -9385,7 +9142,7 @@ SS3_chicagodetroit_Blunt.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -9394,7 +9151,6 @@ SS3_chicagodetroit_Blunt.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9430,7 +9186,6 @@ SS2_milady_Plum Onigiri.png
 
 **Dominant Colors:** white, dark red / purple
 
-**Material Impression:**
 
 ---
 
@@ -9462,7 +9217,7 @@ SS2_milady_Plum Onigiri.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -9471,7 +9226,6 @@ SS2_milady_Plum Onigiri.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9507,7 +9261,6 @@ SS4_milady_Baby Sun Bear.png
 
 **Dominant Colors:** black
 
-**Material Impression:**
 
 ---
 
@@ -9539,7 +9292,7 @@ SS4_milady_Baby Sun Bear.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -9548,7 +9301,6 @@ SS4_milady_Baby Sun Bear.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9584,7 +9336,6 @@ SS3_Cypherpunk.png
 
 **Dominant Colors:** white, shades of black.
 
-**Material Impression:**
 
 ---
 
@@ -9616,7 +9367,7 @@ SS3_Cypherpunk.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -9625,7 +9376,6 @@ SS3_Cypherpunk.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9661,7 +9411,6 @@ SS4_freetekno_Tihkal.png
 
 **Dominant Colors:** black, blue, red
 
-**Material Impression:**
 
 ---
 
@@ -9702,7 +9451,6 @@ SS4_freetekno_Tihkal.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9739,7 +9487,6 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
 **Dominant Colors:** white, green.
 
-**Material Impression:**
 
 ---
 
@@ -9780,7 +9527,6 @@ SS2_chicagodetroit_ancient_aboriginal_pituri.PNG
 
 **Ancestor:** aboriginal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9816,7 +9562,6 @@ SS2_milady_ancient_thai_kwao krua.PNG
 
 **Dominant Colors:** creamy white, brown
 
-**Material Impression:**
 
 ---
 
@@ -9857,7 +9602,6 @@ SS2_milady_ancient_thai_kwao krua.PNG
 
 **Ancestor:** thai
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9893,7 +9637,6 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 **Dominant Colors:** white, purple
 
-**Material Impression:**
 
 ---
 
@@ -9925,7 +9668,7 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -9934,7 +9677,6 @@ SS5_chicagodetroit_Drank Lean Purp Sizzurp.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9970,7 +9712,6 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -10011,7 +9752,6 @@ SS4_acidhouse_ancient_pythia_Leaves Of Pythia.png
 
 **Ancestor:** pythia
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10047,7 +9787,6 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 **Dominant Colors:** dark brown, light brown
 
-**Material Impression:**
 
 ---
 
@@ -10079,7 +9818,7 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10088,7 +9827,6 @@ SS2_freetekno_mayan_Ayahuasca Bowl.png
 
 **Ancestor:** mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10124,7 +9862,6 @@ SS2_milady_Gumiberas.png
 
 **Dominant Colors:** golden, yellow
 
-**Material Impression:**
 
 ---
 
@@ -10156,7 +9893,7 @@ SS2_milady_Gumiberas.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10165,7 +9902,6 @@ SS2_milady_Gumiberas.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10201,7 +9937,6 @@ SS2_acidhouse_Fidget.png
 
 **Dominant Colors:** red, grey
 
-**Material Impression:**
 
 ---
 
@@ -10233,7 +9968,7 @@ SS2_acidhouse_Fidget.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10242,7 +9977,6 @@ SS2_acidhouse_Fidget.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10278,7 +10012,6 @@ SS2_acidhouse_Liberty Caps.png
 
 **Dominant Colors:** dark brown
 
-**Material Impression:**
 
 ---
 
@@ -10310,7 +10043,7 @@ SS2_acidhouse_Liberty Caps.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10319,7 +10052,6 @@ SS2_acidhouse_Liberty Caps.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10355,7 +10087,6 @@ SS2_milady_sober water.PNG
 
 **Dominant Colors:** white, blue
 
-**Material Impression:**
 
 ---
 
@@ -10387,7 +10118,7 @@ SS2_milady_sober water.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10396,7 +10127,6 @@ SS2_milady_sober water.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10432,7 +10162,6 @@ SS2_milady_Onigiri.png
 
 **Dominant Colors:** white, dark green, almost black.
 
-**Material Impression:**
 
 ---
 
@@ -10464,7 +10193,7 @@ SS2_milady_Onigiri.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10473,7 +10202,6 @@ SS2_milady_Onigiri.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10509,7 +10237,6 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 **Dominant Colors:** teal, green
 
-**Material Impression:**
 
 ---
 
@@ -10541,7 +10268,7 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -10550,7 +10277,6 @@ SS4_chicagodetroit_Teal Bong.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10586,7 +10312,6 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
 **Dominant Colors:** green, black, yellow
 
-**Material Impression:**
 
 ---
 
@@ -10627,7 +10352,6 @@ SS2_acidhouse_ancient_hindu_mucana pruriens.PNG
 
 **Ancestor:** hindu
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10663,7 +10387,6 @@ SS2_milady_Mibera Mate.png
 
 **Dominant Colors:** yellow, black.
 
-**Material Impression:**
 
 ---
 
@@ -10695,7 +10418,7 @@ SS2_milady_Mibera Mate.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10704,7 +10427,6 @@ SS2_milady_Mibera Mate.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10740,7 +10462,6 @@ SS2_chicagodetroit_Cassette.png
 
 **Dominant Colors:** black, silver.
 
-**Material Impression:**
 
 ---
 
@@ -10781,7 +10502,6 @@ SS2_chicagodetroit_Cassette.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10817,7 +10537,6 @@ SS4_freetekno_PS1 Controller.png
 
 **Dominant Colors:** light grey, black
 
-**Material Impression:**
 
 ---
 
@@ -10858,7 +10577,6 @@ SS4_freetekno_PS1 Controller.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10894,7 +10612,6 @@ SS2_acidhouse_Mexicana.png
 
 **Dominant Colors:** light brown
 
-**Material Impression:**
 
 ---
 
@@ -10926,7 +10643,7 @@ SS2_acidhouse_Mexicana.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -10935,7 +10652,6 @@ SS2_acidhouse_Mexicana.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -10971,7 +10687,6 @@ SS3_Fanged Noumena.png
 
 **Dominant Colors:** white, blue, red, orange
 
-**Material Impression:**
 
 ---
 
@@ -11003,7 +10718,7 @@ SS3_Fanged Noumena.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -11012,7 +10727,6 @@ SS3_Fanged Noumena.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11048,7 +10762,6 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
 **Dominant Colors:** yellow
 
-**Material Impression:**
 
 ---
 
@@ -11089,7 +10802,6 @@ SS3_chicagodetroit_ancient_gabon_iboga.PNG
 
 **Ancestor:** gabon
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11125,7 +10837,6 @@ SS2_chicagodetroit_Porridge.png
 
 **Dominant Colors:** purple, creamy white / beige
 
-**Material Impression:**
 
 ---
 
@@ -11157,7 +10868,7 @@ SS2_chicagodetroit_Porridge.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -11166,7 +10877,6 @@ SS2_chicagodetroit_Porridge.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11202,7 +10912,6 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
 **Dominant Colors:** dark green, yellow
 
-**Material Impression:**
 
 ---
 
@@ -11243,7 +10952,6 @@ SS2_acidhouse_ancient_aboriginal_acacia.PNG
 
 **Ancestor:** aboriginal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11279,7 +10987,6 @@ SS2_freetekno_Walkman.png
 
 **Dominant Colors:** navy blue, light grey
 
-**Material Impression:**
 
 ---
 
@@ -11320,7 +11027,6 @@ SS2_freetekno_Walkman.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11357,7 +11063,6 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 **Dominant Colors:** warm pink, pastel yellow
 
-**Material Impression:**
 
 ---
 
@@ -11389,7 +11094,7 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -11398,7 +11103,6 @@ SS2_chicagodetroit_Colorful Bong.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11434,7 +11138,6 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
 **Dominant Colors:** white, black, light beige
 
-**Material Impression:**
 
 ---
 
@@ -11475,7 +11178,6 @@ SS4_milady_modern_japanese_Aum Doomsday Sign.png
 
 **Ancestor:** japanese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11511,7 +11213,6 @@ SS4_acidhouse_Spiral Bera Balloon.png
 
 **Dominant Colors:** yellow, orange
 
-**Material Impression:**
 
 ---
 
@@ -11543,7 +11244,7 @@ SS4_acidhouse_Spiral Bera Balloon.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -11552,7 +11253,6 @@ SS4_acidhouse_Spiral Bera Balloon.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11588,7 +11288,6 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 
 **Dominant Colors:** reddish-brown, blue, red
 
-**Material Impression:**
 
 ---
 
@@ -11629,7 +11328,6 @@ SS5_acidhouse_modern_sami_Sami Pouch.png
 
 **Ancestor:** sami
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11665,7 +11363,6 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 **Dominant Colors:** vibrant bright blue and magenta / purple
 
-**Material Impression:**
 
 ---
 
@@ -11697,7 +11394,7 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -11706,7 +11403,6 @@ SS1_chicagodetroit_Cotton Candy Bong.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11742,7 +11438,6 @@ SS3_acidhouse_Fly Agaric.png
 
 **Dominant Colors:** red, white
 
-**Material Impression:**
 
 ---
 
@@ -11774,7 +11469,7 @@ SS3_acidhouse_Fly Agaric.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -11783,7 +11478,6 @@ SS3_acidhouse_Fly Agaric.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11819,7 +11513,6 @@ SS2_milady_Golden Flower.PNG
 
 **Dominant Colors:** golden, light yellow
 
-**Material Impression:**
 
 ---
 
@@ -11851,7 +11544,7 @@ SS2_milady_Golden Flower.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -11860,7 +11553,6 @@ SS2_milady_Golden Flower.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11896,7 +11588,6 @@ SS3_chicagodetroit_Syringe.png
 
 **Dominant Colors:** white, bright blue, black
 
-**Material Impression:**
 
 ---
 
@@ -11928,7 +11619,7 @@ SS3_chicagodetroit_Syringe.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -11937,7 +11628,6 @@ SS3_chicagodetroit_Syringe.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -11973,7 +11663,6 @@ SS5_bitcoin popcorn.PNG
 
 **Dominant Colors:** red, orange, white
 
-**Material Impression:**
 
 ---
 
@@ -12005,7 +11694,7 @@ SS5_bitcoin popcorn.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -12014,7 +11703,6 @@ SS5_bitcoin popcorn.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12050,7 +11738,6 @@ SS1_milady_How to stay in hell.PNG
 
 **Dominant Colors:** black, red, white
 
-**Material Impression:**
 
 ---
 
@@ -12082,7 +11769,7 @@ SS1_milady_How to stay in hell.PNG
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -12091,7 +11778,6 @@ SS1_milady_How to stay in hell.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12127,7 +11813,6 @@ SS5_milady_Remilia Gun.png
 
 **Dominant Colors:** Black, yellow
 
-**Material Impression:**
 
 ---
 
@@ -12168,7 +11853,6 @@ SS5_milady_Remilia Gun.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12204,7 +11888,6 @@ SS5_milady_Mad Hani Buttplug.png
 
 **Dominant Colors:** black, yellow, silver
 
-**Material Impression:**
 
 ---
 
@@ -12236,7 +11919,7 @@ SS5_milady_Mad Hani Buttplug.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -12245,7 +11928,6 @@ SS5_milady_Mad Hani Buttplug.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12281,7 +11963,6 @@ SS1_freetekno_Lighter.png
 
 **Dominant Colors:** navy blue
 
-**Material Impression:**
 
 ---
 
@@ -12322,7 +12003,6 @@ SS1_freetekno_Lighter.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12358,7 +12038,6 @@ SS3_freetekno_Fishing Rod.png
 
 **Dominant Colors:** brown, yellow, dark silver
 
-**Material Impression:**
 
 ---
 
@@ -12390,7 +12069,7 @@ SS3_freetekno_Fishing Rod.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -12399,7 +12078,6 @@ SS3_freetekno_Fishing Rod.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12435,7 +12113,6 @@ SS1_milady_Mibera Sweat.png
 
 **Dominant Colors:** white, blue
 
-**Material Impression:**
 
 ---
 
@@ -12467,7 +12144,7 @@ SS1_milady_Mibera Sweat.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -12476,7 +12153,6 @@ SS1_milady_Mibera Sweat.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12512,7 +12188,6 @@ SS2_freetekno_Special Brew.png
 
 **Dominant Colors:** light brown / golden, brown
 
-**Material Impression:**
 
 ---
 
@@ -12553,7 +12228,6 @@ SS2_freetekno_Special Brew.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12589,7 +12263,6 @@ SS5_Controlled Substances.png
 
 **Dominant Colors:** light blue, black
 
-**Material Impression:**
 
 ---
 
@@ -12621,7 +12294,7 @@ SS5_Controlled Substances.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -12630,7 +12303,6 @@ SS5_Controlled Substances.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12666,7 +12338,6 @@ SS5_apDAO Ring 2.PNG
 
 **Dominant Colors:** silver, magenta / pink
 
-**Material Impression:**
 
 ---
 
@@ -12698,7 +12369,7 @@ SS5_apDAO Ring 2.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -12707,7 +12378,6 @@ SS5_apDAO Ring 2.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12743,7 +12413,6 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Dominant Colors:** silver
 
-**Material Impression:**
 
 ---
 
@@ -12775,7 +12444,7 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -12784,7 +12453,6 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12820,7 +12488,6 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Dominant Colors:** black, white, red
 
-**Material Impression:**
 
 ---
 
@@ -12861,7 +12528,6 @@ SS5_chicagodetroit_Chrome Nails.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12897,7 +12563,6 @@ SS5_apDAO Ring 1.PNG
 
 **Dominant Colors:** dark gold
 
-**Material Impression:**
 
 ---
 
@@ -12929,7 +12594,7 @@ SS5_apDAO Ring 1.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -12938,7 +12603,6 @@ SS5_apDAO Ring 1.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -12974,7 +12638,6 @@ SS5_freetekno_AK47.png
 
 **Dominant Colors:** black
 
-**Material Impression:**
 
 ---
 
@@ -13006,7 +12669,7 @@ SS5_freetekno_AK47.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -13015,7 +12678,6 @@ SS5_freetekno_AK47.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13051,7 +12713,6 @@ SS1_Monster Ultra.png
 
 **Dominant Colors:** white
 
-**Material Impression:**
 
 ---
 
@@ -13083,7 +12744,7 @@ SS1_Monster Ultra.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -13092,7 +12753,6 @@ SS1_Monster Ultra.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13128,7 +12788,6 @@ SS1_acidhouse_Blue Glowstick.png
 
 **Dominant Colors:** light blue
 
-**Material Impression:**
 
 ---
 
@@ -13169,7 +12828,6 @@ SS1_acidhouse_Blue Glowstick.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13205,7 +12863,6 @@ SS5_freetekno_Baggie Of Pills.png
 
 **Dominant Colors:** white, yellow, soft teal
 
-**Material Impression:**
 
 ---
 
@@ -13237,7 +12894,7 @@ SS5_freetekno_Baggie Of Pills.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -13246,7 +12903,6 @@ SS5_freetekno_Baggie Of Pills.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13282,7 +12938,6 @@ SS3_acidhouse_Apple Bag.png
 
 **Dominant Colors:** red, green, brown
 
-**Material Impression:**
 
 ---
 
@@ -13314,7 +12969,7 @@ SS3_acidhouse_Apple Bag.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -13323,7 +12978,6 @@ SS3_acidhouse_Apple Bag.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13359,7 +13013,6 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
 **Dominant Colors:** clear white, dark brown
 
-**Material Impression:**
 
 ---
 
@@ -13400,7 +13053,6 @@ SS1_acidhouse_ancient_mayan_ololiuqui.PNG
 
 **Ancestor:** mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13436,7 +13088,6 @@ SS3_chicagodetroit_Vape Bag.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -13468,7 +13119,7 @@ SS3_chicagodetroit_Vape Bag.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -13477,7 +13128,6 @@ SS3_chicagodetroit_Vape Bag.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13513,7 +13163,6 @@ SS1_milady_sex health and long life.PNG
 
 **Dominant Colors:** red
 
-**Material Impression:**
 
 ---
 
@@ -13554,7 +13203,6 @@ SS1_milady_sex health and long life.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13590,7 +13238,6 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 
 **Dominant Colors:** dark green, light lime green
 
-**Material Impression:**
 
 ---
 
@@ -13631,7 +13278,6 @@ SS5_acidhouse_ancient_greek_Ancient Mead.png
 
 **Ancestor:** greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13668,7 +13314,6 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 **Dominant Colors:** light grey
 
-**Material Impression:**
 
 ---
 
@@ -13700,7 +13345,7 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -13709,7 +13354,6 @@ SS5_chicagodetroit_303 Drum Machine.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13745,7 +13389,6 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 **Dominant Colors:** light grey
 
-**Material Impression:**
 
 ---
 
@@ -13777,7 +13420,7 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -13786,7 +13429,6 @@ SS5_chicagodetroit_Keyboard Guitar.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13822,7 +13464,6 @@ SS1_acidhouse_Purple Glowstick.png
 
 **Dominant Colors:** bright purple
 
-**Material Impression:**
 
 ---
 
@@ -13863,7 +13504,6 @@ SS1_acidhouse_Purple Glowstick.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13899,7 +13539,6 @@ SS5_freetekno_Pepperoni Pizza.png
 
 **Dominant Colors:** yellow, red, beige / golden
 
-**Material Impression:**
 
 ---
 
@@ -13931,7 +13570,7 @@ SS5_freetekno_Pepperoni Pizza.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -13940,7 +13579,6 @@ SS5_freetekno_Pepperoni Pizza.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -13976,7 +13614,6 @@ SS5_leaf erickson.PNG
 
 **Dominant Colors:** white, green
 
-**Material Impression:**
 
 ---
 
@@ -14008,7 +13645,7 @@ SS5_leaf erickson.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -14017,7 +13654,6 @@ SS5_leaf erickson.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14053,7 +13689,6 @@ SS1_milady_Lawsuit.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -14085,7 +13720,7 @@ SS1_milady_Lawsuit.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -14094,7 +13729,6 @@ SS1_milady_Lawsuit.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14130,7 +13764,6 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
 **Dominant Colors:** shades of yellow
 
-**Material Impression:**
 
 ---
 
@@ -14162,7 +13795,7 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -14171,7 +13804,6 @@ SS5_chicagodetroit_mongolian_Euphoria Sun.PNG
 
 **Ancestor:** mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14207,7 +13839,6 @@ SS3_milady_banana.PNG
 
 **Dominant Colors:** yellow
 
-**Material Impression:**
 
 ---
 
@@ -14239,7 +13870,7 @@ SS3_milady_banana.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -14248,7 +13879,6 @@ SS3_milady_banana.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14284,7 +13914,6 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -14325,7 +13954,6 @@ SS1_freetekno_ancient_nativeAmerican_mayan_psychotria viridis.PNG
 
 **Ancestor:** native american / mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14361,84 +13989,6 @@ SS1_acidhouse_Bear Alchemist Tool.png
 
 **Dominant Colors:** white / grey, red copper
 
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** acidhouse
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 1 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 16, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## phone
-
-### Visual Properties
-
-**Name:** phone
-
-**Image Files:**
-SS1_freetekno_Phone.png
-
-**Item Type:**
-
-**Visual Description:** an old-school thick phone in black, green LED screen with black text that says “mibera” on it, and light grey buttons.
-
-**Dominant Colors:** black, light grey, green
-
-**Material Impression:**
 
 ---
 
@@ -14479,7 +14029,81 @@ SS1_freetekno_Phone.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 16, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## phone
+
+### Visual Properties
+
+**Name:** phone
+
+**Image Files:**
+SS1_freetekno_Phone.png
+
+**Item Type:**
+
+**Visual Description:** an old-school thick phone in black, green LED screen with black text that says “mibera” on it, and light grey buttons.
+
+**Dominant Colors:** black, light grey, green
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
 
 **Trait Conflicts:** 
 
@@ -14515,7 +14139,6 @@ SS1_freetekno_Pitchfork.png
 
 **Dominant Colors:** dark grey, brown
 
-**Material Impression:**
 
 ---
 
@@ -14547,7 +14170,7 @@ SS1_freetekno_Pitchfork.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -14556,7 +14179,6 @@ SS1_freetekno_Pitchfork.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14592,7 +14214,6 @@ SS1_chicagodetroit_joint.png
 
 **Dominant Colors:** white
 
-**Material Impression:**
 
 ---
 
@@ -14624,7 +14245,7 @@ SS1_chicagodetroit_joint.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -14633,7 +14254,6 @@ SS1_chicagodetroit_joint.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14669,7 +14289,6 @@ SS5_Cody Wilson AR-15.png
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -14701,7 +14320,7 @@ SS5_Cody Wilson AR-15.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -14710,7 +14329,6 @@ SS5_Cody Wilson AR-15.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14746,7 +14364,6 @@ SS1_chicagodetroit_Crack Pipe.png
 
 **Dominant Colors:** white
 
-**Material Impression:**
 
 ---
 
@@ -14778,7 +14395,7 @@ SS1_chicagodetroit_Crack Pipe.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -14787,7 +14404,6 @@ SS1_chicagodetroit_Crack Pipe.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14823,7 +14439,6 @@ SS5_The Liberator.png
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -14855,7 +14470,7 @@ SS5_The Liberator.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -14864,7 +14479,6 @@ SS5_The Liberator.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14900,7 +14514,6 @@ SS5_Henlo Cash.PNG
 
 **Dominant Colors:** green, yellow, white
 
-**Material Impression:**
 
 ---
 
@@ -14932,7 +14545,7 @@ SS5_Henlo Cash.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -14941,7 +14554,6 @@ SS5_Henlo Cash.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -14977,7 +14589,6 @@ SS5_milady_Diamond Paws.png
 
 **Dominant Colors:** rosegold / light gold, shades of blue
 
-**Material Impression:**
 
 ---
 
@@ -15009,7 +14620,7 @@ SS5_milady_Diamond Paws.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -15018,7 +14629,6 @@ SS5_milady_Diamond Paws.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15054,7 +14664,6 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
 **Dominant Colors:** terracotta
 
-**Material Impression:**
 
 ---
 
@@ -15095,7 +14704,6 @@ SS1_freetekno_ancient_mayan_mimosa tenuiflora.PNG
 
 **Ancestor:** mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15131,7 +14739,6 @@ SS1_milady_Honey Jar.png
 
 **Dominant Colors:** yellow, brown, white
 
-**Material Impression:**
 
 ---
 
@@ -15163,7 +14770,7 @@ SS1_milady_Honey Jar.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -15172,7 +14779,6 @@ SS1_milady_Honey Jar.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15208,7 +14814,6 @@ SS3_Honey Baddie.PNG
 
 **Dominant Colors:** shades of yellow
 
-**Material Impression:**
 
 ---
 
@@ -15249,7 +14854,6 @@ SS3_Honey Baddie.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15285,7 +14889,6 @@ SS3_Babybera Recorder.PNG
 
 **Dominant Colors:** white, dark grey, black, pink
 
-**Material Impression:**
 
 ---
 
@@ -15317,7 +14920,7 @@ SS3_Babybera Recorder.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -15326,7 +14929,6 @@ SS3_Babybera Recorder.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15362,7 +14964,6 @@ SS3_sprodcast.PNG
 
 **Dominant Colors:** blue, yellow, red
 
-**Material Impression:**
 
 ---
 
@@ -15394,7 +14995,7 @@ SS3_sprodcast.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -15403,7 +15004,6 @@ SS3_sprodcast.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15439,7 +15039,6 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
 **Dominant Colors:** green
 
-**Material Impression:**
 
 ---
 
@@ -15480,7 +15079,6 @@ SS1_acidhouse_ancient_nativeAmerican_arundo donax.PNG
 
 **Ancestor:** native american
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15516,7 +15114,6 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Dominant Colors:** clear white
 
-**Material Impression:**
 
 ---
 
@@ -15548,7 +15145,7 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -15557,7 +15154,6 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15593,7 +15189,6 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Dominant Colors:** blue, white
 
-**Material Impression:**
 
 ---
 
@@ -15625,7 +15220,7 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -15634,7 +15229,6 @@ SS3_Babybera Yeet Pipe.PNG
 
 **Ancestor:** orthodox jews, aboriginial, haitians
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15670,7 +15264,6 @@ SS2_milady_Sudoswap Owen Plushie.png
 
 **Dominant Colors:** Green / teal-ish
 
-**Material Impression:**
 
 ---
 
@@ -15711,7 +15304,6 @@ SS2_milady_Sudoswap Owen Plushie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15747,7 +15339,6 @@ SS3_freetekno_Shin Ramyun.png
 
 **Dominant Colors:** red, black
 
-**Material Impression:**
 
 ---
 
@@ -15779,7 +15370,7 @@ SS3_freetekno_Shin Ramyun.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -15788,7 +15379,6 @@ SS3_freetekno_Shin Ramyun.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15824,7 +15414,6 @@ SS3_freetekno_Shin Ramyun.png
 
 **Dominant Colors:** black, red, yellow
 
-**Material Impression:**
 
 ---
 
@@ -15865,7 +15454,6 @@ SS3_freetekno_Shin Ramyun.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15901,7 +15489,6 @@ SS1_chicagodetroit_Cigar.png
 
 **Dominant Colors:** brown
 
-**Material Impression:**
 
 ---
 
@@ -15942,7 +15529,6 @@ SS1_chicagodetroit_Cigar.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -15979,7 +15565,6 @@ SS2_Beramarket Big Brain.PNG
 
 **Dominant Colors:** grey, purple
 
-**Material Impression:**
 
 ---
 
@@ -16011,7 +15596,7 @@ SS2_Beramarket Big Brain.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -16020,7 +15605,6 @@ SS2_Beramarket Big Brain.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16056,7 +15640,6 @@ SS4_milady_THC iPod.png
 
 **Dominant Colors:** white
 
-**Material Impression:**
 
 ---
 
@@ -16088,7 +15671,7 @@ SS4_milady_THC iPod.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -16097,7 +15680,6 @@ SS4_milady_THC iPod.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16133,7 +15715,6 @@ SS3_milady_The Pencil.PNG
 
 **Dominant Colors:** black
 
-**Material Impression:**
 
 ---
 
@@ -16165,7 +15746,7 @@ SS3_milady_The Pencil.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16174,7 +15755,6 @@ SS3_milady_The Pencil.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16210,7 +15790,6 @@ SS3_Puffpaw Smokey.PNG
 
 **Dominant Colors:** black, navy blue
 
-**Material Impression:**
 
 ---
 
@@ -16242,7 +15821,7 @@ SS3_Puffpaw Smokey.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16251,7 +15830,6 @@ SS3_Puffpaw Smokey.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16287,7 +15865,6 @@ SS3_Berapunk.PNG
 
 **Dominant Colors:** brown, orange
 
-**Material Impression:**
 
 ---
 
@@ -16319,7 +15896,7 @@ SS3_Berapunk.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16328,7 +15905,6 @@ SS3_Berapunk.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16364,7 +15940,6 @@ SS4_milady_Beradoge.png
 
 **Dominant Colors:** brown, light beige
 
-**Material Impression:**
 
 ---
 
@@ -16396,7 +15971,7 @@ SS4_milady_Beradoge.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -16405,7 +15980,6 @@ SS4_milady_Beradoge.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16441,7 +16015,6 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 
 **Dominant Colors:** yellow, green
 
-**Material Impression:**
 
 ---
 
@@ -16482,7 +16055,6 @@ SS4_freetekno_ancient_greek_st. john's wort.PNG
 
 **Ancestor:** greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16518,7 +16090,6 @@ SS3_Yuzu.PNG
 
 **Dominant Colors:** orange / ginger, black, white
 
-**Material Impression:**
 
 ---
 
@@ -16550,7 +16121,7 @@ SS3_Yuzu.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16559,7 +16130,6 @@ SS3_Yuzu.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16595,7 +16165,6 @@ SS4_milady_THC Mic.png
 
 **Dominant Colors:** black
 
-**Material Impression:**
 
 ---
 
@@ -16627,7 +16196,7 @@ SS4_milady_THC Mic.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -16636,7 +16205,6 @@ SS4_milady_THC Mic.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16672,7 +16240,6 @@ SS3_Smilee.PNG
 
 **Dominant Colors:** shades of pink, rainbow
 
-**Material Impression:**
 
 ---
 
@@ -16704,7 +16271,7 @@ SS3_Smilee.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16713,7 +16280,6 @@ SS3_Smilee.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16749,7 +16315,6 @@ SS3_Puffpaw THJ.PNG
 
 **Dominant Colors:** black, yellow
 
-**Material Impression:**
 
 ---
 
@@ -16781,7 +16346,7 @@ SS3_Puffpaw THJ.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16790,7 +16355,6 @@ SS3_Puffpaw THJ.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16826,7 +16390,6 @@ SS5_chicagodetroit_cocaine baggie.png
 
 **Dominant Colors:** white, yellow
 
-**Material Impression:**
 
 ---
 
@@ -16858,7 +16421,7 @@ SS5_chicagodetroit_cocaine baggie.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -16867,7 +16430,6 @@ SS5_chicagodetroit_cocaine baggie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16903,7 +16465,6 @@ SS3_Beratone Bera.PNG
 
 **Dominant Colors:** brown
 
-**Material Impression:**
 
 ---
 
@@ -16935,7 +16496,7 @@ SS3_Beratone Bera.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -16944,7 +16505,6 @@ SS3_Beratone Bera.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -16980,7 +16540,6 @@ SS3_Yeeted.png
 
 **Dominant Colors:** yellow, red
 
-**Material Impression:**
 
 ---
 
@@ -17012,7 +16571,7 @@ SS3_Yeeted.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17021,7 +16580,6 @@ SS3_Yeeted.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17057,7 +16615,6 @@ SS3_milady_Scatter Cat.PNG
 
 **Dominant Colors:** light brown, very dark navy (almost black), light yellow
 
-**Material Impression:**
 
 ---
 
@@ -17089,7 +16646,7 @@ SS3_milady_Scatter Cat.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17098,7 +16655,6 @@ SS3_milady_Scatter Cat.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17134,7 +16690,6 @@ SS3_Pink Baddie.PNG
 
 **Dominant Colors:** shades of pink
 
-**Material Impression:**
 
 ---
 
@@ -17166,7 +16721,7 @@ SS3_Pink Baddie.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17175,7 +16730,6 @@ SS3_Pink Baddie.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17211,7 +16765,6 @@ SS3_Bullas Plush.PNG
 
 **Dominant Colors:** light brown, muted teal, blue
 
-**Material Impression:**
 
 ---
 
@@ -17243,7 +16796,7 @@ SS3_Bullas Plush.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17252,7 +16805,6 @@ SS3_Bullas Plush.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17288,7 +16840,6 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 **Dominant Colors:** yellow, red
 
-**Material Impression:**
 
 ---
 
@@ -17320,7 +16871,7 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17329,7 +16880,6 @@ SS3_chicagodetroit_Swisher Sweets.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17365,7 +16915,6 @@ SS3_Steady.PNG
 
 **Dominant Colors:** red, creamy white, blue
 
-**Material Impression:**
 
 ---
 
@@ -17397,7 +16946,7 @@ SS3_Steady.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17406,7 +16955,6 @@ SS3_Steady.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17442,7 +16990,6 @@ SS3_Berakin.PNG
 
 **Dominant Colors:** hot pink
 
-**Material Impression:**
 
 ---
 
@@ -17474,7 +17021,7 @@ SS3_Berakin.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17483,7 +17030,6 @@ SS3_Berakin.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17519,7 +17065,6 @@ SS3_babybera plush.PNG
 
 **Dominant Colors:** grey
 
-**Material Impression:**
 
 ---
 
@@ -17551,7 +17096,7 @@ SS3_babybera plush.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17560,7 +17105,6 @@ SS3_babybera plush.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17596,7 +17140,6 @@ SS3_freetekno_Babybera Janny Pack.PNG
 
 **Dominant Colors:** grey
 
-**Material Impression:**
 
 ---
 
@@ -17628,7 +17171,7 @@ SS3_freetekno_Babybera Janny Pack.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17637,7 +17180,6 @@ SS3_freetekno_Babybera Janny Pack.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17673,7 +17215,6 @@ SS2_milady_Ursadom Plush.png
 
 **Dominant Colors:** white, black
 
-**Material Impression:**
 
 ---
 
@@ -17705,7 +17246,7 @@ SS2_milady_Ursadom Plush.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -17714,7 +17255,6 @@ SS2_milady_Ursadom Plush.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17750,7 +17290,6 @@ SS4_Ooga Booga Credit.png
 
 **Dominant Colors:** silver, black
 
-**Material Impression:**
 
 ---
 
@@ -17782,7 +17321,7 @@ SS4_Ooga Booga Credit.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -17791,7 +17330,6 @@ SS4_Ooga Booga Credit.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17827,7 +17365,6 @@ SS3_milady_Beratone Plushie.png
 
 **Dominant Colors:** brown, yellow, blue, red, green.
 
-**Material Impression:**
 
 ---
 
@@ -17859,7 +17396,7 @@ SS3_milady_Beratone Plushie.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17868,7 +17405,6 @@ SS3_milady_Beratone Plushie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17904,7 +17440,6 @@ SS3_Beramonium.PNG
 
 **Dominant Colors:** brown, green.
 
-**Material Impression:**
 
 ---
 
@@ -17936,7 +17471,7 @@ SS3_Beramonium.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -17945,7 +17480,6 @@ SS3_Beramonium.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -17981,7 +17515,6 @@ SS3_Beraborrow.PNG
 
 **Dominant Colors:** brown, creamy white.
 
-**Material Impression:**
 
 ---
 
@@ -18013,7 +17546,7 @@ SS3_Beraborrow.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -18022,7 +17555,6 @@ SS3_Beraborrow.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18058,7 +17590,6 @@ SS3_Vase.PNG
 
 **Dominant Colors:** dark navy blue, black
 
-**Material Impression:**
 
 ---
 
@@ -18090,7 +17621,7 @@ SS3_Vase.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -18099,7 +17630,6 @@ SS3_Vase.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18135,7 +17665,6 @@ SS3_Puffpaw Mibera.PNG
 
 **Dominant Colors:** black, blue, dusky pink
 
-**Material Impression:**
 
 ---
 
@@ -18167,7 +17696,7 @@ SS3_Puffpaw Mibera.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -18176,7 +17705,6 @@ SS3_Puffpaw Mibera.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18212,7 +17740,6 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 
 **Dominant Colors:** babypink
 
-**Material Impression:**
 
 ---
 
@@ -18244,7 +17771,7 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -18253,7 +17780,6 @@ SS3_chicagodetroit_babybera cloud99 tape.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18289,7 +17815,6 @@ SS4_milady_Kittykaki Plushie.png
 
 **Dominant Colors:** black, blue, dusky pink
 
-**Material Impression:**
 
 ---
 
@@ -18321,7 +17846,7 @@ SS4_milady_Kittykaki Plushie.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -18330,7 +17855,6 @@ SS4_milady_Kittykaki Plushie.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18366,7 +17890,6 @@ SS3_Bullas Whip.PNG
 
 **Dominant Colors:** black
 
-**Material Impression:**
 
 ---
 
@@ -18398,7 +17921,7 @@ SS3_Bullas Whip.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -18407,7 +17930,6 @@ SS3_Bullas Whip.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18443,7 +17965,6 @@ SS1_milady_Sudo Chan.png
 
 **Dominant Colors:** cream, soft purple, yellow
 
-**Material Impression:**
 
 ---
 
@@ -18475,7 +17996,7 @@ SS1_milady_Sudo Chan.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -18484,7 +18005,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -18555,7 +18075,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -18625,7 +18144,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -18695,7 +18213,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -18765,7 +18282,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -18835,7 +18351,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -18905,7 +18420,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -18975,7 +18489,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19045,7 +18558,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19115,7 +18627,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19185,7 +18696,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19255,7 +18765,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19325,7 +18834,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19395,7 +18903,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19465,7 +18972,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19535,7 +19041,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19605,7 +19110,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19675,7 +19179,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19745,7 +19248,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -19815,7 +19317,6 @@ SS1_milady_Sudo Chan.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

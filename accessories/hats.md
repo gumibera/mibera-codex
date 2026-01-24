@@ -19,7 +19,6 @@
 
 **Dominant Colors:** Brown, light pale brown
 
-**Material Impression:**
 
 ---
 
@@ -60,7 +59,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -96,7 +94,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -137,7 +134,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -173,7 +169,6 @@
 
 **Dominant Colors:** Yellow, white
 
-**Material Impression:**
 
 ---
 
@@ -214,7 +209,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -250,7 +244,6 @@
 
 **Dominant Colors:** Navy blue, white
 
-**Material Impression:**
 
 ---
 
@@ -282,7 +275,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -291,7 +284,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -327,7 +319,6 @@
 
 **Dominant Colors:** Yellow, white, black, red
 
-**Material Impression:**
 
 ---
 
@@ -368,7 +359,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -405,7 +395,6 @@
 
 **Dominant Colors:** Green
 
-**Material Impression:**
 
 ---
 
@@ -437,7 +426,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -446,7 +435,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -482,7 +470,6 @@
 
 **Dominant Colors:** Black, red, white
 
-**Material Impression:**
 
 ---
 
@@ -523,7 +510,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -560,7 +546,6 @@
 
 **Dominant Colors:** Green, white with slight tint of green
 
-**Material Impression:**
 
 ---
 
@@ -601,7 +586,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -637,7 +621,6 @@
 
 **Dominant Colors:** Dark green, white
 
-**Material Impression:**
 
 ---
 
@@ -678,7 +661,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -714,7 +696,6 @@
 
 **Dominant Colors:** Navy blue, white
 
-**Material Impression:**
 
 ---
 
@@ -755,7 +736,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -791,7 +771,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -832,7 +811,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -868,7 +846,6 @@
 
 **Dominant Colors:** Blue, light beige
 
-**Material Impression:**
 
 ---
 
@@ -909,7 +886,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -945,7 +921,6 @@
 
 **Dominant Colors:** Dark army green / dark grey.
 
-**Material Impression:**
 
 ---
 
@@ -986,7 +961,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1022,7 +996,6 @@
 
 **Dominant Colors:** Green, light red, yellow, white.
 
-**Material Impression:**
 
 ---
 
@@ -1063,7 +1036,6 @@
 
 **Ancestor:** Irish Druid
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1099,7 +1071,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -1140,7 +1111,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1176,7 +1146,6 @@
 
 **Dominant Colors:** Dull green
 
-**Material Impression:**
 
 ---
 
@@ -1217,7 +1186,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1254,7 +1222,6 @@
 
 **Dominant Colors:** Pink, white, black
 
-**Material Impression:**
 
 ---
 
@@ -1295,7 +1262,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1333,7 +1299,6 @@
 
 **Dominant Colors:** Dark grey
 
-**Material Impression:**
 
 ---
 
@@ -1374,7 +1339,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1411,7 +1375,6 @@
 
 **Dominant Colors:** Blue, brown
 
-**Material Impression:**
 
 ---
 
@@ -1452,7 +1415,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1488,7 +1450,6 @@
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 ---
 
@@ -1529,7 +1490,6 @@
 
 **Ancestor:** Traveller
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1566,7 +1526,6 @@
 
 **Dominant Colors:** Dark green, light pale green, brown
 
-**Material Impression:**
 
 ---
 
@@ -1607,7 +1566,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1644,7 +1602,6 @@
 
 **Dominant Colors:** Green, yellow, white.
 
-**Material Impression:**
 
 ---
 
@@ -1685,7 +1642,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1722,7 +1678,6 @@
 
 **Dominant Colors:** Light brown, dark brown, green, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -1763,7 +1718,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1799,7 +1753,6 @@
 
 **Dominant Colors:** Blue, red, white.
 
-**Material Impression:**
 
 ---
 
@@ -1840,7 +1793,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1877,7 +1829,6 @@
 
 **Dominant Colors:** Beige, red.
 
-**Material Impression:**
 
 ---
 
@@ -1918,7 +1869,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1954,7 +1904,6 @@
 
 **Dominant Colors:** Red, white.
 
-**Material Impression:**
 
 ---
 
@@ -1995,7 +1944,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2031,7 +1979,6 @@
 
 **Dominant Colors:** Shades of purple.
 
-**Material Impression:**
 
 ---
 
@@ -2072,7 +2019,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2108,7 +2054,6 @@
 
 **Dominant Colors:** White, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -2149,7 +2094,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2185,7 +2129,6 @@
 
 **Dominant Colors:** Orange, green.
 
-**Material Impression:**
 
 ---
 
@@ -2226,7 +2169,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2262,7 +2204,6 @@
 
 **Dominant Colors:** Red, white.
 
-**Material Impression:**
 
 ---
 
@@ -2294,7 +2235,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2303,7 +2244,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2339,7 +2279,6 @@
 
 **Dominant Colors:** Pink, brown
 
-**Material Impression:**
 
 ---
 
@@ -2380,7 +2319,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2416,7 +2354,6 @@
 
 **Dominant Colors:** Red, yellow
 
-**Material Impression:**
 
 ---
 
@@ -2457,7 +2394,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2493,7 +2429,6 @@
 
 **Dominant Colors:** Orange, blue
 
-**Material Impression:**
 
 ---
 
@@ -2534,7 +2469,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2572,7 +2506,6 @@
 
 **Dominant Colors:** Brown, dirty white, light beige
 
-**Material Impression:**
 
 ---
 
@@ -2613,7 +2546,6 @@
 
 **Ancestor:** Mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2650,7 +2582,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -2691,7 +2622,6 @@
 
 **Ancestor:** Orthodox Jew
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2728,7 +2658,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -2769,7 +2698,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2805,7 +2733,6 @@
 
 **Dominant Colors:** Black, red, blue, yellow
 
-**Material Impression:**
 
 ---
 
@@ -2846,7 +2773,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2882,7 +2808,6 @@
 
 **Dominant Colors:** Red, yellow
 
-**Material Impression:**
 
 ---
 
@@ -2923,7 +2848,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2960,7 +2884,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -2992,7 +2915,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3001,7 +2924,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3037,7 +2959,6 @@
 
 **Dominant Colors:** White, grey
 
-**Material Impression:**
 
 ---
 
@@ -3078,7 +2999,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3114,7 +3034,6 @@
 
 **Dominant Colors:** Green, yellow, blue, red
 
-**Material Impression:**
 
 ---
 
@@ -3155,7 +3074,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3192,7 +3110,6 @@
 
 **Dominant Colors:** White, yellow
 
-**Material Impression:**
 
 ---
 
@@ -3233,7 +3150,6 @@
 
 **Ancestor:** Japanese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3269,7 +3185,6 @@
 
 **Dominant Colors:** Dark brown, white, bright blue
 
-**Material Impression:**
 
 ---
 
@@ -3310,7 +3225,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3347,7 +3261,6 @@
 
 **Dominant Colors:** Brown, light beige
 
-**Material Impression:**
 
 ---
 
@@ -3379,7 +3292,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3388,7 +3301,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3424,7 +3336,6 @@
 
 **Dominant Colors:** beige, sandy
 
-**Material Impression:**
 
 ---
 
@@ -3456,7 +3367,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -3465,7 +3376,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3501,7 +3411,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -3542,7 +3451,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3578,7 +3486,6 @@
 
 **Dominant Colors:** Red, blue, orange, red, yellow, grey
 
-**Material Impression:**
 
 ---
 
@@ -3619,7 +3526,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3656,7 +3562,6 @@
 
 **Dominant Colors:** brown, light beige
 
-**Material Impression:**
 
 ---
 
@@ -3688,7 +3593,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -3697,7 +3602,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3733,7 +3637,6 @@
 
 **Dominant Colors:** Red, green
 
-**Material Impression:**
 
 ---
 
@@ -3774,7 +3677,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3810,7 +3712,6 @@
 
 **Dominant Colors:** Red Maroon
 
-**Material Impression:**
 
 ---
 
@@ -3851,7 +3752,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3887,7 +3787,6 @@
 
 **Dominant Colors:** Clear white, dark grey
 
-**Material Impression:**
 
 ---
 
@@ -3928,7 +3827,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3964,7 +3862,6 @@
 
 **Dominant Colors:** Black, soft light yellow
 
-**Material Impression:**
 
 ---
 
@@ -3996,7 +3893,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4005,7 +3902,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4041,7 +3937,6 @@
 
 **Dominant Colors:** Light grey, yellow, white
 
-**Material Impression:**
 
 ---
 
@@ -4082,7 +3977,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4118,7 +4012,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -4150,7 +4043,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4159,7 +4052,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4195,7 +4087,6 @@
 
 **Dominant Colors:** Orange
 
-**Material Impression:**
 
 ---
 
@@ -4227,7 +4118,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4236,7 +4127,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4272,7 +4162,6 @@
 
 **Dominant Colors:** Soft pink, white
 
-**Material Impression:**
 
 ---
 
@@ -4313,7 +4202,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4349,7 +4237,6 @@
 
 **Dominant Colors:** Dirty bone-white, black
 
-**Material Impression:**
 
 ---
 
@@ -4381,7 +4268,7 @@
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -4390,7 +4277,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4426,7 +4312,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -4458,7 +4343,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4467,7 +4352,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4503,7 +4387,6 @@
 
 **Dominant Colors:** Transparent white, egg
 
-**Material Impression:**
 
 ---
 
@@ -4535,7 +4418,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4544,7 +4427,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4580,7 +4462,6 @@
 
 **Dominant Colors:** Black, grey
 
-**Material Impression:**
 
 ---
 
@@ -4612,7 +4493,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4621,7 +4502,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4657,7 +4537,6 @@
 
 **Dominant Colors:** Dark navy, black, yellow, red
 
-**Material Impression:**
 
 ---
 
@@ -4698,7 +4577,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4735,7 +4613,6 @@
 
 **Dominant Colors:** Beige / light tan, red
 
-**Material Impression:**
 
 ---
 
@@ -4767,7 +4644,7 @@
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -4776,7 +4653,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4812,7 +4688,6 @@
 
 **Dominant Colors:** Shades of grey, white
 
-**Material Impression:**
 
 ---
 
@@ -4844,7 +4719,7 @@
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -4853,7 +4728,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4889,7 +4763,6 @@
 
 **Dominant Colors:** Red, yellow
 
-**Material Impression:**
 
 ---
 
@@ -4930,7 +4803,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4966,7 +4838,6 @@
 
 **Dominant Colors:** Green, white
 
-**Material Impression:**
 
 ---
 
@@ -4998,7 +4869,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -5007,7 +4878,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5043,84 +4913,6 @@
 
 **Dominant Colors:** Brown, light beige
 
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** Milady
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 4 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 27, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## Cowboy
-
-### Visual Properties
-
-**Name:** Cowboy
-
-**Image Files:**
-![Cowboy](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Cowboy.webp)
-
-**Accessory Type:**
-
-**Visual Description:** Black cowboy hat with red tie / rope around it.
-
-**Dominant Colors:** Brown, light beige
-
-**Material Impression:**
 
 ---
 
@@ -5161,7 +4953,81 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## Cowboy
+
+### Visual Properties
+
+**Name:** Cowboy
+
+**Image Files:**
+![Cowboy](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS4_milady_Cowboy.webp)
+
+**Accessory Type:**
+
+**Visual Description:** Black cowboy hat with red tie / rope around it.
+
+**Dominant Colors:** Brown, light beige
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Milady
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 4
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
 
 **Trait Conflicts:** 
 
@@ -5197,7 +5063,6 @@
 
 **Dominant Colors:** Brown, light beige
 
-**Material Impression:**
 
 ---
 
@@ -5229,7 +5094,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -5238,7 +5103,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5274,7 +5138,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -5315,7 +5178,6 @@
 
 **Ancestor:** Sufi
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5352,7 +5214,6 @@
 
 **Dominant Colors:** Pink, black
 
-**Material Impression:**
 
 ---
 
@@ -5393,7 +5254,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5429,7 +5289,6 @@
 
 **Dominant Colors:** Shades of green, white
 
-**Material Impression:**
 
 ---
 
@@ -5470,7 +5329,6 @@
 
 **Ancestor:** Mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5507,7 +5365,6 @@
 
 **Dominant Colors:** Purple, pink
 
-**Material Impression:**
 
 ---
 
@@ -5539,7 +5396,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -5548,7 +5405,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5584,7 +5440,6 @@
 
 **Dominant Colors:** Purple, white, red, green, yellow
 
-**Material Impression:**
 
 ---
 
@@ -5625,7 +5480,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5662,7 +5516,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -5703,7 +5556,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5739,7 +5591,6 @@
 
 **Dominant Colors:** Shades of green
 
-**Material Impression:**
 
 ---
 
@@ -5771,7 +5622,7 @@
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -5780,7 +5631,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5816,7 +5666,6 @@
 
 **Dominant Colors:** Navy blue, white, black
 
-**Material Impression:**
 
 ---
 
@@ -5848,7 +5697,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -5857,7 +5706,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5893,7 +5741,6 @@
 
 **Dominant Colors:** Light yellow
 
-**Material Impression:**
 
 ---
 
@@ -5934,7 +5781,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5970,7 +5816,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -6011,7 +5856,6 @@
 
 **Ancestor:** Satanist
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6048,7 +5892,6 @@
 
 **Dominant Colors:** Black, silver
 
-**Material Impression:**
 
 ---
 
@@ -6080,7 +5923,7 @@
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -6089,7 +5932,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6125,7 +5967,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -6166,7 +6007,6 @@
 
 **Ancestor:** Orthodox Jew
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6203,7 +6043,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -6244,7 +6083,6 @@
 
 **Ancestor:** Pythia
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6282,7 +6120,6 @@
 
 **Dominant Colors:** Black, red, blue, yellow
 
-**Material Impression:**
 
 ---
 
@@ -6323,7 +6160,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6359,315 +6195,6 @@
 
 **Dominant Colors:** Orange, white with a hint of orange
 
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** Acidhouse
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 2 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 24, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## Duct Tape
-
-### Visual Properties
-
-**Name:** Duct Tape
-
-**Image Files:**
-![duct tape](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
-
-**Accessory Type:**
-
-**Visual Description:** Silver duct tape
-
-**Dominant Colors:** Silver
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** Chicago Detroit
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 1 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** June 5, 2024
-
-**Introduced By:** Fedor
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## Mibera Pacifier
-
-### Visual Properties
-
-**Name:** Mibera Pacifier
-
-**Image Files:**
-![Mibera Pacifier](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
-
-**Accessory Type:**
-
-**Visual Description:** White pacifier with Mibera logo on it; a yellow smiley with bear ears.
-
-**Dominant Colors:** White, yellow, black
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** Chicago Detroit
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 2 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** June 19, 2024
-
-**Introduced By:** Fedor / Kata / Jani
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## Vaneck Intern
-
-### Visual Properties
-
-**Name:** Vaneck Intern
-
-**Image Files:**
-![vaneck intern](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_vaneck%20intern.webp)
-
-**Accessory Type:**
-
-**Visual Description:** Black cap with white text that reads “vaneck intern”.
-
-**Dominant Colors:** Black, white
-
-**Material Impression:**
-
----
-
-### Cultural Context
-
-**Source Type:**
-
-**Cultural Origin:** 
-
-**Era:**
-
-**Scene Association:**
-
-**Geographic Roots:**
-
-**Why This Matters:**
-
-**Notable Figures:**
-
----
-
-### Mibera Integration
-
-**Archetype:** Freetekno
-
-**Archetype Alignment:** 
-
-**Vibe Tags:**
-
-**Setting:**
-
-**Swag Score:** 2 ---
-
-
----
-
-### Connections
-
-**Ancestor:** 
-
-**Trait Synergies:**
-
-**Trait Conflicts:** 
-
----
-
-### Attribution & Sources
-
-**Date Added:** July 27, 2024
-
-**Introduced By:** 
-
-**Team Notes:** 
-
-**Sources:**
-
-
-**Summary:** 
-
----
-
-## Aitoshi
-
-### Visual Properties
-
-**Name:** Aitoshi
-
-**Image Files:**
-![Aitoshi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Aitoshi.webp)
-
-**Accessory Type:**
-
-**Visual Description:** Beanie in pastel teal with rounded ears and black graphic of a bear and chains.
-
-**Dominant Colors:** Black, light pastel teal
-
-**Material Impression:**
 
 ---
 
@@ -6708,7 +6235,306 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 24, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## Duct Tape
+
+### Visual Properties
+
+**Name:** Duct Tape
+
+**Image Files:**
+![duct tape](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS1_chicagodetroit_duct%20tape.webp)
+
+**Accessory Type:**
+
+**Visual Description:** Silver duct tape
+
+**Dominant Colors:** Silver
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 1
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 5, 2024
+
+**Introduced By:** Fedor
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## Mibera Pacifier
+
+### Visual Properties
+
+**Name:** Mibera Pacifier
+
+**Image Files:**
+![Mibera Pacifier](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_chicagodetroit_Mibera%20Pacifier.webp)
+
+**Accessory Type:**
+
+**Visual Description:** White pacifier with Mibera logo on it; a yellow smiley with bear ears.
+
+**Dominant Colors:** White, yellow, black
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Chicago Detroit
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** June 19, 2024
+
+**Introduced By:** Fedor / Kata / Jani
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## Vaneck Intern
+
+### Visual Properties
+
+**Name:** Vaneck Intern
+
+**Image Files:**
+![vaneck intern](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_freetekno_vaneck%20intern.webp)
+
+**Accessory Type:**
+
+**Visual Description:** Black cap with white text that reads “vaneck intern”.
+
+**Dominant Colors:** Black, white
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Freetekno
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
+
+**Trait Conflicts:** 
+
+---
+
+### Attribution & Sources
+
+**Date Added:** July 27, 2024
+
+**Introduced By:** 
+
+**Team Notes:** 
+
+**Sources:**
+
+
+**Summary:** 
+
+---
+
+## Aitoshi
+
+### Visual Properties
+
+**Name:** Aitoshi
+
+**Image Files:**
+![Aitoshi](https://mibera.fsn1.your-objectstorage.com/components/hats__z160/SS2_acidhouse_Aitoshi.webp)
+
+**Accessory Type:**
+
+**Visual Description:** Beanie in pastel teal with rounded ears and black graphic of a bear and chains.
+
+**Dominant Colors:** Black, light pastel teal
+
+
+---
+
+### Cultural Context
+
+**Source Type:**
+
+**Cultural Origin:** 
+
+**Era:**
+
+**Scene Association:**
+
+**Geographic Roots:**
+
+**Why This Matters:**
+
+**Notable Figures:**
+
+---
+
+### Mibera Integration
+
+**Archetype:** Acidhouse
+
+**Archetype Alignment:** 
+
+**Vibe Tags:**
+
+**Setting:**
+
+**Swag Score:** 2
+
+
+---
+
+### Connections
+
+**Ancestor:** 
+
 
 **Trait Conflicts:** 
 
@@ -6744,7 +6570,6 @@
 
 **Dominant Colors:** Soft blue, light blue
 
-**Material Impression:**
 
 ---
 
@@ -6776,7 +6601,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -6785,7 +6610,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6821,7 +6645,6 @@
 
 **Dominant Colors:** Red, yellow
 
-**Material Impression:**
 
 ---
 
@@ -6862,7 +6685,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6898,7 +6720,6 @@
 
 **Dominant Colors:** Deep red
 
-**Material Impression:**
 
 ---
 
@@ -6930,7 +6751,7 @@
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -6939,7 +6760,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6975,7 +6795,6 @@
 
 **Dominant Colors:** Vibrant blue
 
-**Material Impression:**
 
 ---
 
@@ -7007,7 +6826,7 @@
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7016,7 +6835,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7052,7 +6870,6 @@
 
 **Dominant Colors:** Light greyish beige
 
-**Material Impression:**
 
 ---
 
@@ -7093,7 +6910,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7130,7 +6946,6 @@
 
 **Dominant Colors:** Red. black
 
-**Material Impression:**
 
 ---
 
@@ -7162,7 +6977,7 @@
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7171,7 +6986,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7207,7 +7021,6 @@
 
 **Dominant Colors:** White, black, navy blue, yellow
 
-**Material Impression:**
 
 ---
 
@@ -7239,7 +7052,7 @@
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7248,7 +7061,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7284,7 +7096,6 @@
 
 **Dominant Colors:** Grey, red, brown
 
-**Material Impression:**
 
 ---
 
@@ -7325,7 +7136,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7361,7 +7171,6 @@
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 ---
 
@@ -7402,7 +7211,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7438,7 +7246,6 @@
 
 **Dominant Colors:** Dark grey, yellow, dark brown
 
-**Material Impression:**
 
 ---
 
@@ -7479,7 +7286,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7515,7 +7321,6 @@
 
 **Dominant Colors:** Black, hot pink
 
-**Material Impression:**
 
 ---
 
@@ -7547,7 +7352,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -7556,7 +7361,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7592,7 +7396,6 @@
 
 **Dominant Colors:** Soft warm rose pink, white, blue
 
-**Material Impression:**
 
 ---
 
@@ -7624,7 +7427,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -7633,7 +7436,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7669,7 +7471,6 @@
 
 **Dominant Colors:** white-grey, black
 
-**Material Impression:**
 
 ---
 
@@ -7710,7 +7511,6 @@
 
 **Ancestor:** Mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7746,7 +7546,6 @@
 
 **Dominant Colors:** deep red
 
-**Material Impression:**
 
 ---
 
@@ -7787,7 +7586,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7823,7 +7621,6 @@
 
 **Dominant Colors:** yellow, clear / transparent.
 
-**Material Impression:**
 
 ---
 
@@ -7864,7 +7661,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7900,7 +7696,6 @@
 
 **Dominant Colors:** golden, red, white.
 
-**Material Impression:**
 
 ---
 
@@ -7941,7 +7736,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7977,7 +7771,6 @@
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -8018,7 +7811,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8054,7 +7846,6 @@
 
 **Dominant Colors:** baby teal, baby pink, black
 
-**Material Impression:**
 
 ---
 
@@ -8095,7 +7886,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8131,7 +7921,6 @@
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -8172,7 +7961,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8208,7 +7996,6 @@
 
 **Dominant Colors:** white, red
 
-**Material Impression:**
 
 ---
 
@@ -8249,7 +8036,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8285,7 +8071,6 @@
 
 **Dominant Colors:** shades of brown, white
 
-**Material Impression:**
 
 ---
 
@@ -8326,7 +8111,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8362,7 +8146,6 @@
 
 **Dominant Colors:** red, white
 
-**Material Impression:**
 
 ---
 
@@ -8403,7 +8186,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8439,7 +8221,6 @@
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -8480,7 +8261,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8516,7 +8296,6 @@
 
 **Dominant Colors:** beige / light shade of brown
 
-**Material Impression:**
 
 ---
 
@@ -8557,7 +8336,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8593,7 +8371,6 @@
 
 **Dominant Colors:** orange, light orange
 
-**Material Impression:**
 
 ---
 
@@ -8634,7 +8411,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8670,7 +8446,6 @@
 
 **Dominant Colors:** pale yellow
 
-**Material Impression:**
 
 ---
 
@@ -8711,7 +8486,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8747,7 +8521,6 @@
 
 **Dominant Colors:** greyish white, blue
 
-**Material Impression:**
 
 ---
 
@@ -8788,7 +8561,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8824,7 +8596,6 @@
 
 **Dominant Colors:** black
 
-**Material Impression:**
 
 ---
 
@@ -8865,7 +8636,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8901,7 +8671,6 @@
 
 **Dominant Colors:** green, white, orange
 
-**Material Impression:**
 
 ---
 
@@ -8942,7 +8711,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8978,7 +8746,6 @@
 
 **Dominant Colors:** orange
 
-**Material Impression:**
 
 ---
 
@@ -9019,7 +8786,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9055,7 +8821,6 @@
 
 **Dominant Colors:** red
 
-**Material Impression:**
 
 ---
 
@@ -9096,7 +8861,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9132,7 +8896,6 @@
 
 **Dominant Colors:** black, white
 
-**Material Impression:**
 
 ---
 
@@ -9173,7 +8936,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9209,7 +8971,6 @@
 
 **Dominant Colors:** black, grey
 
-**Material Impression:**
 
 ---
 
@@ -9250,7 +9011,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9286,7 +9046,6 @@
 
 **Dominant Colors:** black, grey
 
-**Material Impression:**
 
 ---
 
@@ -9327,7 +9086,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9363,7 +9121,6 @@
 
 **Dominant Colors:** red, white, dark army green
 
-**Material Impression:**
 
 ---
 
@@ -9404,7 +9161,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9440,7 +9196,6 @@
 
 **Dominant Colors:** white, pink
 
-**Material Impression:**
 
 ---
 
@@ -9481,7 +9236,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9552,7 +9306,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9622,7 +9375,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9692,7 +9444,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9762,7 +9513,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9832,7 +9582,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

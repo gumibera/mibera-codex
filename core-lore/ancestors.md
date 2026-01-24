@@ -905,8 +905,8 @@ Drugs Representations / Associated
 **Name of Ancestor:** Rastafarian
 
 **Time Period:**
-- **Ancient:** 
-- **Modern:** 
+- **Ancient:**
+- **Modern:** 1930 - 2024
 
 **Locations Associated:** Jamaica
 
@@ -922,17 +922,15 @@ Drugs Representations / Associated
 
 2. The birth of Reggae; emerging from ska and rocksteady in late 1960s Kingston, reggae was shaped by Rastafarianism, social issues, and African rhythms. Bob Marley and the Wailers globalized it in the 1970s, making its offbeat rhythm and bass-heavy sound a worldwide phenomenon.
 
-**Fashion Icons / Symbolism:** Dreadlocks, Green-Yellow-Red colored attributes,
-
-Drugs Representations / Associated
+**Fashion Icons / Symbolism:** Dreadlocks, Green-Yellow-Red colored attributes
 
 ---
 
 ### Drug Connections
 
-**Modern:** 1930 - 1970
+**Modern:** Weed, THC Edibles
 
-**Ancient:** Weed
+**Ancient:** Ganja
 
 ---
 
@@ -1380,55 +1378,6 @@ Drugs Representations / Associated
 **Sources:**
 - https://docs.berachain.com/learn/berachain-nfts
 - https://www.dwf-labs.com/research/451-berachain-blockchain-nft-collections-overview
-
----
-
-## Traveller
-
-### Identity
-
-**Name of Ancestor:** Traveller
-
-**Time Period:**
-- **Ancient:** -13000 - 130
-- **Modern:** 1400 - 2024
-
-**Locations Associated:** Ireland, UK, Europe (Roma routes), global nomadic paths
-
----
-
-### Cultural Significance
-
-**Figures Associated:**
-- Irish Travellers; a traditionally nomadic ethnic group indigenous to Ireland with their own language (Shelta/Cant), customs, and oral traditions. Despite centuries of discrimination, they maintain distinct cultural practices including music, storytelling, and craftsmanship.
-
-- The Romani people; Europe's largest ethnic minority, with roots tracing back to northern India. Their music, from flamenco to Django Reinhardt's jazz, has profoundly influenced global musical traditions.
-
-**Events Associated / Significant Cultural Impact:**
-1. The New Age Traveller movement; emerging in 1980s Britain, these nomadic communities traveled in convoys, organized free festivals, and rejected mainstream society. Connected to the free party scene, they represented modern nomadism before the 1994 Criminal Justice Act restricted their lifestyle.
-
-2. The Appleby Horse Fair; held annually since 1685 in Cumbria, England, this is the largest gathering of Gypsies and Travellers in Europe. Horses are traded, traditions maintained, and community bonds renewed.
-
-**Fashion Icons / Symbolism:** Wagon/caravan motifs, horse imagery, gold jewelry, lucky charms, colorful layered clothing
-
-Drugs Representations / Associated
-
----
-
-### Drug Connections
-
-**Modern:** Caffeine
-
-**Ancient:** Coffee
-
----
-
-### Sources
-
-**Sources:**
-- https://en.wikipedia.org/wiki/Irish_Travellers
-- https://en.wikipedia.org/wiki/New_Age_travellers
-- https://en.wikipedia.org/wiki/Appleby_Horse_Fair
 
 ---
 

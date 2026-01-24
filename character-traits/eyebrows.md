@@ -56,9 +56,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -129,9 +128,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -202,9 +200,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -275,9 +272,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -348,9 +344,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -421,9 +416,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -494,9 +488,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -567,9 +560,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -640,9 +632,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -711,7 +702,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

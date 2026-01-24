@@ -19,7 +19,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -60,7 +59,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -96,7 +94,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -137,7 +134,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -173,7 +169,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -214,9 +209,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -250,7 +244,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -291,7 +284,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -329,7 +321,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -370,7 +361,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -406,7 +396,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -447,9 +436,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -483,7 +471,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -524,9 +511,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -560,7 +546,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -601,7 +586,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -637,7 +621,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -678,7 +661,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049 85178 - https://www.312soul.com/1984-1990
 
@@ -714,7 +696,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -755,7 +736,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608841784270 56219 - https://ra.co/features/1597
 
@@ -791,7 +771,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -832,7 +811,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1139903294219759730/11404782576245 26909 (not sure if it’s the same sunnies, but i’m assuming it is for now) ---
 
@@ -868,7 +846,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -909,9 +886,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -945,7 +921,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -986,9 +961,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1022,7 +996,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1063,7 +1036,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1099,7 +1071,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1140,9 +1111,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1176,7 +1146,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1217,9 +1186,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1253,7 +1221,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1294,7 +1261,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1330,7 +1296,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1371,9 +1336,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1407,7 +1371,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1448,7 +1411,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1484,7 +1446,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1525,9 +1486,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1561,7 +1521,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1602,7 +1561,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1638,7 +1596,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1679,7 +1636,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1715,7 +1671,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1756,7 +1711,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** Sources / References - https://discord.com/channels/1133935527855399053/1143683806981800030/11513139372755 72377 ---
 
@@ -1792,7 +1746,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1833,9 +1786,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1869,7 +1821,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1910,7 +1861,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** - https://earthackney.co.uk/performers/yung-singh/ ---
 
@@ -1946,7 +1896,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -1987,7 +1936,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2023,7 +1971,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2064,7 +2011,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143685538075902095/11624257274555 96646 ---
 
@@ -2100,7 +2046,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2141,9 +2086,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2177,7 +2121,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2218,9 +2161,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2254,7 +2196,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2295,9 +2236,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2331,7 +2271,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2372,9 +2311,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2408,7 +2346,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2449,9 +2386,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2485,7 +2421,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2526,7 +2461,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** - https://discord.com/channels/1133935527855399053/1143360212842061834/11608863263049 85178 - https://www.312soul.com/1984-1990 ---
 
@@ -2562,7 +2496,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2603,7 +2536,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2639,7 +2571,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2680,7 +2611,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2716,7 +2646,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2757,7 +2686,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2793,7 +2721,6 @@
 
 **Dominant Colors:** 
 
-**Material Impression:**
 
 ---
 
@@ -2834,9 +2761,8 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2905,7 +2831,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

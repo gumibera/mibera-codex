@@ -19,7 +19,6 @@ SS5_bongbear_Bearmo.png
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -51,7 +50,7 @@ SS5_bongbear_Bearmo.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -60,7 +59,6 @@ SS5_bongbear_Bearmo.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -96,7 +94,6 @@ SS5_bongbear_Beartull.png
 
 **Dominant Colors:** Pale turquoise, light beige, black
 
-**Material Impression:**
 
 ---
 
@@ -128,7 +125,7 @@ SS5_bongbear_Beartull.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -137,7 +134,6 @@ SS5_bongbear_Beartull.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -173,7 +169,6 @@ SS5_bongbear_Bearyphus.png
 
 **Dominant Colors:** Pale turquoise, light beige, black
 
-**Material Impression:**
 
 ---
 
@@ -205,7 +200,7 @@ SS5_bongbear_Bearyphus.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -214,7 +209,6 @@ SS5_bongbear_Bearyphus.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -250,7 +244,6 @@ SS5_bongbear_Bong Bear 1.PNG
 
 **Dominant Colors:** Pale turquoise, light beige, black
 
-**Material Impression:**
 
 ---
 
@@ -282,7 +275,7 @@ SS5_bongbear_Bong Bear 1.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -291,7 +284,6 @@ SS5_bongbear_Bong Bear 1.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -327,7 +319,6 @@ SS5_bongbear_Bong Bear 2.PNG
 
 **Dominant Colors:** Black, white, muted blue
 
-**Material Impression:**
 
 ---
 
@@ -359,7 +350,7 @@ SS5_bongbear_Bong Bear 2.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -368,7 +359,6 @@ SS5_bongbear_Bong Bear 2.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -404,7 +394,6 @@ SS5_bongbear_Bong Bear 3.png
 
 **Dominant Colors:** Dark grey, gold, red.
 
-**Material Impression:**
 
 ---
 
@@ -436,7 +425,7 @@ SS5_bongbear_Bong Bear 3.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -445,7 +434,6 @@ SS5_bongbear_Bong Bear 3.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -481,7 +469,6 @@ SS5_bongbear_Bong Bear 4.PNG
 
 **Dominant Colors:** Dark grey, gold, red.
 
-**Material Impression:**
 
 ---
 
@@ -513,7 +500,7 @@ SS5_bongbear_Bong Bear 4.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -522,7 +509,6 @@ SS5_bongbear_Bong Bear 4.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -558,7 +544,6 @@ SS5_bongbear_Bong Bear 5.PNG
 
 **Dominant Colors:** White, soft purple, dark navy,bright turquoise.
 
-**Material Impression:**
 
 ---
 
@@ -590,7 +575,7 @@ SS5_bongbear_Bong Bear 5.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -599,7 +584,6 @@ SS5_bongbear_Bong Bear 5.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -635,7 +619,6 @@ SS5_bongbear_Bong Bear 6.PNG
 
 **Dominant Colors:** White, dark army green, gold / bright yellow
 
-**Material Impression:**
 
 ---
 
@@ -667,7 +650,7 @@ SS5_bongbear_Bong Bear 6.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -676,7 +659,6 @@ SS5_bongbear_Bong Bear 6.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -712,7 +694,6 @@ SS5_bongbear_Bong Bear 7.PNG
 
 **Dominant Colors:** White, black, shades of blue, dark brown, bright yellow.
 
-**Material Impression:**
 
 ---
 
@@ -744,7 +725,7 @@ SS5_bongbear_Bong Bear 7.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -753,7 +734,6 @@ SS5_bongbear_Bong Bear 7.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -789,7 +769,6 @@ SS5_bongbear_Bong Bear 8.PNG
 
 **Dominant Colors:** Bear, dark blue grayish, pink, white
 
-**Material Impression:**
 
 ---
 
@@ -821,7 +800,7 @@ SS5_bongbear_Bong Bear 8.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -830,7 +809,6 @@ SS5_bongbear_Bong Bear 8.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -866,7 +844,6 @@ SS5_bongbear_Bong Bear 9.png
 
 **Dominant Colors:** Vibrant green, yellow, red, dark blue.
 
-**Material Impression:**
 
 ---
 
@@ -898,7 +875,7 @@ SS5_bongbear_Bong Bear 9.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -907,7 +884,6 @@ SS5_bongbear_Bong Bear 9.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -943,7 +919,6 @@ SS5_bongbear_Bong Bear 10.png
 
 **Dominant Colors:** Dark gray / black, red, golden.
 
-**Material Impression:**
 
 ---
 
@@ -975,7 +950,7 @@ SS5_bongbear_Bong Bear 10.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -984,7 +959,6 @@ SS5_bongbear_Bong Bear 10.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1020,7 +994,6 @@ SS5_bongbear_Bong Bear 11.png
 
 **Dominant Colors:** Light brown, white, blue, red.
 
-**Material Impression:**
 
 ---
 
@@ -1052,7 +1025,7 @@ SS5_bongbear_Bong Bear 11.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1061,7 +1034,6 @@ SS5_bongbear_Bong Bear 11.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1097,7 +1069,6 @@ SS5_bongbear_Bong Bear 12.PNG
 
 **Dominant Colors:** White, black, green, golden.
 
-**Material Impression:**
 
 ---
 
@@ -1129,7 +1100,7 @@ SS5_bongbear_Bong Bear 12.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1138,7 +1109,6 @@ SS5_bongbear_Bong Bear 12.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1174,7 +1144,6 @@ SS5_bongbear_Bong Bear 13.png
 
 **Dominant Colors:** Dark brown, dark grey, shades of blue.
 
-**Material Impression:**
 
 ---
 
@@ -1206,7 +1175,7 @@ SS5_bongbear_Bong Bear 13.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1215,7 +1184,6 @@ SS5_bongbear_Bong Bear 13.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1251,7 +1219,6 @@ SS5_bongbear_Bong Bear 14.png
 
 **Dominant Colors:** Black, red, orange, yellow, green.
 
-**Material Impression:**
 
 ---
 
@@ -1283,7 +1250,7 @@ SS5_bongbear_Bong Bear 14.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1292,7 +1259,6 @@ SS5_bongbear_Bong Bear 14.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1328,7 +1294,6 @@ SS5_bongbear_Bong Bear 15.png
 
 **Dominant Colors:** Black, red, blue.
 
-**Material Impression:**
 
 ---
 
@@ -1360,7 +1325,7 @@ SS5_bongbear_Bong Bear 15.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1369,7 +1334,6 @@ SS5_bongbear_Bong Bear 15.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1405,7 +1369,6 @@ SS5_bongbear_Bong Bear 16.png
 
 **Dominant Colors:** Red, dark grey, light grey, brown.
 
-**Material Impression:**
 
 ---
 
@@ -1437,7 +1400,7 @@ SS5_bongbear_Bong Bear 16.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1446,7 +1409,6 @@ SS5_bongbear_Bong Bear 16.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1482,7 +1444,6 @@ SS5_bongbear_Bong Bear 17.png
 
 **Dominant Colors:** White, black, soft green, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -1514,7 +1475,7 @@ SS5_bongbear_Bong Bear 17.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1523,7 +1484,6 @@ SS5_bongbear_Bong Bear 17.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1559,7 +1519,6 @@ SS5_bongbear_Bong Bear 18.png
 
 **Dominant Colors:** Dark brown, black, purple, dark blue, light blue, magenta.
 
-**Material Impression:**
 
 ---
 
@@ -1591,7 +1550,7 @@ SS5_bongbear_Bong Bear 18.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1600,7 +1559,6 @@ SS5_bongbear_Bong Bear 18.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1636,7 +1594,6 @@ SS5_bongbear_Bong Bear 19.png
 
 **Dominant Colors:** Black, deep purple, light dusky pink.
 
-**Material Impression:**
 
 ---
 
@@ -1668,7 +1625,7 @@ SS5_bongbear_Bong Bear 19.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1677,7 +1634,6 @@ SS5_bongbear_Bong Bear 19.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1713,7 +1669,6 @@ SS5_bongbear_Bong Bear 20.png
 
 **Dominant Colors:** White, sky blue, deep vibrant blue, purple.
 
-**Material Impression:**
 
 ---
 
@@ -1745,7 +1700,7 @@ SS5_bongbear_Bong Bear 20.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1754,7 +1709,6 @@ SS5_bongbear_Bong Bear 20.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1790,7 +1744,6 @@ SS5_bongbear_Bong Bear 21.png
 
 **Dominant Colors:** Brown, blue, golden.
 
-**Material Impression:**
 
 ---
 
@@ -1822,7 +1775,7 @@ SS5_bongbear_Bong Bear 21.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1831,7 +1784,6 @@ SS5_bongbear_Bong Bear 21.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1867,7 +1819,6 @@ SS5_bongbear_Bong Bear 22.png
 
 **Dominant Colors:** Brown, blue, golden.
 
-**Material Impression:**
 
 ---
 
@@ -1899,7 +1850,7 @@ SS5_bongbear_Bong Bear 22.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1908,7 +1859,6 @@ SS5_bongbear_Bong Bear 22.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1944,7 +1894,6 @@ SS5_bongbear_Bong Bear 23.png
 
 **Dominant Colors:** Brown, blue, golden.
 
-**Material Impression:**
 
 ---
 
@@ -1976,7 +1925,7 @@ SS5_bongbear_Bong Bear 23.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1985,7 +1934,6 @@ SS5_bongbear_Bong Bear 23.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2021,7 +1969,6 @@ SS5_bongbear_Bong Bear 23.png
 
 **Dominant Colors:** Black, pale blue, light pale purple, bright turquoise.
 
-**Material Impression:**
 
 ---
 
@@ -2053,7 +2000,7 @@ SS5_bongbear_Bong Bear 23.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2062,7 +2009,6 @@ SS5_bongbear_Bong Bear 23.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2098,7 +2044,6 @@ SS5_bongbear_Bong Bear 25.png
 
 **Dominant Colors:** Black, pale blue, light pale purple, bright turquoise.
 
-**Material Impression:**
 
 ---
 
@@ -2130,7 +2075,7 @@ SS5_bongbear_Bong Bear 25.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2139,7 +2084,6 @@ SS5_bongbear_Bong Bear 25.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2175,7 +2119,6 @@ SS5_bongbear_Bong Bear 26.png
 
 **Dominant Colors:** Rainbow-colored.
 
-**Material Impression:**
 
 ---
 
@@ -2207,7 +2150,7 @@ SS5_bongbear_Bong Bear 26.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2216,7 +2159,6 @@ SS5_bongbear_Bong Bear 26.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2252,7 +2194,6 @@ SS5_bongbear_Bong Bear 27.png
 
 **Dominant Colors:** Red, white, black.
 
-**Material Impression:**
 
 ---
 
@@ -2284,7 +2225,7 @@ SS5_bongbear_Bong Bear 27.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2293,7 +2234,6 @@ SS5_bongbear_Bong Bear 27.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2329,7 +2269,6 @@ SS5_bongbear_Bong Bear 28.png
 
 **Dominant Colors:** Dark grayish brown, dark green.
 
-**Material Impression:**
 
 ---
 
@@ -2361,7 +2300,7 @@ SS5_bongbear_Bong Bear 28.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2370,7 +2309,6 @@ SS5_bongbear_Bong Bear 28.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2406,7 +2344,6 @@ SS5_bongbear_Bong Bear 29.PNG
 
 **Dominant Colors:** Dark grayish brown, dark green. The bear wears a golden bracelet on each wrist and is holding a cigarette pipe.
 
-**Material Impression:**
 
 ---
 
@@ -2438,7 +2375,7 @@ SS5_bongbear_Bong Bear 29.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2447,7 +2384,6 @@ SS5_bongbear_Bong Bear 29.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2483,7 +2419,6 @@ SS5_bongbear_Bong Bear 30.png
 
 **Dominant Colors:** White, light blue, purple.
 
-**Material Impression:**
 
 ---
 
@@ -2515,7 +2450,7 @@ SS5_bongbear_Bong Bear 30.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2524,7 +2459,6 @@ SS5_bongbear_Bong Bear 30.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2560,7 +2494,6 @@ SS5_bongbear_Bong Bear 31.png
 
 **Dominant Colors:** Brown, deep blue.
 
-**Material Impression:**
 
 ---
 
@@ -2592,7 +2525,7 @@ SS5_bongbear_Bong Bear 31.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2601,7 +2534,6 @@ SS5_bongbear_Bong Bear 31.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2637,7 +2569,6 @@ SS5_bongbear_Bong Bear 32.png
 
 **Dominant Colors:** White, black, blue, purple.
 
-**Material Impression:**
 
 ---
 
@@ -2669,7 +2600,7 @@ SS5_bongbear_Bong Bear 32.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2678,7 +2609,6 @@ SS5_bongbear_Bong Bear 32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2714,7 +2644,6 @@ SS5_bongbear_Bong Bear 33.png
 
 **Dominant Colors:** White, black, blue, purple.
 
-**Material Impression:**
 
 ---
 
@@ -2746,7 +2675,7 @@ SS5_bongbear_Bong Bear 33.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2755,7 +2684,6 @@ SS5_bongbear_Bong Bear 33.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2791,7 +2719,6 @@ SS5_bongbear_Bong Bear 34.PNG
 
 **Dominant Colors:** Black, army green.
 
-**Material Impression:**
 
 ---
 
@@ -2823,7 +2750,7 @@ SS5_bongbear_Bong Bear 34.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2832,7 +2759,6 @@ SS5_bongbear_Bong Bear 34.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2868,7 +2794,6 @@ SS5_bongbear_Bong Bear 35.png
 
 **Dominant Colors:** White, bone-white, dark beige.
 
-**Material Impression:**
 
 ---
 
@@ -2900,7 +2825,7 @@ SS5_bongbear_Bong Bear 35.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2909,7 +2834,6 @@ SS5_bongbear_Bong Bear 35.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2945,7 +2869,6 @@ SS5_bongbear_Bong Bear 36.png
 
 **Dominant Colors:** Brown, red, orange, yellow, green.
 
-**Material Impression:**
 
 ---
 
@@ -2977,7 +2900,7 @@ SS5_bongbear_Bong Bear 36.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2986,7 +2909,6 @@ SS5_bongbear_Bong Bear 36.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3022,7 +2944,6 @@ SS5_bongbear_Bong Bear 37.png
 
 **Dominant Colors:** White, black, dark green, green, gold.
 
-**Material Impression:**
 
 ---
 
@@ -3054,7 +2975,7 @@ SS5_bongbear_Bong Bear 37.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3063,7 +2984,6 @@ SS5_bongbear_Bong Bear 37.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3099,7 +3019,6 @@ SS5_bongbear_Bong Bear 38.png
 
 **Dominant Colors:** White, black, dark green, green, gold.
 
-**Material Impression:**
 
 ---
 
@@ -3131,7 +3050,7 @@ SS5_bongbear_Bong Bear 38.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3140,7 +3059,6 @@ SS5_bongbear_Bong Bear 38.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3176,7 +3094,6 @@ SS5_bongbear_Bong Bear 39.png
 
 **Dominant Colors:** White, black, dark green, green, gold.
 
-**Material Impression:**
 
 ---
 
@@ -3208,7 +3125,7 @@ SS5_bongbear_Bong Bear 39.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3217,7 +3134,6 @@ SS5_bongbear_Bong Bear 39.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3253,7 +3169,6 @@ SS5_bongbear_Bong Bear 40.png
 
 **Dominant Colors:** White, blue, light blue, purple, indigo.
 
-**Material Impression:**
 
 ---
 
@@ -3285,7 +3200,7 @@ SS5_bongbear_Bong Bear 40.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3294,7 +3209,6 @@ SS5_bongbear_Bong Bear 40.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3330,7 +3244,6 @@ SS5_bongbear_Bong Bear 41.PNG
 
 **Dominant Colors:** Brown, purple, yellow, pink
 
-**Material Impression:**
 
 ---
 
@@ -3362,7 +3275,7 @@ SS5_bongbear_Bong Bear 41.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3371,7 +3284,6 @@ SS5_bongbear_Bong Bear 41.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3407,7 +3319,6 @@ SS5_bongbear_Bong Bear 42.png
 
 **Dominant Colors:** White, black, dark army green, light yellow.
 
-**Material Impression:**
 
 ---
 
@@ -3439,7 +3350,7 @@ SS5_bongbear_Bong Bear 42.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3448,7 +3359,6 @@ SS5_bongbear_Bong Bear 42.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3484,7 +3394,6 @@ SS5_bongbear_Bong Bear 43.png
 
 **Dominant Colors:** Dark brown, black, yellow / golden,
 
-**Material Impression:**
 
 ---
 
@@ -3516,7 +3425,7 @@ SS5_bongbear_Bong Bear 43.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3525,7 +3434,6 @@ SS5_bongbear_Bong Bear 43.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3561,7 +3469,6 @@ SS5_bongbear_Bong Bear 44.png
 
 **Dominant Colors:** Black, light turquoise, soft blue, magenta.
 
-**Material Impression:**
 
 ---
 
@@ -3593,7 +3500,7 @@ SS5_bongbear_Bong Bear 44.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3602,7 +3509,6 @@ SS5_bongbear_Bong Bear 44.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3638,7 +3544,6 @@ SS5_bongbear_Bong Bear 45.png
 
 **Dominant Colors:** White, golden, muted orange, black, magenta.
 
-**Material Impression:**
 
 ---
 
@@ -3670,7 +3575,7 @@ SS5_bongbear_Bong Bear 45.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3679,7 +3584,6 @@ SS5_bongbear_Bong Bear 45.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3715,7 +3619,6 @@ SS5_bongbear_Bong Bear 46.png
 
 **Dominant Colors:** Brown, grey, dark navy blue
 
-**Material Impression:**
 
 ---
 
@@ -3747,7 +3650,7 @@ SS5_bongbear_Bong Bear 46.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3756,7 +3659,6 @@ SS5_bongbear_Bong Bear 46.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3792,7 +3694,6 @@ SS5_bongbear_Bong Bear 47.png
 
 **Dominant Colors:** White, black, rainbow-colored.
 
-**Material Impression:**
 
 ---
 
@@ -3824,7 +3725,7 @@ SS5_bongbear_Bong Bear 47.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3833,7 +3734,6 @@ SS5_bongbear_Bong Bear 47.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3869,7 +3769,6 @@ SS5_bongbear_Bong Bear 48.png
 
 **Dominant Colors:** Dark brown, white, neon green, orange, red
 
-**Material Impression:**
 
 ---
 
@@ -3901,7 +3800,7 @@ SS5_bongbear_Bong Bear 48.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3910,7 +3809,6 @@ SS5_bongbear_Bong Bear 48.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3946,7 +3844,6 @@ SS5_bongbear_Bong Bear 49.png
 
 **Dominant Colors:** Dark brown, white, neon green, orange, red
 
-**Material Impression:**
 
 ---
 
@@ -3978,7 +3875,7 @@ SS5_bongbear_Bong Bear 49.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -3987,7 +3884,6 @@ SS5_bongbear_Bong Bear 49.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4023,7 +3919,6 @@ SS5_bongbear_Bong Bear 50.png
 
 **Dominant Colors:** White, light blue.
 
-**Material Impression:**
 
 ---
 
@@ -4055,7 +3950,7 @@ SS5_bongbear_Bong Bear 50.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4064,7 +3959,6 @@ SS5_bongbear_Bong Bear 50.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4100,7 +3994,6 @@ SS5_bongbear_Bong Bear 51.png
 
 **Dominant Colors:** White, light blue.
 
-**Material Impression:**
 
 ---
 
@@ -4132,7 +4025,7 @@ SS5_bongbear_Bong Bear 51.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4141,7 +4034,6 @@ SS5_bongbear_Bong Bear 51.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4177,7 +4069,6 @@ SS5_bongbear_Bong Bear 52.png
 
 **Dominant Colors:** White, light blue.
 
-**Material Impression:**
 
 ---
 
@@ -4209,7 +4100,7 @@ SS5_bongbear_Bong Bear 52.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4218,7 +4109,6 @@ SS5_bongbear_Bong Bear 52.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4254,7 +4144,6 @@ SS5_bongbear_Bong Bear 53.png
 
 **Dominant Colors:** Dark brown, black, rainbow-color.
 
-**Material Impression:**
 
 ---
 
@@ -4286,7 +4175,7 @@ SS5_bongbear_Bong Bear 53.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4295,7 +4184,6 @@ SS5_bongbear_Bong Bear 53.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4331,7 +4219,6 @@ SS5_bongbear_Bong Bear 54.png
 
 **Dominant Colors:** Black, red, brown, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -4363,7 +4250,7 @@ SS5_bongbear_Bong Bear 54.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4372,7 +4259,6 @@ SS5_bongbear_Bong Bear 54.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4408,7 +4294,6 @@ SS5_bongbear_Bong Bear 55.png
 
 **Dominant Colors:** White, red, yellow, green, blue, white.
 
-**Material Impression:**
 
 ---
 
@@ -4440,7 +4325,7 @@ SS5_bongbear_Bong Bear 55.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4449,7 +4334,6 @@ SS5_bongbear_Bong Bear 55.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4485,7 +4369,6 @@ SS5_bongbear_Bong Bear 56.PNG
 
 **Dominant Colors:** White, red, yellow, green, blue, white.
 
-**Material Impression:**
 
 ---
 
@@ -4517,7 +4400,7 @@ SS5_bongbear_Bong Bear 56.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4526,7 +4409,6 @@ SS5_bongbear_Bong Bear 56.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4562,7 +4444,6 @@ SS5_bongbear_Bong Bear 57.png
 
 **Dominant Colors:** White, black, red, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -4594,7 +4475,7 @@ SS5_bongbear_Bong Bear 57.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4603,7 +4484,6 @@ SS5_bongbear_Bong Bear 57.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4639,7 +4519,6 @@ SS5_bongbear_Bong Bear 58.png
 
 **Dominant Colors:** Dark brown, red, brown, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -4671,7 +4550,7 @@ SS5_bongbear_Bong Bear 58.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4680,7 +4559,6 @@ SS5_bongbear_Bong Bear 58.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4716,7 +4594,6 @@ SS5_bongbear_Bong Bear 59.PNG
 
 **Dominant Colors:** Black, rainbow-colored, orange
 
-**Material Impression:**
 
 ---
 
@@ -4748,7 +4625,7 @@ SS5_bongbear_Bong Bear 59.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4757,7 +4634,6 @@ SS5_bongbear_Bong Bear 59.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4793,7 +4669,6 @@ SS5_bongbear_Bong Bear 60.PNG
 
 **Dominant Colors:** White, lilac
 
-**Material Impression:**
 
 ---
 
@@ -4825,7 +4700,7 @@ SS5_bongbear_Bong Bear 60.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4834,7 +4709,6 @@ SS5_bongbear_Bong Bear 60.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4870,7 +4744,6 @@ SS5_bongbear_Bong Bear 61.png
 
 **Dominant Colors:** Brown, blue, cyan, golden.
 
-**Material Impression:**
 
 ---
 
@@ -4902,7 +4775,7 @@ SS5_bongbear_Bong Bear 61.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4911,7 +4784,6 @@ SS5_bongbear_Bong Bear 61.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4947,7 +4819,6 @@ SS5_bongbear_Bong Bear 62.png
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -4979,7 +4850,7 @@ SS5_bongbear_Bong Bear 62.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4988,7 +4859,6 @@ SS5_bongbear_Bong Bear 62.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5024,7 +4894,6 @@ SS5_bongbear_Bong Bear 63.png
 
 **Dominant Colors:** Dark brown, rainbow color
 
-**Material Impression:**
 
 ---
 
@@ -5056,7 +4925,7 @@ SS5_bongbear_Bong Bear 63.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5065,7 +4934,6 @@ SS5_bongbear_Bong Bear 63.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5101,7 +4969,6 @@ SS5_bongbear_Bong Bear 64.png
 
 **Dominant Colors:** Black, magenta, white, light grey.
 
-**Material Impression:**
 
 ---
 
@@ -5133,7 +5000,7 @@ SS5_bongbear_Bong Bear 64.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5142,7 +5009,6 @@ SS5_bongbear_Bong Bear 64.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5178,7 +5044,6 @@ SS5_bongbear_Bong Bear 65.png
 
 **Dominant Colors:** Red, orange , yellow, green
 
-**Material Impression:**
 
 ---
 
@@ -5210,7 +5075,7 @@ SS5_bongbear_Bong Bear 65.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5219,7 +5084,6 @@ SS5_bongbear_Bong Bear 65.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5255,7 +5119,6 @@ SS5_bongbear_Bong Bear 66.png
 
 **Dominant Colors:** Red, orange , yellow, green
 
-**Material Impression:**
 
 ---
 
@@ -5287,7 +5150,7 @@ SS5_bongbear_Bong Bear 66.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5296,7 +5159,6 @@ SS5_bongbear_Bong Bear 66.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5332,7 +5194,6 @@ SS5_bongbear_Bong Bear 67.png
 
 **Dominant Colors:** Red, orange , yellow, green
 
-**Material Impression:**
 
 ---
 
@@ -5364,7 +5225,7 @@ SS5_bongbear_Bong Bear 67.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5373,7 +5234,6 @@ SS5_bongbear_Bong Bear 67.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5409,7 +5269,6 @@ SS5_bongbear_Bong Bear 68.PNG
 
 **Dominant Colors:** Red, orange , yellow, green
 
-**Material Impression:**
 
 ---
 
@@ -5441,7 +5300,7 @@ SS5_bongbear_Bong Bear 68.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5450,7 +5309,6 @@ SS5_bongbear_Bong Bear 68.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5486,7 +5344,6 @@ SS5_bongbear_Bong Bear 69.png
 
 **Dominant Colors:** Black, creamy white, dark green, brown.
 
-**Material Impression:**
 
 ---
 
@@ -5518,7 +5375,7 @@ SS5_bongbear_Bong Bear 69.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5527,7 +5384,6 @@ SS5_bongbear_Bong Bear 69.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5563,7 +5419,6 @@ SS5_bongbear_Bong Bear 70.png
 
 **Dominant Colors:** White, black.
 
-**Material Impression:**
 
 ---
 
@@ -5595,7 +5450,7 @@ SS5_bongbear_Bong Bear 70.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5604,7 +5459,6 @@ SS5_bongbear_Bong Bear 70.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5640,7 +5494,6 @@ SS5_bongbear_Bong Bear 71.png
 
 **Dominant Colors:** Brown, green.
 
-**Material Impression:**
 
 ---
 
@@ -5672,7 +5525,7 @@ SS5_bongbear_Bong Bear 71.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5681,7 +5534,6 @@ SS5_bongbear_Bong Bear 71.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5717,7 +5569,6 @@ SS5_bongbear_Bong Bear 72.png
 
 **Dominant Colors:** White, black, shades of magenta.
 
-**Material Impression:**
 
 ---
 
@@ -5749,7 +5600,7 @@ SS5_bongbear_Bong Bear 72.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5758,7 +5609,6 @@ SS5_bongbear_Bong Bear 72.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5794,7 +5644,6 @@ SS5_bongbear_Bong Bear 73.png
 
 **Dominant Colors:** Dark brown, soft pale blue and purple, gold.
 
-**Material Impression:**
 
 ---
 
@@ -5826,7 +5675,7 @@ SS5_bongbear_Bong Bear 73.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5835,7 +5684,6 @@ SS5_bongbear_Bong Bear 73.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5871,7 +5719,6 @@ SS5_bongbear_Bong Bear 74.PNG
 
 **Dominant Colors:** Black, red, blue, soft pink, blue, purple, and indigo.
 
-**Material Impression:**
 
 ---
 
@@ -5903,7 +5750,7 @@ SS5_bongbear_Bong Bear 74.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5912,7 +5759,6 @@ SS5_bongbear_Bong Bear 74.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5948,7 +5794,6 @@ SS5_bongbear_Bong Bear 75.png
 
 **Dominant Colors:** White, red, black, orange, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -5980,7 +5825,7 @@ SS5_bongbear_Bong Bear 75.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -5989,7 +5834,6 @@ SS5_bongbear_Bong Bear 75.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6025,7 +5869,6 @@ SS5_bongbear_Bong Bear 76.png
 
 **Dominant Colors:** Brown, warm pink, peach, orange, light peach / yellow.
 
-**Material Impression:**
 
 ---
 
@@ -6057,7 +5900,7 @@ SS5_bongbear_Bong Bear 76.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6066,7 +5909,6 @@ SS5_bongbear_Bong Bear 76.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6102,7 +5944,6 @@ SS5_bongbear_Bong Bear 77.png
 
 **Dominant Colors:** White, black, green, red, orange, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -6134,7 +5975,7 @@ SS5_bongbear_Bong Bear 77.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6143,7 +5984,6 @@ SS5_bongbear_Bong Bear 77.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6179,7 +6019,6 @@ SS5_bongbear_Bong Bear 78.PNG
 
 **Dominant Colors:** Dark brown, bright pastel red, purple, blue, yellow, and green.
 
-**Material Impression:**
 
 ---
 
@@ -6211,7 +6050,7 @@ SS5_bongbear_Bong Bear 78.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6220,7 +6059,6 @@ SS5_bongbear_Bong Bear 78.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6256,7 +6094,6 @@ SS5_bongbear_Bong Bear 79.png
 
 **Dominant Colors:** Black, grey, dark purple, green
 
-**Material Impression:**
 
 ---
 
@@ -6288,7 +6125,7 @@ SS5_bongbear_Bong Bear 79.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6297,7 +6134,6 @@ SS5_bongbear_Bong Bear 79.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6333,7 +6169,6 @@ SS5_bongbear_Bong Bear 80.png
 
 **Dominant Colors:** White, red, golden.
 
-**Material Impression:**
 
 ---
 
@@ -6365,7 +6200,7 @@ SS5_bongbear_Bong Bear 80.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6374,7 +6209,6 @@ SS5_bongbear_Bong Bear 80.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6410,7 +6244,6 @@ SS5_bongbear_Bong Bear 81.png
 
 **Dominant Colors:** Brown, green.
 
-**Material Impression:**
 
 ---
 
@@ -6442,7 +6275,7 @@ SS5_bongbear_Bong Bear 81.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6451,7 +6284,6 @@ SS5_bongbear_Bong Bear 81.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6487,7 +6319,6 @@ SS5_bongbear_Bong Bear 82.png
 
 **Dominant Colors:** Black, white, light beige / creamy white.
 
-**Material Impression:**
 
 ---
 
@@ -6519,7 +6350,7 @@ SS5_bongbear_Bong Bear 82.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6528,7 +6359,6 @@ SS5_bongbear_Bong Bear 82.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6564,7 +6394,6 @@ SS5_bongbear_Bong Bear 83.png
 
 **Dominant Colors:** Brown, green.
 
-**Material Impression:**
 
 ---
 
@@ -6596,7 +6425,7 @@ SS5_bongbear_Bong Bear 83.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6605,7 +6434,6 @@ SS5_bongbear_Bong Bear 83.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6641,7 +6469,6 @@ SS5_bongbear_Bong Bear 84.png
 
 **Dominant Colors:** Black, muted grey, dark purple, green.
 
-**Material Impression:**
 
 ---
 
@@ -6673,7 +6500,7 @@ SS5_bongbear_Bong Bear 84.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6682,7 +6509,6 @@ SS5_bongbear_Bong Bear 84.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6718,7 +6544,6 @@ SS5_bongbear_Bong Bear 85.png
 
 **Dominant Colors:** White, black, dark brown, red.
 
-**Material Impression:**
 
 ---
 
@@ -6750,7 +6575,7 @@ SS5_bongbear_Bong Bear 85.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6759,7 +6584,6 @@ SS5_bongbear_Bong Bear 85.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6795,7 +6619,6 @@ SS5_bongbear_Bong Bear 86.png
 
 **Dominant Colors:** Brown, blue, white, lilac.
 
-**Material Impression:**
 
 ---
 
@@ -6827,7 +6650,7 @@ SS5_bongbear_Bong Bear 86.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6836,7 +6659,6 @@ SS5_bongbear_Bong Bear 86.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6872,7 +6694,6 @@ SS5_bongbear_Bong Bear 87.png
 
 **Dominant Colors:** Black, white, pastel colors, and gold.
 
-**Material Impression:**
 
 ---
 
@@ -6904,7 +6725,7 @@ SS5_bongbear_Bong Bear 87.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6913,7 +6734,6 @@ SS5_bongbear_Bong Bear 87.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6949,7 +6769,6 @@ SS5_bongbear_Bong Bear 88.png
 
 **Dominant Colors:** Dark brown, shades of blue, red.
 
-**Material Impression:**
 
 ---
 
@@ -6981,7 +6800,7 @@ SS5_bongbear_Bong Bear 88.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -6990,7 +6809,6 @@ SS5_bongbear_Bong Bear 88.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7026,7 +6844,6 @@ SS5_bongbear_Bong Bear 89.png
 
 **Dominant Colors:** Dark brown, shades of blue, red.
 
-**Material Impression:**
 
 ---
 
@@ -7058,7 +6875,7 @@ SS5_bongbear_Bong Bear 89.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7067,7 +6884,6 @@ SS5_bongbear_Bong Bear 89.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7103,7 +6919,6 @@ SS5_bongbear_Bong Bear 90.png
 
 **Dominant Colors:** White, light rainbow-colors
 
-**Material Impression:**
 
 ---
 
@@ -7135,7 +6950,7 @@ SS5_bongbear_Bong Bear 90.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7144,7 +6959,6 @@ SS5_bongbear_Bong Bear 90.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7180,7 +6994,6 @@ SS5_bongbear_Bong Bear 91.png
 
 **Dominant Colors:** Brown, black.
 
-**Material Impression:**
 
 ---
 
@@ -7212,7 +7025,7 @@ SS5_bongbear_Bong Bear 91.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7221,7 +7034,6 @@ SS5_bongbear_Bong Bear 91.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7257,7 +7069,6 @@ SS5_bongbear_Bong Bear 92.png
 
 **Dominant Colors:** White, black, shades of blue, purple.
 
-**Material Impression:**
 
 ---
 
@@ -7289,7 +7100,7 @@ SS5_bongbear_Bong Bear 92.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7298,7 +7109,6 @@ SS5_bongbear_Bong Bear 92.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7334,7 +7144,6 @@ SS5_bongbear_Bong Bear 93.png
 
 **Dominant Colors:** Brown, black, red
 
-**Material Impression:**
 
 ---
 
@@ -7366,7 +7175,7 @@ SS5_bongbear_Bong Bear 93.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7375,7 +7184,6 @@ SS5_bongbear_Bong Bear 93.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7411,7 +7219,6 @@ SS5_bongbear_Bong Bear 94.png
 
 **Dominant Colors:** Black, white, golden.
 
-**Material Impression:**
 
 ---
 
@@ -7443,7 +7250,7 @@ SS5_bongbear_Bong Bear 94.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7452,7 +7259,6 @@ SS5_bongbear_Bong Bear 94.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7488,7 +7294,6 @@ SS5_bongbear_Bong Bear 95.png
 
 **Dominant Colors:** White, green, yellow, orange, beige, shades of magenta.
 
-**Material Impression:**
 
 ---
 
@@ -7520,7 +7325,7 @@ SS5_bongbear_Bong Bear 95.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7529,7 +7334,6 @@ SS5_bongbear_Bong Bear 95.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7565,7 +7369,6 @@ SS5_bongbear_Bong Bear 96.PNG
 
 **Dominant Colors:** Brown, black, red, white, golden.
 
-**Material Impression:**
 
 ---
 
@@ -7597,7 +7400,7 @@ SS5_bongbear_Bong Bear 96.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7606,7 +7409,6 @@ SS5_bongbear_Bong Bear 96.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7642,7 +7444,6 @@ SS5_bongbear_Bong Bear 97.png
 
 **Dominant Colors:** White, black, green, teal, orange, yellow, red, blue.
 
-**Material Impression:**
 
 ---
 
@@ -7674,7 +7475,7 @@ SS5_bongbear_Bong Bear 97.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7683,7 +7484,6 @@ SS5_bongbear_Bong Bear 97.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7719,7 +7519,6 @@ SS5_bongbear_Bong Bear 98.png
 
 **Dominant Colors:** Dark brown, muted orange.
 
-**Material Impression:**
 
 ---
 
@@ -7751,7 +7550,7 @@ SS5_bongbear_Bong Bear 98.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7760,7 +7559,6 @@ SS5_bongbear_Bong Bear 98.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7796,7 +7594,6 @@ SS5_bongbear_Bong Bear 99.png
 
 **Dominant Colors:** Black, dark purple-ish gray, light pink, dark purple.
 
-**Material Impression:**
 
 ---
 
@@ -7828,7 +7625,7 @@ SS5_bongbear_Bong Bear 99.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7837,7 +7634,6 @@ SS5_bongbear_Bong Bear 99.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7873,7 +7669,6 @@ SS5_bongbear_Bong Bear 100.png
 
 **Dominant Colors:** White, red, blue, lilac, light blue.
 
-**Material Impression:**
 
 ---
 
@@ -7905,7 +7700,7 @@ SS5_bongbear_Bong Bear 100.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7914,7 +7709,6 @@ SS5_bongbear_Bong Bear 100.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7950,7 +7744,6 @@ SS5_bongbear_Bong Bear 101.png
 
 **Dominant Colors:** Blue, shades of gold.
 
-**Material Impression:**
 
 ---
 
@@ -7982,7 +7775,7 @@ SS5_bongbear_Bong Bear 101.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -7991,7 +7784,6 @@ SS5_bongbear_Bong Bear 101.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8027,7 +7819,6 @@ SS5_bongbear_DCF.png
 
 **Dominant Colors:** Blue, shades of gold.
 
-**Material Impression:**
 
 ---
 
@@ -8059,7 +7850,7 @@ SS5_bongbear_DCF.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -8068,7 +7859,6 @@ SS5_bongbear_DCF.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8104,7 +7894,6 @@ SS5_bongbear_Icebeargy.png
 
 **Dominant Colors:** White, very light blue.
 
-**Material Impression:**
 
 ---
 
@@ -8136,7 +7925,7 @@ SS5_bongbear_Icebeargy.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -8145,7 +7934,6 @@ SS5_bongbear_Icebeargy.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8181,7 +7969,6 @@ SS5_bongbear_Zeus.png
 
 **Dominant Colors:** Brown, white, yellow / golden.
 
-**Material Impression:**
 
 ---
 
@@ -8213,7 +8000,7 @@ SS5_bongbear_Zeus.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -8222,7 +8009,6 @@ SS5_bongbear_Zeus.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 

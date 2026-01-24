@@ -349,11 +349,7 @@ leading many to relocate abroad, settle on private sites, or adapt to urban squa
 
 digital nomadism.
 
-- The Grateful Dead; an American rock band formed in 1965 in Palo Alto, California,
-
-known for their eclectic blend of rock, folk, blues, country, and psychedelia
-
-- .
+- The Grateful Dead; an American rock band formed in 1965 in Palo Alto, California, known for their eclectic blend of rock, folk, blues, country, and psychedelia. Their marathon concerts and devoted "Deadhead" following pioneered jam band culture and communal music experiences.
 
 **Events Associated / Significant Cultural Impact:**
 - 1988’s “Second Summer of Love”; acid house music and ecstasy catalyzed a cultural

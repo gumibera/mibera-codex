@@ -6339,7 +6339,6 @@ earthy bitter odor.
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

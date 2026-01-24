@@ -19,7 +19,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Brown
 
-**Material Impression:**
 
 ---
 
@@ -60,7 +59,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -98,7 +96,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Gold
 
-**Material Impression:**
 
 ---
 
@@ -139,7 +136,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -175,7 +171,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Black.
 
-**Material Impression:**
 
 ---
 
@@ -216,7 +211,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -252,7 +246,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -293,7 +286,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -329,7 +321,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Black.
 
-**Material Impression:**
 
 ---
 
@@ -361,7 +352,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -370,7 +361,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -406,7 +396,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Golden, black.
 
-**Material Impression:**
 
 ---
 
@@ -447,7 +436,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -484,7 +472,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Black.
 
-**Material Impression:**
 
 ---
 
@@ -525,7 +512,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -561,7 +547,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Green.
 
-**Material Impression:**
 
 ---
 
@@ -602,7 +587,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -638,7 +622,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Brown, transparent white.
 
-**Material Impression:**
 
 ---
 
@@ -670,7 +653,7 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -679,7 +662,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -715,7 +697,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Dominant Colors:** Brown, transparent white.
 
-**Material Impression:**
 
 ---
 
@@ -756,7 +737,6 @@ SS3_chicagodetroit_Hiberanation Eye Mask.png
 
 **Ancestor:** Irish
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -793,7 +773,6 @@ SS4_Bera Ski.png
 
 **Dominant Colors:** Brown.
 
-**Material Impression:**
 
 ---
 
@@ -834,7 +813,6 @@ SS4_Bera Ski.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -870,7 +848,6 @@ SS3_Teddy Ski Mask.PNG
 
 **Dominant Colors:** Red.
 
-**Material Impression:**
 
 ---
 
@@ -911,7 +888,6 @@ SS3_Teddy Ski Mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -947,7 +923,6 @@ SS4_pink bera ski.PNG
 
 **Dominant Colors:** Light soft-pink.
 
-**Material Impression:**
 
 ---
 
@@ -988,7 +963,6 @@ SS4_pink bera ski.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1024,7 +998,6 @@ SS4_pink bera ski.PNG
 
 **Dominant Colors:** White, black.
 
-**Material Impression:**
 
 ---
 
@@ -1065,7 +1038,6 @@ SS4_pink bera ski.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1101,7 +1073,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Dominant Colors:** White with yellow undertone.
 
-**Material Impression:**
 
 ---
 
@@ -1142,7 +1113,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1180,7 +1150,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Dominant Colors:** Silver.
 
-**Material Impression:**
 
 ---
 
@@ -1221,7 +1190,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1258,7 +1226,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Dominant Colors:** Green.
 
-**Material Impression:**
 
 ---
 
@@ -1299,7 +1266,6 @@ SS4_acidhouse_Kim Jong Mask.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1335,7 +1301,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Dominant Colors:** White, red.
 
-**Material Impression:**
 
 ---
 
@@ -1376,7 +1341,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Ancestor:** Irish
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1412,7 +1376,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -1453,7 +1416,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1489,7 +1451,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -1530,7 +1491,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1566,7 +1526,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Dominant Colors:** Silver
 
-**Material Impression:**
 
 ---
 
@@ -1607,7 +1566,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1643,7 +1601,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Dominant Colors:** Vibrant gold.
 
-**Material Impression:**
 
 ---
 
@@ -1675,7 +1632,7 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -1684,7 +1641,6 @@ SS4_freetekno_modern_irish_Plastic Bag Red.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1720,7 +1676,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Dominant Colors:** Brown.
 
-**Material Impression:**
 
 ---
 
@@ -1752,7 +1707,7 @@ SS4_freetekno_Bear Mask.PNG
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -1761,7 +1716,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1797,7 +1751,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Dominant Colors:** Milky white.
 
-**Material Impression:**
 
 ---
 
@@ -1829,7 +1782,7 @@ SS4_freetekno_Bear Mask.PNG
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -1838,7 +1791,6 @@ SS4_freetekno_Bear Mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1874,7 +1826,6 @@ SS5_henlo mask.PNG
 
 **Dominant Colors:** Army green.
 
-**Material Impression:**
 
 ---
 
@@ -1915,7 +1866,6 @@ SS5_henlo mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1951,7 +1901,6 @@ SS5_henlo mask.PNG
 
 **Dominant Colors:** White.
 
-**Material Impression:**
 
 ---
 
@@ -1992,7 +1941,6 @@ SS5_henlo mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2028,7 +1976,6 @@ SS5_henlo mask.PNG
 
 **Dominant Colors:** Pale army / sandy green, black .
 
-**Material Impression:**
 
 ---
 
@@ -2060,7 +2007,7 @@ SS5_henlo mask.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2069,7 +2016,6 @@ SS5_henlo mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2105,7 +2051,6 @@ SS5_Founders Mask.PNG
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -2137,7 +2082,7 @@ SS5_Founders Mask.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2146,7 +2091,6 @@ SS5_Founders Mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2182,7 +2126,6 @@ SS5_Founders Mask.PNG
 
 **Dominant Colors:** Dark blue, magenta.
 
-**Material Impression:**
 
 ---
 
@@ -2214,7 +2157,7 @@ SS5_Founders Mask.PNG
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2223,7 +2166,6 @@ SS5_Founders Mask.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2294,7 +2236,6 @@ SS5_Founders Mask.PNG
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -2364,7 +2305,6 @@ SS5_Founders Mask.PNG
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -2434,7 +2374,6 @@ SS5_Founders Mask.PNG
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -2504,7 +2443,6 @@ SS5_Founders Mask.PNG
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

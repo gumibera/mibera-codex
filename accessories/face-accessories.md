@@ -19,7 +19,6 @@
 
 **Dominant Colors:** Blood red
 
-**Material Impression:**
 
 ---
 
@@ -60,7 +59,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -99,7 +97,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -140,7 +137,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -176,7 +172,6 @@
 
 **Dominant Colors:** Bone white
 
-**Material Impression:**
 
 ---
 
@@ -208,7 +203,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -217,7 +212,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -253,7 +247,6 @@
 
 **Dominant Colors:** Clear / black
 
-**Material Impression:**
 
 ---
 
@@ -294,7 +287,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -330,7 +322,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -371,7 +362,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -407,7 +397,6 @@
 
 **Dominant Colors:** Neon pink
 
-**Material Impression:**
 
 ---
 
@@ -448,7 +437,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -484,7 +472,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -525,7 +512,6 @@
 
 **Ancestor:** Nepal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -561,7 +547,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -593,7 +578,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -602,7 +587,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -638,7 +622,6 @@
 
 **Dominant Colors:** Star
 
-**Material Impression:**
 
 ---
 
@@ -670,7 +653,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -679,7 +662,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -715,7 +697,6 @@
 
 **Dominant Colors:** Pink
 
-**Material Impression:**
 
 ---
 
@@ -747,7 +728,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -756,7 +737,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -792,7 +772,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -833,7 +812,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -869,7 +847,6 @@
 
 **Dominant Colors:** Turquoise
 
-**Material Impression:**
 
 ---
 
@@ -910,7 +887,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -946,7 +922,6 @@
 
 **Dominant Colors:** neon-green
 
-**Material Impression:**
 
 ---
 
@@ -987,7 +962,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1023,7 +997,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -1064,7 +1037,6 @@
 
 **Ancestor:** Nepal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1100,7 +1072,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -1132,7 +1103,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1141,7 +1112,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1177,7 +1147,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -1218,7 +1187,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1254,7 +1222,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -1286,7 +1253,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1295,7 +1262,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1331,7 +1297,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -1372,7 +1337,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1409,7 +1373,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -1450,7 +1413,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1486,7 +1448,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -1527,7 +1488,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1564,7 +1524,6 @@
 
 **Dominant Colors:** Red, white.
 
-**Material Impression:**
 
 ---
 
@@ -1605,7 +1564,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1643,7 +1601,6 @@
 
 **Dominant Colors:** Bright red, yellow, dark red (maroon)
 
-**Material Impression:**
 
 ---
 
@@ -1684,7 +1641,6 @@
 
 **Ancestor:** Indian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1720,7 +1676,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -1761,7 +1716,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1797,7 +1751,6 @@
 
 **Dominant Colors:** White with a pinkish hue
 
-**Material Impression:**
 
 ---
 
@@ -1838,7 +1791,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1876,7 +1828,6 @@
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -1917,7 +1868,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1953,7 +1903,6 @@
 
 **Dominant Colors:** Rainbow
 
-**Material Impression:**
 
 ---
 
@@ -1985,7 +1934,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -1994,7 +1943,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2030,7 +1978,6 @@
 
 **Dominant Colors:** Bright blue, pink, white.
 
-**Material Impression:**
 
 ---
 
@@ -2062,7 +2009,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -2071,7 +2018,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2107,7 +2053,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -2148,7 +2093,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2184,7 +2128,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -2225,7 +2168,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2261,7 +2203,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -2293,7 +2234,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -2302,7 +2243,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2338,7 +2278,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -2370,7 +2309,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -2379,7 +2318,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2415,7 +2353,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -2447,7 +2384,7 @@
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -2456,7 +2393,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2492,7 +2428,6 @@
 
 **Dominant Colors:** Light brown.
 
-**Material Impression:**
 
 ---
 
@@ -2524,7 +2459,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -2533,7 +2468,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2569,7 +2503,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -2601,7 +2534,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -2610,7 +2543,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2646,7 +2578,6 @@
 
 **Dominant Colors:** white, blue, red.
 
-**Material Impression:**
 
 ---
 
@@ -2687,7 +2618,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2723,7 +2653,6 @@
 
 **Dominant Colors:** Black.
 
-**Material Impression:**
 
 ---
 
@@ -2755,7 +2684,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -2764,7 +2693,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2800,7 +2728,6 @@
 
 **Dominant Colors:** Red, white, black
 
-**Material Impression:**
 
 ---
 
@@ -2841,7 +2768,6 @@
 
 **Ancestor:** Aboriginal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2877,7 +2803,6 @@
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 ---
 
@@ -2918,7 +2843,6 @@
 
 **Ancestor:** Ethiopian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2955,7 +2879,6 @@
 
 **Dominant Colors:** White, semi-transparent red.
 
-**Material Impression:**
 
 ---
 
@@ -2987,7 +2910,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -2996,7 +2919,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3032,7 +2954,6 @@
 
 **Dominant Colors:** Orange, black, yellow.
 
-**Material Impression:**
 
 ---
 
@@ -3073,7 +2994,6 @@
 
 **Ancestor:** Aboriginal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3144,7 +3064,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -3214,7 +3133,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

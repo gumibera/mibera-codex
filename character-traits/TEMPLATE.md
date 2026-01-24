@@ -55,8 +55,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
-
 **Trait Conflicts:**
 
 ---

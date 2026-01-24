@@ -56,7 +56,6 @@
 
 **Ancestor:** Sami
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -129,7 +128,6 @@
 
 **Ancestor:** Japanese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -202,7 +200,6 @@
 
 **Ancestor:** Pythia
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -275,7 +272,6 @@
 
 **Ancestor:** Japanese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -348,7 +344,6 @@
 
 **Ancestor:** Nepal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -421,7 +416,6 @@
 
 **Ancestor:** Turkey
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -494,7 +488,6 @@
 
 **Ancestor:** Greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -567,7 +560,6 @@
 
 **Ancestor:** Satanist
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -641,7 +633,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -716,7 +707,6 @@
 
 **Ancestor:** Satanist
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -789,7 +779,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -862,7 +851,6 @@
 
 **Ancestor:** Greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -935,7 +923,6 @@
 
 **Ancestor:** Nepal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1008,7 +995,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1081,7 +1067,6 @@
 
 **Ancestor:** Buddhist
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1154,7 +1139,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1229,7 +1213,6 @@
 
 **Ancestor:** Sufi
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1302,7 +1285,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1375,7 +1357,6 @@
 
 **Ancestor:** Hindu
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1448,7 +1429,6 @@
 
 **Ancestor:** Turkey
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1521,7 +1501,6 @@
 
 **Ancestor:** Sufi
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1594,7 +1573,6 @@
 
 **Ancestor:** Mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1667,7 +1645,6 @@
 
 **Ancestor:** Sicanje
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1740,7 +1717,6 @@
 
 **Ancestor:** Chinese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1813,7 +1789,6 @@
 
 **Ancestor:** Punjabi
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1886,7 +1861,6 @@
 
 **Ancestor:** Mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1959,7 +1933,6 @@
 
 **Ancestor:** Hindu
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2032,7 +2005,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2105,7 +2077,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2179,7 +2150,6 @@
 
 **Ancestor:** Chinese
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2252,7 +2222,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2325,7 +2294,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2398,7 +2366,6 @@
 
 **Ancestor:** Native American
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2471,7 +2438,6 @@
 
 **Ancestor:** Mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2544,7 +2510,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2617,7 +2582,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2690,7 +2654,6 @@
 
 **Ancestor:** Arabic
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2763,7 +2726,6 @@
 
 **Ancestor:** Irish
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2836,7 +2798,6 @@
 
 **Ancestor:** Buddhist
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2909,7 +2870,6 @@
 
 **Ancestor:** Sami
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2982,7 +2942,6 @@
 
 **Ancestor:** Punjabi
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3055,7 +3014,6 @@
 
 **Ancestor:** Arabic
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3128,7 +3086,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3199,7 +3156,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -3269,7 +3225,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -3339,7 +3294,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

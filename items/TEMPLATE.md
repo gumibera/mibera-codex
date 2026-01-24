@@ -18,8 +18,6 @@
 
 **Dominant Colors:**
 
-**Material Impression:**
-
 ---
 
 ### Cultural Context
@@ -58,8 +56,6 @@
 ### Connections
 
 **Ancestor:**
-
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

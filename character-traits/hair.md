@@ -56,9 +56,8 @@ Messy Bob Blue__w17.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -129,9 +128,8 @@ Short Messy Black__w24.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -202,9 +200,8 @@ Normal Brown__w24.png Normal Brown__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -275,9 +272,8 @@ Normal Blue__w22.png Normal Blue__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -348,9 +344,8 @@ Short Messy Blonde__w20.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -421,9 +416,8 @@ Messy Bob Brown__w20.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -494,9 +488,8 @@ Cottage Brown__w20.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -567,9 +560,8 @@ Braided Green__w16.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -640,9 +632,8 @@ Normal Blonde__w20.png Normal Blonde__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -713,9 +704,8 @@ Short Flared Blue__w20.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -786,9 +776,8 @@ Classic Brown__w20.PNG Classic Brown__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -859,9 +848,8 @@ Cottage Blonde__w18.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -932,9 +920,8 @@ Cottage Blue__w15.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1005,9 +992,8 @@ Short Flared Neon Orange__w16.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1078,9 +1064,8 @@ Long Wavy Brown__w16.png Long Wavy Brown__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1151,9 +1136,8 @@ Hime Brown__w16.png Hime Brown__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1224,9 +1208,8 @@ Hime Blonde__w14.png Hime Blonde__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1297,9 +1280,8 @@ Cottage Green__w14.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1370,9 +1352,8 @@ Braided Brown__w15.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1443,9 +1424,8 @@ Classic Blonde__w14.PNG Classic Blonde__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1516,9 +1496,8 @@ Long Wavy Blonde__w14.png Long Wavy Blonde__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1589,9 +1568,8 @@ prepared.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1662,9 +1640,8 @@ Long Wavy Black__w14.png Long Wavy Black__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1735,9 +1712,8 @@ Messy Bob Blonde__w14.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1808,9 +1784,8 @@ Classic Black__w16.PNG Classic Black__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1881,9 +1856,8 @@ Classic Blue__w12.PNG Classic Blue__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -1954,9 +1928,8 @@ Short Messy Brown__w16.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2027,9 +2000,8 @@ Braided Blonde__w12.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2100,9 +2072,8 @@ Short Messy Blue__w14.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2173,9 +2144,8 @@ Braided Black__w11.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2246,9 +2216,8 @@ Dreamy Blonde__w8.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2319,9 +2288,8 @@ Dreamy Blonde__w8.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2392,9 +2360,8 @@ Fae Blue__w12.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2465,9 +2432,8 @@ Short Pale Blonde__w11.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2538,9 +2504,8 @@ Short Pink__w11.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2611,9 +2576,8 @@ Short Purple__w11.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2684,9 +2648,8 @@ Cottage Magenta__w12.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2757,9 +2720,8 @@ Classic Green__w10.PNG Classic Green__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2830,9 +2792,8 @@ Relaxed Blonde__w12.PNG Relaxed Blonde__z-32.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2903,9 +2864,8 @@ Relaxed Brown__w10.PNG Relaxed Brown__z-32.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -2976,9 +2936,8 @@ Relaxed Green__w8.PNG Relaxed Green__z-32.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3049,9 +3008,8 @@ Short Green__w11.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3122,9 +3080,8 @@ Medium Wavy Brown__w10.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3195,9 +3152,8 @@ Hime Blue__w12.png Hime Blue__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3268,9 +3224,8 @@ Normal Black__w11.png Normal Black__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3341,9 +3296,8 @@ Braided Blue__w9.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3414,9 +3368,8 @@ Messy Bob Green__w8.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3487,9 +3440,8 @@ Short Blue__w8.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3560,9 +3512,8 @@ Short Blonde__w4.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3633,9 +3584,8 @@ Medium Wavy Green__w8.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3706,9 +3656,8 @@ Medium Wavy Blonde__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3779,9 +3728,8 @@ Medium Wavy Blue__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3852,9 +3800,8 @@ Medium Wavy Black__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3925,9 +3872,8 @@ Medium Wavy Orange__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -3998,9 +3944,8 @@ Medium Wavy Red__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4071,9 +4016,8 @@ Medium Wavy Magenta__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4144,9 +4088,8 @@ Peekaboo Blonde__w8.png Peekaboo Blonde__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4217,9 +4160,8 @@ Long Wavy Blue__w8.png Long Wavy Blue__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4290,9 +4232,8 @@ Short Messy Green__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4363,9 +4304,8 @@ Long Wavy Green__w6.png Long Wavy Green__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4436,9 +4376,8 @@ Braided Purple__w6.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4509,9 +4448,8 @@ Classic Orange__w5.PNG Classic Orange__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4582,9 +4520,8 @@ Cottage Orange__w5.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4655,9 +4592,8 @@ Normal Orange__w5.png Normal Orange__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4728,9 +4664,8 @@ Dreamy Blue__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4801,9 +4736,8 @@ Fae Green__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4874,9 +4808,8 @@ Hime Orange__w6.png Hime Orange__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -4947,9 +4880,8 @@ Braided Red__w5.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5020,9 +4952,8 @@ Normal Magenta__w6.png Normal Magenta__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5093,9 +5024,8 @@ Cottage Red__w5.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5166,9 +5096,8 @@ Messy Bob Orange__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5239,9 +5168,8 @@ Relaxed Orange__w6.PNG Relaxed Orange__z-32.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5312,9 +5240,8 @@ Classic Pink__w4.PNG Classic Pink__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5385,9 +5312,8 @@ Hime Green__w4.png Hime Green__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5458,9 +5384,8 @@ Cottage Purple__w4.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5531,9 +5456,8 @@ Fae Pink__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5604,9 +5528,8 @@ Braided Orange__w4.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5677,9 +5600,8 @@ Relaxed Purple__w4.PNG Relaxed Purple__z-32.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5750,9 +5672,8 @@ Short Messy Magenta__w4.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5823,9 +5744,8 @@ Normal Green__w4.png Normal Green__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5896,9 +5816,8 @@ Hime Black__w4.png Hime Black__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -5969,9 +5888,8 @@ Classic Purple__w4.PNG Classic Purple__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6042,9 +5960,8 @@ Short Messy Orange__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6115,9 +6032,8 @@ Middle Purple__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6188,9 +6104,8 @@ Middle Green__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6261,9 +6176,8 @@ Middle Orange__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6334,9 +6248,8 @@ Middle Pink__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6407,9 +6320,8 @@ Normal Purple__w4.png Normal Purple__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6480,9 +6392,8 @@ Long Wavy Red__w2.png Long Wavy Red__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6553,9 +6464,8 @@ Braided Oil Spill__w4.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6626,9 +6536,8 @@ Short Messy Purple__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6699,9 +6608,8 @@ Middle Brown__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6772,9 +6680,8 @@ Middle Blue__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6845,9 +6752,8 @@ Middle Blonde__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6918,9 +6824,8 @@ Middle Black__w6.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -6991,9 +6896,8 @@ Dreamy Green__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7064,9 +6968,8 @@ Long Wavy Purple__w2.png Long Wavy Purple__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7137,9 +7040,8 @@ Hime Purple__w2.png Hime Purple__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7210,9 +7112,8 @@ Fae Purple__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7283,9 +7184,8 @@ Hime Experimental__w2.png Hime Experimental__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7356,9 +7256,8 @@ Dreamy Purple__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7429,9 +7328,8 @@ Hime Pink__w2.png Hime Pink__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7502,9 +7400,8 @@ Long Wavy Magenta__w2.png Long Wavy Magenta__z-32.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7575,9 +7472,8 @@ Messy Bob Purple__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7648,9 +7544,8 @@ Rave Green__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7721,9 +7616,8 @@ Relaxed Red__w2.PNG Relaxed Red__z-32.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7794,7 +7688,6 @@ Double Green__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7867,9 +7760,8 @@ Rave Blonde__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -7940,7 +7832,6 @@ Double Purple__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8013,7 +7904,6 @@ Double White__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8086,9 +7976,8 @@ Double White__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8159,9 +8048,8 @@ Fauxhawk Blonde__w2.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8232,9 +8120,8 @@ Rave Pink__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8305,9 +8192,8 @@ Rave Blue__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8378,7 +8264,6 @@ Lain__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8451,7 +8336,6 @@ Double Pink__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8524,9 +8408,8 @@ Rave Purple__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8597,9 +8480,8 @@ Rave Orange__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8670,9 +8552,8 @@ Rave Black__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8743,7 +8624,6 @@ Double Blue__w2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8816,9 +8696,8 @@ Fauxhawk Green__w2.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8889,9 +8768,8 @@ Fauxhawk Red__w2.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -8962,9 +8840,8 @@ stylish.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -9035,9 +8912,8 @@ afro.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
-**Trait Conflicts:** ---
+**Trait Conflicts:**
 
 ---
 
@@ -9106,7 +8982,6 @@ afro.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9176,7 +9051,6 @@ afro.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9246,7 +9120,6 @@ afro.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9316,7 +9189,6 @@ afro.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9386,7 +9258,6 @@ afro.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

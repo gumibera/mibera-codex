@@ -21,7 +21,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 
 ---
@@ -63,7 +62,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -101,7 +99,6 @@
 
 **Dominant Colors:** Shades of purple, red, magenta, green, yellow.
 
-**Material Impression:**
 
 
 ---
@@ -143,7 +140,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -181,7 +177,6 @@
 
 **Dominant Colors:** Bone-white
 
-**Material Impression:**
 
 
 ---
@@ -223,7 +218,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -261,7 +255,6 @@
 
 **Dominant Colors:** Bone-white, yellow
 
-**Material Impression:**
 
 
 ---
@@ -303,7 +296,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -341,7 +333,6 @@
 
 **Dominant Colors:** White, navy blue, orange
 
-**Material Impression:**
 
 
 ---
@@ -383,7 +374,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -421,7 +411,6 @@
 
 **Dominant Colors:** Charcoal grey, white
 
-**Material Impression:**
 
 
 ---
@@ -463,7 +452,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -502,7 +490,6 @@
 
 **Dominant Colors:** White, soft- orange.
 
-**Material Impression:**
 
 
 ---
@@ -535,7 +522,7 @@
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -544,7 +531,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -582,7 +568,6 @@
 
 **Dominant Colors:** White, red.
 
-**Material Impression:**
 
 
 ---
@@ -624,7 +609,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -662,7 +646,6 @@
 
 **Dominant Colors:** White, green.
 
-**Material Impression:**
 
 
 ---
@@ -704,7 +687,6 @@
 
 **Ancestor:** Stonewall
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -745,7 +727,6 @@
 
 **Dominant Colors:** Creamy white, blue, red, yellow.
 
-**Material Impression:**
 
 
 ---
@@ -787,7 +768,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -825,7 +805,6 @@
 
 **Dominant Colors:** White, red.
 
-**Material Impression:**
 
 
 ---
@@ -867,7 +846,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -907,7 +885,6 @@
 
 **Dominant Colors:** Black, red, white.
 
-**Material Impression:**
 
 
 ---
@@ -949,7 +926,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -989,7 +965,6 @@
 
 **Dominant Colors:** Black, red, blue, white.
 
-**Material Impression:**
 
 
 ---
@@ -1031,7 +1006,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1070,7 +1044,6 @@
 
 **Dominant Colors:** White, brown
 
-**Material Impression:**
 
 
 ---
@@ -1112,7 +1085,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1150,7 +1122,6 @@
 
 **Dominant Colors:** Pink, blood-red
 
-**Material Impression:**
 
 
 ---
@@ -1192,7 +1163,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1230,7 +1200,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 
 ---
@@ -1272,7 +1241,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1310,7 +1278,6 @@
 
 **Dominant Colors:** White, yellow.
 
-**Material Impression:**
 
 
 ---
@@ -1352,7 +1319,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1390,7 +1356,6 @@
 
 **Dominant Colors:** Black, rainbow.
 
-**Material Impression:**
 
 
 ---
@@ -1432,7 +1397,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1470,7 +1434,6 @@
 
 **Dominant Colors:** White, yellow.
 
-**Material Impression:**
 
 
 ---
@@ -1512,7 +1475,6 @@
 
 **Ancestor:** Native American
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1550,7 +1512,6 @@
 
 **Dominant Colors:** Dark navy, white, orange.
 
-**Material Impression:**
 
 
 ---
@@ -1592,7 +1553,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1631,7 +1591,6 @@
 
 **Dominant Colors:** Yellow, black.
 
-**Material Impression:**
 
 
 ---
@@ -1673,7 +1632,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1713,7 +1671,6 @@
 
 **Dominant Colors:** Black, green.
 
-**Material Impression:**
 
 
 ---
@@ -1755,7 +1712,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1793,7 +1749,6 @@
 
 **Dominant Colors:** Black, yellow, red.
 
-**Material Impression:**
 
 
 ---
@@ -1835,7 +1790,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1873,7 +1827,6 @@
 
 **Dominant Colors:** White, red.
 
-**Material Impression:**
 
 
 ---
@@ -1915,7 +1868,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1953,7 +1905,6 @@
 
 **Dominant Colors:** Red, white, black.
 
-**Material Impression:**
 
 
 ---
@@ -1995,7 +1946,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2033,7 +1983,6 @@
 
 **Dominant Colors:** Black, red.
 
-**Material Impression:**
 
 
 ---
@@ -2075,7 +2024,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2114,7 +2062,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -2156,7 +2103,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2194,7 +2140,6 @@
 
 **Dominant Colors:** Yellow, rainbow.
 
-**Material Impression:**
 
 
 ---
@@ -2236,7 +2181,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2275,7 +2219,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 
 ---
@@ -2317,7 +2260,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2355,7 +2297,6 @@
 
 **Dominant Colors:** Black, green
 
-**Material Impression:**
 
 
 ---
@@ -2397,7 +2338,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2435,7 +2375,6 @@
 
 **Dominant Colors:** Creamy white, orange, light grey
 
-**Material Impression:**
 
 
 ---
@@ -2477,7 +2416,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2515,7 +2453,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -2557,7 +2494,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2595,7 +2531,6 @@
 
 **Dominant Colors:** Milky white, red, brown.
 
-**Material Impression:**
 
 
 ---
@@ -2637,7 +2572,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2675,7 +2609,6 @@
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 
 ---
@@ -2717,7 +2650,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2755,7 +2687,6 @@
 
 **Dominant Colors:** Creamy white, black, red
 
-**Material Impression:**
 
 
 ---
@@ -2797,7 +2728,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2836,7 +2766,6 @@
 
 **Dominant Colors:** Black, green.
 
-**Material Impression:**
 
 
 ---
@@ -2878,7 +2807,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2916,7 +2844,6 @@
 
 **Dominant Colors:** White, blue.
 
-**Material Impression:**
 
 
 ---
@@ -2958,7 +2885,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2996,7 +2922,6 @@
 
 **Dominant Colors:** White, blue.
 
-**Material Impression:**
 
 
 ---
@@ -3038,7 +2963,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3076,7 +3000,6 @@
 
 **Dominant Colors:** White, black, yellow.
 
-**Material Impression:**
 
 
 ---
@@ -3118,7 +3041,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3156,7 +3078,6 @@
 
 **Dominant Colors:** White, rainbow
 
-**Material Impression:**
 
 
 ---
@@ -3198,7 +3119,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3236,7 +3156,6 @@
 
 **Dominant Colors:** Black, light green.
 
-**Material Impression:**
 
 
 ---
@@ -3278,7 +3197,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3316,7 +3234,6 @@
 
 **Dominant Colors:** Black, red
 
-**Material Impression:**
 
 
 ---
@@ -3358,7 +3275,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3397,7 +3313,6 @@
 
 **Dominant Colors:** Black, white, green, red
 
-**Material Impression:**
 
 
 ---
@@ -3439,7 +3354,6 @@
 
 **Ancestor:** Palestine
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3477,7 +3391,6 @@
 
 **Dominant Colors:** Black, yellow
 
-**Material Impression:**
 
 
 ---
@@ -3519,7 +3432,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3557,7 +3469,6 @@
 
 **Dominant Colors:** Red, brown.
 
-**Material Impression:**
 
 
 ---
@@ -3590,7 +3501,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -3599,7 +3510,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3637,7 +3547,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -3679,7 +3588,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3717,7 +3625,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -3759,7 +3666,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3797,7 +3703,6 @@
 
 **Dominant Colors:** Fuschia, black
 
-**Material Impression:**
 
 
 ---
@@ -3839,7 +3744,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3877,7 +3781,6 @@
 
 **Dominant Colors:** Light grey, white, black
 
-**Material Impression:**
 
 
 ---
@@ -3919,7 +3822,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3957,7 +3859,6 @@
 
 **Dominant Colors:** Dark blue, pink, grey, rainbow
 
-**Material Impression:**
 
 
 ---
@@ -3999,7 +3900,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4037,7 +3937,6 @@
 
 **Dominant Colors:** Blue, brown, yellow
 
-**Material Impression:**
 
 
 ---
@@ -4079,7 +3978,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4117,7 +4015,6 @@
 
 **Dominant Colors:** Black, golden, red.
 
-**Material Impression:**
 
 
 ---
@@ -4159,7 +4056,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4198,7 +4094,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 
 ---
@@ -4231,7 +4126,7 @@
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -4240,7 +4135,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4278,7 +4172,6 @@
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 
 ---
@@ -4320,7 +4213,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4359,7 +4251,6 @@
 
 **Dominant Colors:** Black, muted golden, white, navy blue.
 
-**Material Impression:**
 
 
 ---
@@ -4401,7 +4292,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4440,7 +4330,6 @@
 
 **Dominant Colors:** Black, pink.
 
-**Material Impression:**
 
 
 ---
@@ -4482,7 +4371,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4520,7 +4408,6 @@
 
 **Dominant Colors:** White, brown, green
 
-**Material Impression:**
 
 
 ---
@@ -4562,7 +4449,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4600,7 +4486,6 @@
 
 **Dominant Colors:** Light green, green.
 
-**Material Impression:**
 
 
 ---
@@ -4633,7 +4518,7 @@
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4642,7 +4527,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4680,7 +4564,6 @@
 
 **Dominant Colors:** Blue, grey.
 
-**Material Impression:**
 
 
 ---
@@ -4722,7 +4605,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4760,7 +4642,6 @@
 
 **Dominant Colors:** White, red.
 
-**Material Impression:**
 
 
 ---
@@ -4802,7 +4683,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4840,7 +4720,6 @@
 
 **Dominant Colors:** Black, white, brown
 
-**Material Impression:**
 
 
 ---
@@ -4873,7 +4752,7 @@
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4882,7 +4761,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4920,7 +4798,6 @@
 
 **Dominant Colors:** White, grey
 
-**Material Impression:**
 
 
 ---
@@ -4962,7 +4839,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5000,7 +4876,6 @@
 
 **Dominant Colors:** Pale purple, creamy white.
 
-**Material Impression:**
 
 
 ---
@@ -5042,7 +4917,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5080,7 +4954,6 @@
 
 **Dominant Colors:** Black, brown, purple.
 
-**Material Impression:**
 
 
 ---
@@ -5122,7 +4995,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5160,7 +5032,6 @@
 
 **Dominant Colors:** Black, magenta
 
-**Material Impression:**
 
 
 ---
@@ -5202,7 +5073,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5240,7 +5110,6 @@
 
 **Dominant Colors:** Vibrant purple, brown.
 
-**Material Impression:**
 
 
 ---
@@ -5282,7 +5151,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5320,7 +5188,6 @@
 
 **Dominant Colors:** Vibrant indigo, white.
 
-**Material Impression:**
 
 
 ---
@@ -5362,7 +5229,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5400,7 +5266,6 @@
 
 **Dominant Colors:** White, dark brown.
 
-**Material Impression:**
 
 
 ---
@@ -5442,7 +5307,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5480,7 +5344,6 @@
 
 **Dominant Colors:** Vibrant blue, white
 
-**Material Impression:**
 
 
 ---
@@ -5522,7 +5385,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5560,7 +5422,6 @@
 
 **Dominant Colors:** Deep teal, black
 
-**Material Impression:**
 
 
 ---
@@ -5602,7 +5463,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5640,7 +5500,6 @@
 
 **Dominant Colors:** Black / dark navy, white
 
-**Material Impression:**
 
 
 ---
@@ -5682,7 +5541,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5720,7 +5578,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 
 ---
@@ -5762,7 +5619,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5800,7 +5656,6 @@
 
 **Dominant Colors:** purple, white.
 
-**Material Impression:**
 
 
 ---
@@ -5842,7 +5697,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5880,7 +5734,6 @@
 
 **Dominant Colors:** Vibrant purple, yellow / gold, white.
 
-**Material Impression:**
 
 
 ---
@@ -5922,7 +5775,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -5960,7 +5812,6 @@
 
 **Dominant Colors:** Shades of green.
 
-**Material Impression:**
 
 
 ---
@@ -6002,7 +5853,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6040,7 +5890,6 @@
 
 **Dominant Colors:** Orange
 
-**Material Impression:**
 
 
 ---
@@ -6082,7 +5931,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6120,7 +5968,6 @@
 
 **Dominant Colors:** Brown
 
-**Material Impression:**
 
 
 ---
@@ -6162,7 +6009,6 @@
 
 **Ancestor:** Pythia
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6200,7 +6046,6 @@
 
 **Dominant Colors:** Black, silver / light grey.
 
-**Material Impression:**
 
 
 ---
@@ -6242,7 +6087,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6281,7 +6125,6 @@
 
 **Dominant Colors:** Bright red, yellow, green
 
-**Material Impression:**
 
 
 ---
@@ -6323,7 +6166,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6363,7 +6205,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 
 ---
@@ -6405,7 +6246,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6443,7 +6283,6 @@
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 
 ---
@@ -6485,7 +6324,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6524,7 +6362,6 @@
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 
 ---
@@ -6566,7 +6403,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6604,7 +6440,6 @@
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 
 ---
@@ -6646,7 +6481,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6684,7 +6518,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 
 ---
@@ -6726,7 +6559,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6765,7 +6597,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 
 ---
@@ -6807,7 +6638,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6845,7 +6675,6 @@
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 
 ---
@@ -6887,7 +6716,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -6925,7 +6753,6 @@
 
 **Dominant Colors:** black, white.
 
-**Material Impression:**
 
 
 ---
@@ -6967,7 +6794,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7005,7 +6831,6 @@
 
 **Dominant Colors:** Red, white.
 
-**Material Impression:**
 
 
 ---
@@ -7047,7 +6872,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7085,7 +6909,6 @@
 
 **Dominant Colors:** White, blue.
 
-**Material Impression:**
 
 
 ---
@@ -7127,7 +6950,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7165,7 +6987,6 @@
 
 **Dominant Colors:** Black, red, white.
 
-**Material Impression:**
 
 
 ---
@@ -7207,7 +7028,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7245,7 +7065,6 @@
 
 **Dominant Colors:** Black, magenta, white.
 
-**Material Impression:**
 
 
 ---
@@ -7287,7 +7106,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7325,7 +7143,6 @@
 
 **Dominant Colors:** Black, red.
 
-**Material Impression:**
 
 
 ---
@@ -7367,7 +7184,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7405,7 +7221,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -7447,7 +7262,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7485,7 +7299,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -7527,7 +7340,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7566,7 +7378,6 @@
 
 **Dominant Colors:** White, black.
 
-**Material Impression:**
 
 
 ---
@@ -7608,7 +7419,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7647,7 +7457,6 @@
 
 **Dominant Colors:** black, white.
 
-**Material Impression:**
 
 
 ---
@@ -7689,7 +7498,6 @@
 
 **Ancestor:** Palestine
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7727,7 +7535,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -7769,7 +7576,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7807,7 +7613,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -7849,7 +7654,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7887,7 +7691,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -7929,7 +7732,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -7967,7 +7769,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8009,7 +7810,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8047,7 +7847,6 @@
 
 **Dominant Colors:** Black, red.
 
-**Material Impression:**
 
 
 ---
@@ -8089,7 +7888,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8127,7 +7925,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8169,7 +7966,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8207,7 +8003,6 @@
 
 **Dominant Colors:** Black, red.
 
-**Material Impression:**
 
 
 ---
@@ -8249,7 +8044,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8287,7 +8081,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8329,7 +8122,6 @@
 
 **Ancestor:** Arab
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8367,7 +8159,6 @@
 
 **Dominant Colors:** White, light lime-green, black
 
-**Material Impression:**
 
 
 ---
@@ -8409,7 +8200,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8447,7 +8237,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8489,7 +8278,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8527,7 +8315,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8569,7 +8356,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8607,7 +8393,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8649,7 +8434,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8687,7 +8471,6 @@
 
 **Dominant Colors:** dark puprle, white.
 
-**Material Impression:**
 
 
 ---
@@ -8729,7 +8512,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8767,7 +8549,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8809,7 +8590,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8847,7 +8627,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -8889,7 +8668,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -8928,7 +8706,6 @@
 
 **Dominant Colors:** White, black.
 
-**Material Impression:**
 
 
 ---
@@ -8970,7 +8747,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9008,7 +8784,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -9050,7 +8825,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9088,7 +8862,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -9130,7 +8903,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9168,7 +8940,6 @@
 
 **Dominant Colors:** Black, white.
 
-**Material Impression:**
 
 
 ---
@@ -9210,7 +8981,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9248,7 +9018,6 @@
 
 **Dominant Colors:** White, black.
 
-**Material Impression:**
 
 
 ---
@@ -9290,7 +9059,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9328,7 +9096,6 @@
 
 **Dominant Colors:** Pink
 
-**Material Impression:**
 
 
 ---
@@ -9370,7 +9137,6 @@
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -9442,7 +9208,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9512,7 +9277,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9582,7 +9346,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -9652,7 +9415,6 @@
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

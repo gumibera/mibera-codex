@@ -18,8 +18,6 @@
 
 **Dominant Colors:**
 
-**Material Impression:**
-
 ---
 
 ### Cultural Context
@@ -58,8 +56,6 @@
 ### Connections
 
 **Ancestor:**
-
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -156,21 +152,6 @@
 - stickers
 - tears
 - blush
-
-## Material Impressions
-
-- metal
-- gold
-- silver
-- plastic
-- fabric
-- leather
-- crystal
-- beaded
-- chain
-- holographic
-- LED
-- reflective
 
 ## Source Types
 

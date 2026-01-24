@@ -19,7 +19,6 @@ SS3_golden hoop.PNG
 
 **Dominant Colors:** Golden
 
-**Material Impression:**
 
 ---
 
@@ -60,7 +59,6 @@ SS3_golden hoop.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -97,7 +95,6 @@ SS3_dopamine.png
 
 **Dominant Colors:** Silver / rosegold.
 
-**Material Impression:**
 
 ---
 
@@ -138,7 +135,6 @@ SS3_dopamine.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -174,7 +170,6 @@ SS3_acidhouse_Beramilia.png
 
 **Dominant Colors:** Yellow
 
-**Material Impression:**
 
 ---
 
@@ -215,7 +210,6 @@ SS3_acidhouse_Beramilia.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -251,7 +245,6 @@ SS3_milady_Strawberry.png
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -292,7 +285,6 @@ SS3_milady_Strawberry.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -329,7 +321,6 @@ SS3_purple lolipop.png
 
 **Dominant Colors:** Vibrant purple
 
-**Material Impression:**
 
 ---
 
@@ -370,7 +361,6 @@ SS3_purple lolipop.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -407,7 +397,6 @@ SS1_green lolipop.png
 
 **Dominant Colors:** Leafy green
 
-**Material Impression:**
 
 ---
 
@@ -448,7 +437,6 @@ SS1_green lolipop.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -485,7 +473,6 @@ SS3_green gummy bear.png
 
 **Dominant Colors:** Leafy green
 
-**Material Impression:**
 
 ---
 
@@ -517,7 +504,7 @@ SS3_green gummy bear.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -526,7 +513,6 @@ SS3_green gummy bear.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -562,7 +548,6 @@ SS3_freetekno_Spiral 3.png
 
 **Dominant Colors:** White, black
 
-**Material Impression:**
 
 ---
 
@@ -603,7 +588,6 @@ SS3_freetekno_Spiral 3.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -639,7 +623,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Dominant Colors:** Black, white
 
-**Material Impression:**
 
 ---
 
@@ -680,7 +663,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Ancestor:** Aboriginal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -716,7 +698,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -757,7 +738,6 @@ SS3_freetekno_modern_aboriginal_Spiral 2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -793,7 +773,6 @@ SS3_rainbow ring.png
 
 **Dominant Colors:** Rainbow color
 
-**Material Impression:**
 
 ---
 
@@ -825,7 +804,7 @@ SS3_rainbow ring.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -834,7 +813,6 @@ SS3_rainbow ring.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -870,7 +848,6 @@ SS3_milady_Meta Earrings.png
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -902,7 +879,7 @@ SS3_milady_Meta Earrings.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -911,7 +888,6 @@ SS3_milady_Meta Earrings.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -947,7 +923,6 @@ SS3_freetekno_Paperclip 2.png
 
 **Dominant Colors:** Light grey / silver
 
-**Material Impression:**
 
 ---
 
@@ -988,7 +963,6 @@ SS3_freetekno_Paperclip 2.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1024,7 +998,6 @@ SS3_rainbow.png
 
 **Dominant Colors:** Rainbow color
 
-**Material Impression:**
 
 ---
 
@@ -1056,7 +1029,7 @@ SS3_rainbow.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1065,7 +1038,6 @@ SS3_rainbow.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1101,7 +1073,6 @@ SS3_capsule.PNG
 
 **Dominant Colors:** White, red
 
-**Material Impression:**
 
 ---
 
@@ -1133,7 +1104,7 @@ SS3_capsule.PNG
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1142,7 +1113,6 @@ SS3_capsule.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1178,7 +1148,6 @@ SS3_marijuana leaf.png
 
 **Dominant Colors:** Green
 
-**Material Impression:**
 
 ---
 
@@ -1219,7 +1188,6 @@ SS3_marijuana leaf.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1257,7 +1225,6 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 **Dominant Colors:** Gold
 
-**Material Impression:**
 
 ---
 
@@ -1298,7 +1265,6 @@ SS3_milady_ancient_mayan_Egyptian.png
 
 **Ancestor:** Mayan
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1335,7 +1301,6 @@ SS3_pyramid.png
 
 **Dominant Colors:** Sandy beige
 
-**Material Impression:**
 
 ---
 
@@ -1376,7 +1341,6 @@ SS3_pyramid.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1412,7 +1376,6 @@ SS3_serotonin.png
 
 **Dominant Colors:** Silver.
 
-**Material Impression:**
 
 ---
 
@@ -1453,7 +1416,6 @@ SS3_serotonin.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1489,7 +1451,6 @@ SS3_lightning bolt.png
 
 **Dominant Colors:** Bright yellow.
 
-**Material Impression:**
 
 ---
 
@@ -1521,7 +1482,7 @@ SS3_lightning bolt.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1530,7 +1491,6 @@ SS3_lightning bolt.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1566,7 +1526,6 @@ SS3_bera heart.png
 
 **Dominant Colors:** Brown, red.
 
-**Material Impression:**
 
 ---
 
@@ -1607,7 +1566,6 @@ SS3_bera heart.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1643,7 +1601,6 @@ SS3_red gummy bear.png
 
 **Dominant Colors:** Bright red
 
-**Material Impression:**
 
 ---
 
@@ -1675,7 +1632,7 @@ SS3_red gummy bear.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1684,7 +1641,6 @@ SS3_red gummy bear.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1720,7 +1676,6 @@ SS3_dog bone.PNG
 
 **Dominant Colors:** Milky white
 
-**Material Impression:**
 
 ---
 
@@ -1761,7 +1716,6 @@ SS3_dog bone.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1800,7 +1754,6 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 **Dominant Colors:** Silver, blue
 
-**Material Impression:**
 
 ---
 
@@ -1841,7 +1794,6 @@ SS3_chicagodetroit_modern_rastafarian_Lee Scratch.png
 
 **Ancestor:** Rastafarian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1878,7 +1830,6 @@ SS3_milady_Chrome Kitty.png
 
 **Dominant Colors:** Chrome silver
 
-**Material Impression:**
 
 ---
 
@@ -1910,7 +1861,7 @@ SS3_milady_Chrome Kitty.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -1919,7 +1870,6 @@ SS3_milady_Chrome Kitty.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -1955,7 +1905,6 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 **Dominant Colors:** Gold, red
 
-**Material Impression:**
 
 ---
 
@@ -1996,7 +1945,6 @@ SS4_acidhouse_ancient_greek_Gold Hoop.png
 
 **Ancestor:** Greek
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2032,7 +1980,6 @@ SS3_acidhouse_ufo.png
 
 **Dominant Colors:** Neon green, black
 
-**Material Impression:**
 
 ---
 
@@ -2073,7 +2020,6 @@ SS3_acidhouse_ufo.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2111,7 +2057,6 @@ SS3_baddie double gold.png
 
 **Dominant Colors:** Gold
 
-**Material Impression:**
 
 ---
 
@@ -2152,7 +2097,6 @@ SS3_baddie double gold.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2188,7 +2132,6 @@ SS1_baddie double blue.png
 
 **Dominant Colors:** Bright blue, aquatic
 
-**Material Impression:**
 
 ---
 
@@ -2229,7 +2172,6 @@ SS1_baddie double blue.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2265,7 +2207,6 @@ SS3_spiky pink.png
 
 **Dominant Colors:** Pink
 
-**Material Impression:**
 
 ---
 
@@ -2306,7 +2247,6 @@ SS3_spiky pink.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2342,7 +2282,6 @@ SS3_milady_orange slice.png
 
 **Dominant Colors:** Orange
 
-**Material Impression:**
 
 ---
 
@@ -2374,7 +2313,7 @@ SS3_milady_orange slice.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -2383,7 +2322,6 @@ SS3_milady_orange slice.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2419,7 +2357,6 @@ SS2_purple blossom.png
 
 **Dominant Colors:** Purple
 
-**Material Impression:**
 
 ---
 
@@ -2451,7 +2388,7 @@ SS2_purple blossom.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -2460,7 +2397,6 @@ SS2_purple blossom.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2496,7 +2432,6 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 **Dominant Colors:** Red, black, white
 
-**Material Impression:**
 
 ---
 
@@ -2537,7 +2472,6 @@ SS4_acidhouse_ancient_nativeAmerican_Red Black Feather.png
 
 **Ancestor:** Native American
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2574,7 +2508,6 @@ SS2_grateful dead forest green.png
 
 **Dominant Colors:** Dark / forest green
 
-**Material Impression:**
 
 ---
 
@@ -2615,7 +2548,6 @@ SS2_grateful dead forest green.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2651,7 +2583,6 @@ SS3_Gumball.PNG
 
 **Dominant Colors:** Purple, blue
 
-**Material Impression:**
 
 ---
 
@@ -2692,7 +2623,6 @@ SS3_Gumball.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2729,7 +2659,6 @@ SS2_red lolipop.png
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -2770,7 +2699,6 @@ SS2_red lolipop.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2807,7 +2735,6 @@ SS2_bera flower.png
 
 **Dominant Colors:** White, green
 
-**Material Impression:**
 
 ---
 
@@ -2848,7 +2775,6 @@ SS2_bera flower.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2884,7 +2810,6 @@ SS4_acidhouse_Triskelion.png
 
 **Dominant Colors:** Silver / grey
 
-**Material Impression:**
 
 ---
 
@@ -2925,7 +2850,6 @@ SS4_acidhouse_Triskelion.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -2963,7 +2887,6 @@ SS2_milady_lemon slice.png
 
 **Dominant Colors:** Yellow
 
-**Material Impression:**
 
 ---
 
@@ -2995,7 +2918,7 @@ SS2_milady_lemon slice.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -3004,7 +2927,6 @@ SS2_milady_lemon slice.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3040,7 +2962,6 @@ SS4_industrial.png
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -3072,7 +2993,7 @@ SS4_industrial.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -3081,7 +3002,6 @@ SS4_industrial.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3117,7 +3037,6 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -3158,7 +3077,6 @@ SS2_freetekno_modern_nativeAmerican_White Thick.png
 
 **Ancestor:** Native American
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3194,7 +3112,6 @@ SS4_grateful dead magenta.png
 
 **Dominant Colors:** Deep magenta
 
-**Material Impression:**
 
 ---
 
@@ -3235,7 +3152,6 @@ SS4_grateful dead magenta.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3271,7 +3187,6 @@ SS4_freetekno_stars.png
 
 **Dominant Colors:** Black / dark grey
 
-**Material Impression:**
 
 ---
 
@@ -3312,7 +3227,6 @@ SS4_freetekno_stars.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3348,7 +3262,6 @@ SS2_golden cuff.PNG
 
 **Dominant Colors:** Gold
 
-**Material Impression:**
 
 ---
 
@@ -3380,7 +3293,7 @@ SS2_golden cuff.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -3389,7 +3302,6 @@ SS2_golden cuff.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3425,7 +3337,6 @@ SS2_smol ring.PNG
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -3457,7 +3368,7 @@ SS2_smol ring.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -3466,7 +3377,6 @@ SS2_smol ring.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3502,7 +3412,6 @@ SS2_Black Ring.PNG
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -3534,7 +3443,7 @@ SS2_Black Ring.PNG
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -3543,7 +3452,6 @@ SS2_Black Ring.PNG
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3579,7 +3487,6 @@ SS4_grateful dead yellow.png
 
 **Dominant Colors:** Yellow, pink
 
-**Material Impression:**
 
 ---
 
@@ -3620,7 +3527,6 @@ SS4_grateful dead yellow.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3656,7 +3562,6 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 **Dominant Colors:** Silver
 
-**Material Impression:**
 
 ---
 
@@ -3688,7 +3593,7 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -3697,7 +3602,6 @@ SS4_chicagodetroit_Multiple Silver Rings.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3733,7 +3637,6 @@ SS4_adderall.png
 
 **Dominant Colors:** Soft-blue
 
-**Material Impression:**
 
 ---
 
@@ -3774,7 +3677,6 @@ SS4_adderall.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3810,7 +3712,6 @@ SS4_toothy.png
 
 **Dominant Colors:** White
 
-**Material Impression:**
 
 ---
 
@@ -3842,7 +3743,7 @@ SS4_toothy.png
 
 **Setting:**
 
-**Swag Score:** 4 ---
+**Swag Score:** 4
 
 
 ---
@@ -3851,7 +3752,6 @@ SS4_toothy.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3887,7 +3787,6 @@ SS2_pearl.png
 
 **Dominant Colors:** Pearly white
 
-**Material Impression:**
 
 ---
 
@@ -3928,7 +3827,6 @@ SS2_pearl.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -3965,7 +3863,6 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 **Dominant Colors:** Light gold
 
-**Material Impression:**
 
 ---
 
@@ -4006,7 +3903,6 @@ SS4_chicagodetroit_modern_ballroom_Yellow Tassles.png
 
 **Ancestor:** Ballroom
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4043,7 +3939,6 @@ SS2_alien.png
 
 **Dominant Colors:** Lime green
 
-**Material Impression:**
 
 ---
 
@@ -4075,7 +3970,7 @@ SS2_alien.png
 
 **Setting:**
 
-**Swag Score:** 2 ---
+**Swag Score:** 2
 
 
 ---
@@ -4084,7 +3979,6 @@ SS2_alien.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4120,7 +4014,6 @@ SS5_freetekno_Paperclip 1.png
 
 **Dominant Colors:** Silver / grey
 
-**Material Impression:**
 
 ---
 
@@ -4152,7 +4045,7 @@ SS5_freetekno_Paperclip 1.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4161,7 +4054,6 @@ SS5_freetekno_Paperclip 1.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4197,7 +4089,6 @@ SS5_freetekno_multiple.png
 
 **Dominant Colors:** Black
 
-**Material Impression:**
 
 ---
 
@@ -4229,7 +4120,7 @@ SS5_freetekno_multiple.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4238,7 +4129,6 @@ SS5_freetekno_multiple.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4274,7 +4164,6 @@ SS5_tribal bera.png
 
 **Dominant Colors:** Black, white, yellow, red, purple, turquoise
 
-**Material Impression:**
 
 ---
 
@@ -4306,7 +4195,7 @@ SS5_tribal bera.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4315,7 +4204,6 @@ SS5_tribal bera.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4351,7 +4239,6 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 **Dominant Colors:** Gold, pearly white
 
-**Material Impression:**
 
 ---
 
@@ -4392,7 +4279,6 @@ SS5_freetekno_ancient_aboriginal_Gold Chain.png
 
 **Ancestor:** Aboriginal
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4428,7 +4314,6 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 **Dominant Colors:** Blue / teal
 
-**Material Impression:**
 
 ---
 
@@ -4469,7 +4354,6 @@ SS5_chicagodetroit_modern_mongolian_Blue Beads.png
 
 **Ancestor:** Mongolian
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4508,7 +4392,6 @@ SS1_acidhouse_Day Glowstick.png
 
 **Dominant Colors:** Neon yellow
 
-**Material Impression:**
 
 ---
 
@@ -4549,7 +4432,6 @@ SS1_acidhouse_Day Glowstick.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4585,7 +4467,6 @@ SS1_peace heart.png
 
 **Dominant Colors:** Red
 
-**Material Impression:**
 
 ---
 
@@ -4617,7 +4498,7 @@ SS1_peace heart.png
 
 **Setting:**
 
-**Swag Score:** 1 ---
+**Swag Score:** 1
 
 
 ---
@@ -4626,7 +4507,6 @@ SS1_peace heart.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4662,7 +4542,6 @@ SS5_rainbow spiky ball.png
 
 **Dominant Colors:** Rainbow
 
-**Material Impression:**
 
 ---
 
@@ -4694,7 +4573,7 @@ SS5_rainbow spiky ball.png
 
 **Setting:**
 
-**Swag Score:** 5 ---
+**Swag Score:** 5
 
 
 ---
@@ -4703,7 +4582,6 @@ SS5_rainbow spiky ball.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4739,7 +4617,6 @@ SS3_experimental.png
 
 **Dominant Colors:** Bright green
 
-**Material Impression:**
 
 ---
 
@@ -4771,7 +4648,7 @@ SS3_experimental.png
 
 **Setting:**
 
-**Swag Score:** 3 ---
+**Swag Score:** 3
 
 
 ---
@@ -4780,7 +4657,6 @@ SS3_experimental.png
 
 **Ancestor:** 
 
-**Trait Synergies:**
 
 **Trait Conflicts:** 
 
@@ -4851,7 +4727,6 @@ SS3_experimental.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -4921,7 +4796,6 @@ SS3_experimental.png
 
 **Ancestor:**
 
-**Trait Synergies:**
 
 **Trait Conflicts:**
 

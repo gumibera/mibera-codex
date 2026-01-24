@@ -20,8 +20,6 @@
 
 **Dominant Colors:**
 
-**Material Impression:**
-
 ---
 
 ### Cultural Context
@@ -59,8 +57,6 @@
 ### Connections
 
 **Ancestor:**
-
-**Trait Synergies:**
 
 **Trait Conflicts:**
 
@@ -165,20 +161,6 @@
 - cropped
 - tailored
 - baggy
-
-## Material Impressions
-
-- cotton
-- mesh
-- velvet
-- leather
-- denim
-- synthetic
-- knit
-- distressed
-- vintage wash
-- shiny
-- matte
 
 ## Source Types
 
